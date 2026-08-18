@@ -1,0 +1,360 @@
+{
+ "areaKey": "education",
+ "areaLabel": "Education",
+ "areaBlurb": "Across the two eras New Zealand's schools and tertiary system were pulled in opposite directions. Labour scrapped National Standards and charter schools, made a year of tertiary study free and merged the polytechnics, while the National-led coalition reinstated charter schools, unwound the polytechnic merger, rewrote the curriculum around structured literacy and maths, and eventually abolished Fees Free altogether.",
+ "promises": [
+  {
+   "id": "education-labour-fees-free-three-years",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 election campaign policy on tertiary fees",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Fees_Free",
+   "promise": "Make the first year of tertiary study or training fee-free from 2018 (up to about $12,000), then extend free study to two years and then to three years.",
+   "whatHappened": "The first year became fee-free from 1 January 2018. There were 47,000 students and trainees in the first year, and student debt fell by $194.2 million between 2017 and 2018. Uptake was lower than forecast. The scheduled extensions to two and then three years were abandoned in 2020. By 2019 the scheme cost $254 million a year, and Budget 2022 allocated $387 million. Later research found the policy did little to widen access, with participation from the wealthiest decile rising 43% between 2017 and 2022.",
+   "status": "partly",
+   "statusReason": "One year of free study was delivered and kept for the whole term. The promised extension to three years was dropped and never happened.",
+   "keyNumber": "3 years free study promised -> 1 year delivered; extension abandoned in 2020",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Fees_Free",
+    "https://thespinoff.co.nz/the-bulletin/11-05-2026/the-troubled-life-and-death-of-the-fees-free-tertiary-scheme",
+    "https://theconversation.com/nzs-costly-fees-free-scheme-did-little-to-widen-access-to-tertiary-education-new-study-282587"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-labour-national-standards",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 election policy on assessment in schools",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+   "promise": "Scrap National Standards for literacy and numeracy, and primary school league tables.",
+   "whatHappened": "The incoming government abolished National Standards and the associated primary school league tables in December 2017, in its first weeks in office. Schools moved to their own assessment and reporting arrangements. Nationally comparable standardised assessment of primary literacy and numeracy did not return until the next government reintroduced twice-yearly assessments and a phonics check from 2026.",
+   "status": "delivered",
+   "statusReason": "Done in full, immediately and as promised.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+    "https://www.beehive.govt.nz/release/teaching-basics-brilliantly-new-curriculum-resources-and-assessment-tools"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-labour-close-charter-schools",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 election policy on partnership (charter) schools",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+   "promise": "End the charter (partnership) school model, stop any new charter schools and bring existing ones into the state system.",
+   "whatHappened": "Legislation was passed preventing the establishment of new partnership schools. The 11 existing schools were given the option of becoming designated character or special character state schools, which they did over 2018 and 2019. At its peak the partnership school programme had 1,441 students across 11 schools. The next government reinstated the model under the Education and Training Amendment Act 2024.",
+   "status": "delivered",
+   "statusReason": "The charter school model was closed within the term, exactly as promised.",
+   "keyNumber": "11 partnership schools with 1,441 students -> all converted to state schools by 2019",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+    "https://www.beehive.govt.nz/release/over-200-roll-growth-first-seven-charter-schools"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-labour-school-lunches",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour's Ka Ora, Ka Ako Healthy School Lunches programme, piloted 2019 and expanded at Budget 2020",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+   "promise": "Introduce and scale up a free healthy school lunch programme for students in the schools with the greatest need.",
+   "whatHappened": "A pilot began in 2019 and Ka Ora, Ka Ako was expanded from 2020. It used mostly local suppliers and school-based kitchens, at a cost of roughly $8 per student per day. By the time of the handover the programme was feeding more than 200,000 students a day. The next government kept the programme but redesigned it around a $3 per meal target from the start of the 2025 school year.",
+   "status": "delivered",
+   "statusReason": "The programme was set up and scaled to more than 200,000 students a day within the term.",
+   "keyNumber": "2019 pilot -> more than 200,000 students fed daily, at about $8 per student",
+   "evidenceUrls": [
+    "https://ao.parliament.nz/2026/school-lunches/overview.htm",
+    "https://thespinoff.co.nz/politics/30-06-2026/school-lunch-inquiry-finds-long-list-of-failures"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-labour-te-pukenga-merger",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour's Reform of Vocational Education, announced 2019 and carried into the 2020 term",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+   "promise": "Merge the 16 polytechnics and institutes of technology into a single national institute of skills and technology by April 2020.",
+   "whatHappened": "Te Pūkenga | New Zealand Institute of Skills and Technology was set up on 1 April 2020. The 16 polytechnics and the industry training organisations' training arms were brought into it in stages. The merged entity struggled financially and was never fully unified before the change of government. The incoming coalition began disestablishing it in its 100-day plan. Ten regional polytechnics were re-established as standalone institutions from 1 January 2026, with four remaining inside a transitional federation.",
+   "status": "delivered",
+   "statusReason": "The merger promised was legislated and the single entity created on schedule. Its later unwinding was the act of a different government.",
+   "keyNumber": "16 polytechnics merged into 1 entity from 1 April 2020 -> 10 re-established as regional institutions from 1 January 2026",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+    "https://www.education.govt.nz/news/regional-polytechnics-be-re-established-2026"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-greens-tertiary-affordability",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Confidence and Supply Agreement 2017",
+   "sourceUrl": "https://thestandard.org.nz/labour-green-confidence-and-supply-agreement-released/",
+   "promise": "Make tertiary education more affordable for students and reduce the number of students living in financial hardship.",
+   "whatHappened": "The first year of tertiary study became fee-free from 1 January 2018. In its first year of operation it cut student debt by $194.2 million between 2017 and 2018. The promised extension to two and then three fee-free years was abandoned in 2020, so support stayed capped at one year for the rest of both terms. Later evaluation found the scheme did little to widen access. The share of funding going to students from lower deciles shrank, and participation from the wealthiest decile rose 43% between 2017 and 2022.",
+   "status": "partly",
+   "statusReason": "A significant affordability measure was delivered and sustained, but the expansion stopped in 2020. Independent evaluation found little effect on students facing the greatest hardship.",
+   "keyNumber": "1 year fee-free delivered from 2018; planned extension to 3 years abandoned in 2020",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Fees_Free",
+    "https://theconversation.com/nzs-costly-fees-free-scheme-did-little-to-widen-access-to-tertiary-education-new-study-282587"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-national-phone-ban",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition 100-day plan, National-ACT Coalition Agreement and National-NZ First Coalition Agreement 2023",
+   "sourceUrl": "https://www.beehive.govt.nz/release/backing-our-kids-learn-basics",
+   "promise": "Ban the use of cellphones in schools.",
+   "whatHappened": "The Government announced the policy on 1 December 2023 as part of its 100-day plan, and confirmed the detail on 19 December 2023. From the start of Term 2 2024, regulations required schools to ensure students do not use phones during the school day, with limited exemptions. The requirement has stayed in force since.",
+   "status": "delivered",
+   "statusReason": "The ban became a legal requirement for all state schools within the promised 100 days, and took effect in Term 2 2024.",
+   "keyNumber": "Phone ban in force from Term 2 2024",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/backing-our-kids-learn-basics",
+    "https://www.beehive.govt.nz/release/first-steps-100-day-plan-education-removing-distractions-and-teaching-basics-brilliantly"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-national-hour-a-day-basics",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition 100-day plan, National-ACT Coalition Agreement and National-NZ First Coalition Agreement 2023",
+   "sourceUrl": "https://www.beehive.govt.nz/release/backing-our-kids-learn-basics",
+   "promise": "Require primary and intermediate schools to teach an hour of reading, an hour of writing and an hour of maths a day, starting in 2024.",
+   "whatHappened": "The requirement was announced on 1 December 2023 as part of the 100-day plan and applied to primary schools from 2024. The rewritten English and maths curricula and a structured literacy requirement reinforced it. In its 2025 review the Education Review Office found 98% of schools had begun teaching the new English (Years 0-6) and maths (Years 0-8) learning areas from Term 1 2025. It also found 88% of teachers had changed how they teach English and 85% how they teach maths.",
+   "status": "delivered",
+   "statusReason": "The requirement was imposed on the promised timetable, and independent review found near-universal uptake of the associated teaching changes.",
+   "keyNumber": "1 hour each of reading, writing and maths a day from 2024; 98% of schools teaching the new English and maths learning areas by Term 1 2025",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/backing-our-kids-learn-basics",
+    "https://www.evidence.ero.govt.nz/media/m5maujol/a-new-chapter-how-well-are-the-changes-to-english-and-maths-going-research-report.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-national-curriculum-rewrite",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition 100-day plan and National-ACT Coalition Agreement 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/h1whr1gg/national-act-nz-first-coalition-government-policies-public-services.pdf",
+   "promise": "Appoint an expert group to redesign the English and maths curricula for primary school students. Refocus the curriculum on academic achievement, including a structured approach to teaching reading.",
+   "whatHappened": "Rewritten English and maths curricula for Years 0-8 were introduced from Term 1 2025, alongside structured literacy, Ministry-funded workbooks and lesson plans, and teacher professional development. Final Years 0-10 English and maths documents were released on 20 October 2025 and became compulsory in Term 1 2026. The remaining learning areas were released from late October 2025 and phased in during 2027 and 2028. Updated science and social sciences curricula were released in August 2026. ERO found 92% of Years 0-3 teachers consistently using phonics instruction and 82% of teachers having accessed structured literacy professional development. It also reported that small and rural schools were less likely to have implementation plans, and that Māori-medium settings struggled to access suitable resources.",
+   "status": "delivered",
+   "statusReason": "The curriculum rewrite was completed and made compulsory for English and maths within the term. The remaining subjects were released and scheduled.",
+   "keyNumber": "New English and maths curricula compulsory from Term 1 2026; other learning areas phased in 2027-2028",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/teaching-basics-brilliantly-new-curriculum-resources-and-assessment-tools",
+    "https://www.evidence.ero.govt.nz/media/m5maujol/a-new-chapter-how-well-are-the-changes-to-english-and-maths-going-research-report.pdf",
+    "https://www.beehive.govt.nz/release/updated-science-and-social-sciences-curriculum-prepares-students-changing-world"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-national-standardised-assessment",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Introduce standardised assessments in schools and require regular reporting to parents.",
+   "whatHappened": "From 2026 a phonics check became mandatory, and twice-yearly standardised assessments in reading, writing and maths were required for Years 3-8. These use the new SMART assessment system alongside PATs and e-asTTle. Separately, the Government confirmed the replacement of NCEA. NCEA Level 1 is removed from 2028, in favour of curriculum-focused Year 11 learning and a foundational literacy and numeracy award. New subject-based Year 12 and Year 13 qualifications start in 2029 and 2030 respectively.",
+   "status": "delivered",
+   "statusReason": "Mandatory standardised assessment and reporting were in place from 2026, as the agreement required. The wider qualifications replacement is scheduled beyond this term.",
+   "keyNumber": "Twice-yearly standardised assessment for Years 3-8 and a mandatory phonics check from 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/teaching-basics-brilliantly-new-curriculum-resources-and-assessment-tools",
+    "https://www.beehive.govt.nz/release/government-confirms-next-steps-new-senior-secondary-qualification"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-act-charter-schools",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023 and coalition 100-day plan",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Reintroduce partnership schools and introduce a policy to allow state schools to become partnership schools. Budget 2024 funded $153 million over four years for 15 new charter schools and 35 state school conversions.",
+   "whatHappened": "The Education and Training Amendment Act 2024 passed on 25 August 2024 and came into force in October 2024, with applications opened from July 2024. The first charter schools opened in 2025. As at 1 March 2026 there were 16 charter schools with 1,471 students, and the first seven had grown from 215 to over 658 students. Four more schools were due to open later in 2026, and legislation was passed in June 2026 to let sponsors run multiple schools. Conversions proved much harder than expected: only six state schools expressed interest in the April 2025 conversion round, and David Seymour publicly acknowledged conversions were tougher than anticipated. Charter per-student funding in 2024 was about $8,278 (primary) and $10,741 (secondary), slightly below the state equivalents.",
+   "status": "partly",
+   "statusReason": "The model was reinstated in law and more charter schools are now open than under the previous partnership scheme. But the funded target of 35 state school conversions was nowhere near met.",
+   "keyNumber": "15 new schools and 35 conversions funded -> 16 charter schools and 1,471 students by March 2026; only 6 state schools interested in conversion in the April 2025 round",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/over-200-roll-growth-first-seven-charter-schools",
+    "https://www.nzeiteriuroa.org.nz/assets/downloads/Charter-schools/Charter-schools-fact-sheet-October-2024.pdf",
+    "https://www.1news.co.nz/2025/04/27/just-six-state-schools-interested-in-charter-conversion-in-latest-round/",
+    "https://www.beehive.govt.nz/release/three-new-charter-schools-will-give-students-new-options-term-1-2026"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-act-school-lunch-cost",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Improve the cost-effectiveness of the school lunch programme.",
+   "whatHappened": "On 8 May 2024 Associate Minister David Seymour announced a redesigned Healthy School Lunches Programme, projected to save about $107 million a year. Budget 2024 allocated $478 million and extended coverage to up to 10,000 two to five year olds. A new alternative provision model started at the beginning of the 2025 school year, run by the School Lunch Collective (Compass, Libelle and Gilmours) at a target of $3 a meal against roughly $8 previously. Delivery problems followed: late and missed deliveries, meals arriving after lunchtime, and complaints including halal meals containing ham. Libelle went into liquidation. The Auditor-General reported in 2026 that the Ministry claimed $134 million of savings in 2025 and expected $120 million in 2026, but did not have reliable ways to measure and monitor performance. Only just over 50% of meals assessed between May and December 2025 complied with nutrition standards, waste ran at 8.82kg per 100 lunches against a target of 7kg, and surplus rates hit 17% against a 10% maximum. Funding of $212 million was committed to continue the programme.",
+   "status": "partly",
+   "statusReason": "Large cost savings were achieved and the programme kept feeding more than 200,000 students a day. But the Auditor-General could not verify the savings claims, and found serious nutrition, waste and delivery failures.",
+   "keyNumber": "About $8 per meal -> $3 per meal target; $134m savings claimed for 2025, but only about 50% of meals met nutrition standards May-Dec 2025",
+   "evidenceUrls": [
+    "https://ao.parliament.nz/2026/school-lunches/overview.htm",
+    "https://www.beehive.govt.nz/release/smarter-lunch-programme-feeds-more-costs-less",
+    "https://thespinoff.co.nz/politics/30-06-2026/school-lunch-inquiry-finds-long-list-of-failures"
+   ],
+   "contested": true,
+   "contestedNote": "The Government's reading is that the commitment was to cost-effectiveness, and that more than $100 million a year was saved while student numbers were maintained and early learning coverage was added. The Auditor-General's reading is that the savings figures cannot be relied on because monitoring was inadequate, and that quality, nutrition compliance and delivery reliability fell well short. Both accounts accept the cost per meal fell from about $8 to $3."
+  },
+  {
+   "id": "education-nzfirst-fees-free-final-year",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023 (also in the National-ACT agreement and the 100-day plan)",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Stop first year Fees Free and replace it with a final year Fees Free, with no change before 2025.",
+   "whatHappened": "The switch was legislated and took effect from 1 January 2025. Students starting study from 2025 became eligible for a fee subsidy of up to about $12,000 in their final year rather than their first, saving roughly $130 million a year. Then on 8 May 2026 Finance Minister Nicola Willis and Winston Peters confirmed the whole scheme would end in Budget 2026. That removes about $350 million a year of spending and saves more than $1 billion over the forecast period. Fees Free finishes at the end of 2026, and those completing a qualification in 2026 can still claim up to 31 December 2027. Students who began study in 2024 and 2025 expecting a final-year entitlement lose it.",
+   "status": "largely",
+   "statusReason": "The promised switch to final-year Fees Free was delivered on time in 2025. The coalition then abolished the scheme entirely in 2026, so the promised entitlement no longer exists at the end of the term.",
+   "keyNumber": "First year Fees Free -> final year Fees Free from Jan 2025 -> scheme abolished from end of 2026",
+   "evidenceUrls": [
+    "https://www.ird.govt.nz/updates/news-folder/2026/fees-free-will-finish-at-the-end-of-2026",
+    "https://thespinoff.co.nz/the-bulletin/11-05-2026/the-troubled-life-and-death-of-the-fees-free-tertiary-scheme",
+    "https://newsroom.co.nz/2026/05/28/scrapping-fees-free-saves-govt-over-1b-in-budget/",
+    "https://www.1news.co.nz/2026/05/11/fees-free-scheme-failed-to-get-more-students-into-tertiary-education-govt/"
+   ],
+   "contested": true,
+   "contestedNote": "One reading is that the promise was delivered exactly as written: the switch happened in 2025 with no change before then, and the later abolition is a separate policy decision backed by evidence the scheme did not widen access. The other reading is that the commitment was to a final-year Fees Free entitlement. Students who arranged their study around it had it withdrawn before they could use it, so the promise was not kept in substance."
+  },
+  {
+   "id": "education-national-disestablish-te-pukenga",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition 100-day plan and National-ACT Coalition Agreement 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/h1whr1gg/national-act-nz-first-coalition-government-policies-public-services.pdf",
+   "promise": "Begin disestablishing Te Pūkenga and return polytechnics to regional governance.",
+   "whatHappened": "Disestablishment began in the 100-day plan. Restructuring during 2025 involved more than 150 job cuts and a campus closure. The Education and Training (Vocational Education and Training System) Amendment Bill was passed in October 2025, and ten regional polytechnics were re-established as standalone institutions from 1 January 2026. Four (NorthTec, WITT, Whitireia/WelTec and Tai Poutini Polytechnic) remained inside Te Pūkenga while working towards viability, with Te Pūkenga continuing as a transitional entity for up to a year.",
+   "status": "largely",
+   "statusReason": "The merger has been unwound and ten polytechnics are independent again. But four institutions remained under the transitional entity at the start of 2026, so the change was not complete.",
+   "keyNumber": "16 merged polytechnics -> 10 re-established regionally from 1 Jan 2026, 4 still in a transitional federation",
+   "evidenceUrls": [
+    "https://www.education.govt.nz/news/regional-polytechnics-be-re-established-2026",
+    "https://www.beehive.govt.nz/release/delivering-our-promise-disestablish-te-p%C5%ABkenga",
+    "https://thespinoff.co.nz/politics/17-03-2025/more-than-150-jobs-cut-and-one-campus-closed-as-te-pukenga-disestablishment-looms"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-national-attendance-target",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Government Targets (Target 6), set March 2024; truancy commitments in the National-ACT and National-NZ First coalition agreements",
+   "sourceUrl": "https://www.dpmc.govt.nz/our-programmes/government-targets",
+   "promise": "80% of students to be present for more than 90% of the term. Enforce compulsory education by collecting and publishing attendance data centrally.",
+   "whatHappened": "Daily school attendance data began to be collected and published from Term 1 2025. Attendance Management Plans became mandatory for schools from Term 1 2026, and a reformed Attendance Service model launched the same term, supporting close to double the number of students. Regular attendance rose from a Term 1 2023 baseline of 59.0% to 65.9% in Term 1 2025 and 68.8% in Term 1 2026, still 11.2 percentage points below the target. The Government reported Term 2 2026 in-person attendance as the highest since 2016.",
+   "status": "in-progress",
+   "statusReason": "Term unfinished. The reporting and enforcement machinery was delivered and attendance has risen almost 10 points from the baseline, but the 80% target has not been reached.",
+   "keyNumber": "80% attending regularly promised -> 59.0% (Term 1 2023) to 68.8% (Term 1 2026)",
+   "evidenceUrls": [
+    "https://www.dpmc.govt.nz/sites/default/files/2026-06/gt-factsheet-target-6-mar26.pdf",
+    "https://www.education.govt.nz/our-work/strategies-policies-and-programmes/attendance-and-achievement/attendance-action-plan",
+    "https://www.beehive.govt.nz/release/attendance-rates-increase-again-0"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-national-year8-achievement-target",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition 100-day plan and Government Targets (Target 7), set March 2024",
+   "sourceUrl": "https://www.dpmc.govt.nz/our-programmes/government-targets",
+   "promise": "80% of Year 8 students to be at or above the expected curriculum level for their age in reading, writing and maths by December 2030.",
+   "whatHappened": "The target was formally adopted as one of the nine government targets. The supporting programme is in place: the rewritten English and maths curricula compulsory from Term 1 2026, structured literacy, an hour a day of each of reading, writing and maths in primary schools, a mandatory phonics check, and twice-yearly standardised assessment for Years 3-8 from 2026. Because nationally consistent standardised assessment only began in 2026, comparable Year 8 achievement data across the term is limited. The target date is 2030, beyond this parliamentary term.",
+   "status": "in-progress",
+   "statusReason": "Term unfinished and the target date is 2030. The delivery machinery has been built, but the outcome cannot yet be judged.",
+   "keyNumber": "80% of Year 8 students at or above curriculum level by December 2030",
+   "evidenceUrls": [
+    "https://www.dpmc.govt.nz/our-programmes/government-targets",
+    "https://www.beehive.govt.nz/release/teaching-basics-brilliantly-new-curriculum-resources-and-assessment-tools",
+    "https://www.evidence.ero.govt.nz/media/m5maujol/a-new-chapter-how-well-are-the-changes-to-english-and-maths-going-research-report.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "education-nzfirst-histories-curriculum",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023 (also in the National-ACT agreement)",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Restore balance to the Aotearoa New Zealand's Histories curriculum. Refocus the curriculum on academic achievement rather than ideology, including removing and replacing the gender, sexuality and relationship-based education guidelines.",
+   "whatHappened": "The histories content sits within the social sciences learning area, which was rewritten as part of the wider Years 0-10 curriculum programme. Updated science and social sciences curricula were released on 12 August 2026. The new learning areas are to be phased in during 2027 and 2028 rather than taking effect during this term. The relationships and sexuality education content sits within the health and physical education learning area. That area is part of the same phased rewrite and had not come into force by August 2026.",
+   "status": "in-progress",
+   "statusReason": "Term unfinished. The rewritten social sciences and science curricula were released in August 2026 but do not take effect until 2027 and 2028.",
+   "keyNumber": "Rewritten social sciences curriculum released Aug 2026, in force from 2027-2028",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/updated-science-and-social-sciences-curriculum-prepares-students-changing-world",
+    "https://www.beehive.govt.nz/release/teaching-basics-brilliantly-new-curriculum-resources-and-assessment-tools"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-act-tertiary-free-speech-policy",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National. ACT Coalition Agreement, 24 November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Amend the Education and Training Act 2020 so that tertiary education providers receiving taxpayer funding must commit to a free speech policy.",
+   "whatHappened": "The Education and Training Amendment Act 2025 passed in November 2025. It requires university councils to protect and promote academic freedom and freedom of expression, to adopt a statement on freedom of expression within six months of commencement, and to maintain a complaints procedure. From their 2026 annual reports, universities must report on how the council has complied and on the number and nature of complaints received. Universities adopted their freedom of expression statements by April 2026. As enacted, the duties apply to universities rather than to every taxpayer-funded tertiary provider. ACT leader David Seymour drove the work, and in November 2025 directed officials to consult free speech advocacy groups on the drafting.",
+   "status": "largely",
+   "statusReason": "The Act was passed and policies are in place. But the duty applies to universities rather than to all tertiary providers receiving taxpayer funding, as the agreement was worded.",
+   "keyNumber": "Free speech policy required of taxpayer-funded tertiary providers -> legislated Nov 2025, university statements adopted by April 2026",
+   "evidenceUrls": [
+    "https://www.education.govt.nz/our-work/legislation/recent-acts-passed/academic-freedom-and-freedom-expression-provisions-universities",
+    "https://newsroom.co.nz/2026/04/10/free-at-last-universities-adopt-govt-mandated-freedom-of-expression-statements/",
+    "https://www.beehive.govt.nz/release/strengthening-free-speech-universities"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  }
+ ]
+}

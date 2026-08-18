@@ -1,0 +1,470 @@
+{
+ "areaKey": "law-order",
+ "areaLabel": "Law & Order",
+ "areaBlurb": "Two governments took opposite approaches to crime and punishment: the Sixth Labour Government set out to shrink the prison population and reform sentencing, while the Sixth National Government campaigned on reversing that direction with tougher sentencing, gang laws and more police, and both promised large increases in police numbers that proved hard to deliver on time.",
+ "promises": [
+  {
+   "id": "law-order-labour-prison-population-30-percent",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour government criminal justice target announced by Justice Minister Andrew Little, 2018 (Hapaitia te Oranga Tangata programme)",
+   "sourceUrl": "https://www.rnz.co.nz/news/on-the-inside/364632/reducing-prison-numbers-one-mighty-challenge-for-little",
+   "promise": "Reduce New Zealand's prison population by 30 percent over 15 years.",
+   "whatHappened": "Justice Minister Andrew Little announced the 30 percent target in 2018, when the muster stood at 10,645 (31 March 2018: 7,329 sentenced, 3,316 remand). The muster fell to 8,893 by 30 September 2023 (5,006 sentenced, 3,817 remand), a fall of about 16 percent in absolute terms. Over the same period the imprisonment rate per 100,000 people fell from about 213 to about 149. During the 2023 campaign Labour dropped the target. Corrections Minister Kelvin Davis said it had 'largely been achieved' and the focus had moved to rehabilitation and recidivism. The incoming government formally abolished the target in December 2023.",
+   "status": "partly",
+   "statusReason": "The muster fell about 16 percent, well short of 30 percent on the headline measure. The target was also dropped before the 15-year horizon.",
+   "keyNumber": "30 pct cut over 15 years promised -> muster 10,645 (Mar 2018) to 8,893 (Sep 2023), about 16 pct",
+   "evidenceUrls": [
+    "https://www.corrections.govt.nz/resources/statistics/quarterly_prison_statistics/prison_stats_march_2018",
+    "https://www.corrections.govt.nz/resources/statistics/quarterly_prison_statistics/prison_stats_september_2023",
+    "https://www.nzherald.co.nz/nz/election-2023-labour-dumps-prison-population-reduction-target/AAL2EXLUGBFNHJ27VJSRS2EPHY/"
+   ],
+   "contested": true,
+   "contestedNote": "Labour argued the target was met early because it was framed against the imprisonment rate per head of population. That rate fell from about 213 to about 149 per 100,000, close to 30 percent. Critics point out the headline prison muster fell by roughly 16 percent. They also note that much of the fall was in sentenced prisoners while the remand population grew, and that the target was abandoned rather than achieved over its stated 15-year period."
+  },
+  {
+   "id": "law-order-labour-nzf-1800-police",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First coalition agreement, October 2017",
+   "sourceUrl": "https://www.police.govt.nz/about-us/publication/striving-towards-1800-new-police",
+   "promise": "Strive towards adding 1800 new Police officers over three years, with a serious focus on combatting organised crime and drugs.",
+   "whatHappened": "Police recruitment was funded through Budget 2018 and Budget 2019. The 1800th new constable since the government took office was sworn in on 21 November 2019, about two years into the three-year window, and the government declared the coalition commitment met. A second, separate measure, 1800 additional officers net of attrition, was not reached in the same timeframe. Police Minister Stuart Nash said that net figure was expected around 2021-22, and the shortfall was still being reported in 2022. A McGuinness Institute review of the coalition agreement recorded the commitment as fully implemented.",
+   "status": "largely",
+   "statusReason": "The gross recruitment count promised in the agreement was met inside three years. The net increase in officers after attrition took much longer and was disputed throughout.",
+   "keyNumber": "1,800 new police over 3 years -> 1,800th new constable sworn in 21 Nov 2019 (gross); net 1,800 above attrition not confirmed in that window",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/national/403851/police-welcome-1800th-officer-government-yet-to-meet-second-target",
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+    "https://newsroom.co.nz/2024/01/30/coalition-police-target-already-pushed-out/"
+   ],
+   "contested": true,
+   "contestedNote": "The agreement did not say whether the 1800 was gross recruits or a net increase. The government counted new constables sworn in and declared success in November 2019. The opposition and later commentators argued the meaningful measure was net officer growth after attrition, which lagged."
+  },
+  {
+   "id": "law-order-labour-nzf-criminal-cases-review-commission",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First coalition agreement, October 2017",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Establish a Criminal Cases Review Commission to investigate possible miscarriages of justice.",
+   "whatHappened": "The Criminal Cases Review Commission Act was passed in 2019 and the Commission (Te Kahui Tatari Ture) was established as an independent Crown entity. An independent review of the 2017 coalition agreement recorded the commitment as fully implemented.",
+   "status": "delivered",
+   "statusReason": "The Commission was legislated for and stood up within the coalition's term.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "law-order-labour-repeal-three-strikes",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 justice policy; repeal announced by Justice Minister Andrew Little in 2018",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/359325/labour-s-three-strikes-repeal-off-the-table",
+   "promise": "Repeal the three strikes sentencing regime.",
+   "whatHappened": "Andrew Little planned to take a repeal to Cabinet in June 2018. On 11 June 2018 the item was pulled after New Zealand First refused to support it, saying it did not want the repeal separated from a broader criminal justice reform package. The repeal only proceeded in the second term, once Labour governed alone. The Three Strikes Legislation Repeal Bill had its first reading on 17 November 2021 and received Royal assent on 15 August 2022. Labour, the Greens and Te Pāti Māori supported it, and National and ACT opposed it. The next government reinstated the regime in 2024.",
+   "status": "largely",
+   "statusReason": "The repeal happened as promised, but only in the second term. The coalition partner blocked it for the whole of the first term.",
+   "keyNumber": "repeal promised 2017 -> blocked June 2018, enacted 15 Aug 2022",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Three_Strikes_Legislation_Repeal_Act_2022",
+    "https://www.justice.govt.nz/justice-sector-policy/key-initiatives/three-strikes-law/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "law-order-labour-criminal-justice-reform-programme",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 justice policy, delivered as Hapaitia te Oranga Tangata: Safe and Effective Justice (August 2018)",
+   "sourceUrl": "https://www.justice.govt.nz/about/news-and-media/news/safe-and-effective-justice-launched/",
+   "promise": "Undertake a comprehensive reform of the criminal justice system, guided by an independent advisory group and a public criminal justice summit.",
+   "whatHappened": "The Hapaitia te Oranga Tangata programme was launched in 2018. An independent advisory group, Te Uepu Hapai i te Ora, was appointed, and a criminal justice summit was held in August 2018. Te Uepu reported in 2019, recommending far-reaching change to sentencing, bail and parole. No comprehensive sentencing, bail or parole overhaul was legislated before the October 2023 handover. The main statutory change achieved was the three strikes repeal in 2022. Labour dropped its prison population target during the 2023 campaign.",
+   "status": "partly",
+   "statusReason": "The review process promised was set up and reported. Its central recommendations were not turned into legislation within the term.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://www.nzherald.co.nz/nz/election-2023-labour-dumps-prison-population-reduction-target/AAL2EXLUGBFNHJ27VJSRS2EPHY/",
+    "https://en.wikipedia.org/wiki/Three_Strikes_Legislation_Repeal_Act_2022"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "law-order-labour-firearms-ban-buyback-registry",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Government commitment announced by Prime Minister Jacinda Ardern, March 2019, after the Christchurch attacks; carried through in the Arms Legislation Act 2020",
+   "sourceUrl": "https://www.abc.net.au/news/2019-12-22/new-zealand-gun-buyback-ends-with-50000-firearms-handed-in/11821402",
+   "promise": "Ban military-style semi-automatic firearms and assault rifles, buy them back from owners, and establish a national firearms registry.",
+   "whatHappened": "Parliament banned the most lethal semi-automatic firearms within weeks of the March 2019 attacks, passing the first tranche 119 votes to 1. A six-month buyback closed in December 2019. It collected about 51,000 firearms from about 33,000 people, plus about 5,000 under a no-questions-asked amnesty, at a cost of about NZ$100 million. The Arms Legislation Act 2020 (Royal assent 24 June 2020) created the firearms registry, shortened licences from ten to five years and added new offences. Labour, the Greens and NZ First supported it, and National and ACT opposed it. The registry went live on 24 June 2023. By 28 September 2023 it held 10,044 licence holders and 47,162 firearms, with full registration required by 31 August 2028.",
+   "status": "delivered",
+   "statusReason": "The ban, the buyback and the registry were all legislated and implemented within the term, on the timetable set out.",
+   "keyNumber": "ban and buyback promised -> about 51,000 firearms bought back for about NZ$100m; registry live 24 June 2023",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Arms_Legislation_Act_2020",
+    "https://www.beehive.govt.nz/release/progress-firearms-register-and-safety-authority",
+    "https://www.firearmssafetyauthority.govt.nz/news-and-publications/news-and-announcements/10000th-person-signs-firearms-registry"
+   ],
+   "contested": true,
+   "contestedNote": "The government presented the buyback as a large-scale removal of the most dangerous firearms from circulation. The Council of Licensed Firearms Owners estimated about 170,000 such firearms existed beforehand and argued roughly two-thirds were never handed in. There is no agreed independent estimate of the pre-ban stock, so how complete the buyback was remains disputed."
+  },
+  {
+   "id": "law-order-labour-ram-raid-offence",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour government policy announcement, 2023 (Ram Raid Offending and Related Measures Amendment Bill)",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Ram_Raid_Offending_and_Related_Measures_Amendment_Bill",
+   "promise": "Create a specific ram-raid offence. Allow 12 and 13 year olds to be dealt with in the Youth Court for ram raiding, and target adults who recruit children into ram raids.",
+   "whatHappened": "Ram raids rose sharply from 2017, peaking at 714 recorded incidents in 2022. The government responded with a retail crime package in November 2022, including a fog cannon subsidy of $4,000 per shop and a $6 million Retail Crime Prevention Fund. It also introduced the Ram Raid Offending and Related Measures Amendment Bill, which passed its first reading on 29 August 2023. The bill did not pass before the election. The incoming government formally discontinued it on 5 February 2025 in favour of its own youth offending legislation.",
+   "status": "not-delivered",
+   "statusReason": "The bill was introduced and passed only its first reading. The promised offence never became law.",
+   "keyNumber": "new ram-raid offence promised -> bill lapsed after first reading (29 Aug 2023), discontinued Feb 2025",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/multi-million-dollar-package-tackle-retail-crime-and-reoffending",
+    "https://www.rnz.co.nz/news/indonz/542587/ram-raids-decline-almost-60-percent-year-on-year"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "law-order-labour-greens-replace-prisons",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "manifesto",
+   "sourceDoc": "Green Party 2020 justice policy",
+   "sourceUrl": "https://www.greens.org.nz/justice_2020",
+   "promise": "Reform sentencing, bail and parole laws to enable the gradual replacement of most prisons with community-based rehabilitation.",
+   "whatHappened": "No sentencing, bail or parole overhaul of this kind was legislated during the 2020-2023 term. The main justice statute change was the repeal of three strikes in August 2022. The prison muster fell to 8,893 by September 2023, but the government dropped its own prison reduction target during the 2023 campaign. The muster then rose again under the next government, to 11,255 by March 2026.",
+   "status": "not-delivered",
+   "statusReason": "The Greens' central sentencing, bail and parole reform was not enacted. The policy direction was reversed after 2023.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://www.nzherald.co.nz/nz/election-2023-labour-dumps-prison-population-reduction-target/AAL2EXLUGBFNHJ27VJSRS2EPHY/",
+    "https://www.corrections.govt.nz/resources/statistics/quarterly_prison_statistics/prison_facts_and_statistics_-_march_2026"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "law-order-national-nzf-500-police",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First coalition agreement, 24 November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Commit to training no fewer than 500 new frontline police within the first two years.",
+   "whatHappened": "Within weeks of the agreement being signed, Police Minister Mark Mitchell described the goal as 500 additional officers over the three-year term, before NZ First pushed the two-year framing back. Applications surged, with more than 5,500 in 2024, and wings expanded from 80 to 100 recruits from April 2025. But the two-year deadline of 27 November 2025 passed with the target unmet. The projected date was pushed back to early 2026, then May 2026, August 2026 and then September 2026, with Treasury warning even that would require significant catch-up. In April 2026 the Police Commissioner sought answers after recruiting again fell below expected levels. Recruit training was extended from 16 to 20 weeks.",
+   "status": "not-delivered",
+   "statusReason": "The commitment carried an explicit two-year deadline, which passed on 27 November 2025 without being met. The target had still not been confirmed as reached by August 2026.",
+   "keyNumber": "500 new frontline police within 2 years -> deadline of 27 Nov 2025 missed; projected date pushed to Sep 2026",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/political/580108/minister-defends-ambitious-goal-as-coalition-officially-misses-500-new-police-target",
+    "https://www.1news.co.nz/2025/11/18/govts-target-for-500-new-police-officers-bumped-out-again/",
+    "https://www.police.govt.nz/news/release/police-prepare-welcome-larger-wings-application-numbers-soar"
+   ],
+   "contested": true,
+   "contestedNote": "The government argues the officers are being delivered, just later than planned. It points to recruit training being lengthened from 16 to 20 weeks to protect standards, and to Australian police forces actively recruiting New Zealand officers. Critics say a promise with a stated two-year deadline that was missed, and then repeatedly re-dated, is a broken promise regardless of the eventual total."
+  },
+  {
+   "id": "law-order-national-gang-patch-ban",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT and National-NZ First coalition agreements and the 100-day plan, November 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/vb5pqsl4/national-act-nz-first-coalition-government-policies-law-and-order.pdf",
+   "promise": "Ban gang patches in public places, stop gang members gathering in public, and give police greater search powers over gang members.",
+   "whatHappened": "The Gangs Act 2024 passed its third reading on 19 September 2024 (68-55), received Royal assent on 23 September 2024 and came into force on 21 November 2024. It bans gang insignia in public places, allows police to issue seven-day dispersal notices and lets District Courts impose three-year non-consorting orders. The companion Sentencing Amendment Act 2024 made gang membership an aggravating factor. Enforcement began within minutes, with the first seizure in Hastings three minutes after the law took effect. By 24 February 2025 police had seized 76 gang patches and 67 firearms and laid 337 insignia charges. Two further gangs were added to the identified-gangs list from 3 February 2025, taking the total to 37. The Greens and Te Pāti Māori opposed the legislation, and the Law Society raised freedom of expression and association concerns.",
+   "status": "delivered",
+   "statusReason": "The legislation promised was passed and brought into force within the first year of the term and is being enforced.",
+   "keyNumber": "gang patch ban promised -> Gangs Act in force 21 Nov 2024; 337 charges and 76 patches seized by 24 Feb 2025",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Gangs_Act_2024",
+    "https://www.beehive.govt.nz/release/first-arrests-made-under-gang-patch-ban",
+    "https://www.beehive.govt.nz/release/more-gangs-added-gangs-act-list"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "law-order-national-act-restore-three-strikes",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT coalition agreement, 24 November 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/vb5pqsl4/national-act-nz-first-coalition-government-policies-law-and-order.pdf",
+   "promise": "Restore the Three Strikes law, with amendments including a limited benefit for guilty pleas.",
+   "whatHappened": "The Sentencing (Reinstating Three Strikes) Amendment Bill had its first reading on 25 June 2024, third reading on 13 December 2024 and Royal assent on 17 December 2024, coming into force on 17 June 2025. It covers 42 serious violent and sexual offences (adding strangulation and suffocation). But it applies only where the sentence exceeds 12 months for a first strike and 24 months for later strikes, widens the 'manifestly unjust' exception, and gives a limited guilty plea discount. Qualifying strikes from the old regime that meet the new thresholds were reactivated. The Sensible Sentencing Trust criticised the new regime as weaker than the 2010 law. The Law Society and Human Rights Commission warned of disproportionate effects on Māori and Pasifika.",
+   "status": "delivered",
+   "statusReason": "The law was restored with the amendments the agreement itself specified, and is in force.",
+   "keyNumber": "three strikes restored -> Act in force 17 June 2025, covering 42 offences with 12 and 24 month sentence thresholds",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sentencing_(Reinstating_Three_Strikes)_Amendment_Act_2024",
+    "https://www.justice.govt.nz/justice-sector-policy/key-initiatives/three-strikes-law/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "law-order-national-sentencing-discount-cap",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT and National-NZ First coalition agreements, November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Amend sentencing law to limit the discounts judges can apply, and to remove concurrent sentences for offending committed while on bail, parole or in custody.",
+   "whatHappened": "The Sentencing (Reform) Amendment Act 2025 came into force on 29 June 2025. It caps total sentence discounts for personal mitigating factors at 40 percent, unless that would be manifestly unjust. It puts guilty plea discounts on a sliding scale capped at 25 percent, falling to 5 percent if the plea comes during trial. It also prevents repeat discounts for youth and remorse, and encourages cumulative rather than concurrent sentencing for offending on bail, in custody or on parole.",
+   "status": "delivered",
+   "statusReason": "The discount cap and the cumulative sentencing changes promised were legislated and are in force.",
+   "keyNumber": "cap on sentencing discounts promised -> 40 pct cap on personal mitigating factors, in force 29 June 2025",
+   "evidenceUrls": [
+    "https://www.justice.govt.nz/about/news-and-media/news/sentencing-act-changes-now-in-force/",
+    "https://www.legislation.govt.nz/act/public/2025/0013/13.0/LMS989992.html"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "law-order-national-victims-sentencing",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT and National-NZ First coalition agreements, November 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/vb5pqsl4/national-act-nz-first-coalition-government-policies-law-and-order.pdf",
+   "promise": "Amend the Sentencing Act so the needs of victims and communities are prioritised, and stop taxpayer funding for section 27 cultural reports.",
+   "whatHappened": "The incoming government removed funding for section 27 cultural reports in December 2023. The Sentencing (Reform) Amendment Act 2025, in force 29 June 2025, requires courts to take victims' interests into account at sentencing. It adds aggravating factors for offending against victims who were in state or faith-based care, and extends child-victim protections from under-14s to under-18s for violence and neglect offences. It also creates aggravating factors for serious retail crime against sole workers and home-based businesses.",
+   "status": "delivered",
+   "statusReason": "Both the cultural reports change and the victim-focused sentencing amendments were made within the term.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://www.justice.govt.nz/about/news-and-media/news/sentencing-act-changes-now-in-force/",
+    "https://www.nzherald.co.nz/nz/politics/government-scraps-labours-target-of-reducing-the-prison-population-and-funding-for-cultural-reports/3K3NNZD5QFCSZD5YMOW6Y5TNGA/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "law-order-national-act-prison-capacity",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT coalition agreement and the 100-day plan, November 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/vb5pqsl4/national-act-nz-first-coalition-government-policies-law-and-order.pdf",
+   "promise": "Abolish the previous government's prisoner reduction target, and increase funding for Corrections to ensure there is enough prison capacity.",
+   "whatHappened": "The prison population reduction target was abolished in December 2023. Budget 2024 allocated close to $2 billion over four years to prisons, staff and rehabilitation. That included an 810-bed extension at Waikeria (600 beds previously funded plus a new 210-bed wing), 685 new frontline Corrections staff and $78 million for rehabilitation for remand prisoners. A 596-bed development at Waikeria (500 high-security beds plus 96 mental health and addiction beds) opened on 5 June 2025, with 300 extra frontline staff recruited. The further 810 beds are scheduled for completion in 2029, after this term. The muster reached 11,255 at 31 March 2026 (6,606 sentenced, 4,537 remand), up from 8,893 in September 2023.",
+   "status": "largely",
+   "statusReason": "The target was abolished, and major capacity funding and one large new facility were delivered. But most of the promised extra beds are not due until 2029, and the muster has grown faster than capacity.",
+   "keyNumber": "prison capacity funding promised -> about NZ$1.9b in Budget 2024; 596 beds opened June 2025; muster 8,893 (Sep 2023) to 11,255 (Mar 2026)",
+   "evidenceUrls": [
+    "https://www.corrections.govt.nz/news/2025/new_596-bed_development_opens_at_waikeria_prison",
+    "https://www.interest.co.nz/public-policy/127630/almost-2-billion-will-be-spent-prisons-staff-and-rehabilitation-over-next-four",
+    "https://www.corrections.govt.nz/resources/statistics/quarterly_prison_statistics/prison_facts_and_statistics_-_march_2026"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "law-order-national-act-arms-act-rewrite",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT coalition agreement, 24 November 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/vb5pqsl4/national-act-nz-first-coalition-government-policies-law-and-order.pdf",
+   "promise": "Repeal and replace Part 6 of the Arms Act relating to shooting clubs and ranges, and rewrite the Arms Act 1983.",
+   "whatHappened": "The Arms (Shooting Clubs, Shooting Ranges, and Other Matters) Amendment Act passed on 26 March 2025 and came into force on 29 June 2025, completing the Part 6 commitment. Public consultation on a full rewrite ran in January-February 2025 and drew about 8,500 submissions. Cabinet decisions were announced on 11 November 2025. The Arms Bill was introduced on 8 December 2025, had its first reading on 9 December 2025, and received Royal assent on 5 August 2026, with most provisions taking effect on 23 September 2026. The new law creates an independent firearms regulator with a chief executive appointed by the Governor-General and reporting to the Minister. It also makes gang membership a disqualifier for a licence, adds new offences and infringement powers, and increases penalties.",
+   "status": "delivered",
+   "statusReason": "Both the Part 6 replacement and the full Arms Act rewrite were passed inside the term.",
+   "keyNumber": "Arms Act rewrite promised -> Arms Bill Royal assent 5 Aug 2026, most provisions in force 23 Sep 2026",
+   "evidenceUrls": [
+    "https://www.justice.govt.nz/justice-sector-policy/key-initiatives/firearms-reform/",
+    "https://www.justice.govt.nz/about/news-and-media/news/arms-act-rewrite-decisions-announced/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "law-order-national-nzf-firearms-registry-review",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First coalition agreement, 24 November 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/vb5pqsl4/national-act-nz-first-coalition-government-policies-law-and-order.pdf",
+   "promise": "Move responsibility for the Arms Act to the Ministry of Justice and review the effectiveness of the Firearms Registry by June 2024.",
+   "whatHappened": "Responsibility for firearms policy moved to the Ministry of Justice, with Associate Justice Minister Nicole McKee (ACT) leading the work. The Firearms Registry Review was not published by the June 2024 deadline. It was released in May 2025. In May 2025 ACT invoked the coalition agreements' 'agree to disagree' provision over firearms decisions. The registry was retained. McKee said in November 2025 that she disagreed with the registry but could not get enough coalition support to scrap it. The Arms Bill passed in August 2026 keeps it while creating a standalone regulator separate from Police. McKee also invoked the agree-to-disagree clause over her proposal to allow access to military-style semi-automatics under strict conditions for club and competitive use, which coalition partners rejected.",
+   "status": "largely",
+   "statusReason": "The transfer and the review both happened, but the review was published about eleven months after the deadline in the agreement.",
+   "keyNumber": "registry review due June 2024 -> published May 2025; registry retained",
+   "evidenceUrls": [
+    "https://www.justice.govt.nz/justice-sector-policy/key-initiatives/firearms-reform/",
+    "https://www.1news.co.nz/2025/11/11/nicole-mckee-reveals-gun-laws-shake-up/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "law-order-national-boot-camps",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 youth justice policy, delivered as Oranga Tamariki Military-Style Academies",
+   "sourceUrl": "https://www.orangatamariki.govt.nz/youth-justice/military-style-academies/",
+   "promise": "Establish military-style academies for serious repeat youth offenders, backed by legislation creating Young Serious Offender declarations.",
+   "whatHappened": "A 12-month pilot ran from late July 2024 to August 2025 with 10 young men aged 14-17, all Māori. One was withdrawn and eight completed. Seven of the ten reoffended, most within two months of moving to the community phase. One participant died in a car accident and another escaped custody. An independent 82-page evaluation published in November 2025 found meaningful and positive change for participants, including reduced severity of offending. It also concluded the implementation was rushed, therapeutic and clinical support was inadequate, whānau engagement came too late, cultural elements did not go far enough, and the cohort was too small to give meaningful data. The Oranga Tamariki (Responding to Serious Youth Offending) Amendment Bill was introduced in November 2024 and was still progressing through Parliament. A second academy programme was set to begin on 9 March 2026, with academy orders of 3 to 12 months for 15-17 year olds declared Young Serious Offenders.",
+   "status": "partly",
+   "statusReason": "A pilot ran and a second programme was scheduled. But the enabling legislation had not completed passage, and the promised permanent academy regime was not yet operating at scale.",
+   "keyNumber": "military-style academies promised -> 10-person pilot Jul 2024 to Aug 2025; 7 of 10 reoffended; second programme from 9 Mar 2026",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/top/578157/implementation-of-boot-camp-rushed-report-concludes",
+    "https://www.1news.co.nz/2025/11/07/military-style-boot-camp-pilot-too-rushed-and-too-small-report/"
+   ],
+   "contested": true,
+   "contestedNote": "The government points to the evaluation's finding of positive change and reduced severity of offending among participants, and to the wider fall in serious repeat youth offending. Critics point to seven of ten participants reoffending. They also cite the evaluation's own caution that the cohort was far too small to support any conclusion about effectiveness."
+  },
+  {
+   "id": "law-order-national-violent-crime-target",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 campaign commitment, adopted as Government Target 4",
+   "sourceUrl": "https://www.dpmc.govt.nz/our-programmes/government-targets",
+   "promise": "20,000 fewer people are victims of an assault, robbery or sexual assault.",
+   "whatHappened": "The target is measured against a baseline of 185,000 adult victims in the year to October 2023, using the New Zealand Crime and Victims Survey. The December 2025 factsheet reported 135,797 victims in the year to October 2025, about 49,000 fewer than baseline. The March 2026 factsheet reported 138,795 victims to February 2026, about 46,000 fewer than baseline. Both were rated 'on track'.",
+   "status": "delivered",
+   "statusReason": "The reduction reported is more than double the promised 20,000, and has held across successive quarterly reports.",
+   "keyNumber": "20,000 fewer violent crime victims promised -> about 46,000 fewer (185,000 in Oct 2023 to 138,795 in Feb 2026)",
+   "evidenceUrls": [
+    "https://www.dpmc.govt.nz/sites/default/files/2026-06/gt-factsheet-target-4-mar26.pdf",
+    "https://www.dpmc.govt.nz/sites/default/files/2026-03/gt-factsheet-target-4-dec25.pdf"
+   ],
+   "contested": true,
+   "contestedNote": "The measure is a sample survey estimate with confidence intervals, not a count of reported crimes. The size of the fall therefore carries statistical uncertainty, and the government's own factsheets publish margins of error. The term is also not finished, so the final position will not be known until after November 2026."
+  },
+  {
+   "id": "law-order-national-youth-offending-target",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 campaign commitment, adopted as Government Target 3",
+   "sourceUrl": "https://www.dpmc.govt.nz/our-programmes/government-targets",
+   "promise": "A 15 percent reduction in the total number of children and young people with serious and persistent offending behaviour.",
+   "whatHappened": "The June 2023 baseline was 1,100. The March 2026 factsheet reported 829 children and young people with serious and persistent offending behaviour, a 25 percent reduction, rated 'on track'. Ram raids fell from a peak of 714 recorded incidents in 2022 to 207 in 2024. Offenders aged 14-17 involved in ram raids fell from 440 in 2023 to 157 in 2024. Progress is uneven across police districts. At December 2025 eight of twelve districts had fallen by at least 20 percent, while Eastern district was above baseline. The government attributes the fall to military-style academies, intensive case management and fast-track responses. The decline in ram raids began in 2023, before the change of government.",
+   "status": "delivered",
+   "statusReason": "The reported reduction of 25 percent exceeds the promised 15 percent, ahead of the target date.",
+   "keyNumber": "15 pct cut in serious repeat youth offenders promised -> 25 pct cut (1,100 in Jun 2023 to 829 in Mar 2026)",
+   "evidenceUrls": [
+    "https://www.dpmc.govt.nz/sites/default/files/2026-06/gt-factsheet-target-3-mar26.pdf",
+    "https://www.rnz.co.nz/news/indonz/542587/ram-raids-decline-almost-60-percent-year-on-year",
+    "https://www.dpmc.govt.nz/sites/default/files/2026-03/gt-factsheet-target-3-dec25.pdf"
+   ],
+   "contested": true,
+   "contestedNote": "The government credits its youth justice measures. Others note that ram raids and youth offending were already falling from their 2022 peak before the change of government, after the previous government's Fast Track and retail crime programmes. That makes it hard to attribute the fall to any single set of policies."
+  },
+  {
+   "id": "gapfill-greens-te-aorerekura-fvsv",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Greens Cooperation Agreement 2020. Marama Davidson appointed Minister for the Prevention of Family and Sexual Violence, leading the whole-of-government response and coordinating related budget proposals",
+   "sourceUrl": "https://www.scoop.co.nz/stories/PA2010/S00117/cooperation-agreement-between-the-nz-labour-party-and-the-green-party-of-aotearoa-nz.htm",
+   "promise": "Lead a whole-of-government response to family violence and sexual violence, including coordinating budget proposals across agencies, under a new dedicated ministerial portfolio.",
+   "whatHappened": "Marama Davidson became New Zealand's first Minister for the Prevention of Family and Sexual Violence in November 2020. Te Aorerekura, the first national strategy to eliminate family violence and sexual violence, was launched in December 2021. It had a 25-year horizon, six strategic shifts and a two-year action plan, and was developed jointly with tangata whenua and the specialist sector. On 10 May 2022 Davidson announced $114.5 million over four years in Budget 2022 to implement it. That included $37.6 million for community initiatives, $38.1 million for integrated community-led responses and $26.7 million for workforce capability. The strategy remained in place at the October 2023 handover.",
+   "status": "delivered",
+   "statusReason": "The portfolio was created, the national strategy was published within the term and dedicated multi-year funding was secured for it.",
+   "keyNumber": "First national FVSV strategy -> Te Aorerekura launched December 2021 with $114.5m over four years in Budget 2022",
+   "evidenceUrls": [
+    "https://www.justice.govt.nz/about/news-and-media/news/te-aorerekura-the-national-strategy-to-eliminate-family-violence-and-sexual-violence-launched/",
+    "https://www.beehive.govt.nz/release/budget-2022-investing-eliminate-violence-our-homes-and-communities"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-nzf-hate-speech-ruled-out",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National. NZ First Coalition Agreement, 24 November 2023 (Strengthening Democracy and Freedoms)",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Protect freedom of speech by ruling out the introduction of hate speech legislation, and stop the Law Commission's work on hate speech legislation.",
+   "whatHappened": "Justice Minister Paul Goldsmith confirmed in early 2024 that the Government would not proceed with the previous government's proposed incitement (hate speech) law changes. He directed the Law Commission to stop its review of hate speech law, including work that would have extended protection to religious belief. Goldsmith said 'we opposed and will not continue Labour's proposed hate speech laws, because they would have undermined free speech', and confirmed that separate work on hate crime would continue. The Federation of Islamic Associations of New Zealand publicly questioned the decision in April 2024. No hate speech or incitement bill was introduced during the term to August 2026. Work instead proceeded on treating hostility as an aggravating factor at sentencing and on a separate Law Commission reference.",
+   "status": "delivered",
+   "statusReason": "Both limbs were carried out. No hate speech legislation was introduced, and the Law Commission's hate speech work was stopped.",
+   "keyNumber": "Hate speech legislation ruled out -> no incitement bill introduced by August 2026",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/national/513176/muslim-organisation-questions-why-hate-speech-law-reforms-abandoned",
+    "https://nzfvc.org.nz/news/submissions-open-bill-related-hate-crime-and-new-work-law-commission"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-labour-hate-speech-protections",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 manifesto",
+   "sourceUrl": "https://s3.ap-southeast-2.amazonaws.com/nzdoctor.files/production/public/2020-10/Labour_Manifesto_2020.pdf",
+   "promise": "Extend legal protections for groups that experience hate speech, including for reasons of religion, gender, disability or sexual orientation.",
+   "whatHappened": "The proposal originated in recommendation 40 of the Royal Commission of Inquiry into the Christchurch attacks. Six proposals to strengthen incitement law were released for public consultation in mid-2021 and drew a large and divided response. In November 2022 the Government narrowed the plan to cover religious belief only, dropping gender, disability and sexual orientation. On 8 February 2023 Chris Hipkins removed the remaining proposal from the legislative programme and referred the whole area to the Law Commission. He said that would let the Commission 'consider a difficult and highly contested area of law in totality'. No change to incitement law was enacted before the October 2023 handover, and the incoming government stopped the Law Commission's work in 2024.",
+   "status": "abandoned",
+   "statusReason": "The commitment was first narrowed to one ground and then explicitly removed from the legislative programme by the promising party in February 2023.",
+   "keyNumber": "Protections promised on 4 additional grounds -> none legislated by October 2023",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/political/483875/watch-tvnz-rnz-merger-scrapped-income-insurance-and-hate-speech-laws-delayed",
+    "https://www.rnz.co.nz/news/national/513176/muslim-organisation-questions-why-hate-speech-law-reforms-abandoned"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-labour-pike-river-reentry",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour. NZ First Coalition Agreement 2017 (priority 54: commit to re-entry to Pike River)",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Commit to re-entry of the Pike River mine.",
+   "whatHappened": "The Pike River Recovery Agency was established on 31 January 2018 with a dedicated minister. Manned re-entry of the mine drift began on 21 May 2019 when the concrete seal was breached. In March 2020 Cabinet approved a further $10.8 million plus a $4.2 million contingency to complete the work. The minister confirmed at the time that recovery would not go beyond the end of the drift into the main mine workings. The team reached a roof fall 2.26 kilometres up the drift on 17 February 2021, the end point of the recovery. Forensic examination and deep borehole drilling followed. By March 2022 remains of eight of the 29 men had been located by borehole but could not be retrieved. The agency closed on 1 July 2022 and the site was handed to the Department of Conservation. Total expenditure was about $48 million.",
+   "status": "largely",
+   "statusReason": "Re-entry happened and the full drift was recovered and examined. But the main mine workings where the men died were never entered, and no bodies were recovered.",
+   "keyNumber": "Re-entry promised -> 2.26km of drift recovered by 17 Feb 2021; main workings not entered; about $48m spent",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/final-costs-pike-river-recovery-released",
+    "https://en.wikipedia.org/wiki/Pike_River_Recovery_Agency"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-labour-christchurch-royal-commission-response",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 manifesto",
+   "sourceUrl": "https://s3.ap-southeast-2.amazonaws.com/nzdoctor.files/production/public/2020-10/Labour_Manifesto_2020.pdf",
+   "promise": "Respond to the Royal Commission of Inquiry into the terrorist attack on the Christchurch masjidain with a view to eradicating violent extremism.",
+   "whatHappened": "The Royal Commission's report, containing 44 recommendations, was released on 8 December 2020, and the Government accepted all 44 in principle on the same day. It established Kapuia, a ministerial advisory group including affected communities, and set up the Ministry for Ethnic Communities in 2021. The Department of the Prime Minister and Cabinet tracked progress publicly. The tracker was current to August 2023 at the change of government, with most recommendations complete or under way. On 2 August 2024 the successor government concluded the coordinated response. It reported 36 of the 44 recommendations implemented or integrated into agency work, and confirmed the remaining eight would not be progressed. Those eight included a separate national intelligence agency, a counter-terrorism advisory group, a public reporting system for concerning behaviour, mandatory firearms injury reporting and amendments to hate speech law.",
+   "status": "largely",
+   "statusReason": "A full response was mounted and most recommendations were implemented. Eight were still outstanding at the end of the term and were later dropped.",
+   "keyNumber": "44 recommendations accepted -> 36 implemented or integrated, 8 not progressed (confirmed 2 August 2024)",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/government-accepts-all-royal-commission-recommendations",
+    "https://www.rnz.co.nz/news/national/523941/government-won-t-progress-remaining-8-recommendations-of-christchurch-terror-attack-commission",
+    "https://www.dpmc.govt.nz/our-programmes/national-security/royal-commission-inquiry-terrorist-attack-christchurch-masjidain/response-progress"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  }
+ ]
+}

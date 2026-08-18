@@ -1,0 +1,316 @@
+{
+ "areaKey": "rma",
+ "areaLabel": "Resource Management",
+ "areaBlurb": "Both governments promised to replace the Resource Management Act 1991: Labour passed two replacement statutes in August 2023 that lasted four months, and the National-led coalition repealed them, amended the RMA twice, built a permanent fast-track approvals regime and introduced its own two-bill replacement, which was still before Parliament as at August 2026.",
+ "promises": [
+  {
+   "id": "rma-labour-repeal-replace-rma",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 campaign commitment to repeal and replace the RMA, given effect by the 10 February 2021 Government announcement following the Randerson review",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Resource_Management_Act_1991",
+   "promise": "Repeal the Resource Management Act 1991 and replace it with three new laws (a Natural and Built Environments Act, a Spatial Planning Act and a Climate Change Adaptation Act), acting on the recommendations of the Randerson review.",
+   "whatHappened": "The independent review panel chaired by retired Court of Appeal judge Tony Randerson reported in 2020 and recommended repealing and replacing the RMA. On 10 February 2021 the Government announced the three-law replacement. An exposure draft of the Natural and Built Environments Bill went to a select committee inquiry in 2021. The Natural and Built Environment Bill and Spatial Planning Bill were introduced together on 14 November 2022. Both passed their third readings on 15 August 2023 by 72 votes to 47 and received royal assent on 23 August 2023, about eight weeks before the general election. The third law, the Climate Change Adaptation Bill, was never introduced. Neither new Act was in operation when the government changed: no natural and built environment plan or regional spatial strategy had been made.",
+   "status": "largely",
+   "statusReason": "Two of the three promised statutes were passed inside the term. The third was never introduced, and neither Act had begun operating before the handover.",
+   "keyNumber": "3 replacement acts promised -> 2 passed (Aug 2023), 0 in operation at handover",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Natural_and_Built_Environment_Act_2023",
+    "https://www.legislation.govt.nz/act/public/2023/0046/latest/LMS501892.html",
+    "https://en.wikipedia.org/wiki/Resource_Management_Act_1991"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-labour-climate-adaptation-act",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour-led Government's February 2021 three-law RMA replacement programme (Climate Change Adaptation Act)",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Resource_Management_Act_1991",
+   "promise": "Pass a Climate Change Adaptation Act as the third pillar of the resource management reform, to deal with managed retreat and the funding of climate adaptation.",
+   "whatHappened": "The Climate Change Adaptation Bill was the only one of the three announced replacement laws never introduced to Parliament. Work was still at the policy stage when the term ended. A cross-party inquiry into community-led retreat and adaptation funding was under way in 2023, and no adaptation statute existed at the October 2023 handover. The two Acts that did pass, the Natural and Built Environment Act 2023 and Spatial Planning Act 2023, were repealed in December 2023.",
+   "status": "not-delivered",
+   "statusReason": "The promised third Act was never introduced, let alone passed, in either term.",
+   "keyNumber": "Climate Change Adaptation Act promised -> bill never introduced",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Resource_Management_Act_1991",
+    "https://en.wikipedia.org/wiki/Natural_and_Built_Environment_Act_2023"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-labour-spatial-planning",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour-led Government's RMA replacement programme. Spatial Planning Act",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Spatial_Planning_Act_2023",
+   "promise": "Require every region to prepare a long-term regional spatial strategy, agreed between councils, central government and iwi, to co-ordinate land use, infrastructure and development.",
+   "whatHappened": "The Spatial Planning Bill was introduced on 14 November 2022, and the Spatial Planning Act 2023 received royal assent on 23 August 2023. It required each region to develop a regional spatial strategy through a joint committee of councils, central government agencies and Māori representatives. No regional spatial strategy was completed before the Act was repealed on 23 December 2023, and the country reverted to the RMA 1991.",
+   "status": "delivered",
+   "statusReason": "The statute promised was enacted within the term, judged as at the October 2023 handover. Its later repeal was the successor government's decision.",
+   "keyNumber": "Regional spatial strategies legislated Aug 2023 -> 0 completed before repeal Dec 2023",
+   "evidenceUrls": [
+    "https://www.legislation.govt.nz/act/public/2023/0047/latest/LMS545761.html",
+    "https://en.wikipedia.org/wiki/Spatial_Planning_Act_2023"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-labour-nps-urban-development",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour's urban growth agenda. National Policy Statement on Urban Development 2020",
+   "sourceUrl": "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes",
+   "promise": "Use a National Policy Statement on Urban Development to force councils to allow greater building height and density near city centres and rapid transit. It would also make councils remove minimum car parking requirements from district plans.",
+   "whatHappened": "The NPS-UD was gazetted in July 2020 and came into force in August 2020. It required tier 1 councils to enable buildings of at least six storeys within walking distance of city centres, metropolitan centres and rapid transit stops. It also required councils to remove minimum car parking rates from their district plans by February 2022. Auckland, Wellington, Christchurch, Hamilton and Tauranga notified intensification planning instruments giving effect to it from August 2022. The National-led coalition kept the NPS-UD after 2023. It later extended intensification obligations to strategic transport corridors, including key bus routes, and required councils to offset capacity lost to special character areas.",
+   "status": "delivered",
+   "statusReason": "The national policy statement was issued, took effect and was implemented through council plan changes within the term. It survived the change of government.",
+   "keyNumber": "6-storey enablement near centres and rapid transit -> in force Aug 2020, parking minimums gone by Feb 2022",
+   "evidenceUrls": [
+    "https://www.hud.govt.nz/our-work/going-for-housing-growth-programme",
+    "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-labour-mdrs-bipartisan",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour-National bipartisan housing density agreement, October 2021, enacted as the Resource Management (Enabling Housing Supply and Other Matters) Amendment Act 2021",
+   "sourceUrl": "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes",
+   "promise": "Legislate Medium Density Residential Standards so that up to three homes of up to three storeys can be built on most residential sites in the largest cities without a resource consent.",
+   "whatHappened": "The MDRS were agreed with the National Party in October 2021 and legislated in December 2021 by amending the RMA. Tier 1 councils had to put the standards into their plans through intensification planning instruments notified in August 2022, alongside the NPS-UD intensification policies. In most cases the standards took effect immediately on notification. National campaigned in 2023 on giving councils the ability to withdraw from the MDRS. After the change of government the coalition made them optional in policy from July 2024. The Resource Management (Consenting and Other System Changes) Amendment Act, in force from August 2025, gave Auckland and Christchurch a bespoke route out. Other councils could not remove them under the legislation then in force.",
+   "status": "delivered",
+   "statusReason": "The density standards were legislated and applied through council plans within the term. Judged at the October 2023 handover the promise was met, and the partial unwinding came afterwards.",
+   "keyNumber": "3 homes of 3 storeys on most sites -> legislated Dec 2021, applied in tier 1 plans from Aug 2022",
+   "evidenceUrls": [
+    "https://www.hud.govt.nz/our-work/going-for-housing-growth-programme",
+    "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-national-repeal-nba-spa",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023 and National's 100-day plan, repeal the Natural and Built Environment Act 2023 and the Spatial Planning Act 2023 by Christmas",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Repeal the Natural and Built Environment Act 2023 and the Spatial Planning Act 2023 by Christmas 2023.",
+   "whatHappened": "The Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track Consenting) Bill was passed under urgency on 19 December 2023. It received royal assent on 23 December 2023, four weeks after the Government was sworn in. Both Labour Acts were repealed and the Resource Management Act 1991 was reinstated as the operative planning statute. An interim fast-track consenting pathway was carried over, pending the Government's own fast-track regime.",
+   "status": "delivered",
+   "statusReason": "Both Acts were repealed before Christmas 2023, exactly as the coalition agreement and 100-day plan specified.",
+   "keyNumber": "Repeal by Christmas 2023 promised -> passed 19 Dec 2023, assent 23 Dec 2023",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/nba-and-spa-successfully-repealed",
+    "https://en.wikipedia.org/wiki/Resource_Management_Act_1991",
+    "https://thespinoff.co.nz/politics/28-11-2023/the-ctrl-z-coalition-all-the-repeals-and-reversals-planned-by-the-new-government"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-national-two-act-replacement",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023, replace the Resource Management Act 1991 with new resource management laws",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Replace the Resource Management Act 1991 with two new statutes, one for the natural environment and one for planning and development, during this parliamentary term.",
+   "whatHappened": "After repealing Labour's replacement laws, the Government confirmed in September 2024 that the RMA would be replaced by two Acts. An expert advisory group reported, and on 24 March 2025 RMA Reform Minister Chris Bishop announced a Planning Act and a Natural Environment Act. Detail was released on 9 December 2025. More than 100 existing policy statements and plans would be reduced to 17 regional combined plans. Zoning would be standardised, and national instruments would replace much of the existing national direction. Councils would also have to compensate landowners for some restrictions on property rights. The Planning Bill and Natural Environment Bill passed their first readings on 16 December 2025 and were referred to the Environment Committee. Labour supported the bills' progression, and the Green Party and Te Pāti Māori opposed them. The Government's own timetable has the new system taking full effect in 2029, and the RMA 1991 remained the operative statute through the first half of 2026.",
+   "status": "in-progress",
+   "statusReason": "The replacement bills were introduced and passed first reading, but they had not been enacted as at August 2026. The new system is not scheduled to operate until 2029, so the term is not finished.",
+   "keyNumber": "100+ plans -> 17 regional combined plans proposed; bills at select committee Aug 2026",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Resource_Management_Act_1991",
+    "https://en.wikipedia.org/wiki/Chris_Bishop"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-national-fast-track-onestop",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023, establish a fast-track one-stop-shop consenting and permitting process for regional and national projects of significance",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Establish a permanent fast-track one-stop-shop consenting and permitting regime for regional and national projects of significance.",
+   "whatHappened": "The Fast-track Approvals Bill was introduced on 7 March 2024, with a design that gave three ministers the final say on approvals. After more than 27,000 submissions and sustained criticism about executive power, Cabinet agreed on 25 August 2024 to remove ministerial approval and give the decisions to independent expert panels. The change was carried at the select committee stage. On 6 October 2024 the Government listed 149 projects in the Bill: 44 housing, 43 infrastructure, 22 renewable energy, 11 mining and 7 aquaculture or farming projects. The Bill passed its third reading on 17 December 2024 and received royal assent on 23 December 2024. Panels began issuing decisions in 2025-2026. A Southland wind farm of 250-350 MW was referred on 31 July 2025 and approved on 2 April 2026. Trans-Tasman Resources withdrew its South Taranaki seabed mining application on 19 February 2026, after a draft decision to decline it on 5 February 2026. A Fast-track Approvals Amendment Bill adding an express lane for supermarkets was introduced on 3 November 2025 and passed on 11 December 2025. It also extended panel decision timeframes from 60 to 90 days.",
+   "status": "delivered",
+   "statusReason": "A permanent one-stop-shop regime was legislated within the first term and is issuing decisions, although the final Act differs from the introduced Bill in who makes the decision.",
+   "keyNumber": "One-stop-shop promised -> Act in force 23 Dec 2024 with 149 listed projects",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Fast-track_Approvals_Act_2024",
+    "https://www.fasttrack.govt.nz/projects/southland-wind-farm",
+    "https://en.wikipedia.org/wiki/2026_in_New_Zealand"
+   ],
+   "contested": true,
+   "contestedNote": "Supporters say the regime delivers exactly what was promised, a single consenting pathway with statutory timeframes, and that moving approvals to expert panels strengthened it. Critics say the Government promised, and initially legislated for, ministerial decision-making, and only retreated under public and legal pressure. On that reading the Act that passed is materially different from the one introduced. Others argue the change was a normal select committee improvement rather than a broken promise."
+  },
+  {
+   "id": "rma-national-phase-one-amendments",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023, amend the RMA to make it easier to consent new infrastructure, allow farmers to farm and enable primary industries",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Amend the Resource Management Act 1991 to make it easier to consent new infrastructure including renewable energy, to allow farmers to farm, and to enable aquaculture and other primary industries.",
+   "whatHappened": "Phase one amendments were announced on 23 April 2024 and enacted as the Resource Management (Freshwater and Other Matters) Amendment Act 2024. It received royal assent on 24 October 2024 and commenced the next day. It removed the requirement to give effect to the Te Mana o te Wai hierarchy of obligations when deciding consents. It repealed the intensive winter grazing regulations, and removed freshwater farm plan requirements in five regions. It also eased the section 107 test for discharge permits, and blocked councils from notifying new freshwater plans until a replacement national policy statement was issued or 31 December 2025. The Resource Management (Extended Duration of Coastal Permits for Marine Farms) Amendment Act 2024, enacted 27 August 2024, automatically extended existing marine farm coastal permits by 20 years, capped at 2050. Also in March 2024, councils were told the Significant Natural Areas requirements of the indigenous biodiversity national policy statement would be suspended for three years.",
+   "status": "delivered",
+   "statusReason": "The targeted amendments named in the agreement were passed inside the first year of the term.",
+   "keyNumber": "Phase one amendments -> 2 Acts passed Aug and Oct 2024",
+   "evidenceUrls": [
+    "https://www.dlapiper.com/en/insights/publications/2024/11/legislation-changes-in-resource-management-in-new-zealand",
+    "https://www.simpsongrierson.com/insights-news/legal-updates/rma-amendments-signal-major-change-of-direction-for-freshwater-planning-and-consenting",
+    "https://www.beehive.govt.nz/release/significant-natural-areas-requirement-be-suspended"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-national-phase-two-consenting",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023, amend the RMA to get more houses built; Going for Housing Growth stage one, 4 July 2024",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Change the consenting system so more houses get built. That includes requiring councils to live-zone at least 30 years of feasible housing capacity instead of three, and removing planning rules such as minimum floor areas, balcony requirements and Auckland's Rural-Urban Boundary.",
+   "whatHappened": "Going for Housing Growth stage one was announced on 4 July 2024. The Resource Management (Consenting and Other System Changes) Amendment Act came into force in August 2025. Tier 1 and 2 councils must now zone for at least 30 years of housing demand, using high growth projections. Minimum floor area and balcony requirements were abolished. The NPS-UD was strengthened to require intensification along strategic transport corridors, including key bus routes, and to offset capacity lost to special character areas. Auckland and Christchurch were given bespoke processes to step away from the Medium Density Residential Standards. Work on the remaining pillar one changes for other councils was still going through submissions from the August 2025 consultation as at 2026. In February 2026 Auckland's intensification target was reduced from capacity for 2 million homes to 1.6 million.",
+   "status": "largely",
+   "statusReason": "The main consenting and zoning changes are law and in force. But parts of the package for councils outside Auckland and Christchurch were still in consultation as at August 2026.",
+   "keyNumber": "3 years of live-zoned housing capacity -> 30 years required, in force Aug 2025",
+   "evidenceUrls": [
+    "https://www.hud.govt.nz/our-work/going-for-housing-growth-programme",
+    "https://en.wikipedia.org/wiki/Chris_Bishop"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-national-national-direction-rewrite",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023, replace the National Policy Statement for Freshwater Management 2020 and the National Environmental Standards for Freshwater, and review national direction",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Rewrite the national direction that sits under the resource management system, starting with replacing the National Policy Statement for Freshwater Management 2020 and the freshwater national environmental standards.",
+   "whatHappened": "Cabinet agreed on 14 December 2023 to replace the NPS-FM, and pushed the council notification deadline out from 31 December 2024 to 31 December 2027. Consultation on a large national direction package covering infrastructure, primary industries, freshwater and housing ran to 27 July 2025, with three options offered for rebalancing Te Mana o te Wai. An amended National Policy Statement for Freshwater Management was gazetted in December 2025. New or amended national environmental standards were issued alongside it, including standards enabling detached minor residential units. The wider rewrite is being folded into the national instruments proposed in the Planning and Natural Environment Bills, so the full replacement set was not complete as at August 2026.",
+   "status": "partly",
+   "statusReason": "Some instruments have been amended or replaced, including the freshwater national policy statement in December 2025. But the promised full rewrite of national direction is unfinished, and partly depends on legislation still before Parliament.",
+   "keyNumber": "NPS-FM 2020 replacement promised -> amended NPS-FM gazetted Dec 2025, full package incomplete",
+   "evidenceUrls": [
+    "https://environment.govt.nz/assets/publications/npsfm-2020-amended-december-2025.pdf",
+    "https://www.simpsongrierson.com/insights-news/legal-updates/rma-amendments-signal-major-change-of-direction-for-freshwater-planning-and-consenting",
+    "https://www.russellmcveagh.com/insights-news/fresh-updates-in-the-freshwater-space/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-national-mdrs-optional",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 housing and planning policy, give councils the ability to withdraw from the MDRS while keeping the NPS-UD",
+   "sourceUrl": "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes",
+   "promise": "Give councils the ability to withdraw from the mandatory Medium Density Residential Standards, while keeping the National Policy Statement on Urban Development and requiring councils to zone for growth.",
+   "whatHappened": "The Government announced on 4 July 2024 that the MDRS would become optional, subject to a council ratification vote. Councils choosing to step away would have to zone for 30 years of housing capacity instead. The Resource Management (Consenting and Other System Changes) Amendment Act, in force August 2025, delivered this only for Auckland and Christchurch, through bespoke processes. Other councils could not remove the MDRS under the legislation in force as at August 2026. The wider settings were still working through submissions from the August 2025 consultation. The NPS-UD was kept and strengthened, as promised.",
+   "status": "partly",
+   "statusReason": "Optionality was legislated for two cities and promised for the rest. Most councils still had the standards imposed on them nearly three years into the term.",
+   "keyNumber": "MDRS optional for all councils promised -> opt-out legislated for Auckland and Christchurch only by Aug 2026",
+   "evidenceUrls": [
+    "https://www.hud.govt.nz/our-work/going-for-housing-growth-programme",
+    "https://www.beehive.govt.nz/release/going-housing-growth-stage-one-unveiled"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-act-property-rights-replacement",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023, replace the RMA with new resource management laws premised on the enjoyment of property rights as a guiding principle",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Replace the Resource Management Act 1991 with new resource management laws premised on the enjoyment of property rights as a guiding principle.",
+   "whatHappened": "Labour's replacement statutes were repealed in December 2023 and the RMA 1991 was reinstated. The replacement package released on 9 December 2025 adopts the property rights framing. The new system is built around managing effects on other people's use of their property, and standardised zoning. It also puts an obligation on councils to compensate landowners where planning rules restrict the use of their land. The Planning Bill and Natural Environment Bill passed first reading on 16 December 2025 and went to the Environment Committee. As at August 2026 no replacement statute had been enacted and the RMA 1991 was still the operative law, with the new system scheduled to take effect in 2029.",
+   "status": "in-progress",
+   "statusReason": "The property-rights principle has been carried into the drafted replacement bills. But the laws themselves were not passed as at August 2026, and the term is unfinished.",
+   "keyNumber": "RMA replacement premised on property rights -> bills before select committee Aug 2026, system due 2029",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Resource_Management_Act_1991",
+    "https://en.wikipedia.org/wiki/Chris_Bishop"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-act-mdrs-ratification",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023, legislate to make the MDRS optional for councils, with councils to ratify any use of MDRS including existing zones",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Legislate to make the Medium Density Residential Standards optional for councils, requiring councils to ratify any use of the MDRS including in existing zones.",
+   "whatHappened": "The policy decision to make the MDRS optional, subject to a council ratification vote, was announced on 4 July 2024. The legislation that followed was the Resource Management (Consenting and Other System Changes) Amendment Act, in force from August 2025. It provided bespoke opt-out processes for Auckland and Christchurch only. Councils elsewhere could not remove the standards under the legislation in force as at August 2026. The ratification requirement for existing MDRS zones had not been generally legislated, and the remaining changes were still in consultation.",
+   "status": "partly",
+   "statusReason": "The commitment was legislated for two councils and announced as policy for the rest. The general ratification requirement in the agreement had not been delivered nearly three years in.",
+   "keyNumber": "MDRS ratification for all councils -> delivered for 2 of the affected councils by Aug 2026",
+   "evidenceUrls": [
+    "https://www.hud.govt.nz/our-work/going-for-housing-growth-programme",
+    "https://www.beehive.govt.nz/release/going-housing-growth-stage-one-unveiled"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-nzfirst-planning-law-model",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto, planning legislation",
+   "sourceUrl": "https://www.nzfirst.nz/2023_policies",
+   "promise": "Repeal Labour's planning laws and temporarily reinstate the Resource Management Act. Then replace it with legislation modelled on Ireland's Planning and Development Act and England's Town and Country Planning Act, restricting third party appeals and replacing the Environment Court.",
+   "whatHappened": "The first half was done immediately. The Natural and Built Environment Act and Spatial Planning Act were repealed on 19 December 2023, and the RMA 1991 was reinstated. The replacement was announced in March 2025 and introduced as the Planning Bill and Natural Environment Bill on 16 December 2025. It takes a standardised-zoning and national-instruments approach, with compensation for property rights restrictions, rather than adopting the Irish or English statutes wholesale. No legislation replacing the Environment Court had been passed as at August 2026, and the replacement bills were still before the Environment Committee.",
+   "status": "partly",
+   "statusReason": "The repeal and temporary reinstatement happened as promised. But the specific replacement model, the appeal restrictions and the replacement of the Environment Court had not been enacted as at August 2026.",
+   "keyNumber": "Repeal then replace on the Irish/English model -> repeal done Dec 2023, replacement bills unpassed Aug 2026",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Resource_Management_Act_1991",
+    "https://www.beehive.govt.nz/release/nba-and-spa-successfully-repealed"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "rma-nzfirst-planning-cogovernance",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto, opposition to 50:50 council/iwi planning committees",
+   "sourceUrl": "https://www.nzfirst.nz/2023_policies",
+   "promise": "Stop the co-governance model built into Labour's planning legislation, including the joint council and iwi planning committees created under the new system.",
+   "whatHappened": "The Natural and Built Environment Act and Spatial Planning Act were repealed on 19 December 2023. That removed the regional planning committees and the joint spatial planning committees that included mana whenua representation. The replacement system released on 9 December 2025 keeps a role for iwi in developing national instruments, and retains Treaty settlement protections. It does not restore the joint planning committee structure. Treaty settlement land, protected customary rights areas and iwi aquaculture settlement areas were also expressly excluded from the fast-track regime.",
+   "status": "largely",
+   "statusReason": "The specific committee structures the party objected to were abolished with the repeal, though iwi involvement in the planning system continues in other forms.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Resource_Management_Act_1991",
+    "https://en.wikipedia.org/wiki/Fast-track_Approvals_Act_2024"
+   ],
+   "contested": true,
+   "contestedNote": "NZ First and its supporters describe the repeal as ending co-governance in planning. Critics, including Te Pāti Māori and the Green Party, say iwi and hapū participation rights under Treaty settlements and section 8 of the RMA were never removed. On their reading the change was to the committee structure rather than to the underlying obligations, so how much was undone is disputed."
+  }
+ ]
+}

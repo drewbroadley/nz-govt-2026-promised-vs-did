@@ -1,0 +1,422 @@
+{
+ "areaKey": "housing",
+ "areaLabel": "Housing",
+ "areaBlurb": "Across both eras housing has been the most heavily promised policy area in New Zealand politics: Labour campaigned on building its way out of the crisis and tightening rules on landlords and investors, while the 2023 coalition campaigned on reversing those settings, freeing up land and emptying emergency housing motels.",
+ "promises": [
+  {
+   "id": "housing-labour-kiwibuild",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 manifesto / KiwiBuild campaign policy",
+   "sourceUrl": "https://en.wikipedia.org/wiki/KiwiBuild",
+   "promise": "Build 100,000 affordable homes over 10 years through KiwiBuild, including 1,000 in the first year.",
+   "whatHappened": "KiwiBuild launched in 2018, with $2 billion of capital allocated in December 2017. By 23 January 2019 only 33 homes had been built, and Housing Minister Phil Twyford conceded the 1,000-home first-year target would be missed. On 4 September 2019 incoming Housing Minister Megan Woods announced a 'reset'. It scrapped the 100,000-home target entirely, replacing it with progressive home ownership and lower deposit requirements. About 2,229 KiwiBuild homes had been completed by December 2023.",
+   "status": "not-delivered",
+   "statusReason": "The promising party formally abandoned the headline target in 2019, and delivery reached roughly 2 per cent of the promised number by the end of the term.",
+   "keyNumber": "100,000 homes over 10 years -> approx 2,229 completed by Dec 2023",
+   "evidenceUrls": [
+    "https://www.nzherald.co.nz/nz/kiwibuild-reset-government-axes-its-100000-homes-over-10-years-target/AP2SYCESGXEEE6A3GWOOSDWM7Y/",
+    "https://www.stuff.co.nz/national/politics/300347258/kiwibuild-reaches-first-target--two-years-late-15000-homes-behind-schedule"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-labour-foreign-buyer-ban",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 campaign commitment to ban non-resident foreign buyers of existing homes",
+   "sourceUrl": "https://www.cnbc.com/2017/10/25/new-zealand-property-ban-to-take-effect-on-foreign-buyers.html",
+   "promise": "Ban non-resident overseas buyers from buying existing residential homes in New Zealand.",
+   "whatHappened": "The Overseas Investment Amendment Bill was introduced on 14 December 2017, passed its third reading on 15 August 2018 and received Royal assent on 22 August 2018. It took effect on 22 October 2018. It reclassified existing residential land as 'sensitive land', so most people who are not New Zealand citizens or permanent-resident-visa holders can no longer buy an existing house. Australian and Singaporean citizens are exempt under trade arrangements, and overseas persons may still buy to develop new housing.",
+   "status": "delivered",
+   "statusReason": "Legislated and in force within the first year of the term, substantially as promised, with the trade-treaty exemptions that were flagged at the time.",
+   "keyNumber": "Ban promised -> in force 22 Oct 2018 (Australia and Singapore exempt)",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Overseas_Investment_Amendment_Act_2018"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-labour-healthy-homes",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 manifesto / Healthy Homes Guarantee Bill",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Healthy_Homes_Guarantee_Act_2017",
+   "promise": "Require every rental home to be warm and dry, by setting enforceable minimum standards for heating, insulation, ventilation, moisture and draught stopping.",
+   "whatHappened": "The Healthy Homes Guarantee Act passed its third reading 63-57 on 29 November 2017 and received Royal assent on 4 December 2017. The detailed Healthy Homes Standards regulations came into force on 1 July 2019. Compliance was phased: boarding houses from 1 July 2021, Kāinga Ora and registered community housing providers from 1 July 2024, and all private rentals by 1 July 2025. That last date was pushed back during the term from the original 1 July 2024 final deadline. Ceiling-insulation exemptions were reinstated for some homes from 25 September 2025.",
+   "status": "largely",
+   "statusReason": "The legislation and standards were delivered early in the term. But the deadline for full private-rental compliance was extended, and fell after the promising government left office.",
+   "keyNumber": "All rentals compliant by 1 July 2024 -> final private-rental deadline moved to 1 July 2025",
+   "evidenceUrls": [
+    "https://www.hud.govt.nz/our-work/healthy-homes-standards",
+    "https://www.tenancy.govt.nz/about-tenancy-services/news/healthy-homes-standards-final-deadline-1-july-2025/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-labour-public-homes-18000",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 election platform, public housing build programme",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+   "promise": "Deliver 18,000 additional public and transitional housing places by 2024.",
+   "whatHappened": "By June 2023 the Government reported a net increase of 12,017 public homes since October 2017, 9,917 of them new builds. That took total public homes to 78,251, plus more than 4,000 additional transitional housing places, with over 4,500 public housing places under construction. Budget 2023 funded a further 3,000 public homes by June 2025. Demand outstripped supply: the social housing register stood at 25,483 applicants in late 2023, well above 2017 levels.",
+   "status": "largely",
+   "statusReason": "The build programme was the largest since the 1970s, and the combined public plus transitional total was close to the 18,000 places promised. But it did not arrest growth in the waiting list.",
+   "keyNumber": "18,000 public and transitional places by 2024 -> 12,017 net additional public homes plus 4,000+ transitional places by June 2023",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/labour-delivers-12000-more-public-homes",
+    "https://www.beehive.govt.nz/release/more-social-homes-better-targeted"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-labour-tenancy-security",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour renters policy (2017 and 2020 terms), restated in Labour's 2023 housing platform",
+   "sourceUrl": "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes",
+   "promise": "Reform the Residential Tenancies Act to improve security of tenure for renters, including removing no-cause terminations and limiting rent increases.",
+   "whatHappened": "The Residential Tenancies Amendment Act 2020 removed the landlord's ability to end a periodic tenancy without giving a reason. It also eliminated rental bidding and limited rent increases to once every 12 months. The changes took effect during the 2020-2023 term and remained in force at the October 2023 handover. The incoming government reversed them from 30 January 2025.",
+   "status": "delivered",
+   "statusReason": "The promised statutory changes were enacted and in force for the rest of the term. A different government reversed them later.",
+   "keyNumber": "No-cause terminations removed and rent rises limited to once a year -> both enacted in 2020",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+    "https://www.hud.govt.nz/our-work/residential-tenancies-amendment-act-2024"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-greens-homes-for-all",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "manifesto",
+   "sourceDoc": "Green Party 2020 'Homes for All' housing policy, released 9 August 2020",
+   "sourceUrl": "https://www.interest.co.nz/property/106435/greens-borrow-5-billion-more-build-5000-homes-year-and-clear-social-housing-list",
+   "promise": "Build 5,000 new public and community homes a year, lift Kāinga Ora's borrowing cap from $7.1 billion to $12 billion, and clear the social housing waiting list within five years.",
+   "whatHappened": "The Labour-led government the Greens supported did not adopt the policy. Public housing delivery ran at roughly 2,000 net additional homes a year rather than 5,000. The net increase was 12,017 public homes over the six years to June 2023. The social housing register was not cleared. It stood at 25,483 applicants in late 2023, higher than when the policy was announced.",
+   "status": "not-delivered",
+   "statusReason": "None of the three parts was achieved: the annual build rate, the borrowing cap change, or the waiting-list target. The Greens did not hold the housing portfolio in Cabinet.",
+   "keyNumber": "5,000 homes a year and waiting list cleared by 2025 -> approx 2,000 a year, register at 25,483 in late 2023",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/labour-delivers-12000-more-public-homes",
+    "https://www.beehive.govt.nz/release/more-social-homes-better-targeted"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-greens-rent-to-own",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Party Confidence and Supply Agreement, October 2017",
+   "sourceUrl": "https://www.interest.co.nz/news/90522/greens-outline-confidence-and-supply-agreement-new-government-which-includes-20-policy",
+   "promise": "Develop a rent-to-own scheme or similar progressive home ownership models as part of the KiwiBuild programme, with a set allocation of KiwiBuild homes.",
+   "whatHappened": "No dedicated rent-to-own allocation was carved out of KiwiBuild as originally described. The September 2019 KiwiBuild reset instead introduced alternative ownership products, including rent-to-own style models and a reduced 5 per cent deposit requirement. A separate Progressive Home Ownership Fund, with the First Home Partner shared-equity scheme, was established from 2020. Volumes under these schemes were small next to the KiwiBuild programme.",
+   "status": "partly",
+   "statusReason": "Progressive home ownership products were created, but not as a defined allocation within KiwiBuild, and at modest scale.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/KiwiBuild",
+    "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-nzfirst-overseas-investment-register",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement, 24 October 2017",
+   "sourceUrl": "https://www.nzherald.co.nz/nz/labour-nz-first-coalition-at-a-glance/OGW5YCYCI4D4AHS6YIS64UKZNA/",
+   "promise": "Strengthen the Overseas Investment Act and create a comprehensive register of foreign-owned land and housing.",
+   "whatHappened": "The Overseas Investment Amendment Act 2018 received Royal assent on 22 August 2018 and took effect on 22 October 2018. It made existing residential land 'sensitive' and in practice barred most non-resident foreign buyers, with penalties of up to $20,000 for non-compliance. A single comprehensive public register of foreign-owned land and housing was not established as a standalone instrument. Monitoring continued through existing Overseas Investment Office consent records and Statistics New Zealand property transfer data.",
+   "status": "largely",
+   "statusReason": "The main limb, strengthening the Overseas Investment Act, was delivered in full early in the term. The separate comprehensive register was not created as described.",
+   "keyNumber": "Two commitments -> ban delivered Oct 2018, comprehensive foreign ownership register not established",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Overseas_Investment_Amendment_Act_2018"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-national-interest-deductibility",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 election housing and tax policy",
+   "sourceUrl": "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes",
+   "promise": "Restore full interest deductibility for residential rental property owners, reversing Labour's 2021 interest limitation rules.",
+   "whatHappened": "Finance Minister Nicola Willis confirmed the commitment in December 2023. On 10 March 2024 the Government announced the phasing: 80 per cent of interest expenses deductible from 1 April 2024, and 100 per cent from 1 April 2025. The change was legislated and took effect on those dates.",
+   "status": "delivered",
+   "statusReason": "Full deductibility was restored on the announced timetable within the term.",
+   "keyNumber": "Full deductibility restored -> 80% from 1 Apr 2024, 100% from 1 Apr 2025",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/government-agrees-restore-interest-deductions",
+    "https://www.beehive.govt.nz/release/first-steps-tax-and-income-relief-announced"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-national-brightline-two-years",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 election housing and tax policy",
+   "sourceUrl": "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes",
+   "promise": "Reduce the bright-line test on residential property from 10 years back to two years.",
+   "whatHappened": "The Government announced in December 2023 that the bright-line test would return to two years from 1 July 2024. The change was legislated and took effect on that date. Properties sold from 1 July 2024 are only caught if held for less than two years.",
+   "status": "delivered",
+   "statusReason": "Delivered in full and on the date announced.",
+   "keyNumber": "10 years -> 2 years from 1 July 2024",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/first-steps-tax-and-income-relief-announced"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-national-no-cause-terminations",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 election housing policy",
+   "sourceUrl": "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes",
+   "promise": "Bring back 90-day no-cause terminations for periodic tenancies, and remove the automatic rollover of fixed-term tenancies.",
+   "whatHappened": "The Residential Tenancies Amendment Act 2024 was passed, and the main changes took effect on 30 January 2025. Landlords can again end a periodic tenancy with 90 days' notice and no stated ground. Notice for specified grounds fell to 42 days, and tenant notice to 21 days. Either party can end a fixed-term tenancy at expiry with between 90 and 21 days' notice and no reason required. This applies to fixed terms expiring on or after 1 May 2025.",
+   "status": "delivered",
+   "statusReason": "Both limbs were legislated and in force within about 14 months of taking office.",
+   "keyNumber": "90-day no-cause notice restored -> in force 30 Jan 2025",
+   "evidenceUrls": [
+    "https://www.hud.govt.nz/our-work/residential-tenancies-amendment-act-2024"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-national-foreign-buyer-tax",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 tax plan, announced 30 August 2023",
+   "sourceUrl": "https://www.nzherald.co.nz/nz/politics/election-2023-national-tax-cuts-luxon-unveils-146b-plan-foreign-homebuyers-to-foot-bill/IMWYSQWTB5ELVFJLRNSJL4XTR4/",
+   "promise": "Allow foreign buyers to buy homes worth more than $2 million, taxed at 15 per cent, raising around $700 million a year to help fund tax cuts.",
+   "whatHappened": "The policy was dropped in the November 2023 coalition negotiations after NZ First refused to accept it, and the tax package was refinanced from other sources. A narrower change was made later. Parliament passed amendments under urgency in December 2025. They allow holders of the Active Investor Plus 'golden visa', who invest at least $5 million, to buy or build a home, effective early 2026. Officials estimated only about 5,000 to 6,000 properties nationally sit above the $5 million threshold, under 0.5 per cent of housing stock.",
+   "status": "superseded",
+   "statusReason": "The manifesto policy was abandoned in coalition negotiation before the Government took office. The later $5 million investor-visa change is a materially narrower policy.",
+   "keyNumber": "$2m threshold with 15% tax and approx $700m a year -> dropped; $5m threshold for investor-visa holders from early 2026, no 15% tax",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/political/582054/what-changes-to-new-zealand-s-foreign-buyers-real-estate-ban-will-mean",
+    "https://en.wikipedia.org/wiki/Overseas_Investment_Amendment_Act_2018"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-national-first-home-grant",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 election housing policy (support for retaining the First Home Grant)",
+   "sourceUrl": "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes",
+   "promise": "Retain the First Home Grant for first-home buyers (in contrast to ACT, which campaigned to abolish it).",
+   "whatHappened": "On 22 May 2024, as part of Budget 2024, the Government announced the immediate abolition of the First Home Grant. Kāinga Ora stopped accepting new applications from that date, though existing applications were processed. Housing Minister Chris Bishop said the grant was an expensive and inefficient way to support first home buyers. Its value had fallen from nearly 10 per cent of a standard deposit in 2010 to just over 4 per cent in 2024. The change saved $245 million over the four-year forecast period. Of that, $140 million was redirected to about 1,500 new social housing places delivered by community housing providers. The First Home Loan was retained.",
+   "status": "abandoned",
+   "statusReason": "The scheme National said it would keep was scrapped by National in its first Budget, six months into the term.",
+   "keyNumber": "First Home Grant retained -> abolished 22 May 2024; $245m of savings, $140m redirected to approx 1,500 social homes",
+   "evidenceUrls": [
+    "https://www.1news.co.nz/2024/05/22/budget-2024-first-home-grant-cut-1500-social-homes-in-its-place/",
+    "https://www.interest.co.nz/property/127882/k%C4%81inga-ora-will-not-accept-any-new-applications-first-home-grant-which-will-be"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-national-mdrs-optional",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 housing policy and National-ACT coalition agreement (flexibility of the Medium Density Residential Standards)",
+   "sourceUrl": "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes",
+   "promise": "Allow councils to opt out of the mandatory Medium Density Residential Standards, while requiring them to zone for housing growth.",
+   "whatHappened": "Going for Housing Growth stage one was announced on 4 July 2024. The MDRS would become optional, subject to a council ratification vote. Tier 1 and 2 councils would have to live-zone at least 30 years of feasible housing capacity, up from three years. Minimum floor area and balcony rules would be abolished, and Auckland's Rural-Urban Boundary removed. The Resource Management (Consenting and Other System Changes) Amendment Act came into force in August 2025. It provides a process for Auckland and Christchurch to opt out of the MDRS. The wider Pillar 1 package for other councils was still being consulted on and legislated as at August 2026. A submissions summary is due later in 2026.",
+   "status": "partly",
+   "statusReason": "Auckland and Christchurch were enabled to opt out, and the policy framework is set. But the general opt-out and the 30-year zoning obligations were not yet law for most councils at August 2026, and the term is unfinished.",
+   "keyNumber": "MDRS optional for all councils -> opt-out enacted for Auckland and Christchurch (Aug 2025); wider changes still in progress",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/going-housing-growth-stage-one-unveiled",
+    "https://www.hud.govt.nz/our-work/going-for-housing-growth-programme"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-national-emergency-housing-target",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition Government Targets, announced 2024",
+   "sourceUrl": "https://www.beehive.govt.nz/release/emergency-housing-target-achieved-five-years-early",
+   "promise": "Reduce the number of households living in emergency housing motels by 75 per cent by 2030.",
+   "whatHappened": "Households in emergency housing motels fell from a peak of 4,983 in November 2021, and 3,141 in December 2023, to 591 in December 2024. That is an 81 per cent reduction against the December 2023 baseline. The Government announced on 24 January 2025 that the target had been met five years early. Numbers fell further, to 471 households by May 2026. The reduction followed the Priority One policy for families with children, tighter eligibility gateways and expanded social housing supply. In August 2026 the Ministry of Social Development removed the emergency-housing reduction measures from regional performance letters. It said numbers were expected to stay broadly stable.",
+   "status": "delivered",
+   "statusReason": "The stated numeric target was met, and exceeded, five years ahead of the deadline.",
+   "keyNumber": "75% reduction by 2030 -> 3,141 households (Dec 2023) to 591 (Dec 2024) and 471 (May 2026)",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/emergency-housing-target-achieved-five-years-early",
+    "https://newswire.co.nz/2026/06/labour-scrap-emergency-housing-targets/",
+    "https://www.scoop.co.nz/stories/PO2608/S00046/performance-targets-linked-to-reducing-emergency-housing-numbers-dropped.htm"
+   ],
+   "contested": true,
+   "contestedNote": "The Government says the fall reflects people moving into stable housing, supported by more social homes and Housing First places. It points to $24.5 million for homelessness services and 300 new Housing First placements. Critics, including the Auckland City Mission, opposition parties and frontline charities, say the target gave Ministry of Social Development staff an incentive to decline applications. The City Missioner described staff as 'perversely incentivised to say no'. Critics also say rough sleeping rose over the same period. MSD dropped the related staff performance measures in August 2026. Both readings accept the headline motel numbers. They differ on where the people went."
+  },
+  {
+   "id": "housing-national-kainga-ora-review",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition Government commitment to an independent review of Kāinga Ora, announced December 2023",
+   "sourceUrl": "https://www.hud.govt.nz/news/government-releases-the-independent-review-of-kainga-ora",
+   "promise": "Conduct an independent review of Kāinga Ora's financial situation, procurement and asset management, and act on its findings.",
+   "whatHappened": "The review was commissioned in December 2023 and released on 20 May 2024. It was led by Sir Bill English with Ceinwen McNeill and Simon Allen. It found the agency was underperforming and not financially viable without significant savings. It also found debt had risen from $2.3 billion in 2017/18 to $16.5 billion in 2023/24. Cabinet reconstituted the board, appointing Simon Moutter as chair from 4 June 2024. It also issued a new Letter of Expectations and required a turnaround plan, which was released 4 February 2025. In 2024/25 Kāinga Ora delivered $211 million of operating savings against a $41 million target, and 2,564 net new homes against a 2,230 target. Peak debt forecasts were cut from about $29 billion to $19.5 billion by 2029/30. Around 321 jobs were cut in September 2024.",
+   "status": "delivered",
+   "statusReason": "The review was commissioned, completed, published and acted on within the term, with a published turnaround plan and reported results against it.",
+   "keyNumber": "Independent review promised -> delivered May 2024; peak debt forecast cut from approx $29b to $19.5b by 2029/30",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/turnaround-plan-get-k%C4%81inga-ora-back-track",
+    "https://www.beehive.govt.nz/release/k%C4%81inga-ora%E2%80%99s-turnaround-plan-working"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-national-granny-flats",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition Government policy programme, granny flats consent exemption (announced 2024)",
+   "sourceUrl": "https://www.mbie.govt.nz/about/news/granny-flats-exemption-in-place-from-early-2026",
+   "promise": "Allow a granny flat of up to 70 square metres to be built without a building consent or a resource consent.",
+   "whatHappened": "The Building and Construction (Small Standalone Dwellings) Bill passed on 23 October 2025. It created a building consent exemption for simple standalone dwellings of up to 70 square metres that comply with the Building Code and are built by authorised building professionals. The council must be notified before and after the work. A National Environmental Standard for Detached Minor Residential Units removed the resource consent requirement, and the combined regime was in place from January 2026. On 28 April 2026 the Government announced further changes, to allow off-site construction before a Project Information Memorandum is issued and to cover CodeMark-certified structural insulated panels. These are to be made by Order in Council in the third quarter of 2026. MBIE reported more than 52,000 downloads of the guidance within months.",
+   "status": "delivered",
+   "statusReason": "Both the building and resource consent exemptions were legislated and in force, at the promised 70 square metre size.",
+   "keyNumber": "70 sqm granny flats consent-free -> in force January 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/updated-granny-flat-rules-increase-choice",
+    "https://www.mbie.govt.nz/about/news/granny-flats-exemption-in-place-from-early-2026"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-act-first-home-grant-abolish",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "manifesto",
+   "sourceDoc": "ACT 2023 election housing policy",
+   "sourceUrl": "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes",
+   "promise": "Abolish the First Home Grant and the progressive home ownership scheme.",
+   "whatHappened": "Budget 2024, announced on 22 May 2024, scrapped the First Home Grant with immediate effect, and Kāinga Ora accepted no new applications from that date. The change saved $245 million over four years, with $140 million redirected to around 1,500 community housing provider social homes. The First Home Loan was retained. Progressive home ownership funding was later folded into the Government's contestable Flexible Fund arrangements.",
+   "status": "delivered",
+   "statusReason": "The First Home Grant, the central element of the policy, was abolished in the Government's first Budget.",
+   "keyNumber": "First Home Grant abolished -> closed to new applicants 22 May 2024",
+   "evidenceUrls": [
+    "https://www.1news.co.nz/2024/05/22/budget-2024-first-home-grant-cut-1500-social-homes-in-its-place/",
+    "https://www.interest.co.nz/property/127882/k%C4%81inga-ora-will-not-accept-any-new-applications-first-home-grant-which-will-be"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-act-pet-bonds",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "manifesto",
+   "sourceDoc": "ACT 2023 election housing policy (adopted in the National-ACT coalition agreement)",
+   "sourceUrl": "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes",
+   "promise": "Allow landlords to charge a pet bond, so that more rentals will accept pets.",
+   "whatHappened": "The Residential Tenancies Amendment Act 2024 introduced pet provisions that took effect on 1 December 2025. Landlords may require a pet bond of up to two weeks' rent. Tenants must get written consent to keep a pet, and a landlord may refuse only on reasonable grounds.",
+   "status": "delivered",
+   "statusReason": "Legislated as promised, in force from 1 December 2025.",
+   "keyNumber": "Pet bond allowed -> up to 2 weeks' rent from 1 Dec 2025",
+   "evidenceUrls": [
+    "https://www.hud.govt.nz/our-work/residential-tenancies-amendment-act-2024",
+    "https://www.nzherald.co.nz/nz/new-government-coalition-details-at-a-glance-what-you-need-to-know/FBTX3E6HXREFXDTOA6AA5K7IUQ/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-act-abolish-brightline",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "manifesto",
+   "sourceDoc": "ACT 2023 election housing and tax policy",
+   "sourceUrl": "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes",
+   "promise": "Eliminate the bright-line test on residential property entirely.",
+   "whatHappened": "The coalition adopted National's policy instead. The bright-line test was reduced from 10 years to two years with effect from 1 July 2024, but was not abolished. Sales within two years of purchase remain taxable. No proposal to remove the test altogether was advanced during the term.",
+   "status": "not-delivered",
+   "statusReason": "The test was shortened rather than eliminated, so ACT's specific promise did not happen.",
+   "keyNumber": "Bright-line abolished -> reduced to 2 years, still in force at Aug 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/first-steps-tax-and-income-relief-announced"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "housing-nzfirst-density-rules",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "NZ First 2023 election housing policy",
+   "sourceUrl": "https://thespinoff.co.nz/politics/12-10-2023/election-2023-the-housing-policies-in-two-minutes",
+   "promise": "Oppose and unwind the National Policy Statement on Urban Development and the Medium Density Residential Standards.",
+   "whatHappened": "The MDRS were made optional in policy from July 2024. The Resource Management (Consenting and Other System Changes) Amendment Act, in force August 2025, gave Auckland and Christchurch a route to opt out. Further changes for other councils were still in the legislative pipeline at August 2026. The coalition kept the NPS-UD, retaining and in places strengthening intensification requirements, and added obligations to zone 30 years of housing capacity. A replacement planning system to succeed the Resource Management Act was announced in December 2025.",
+   "status": "partly",
+   "statusReason": "The MDRS limb was largely advanced. But the NPS-UD was kept rather than removed, and intensification obligations on councils were extended.",
+   "keyNumber": "Remove NPS-UD and MDRS -> MDRS made optional for Auckland and Christchurch; NPS-UD retained",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/going-housing-growth-stage-one-unveiled",
+    "https://www.hud.govt.nz/our-work/going-for-housing-growth-programme"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-greens-homelessness-action-plan",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Greens Cooperation Agreement 2020, action on homelessness, with Marama Davidson as Associate Minister of Housing (Homelessness)",
+   "sourceUrl": "https://www.scoop.co.nz/stories/PA2010/S00117/cooperation-agreement-between-the-nz-labour-party-and-the-green-party-of-aotearoa-nz.htm",
+   "promise": "Take action on homelessness through the Aotearoa New Zealand Homelessness Action Plan, a cross-agency plan backed by over $300 million. It committed to 1,000 additional transitional housing places and 18 immediate actions.",
+   "whatHappened": "The plan was launched on 13 February 2020 with over $300 million in extra funding. It committed to 1,000 additional transitional housing places by the end of 2020, on top of more than 1,300 already created. Marama Davidson took the Homelessness portfolio in November 2020. The second progress report, released 15 May 2021, recorded 1,005 transitional housing places delivered as at February 2021. It also recorded about $4 million through the Local Innovation Fund for seven initiatives, 37 projects funded through He Taupua, and 342 households engaged in a rapid rehousing pilot with 140 housed. All 18 immediate actions got under way. Against that, households in emergency housing motels and the number on the public housing register both rose sharply over the term. The 2023 Census recorded continued severe housing deprivation.",
+   "status": "largely",
+   "statusReason": "The named plan and its numeric transitional housing target were delivered on time. But homelessness, as measured by emergency housing and register numbers, rose across the term.",
+   "keyNumber": "1,000 additional transitional housing places by end 2020 -> 1,005 delivered as at February 2021",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/government-steps-action-prevent-homelessness",
+    "https://www.scoop.co.nz/stories/PA2105/S00131/report-shows-progress-on-homelessness-action-plan.htm",
+    "https://www.hud.govt.nz/our-work/aotearoa-new-zealand-homelessness-action-plan-2020-2023"
+   ],
+   "contested": true,
+   "contestedNote": "Supporters point out the plan's own targets were met or exceeded, and that it was the first cross-agency homelessness plan. Critics note the plan's stated purpose was to reduce homelessness. They point out that emergency housing motel numbers and the public housing register both grew sharply while it was in force."
+  }
+ ]
+}

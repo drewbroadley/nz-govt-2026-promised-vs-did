@@ -1,0 +1,369 @@
+{
+ "areaKey": "environment",
+ "areaLabel": "Environment & Conservation",
+ "areaBlurb": "Freshwater rules, indigenous biodiversity protection, marine sanctuaries, waste policy and the consenting system were rebuilt under the 2017-2023 Labour-led government and then substantially unwound or redirected by the National-led coalition from 2023, making this one of the sharpest policy reversals of the two eras.",
+ "promises": [
+  {
+   "id": "environment-labour-freshwater-standards",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, item 47, higher water quality standards",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Introduce higher water quality standards for New Zealand's rivers, lakes and aquifers.",
+   "whatHappened": "The Action for Healthy Waterways / Essential Freshwater package was launched on 5 September 2019. Four instruments were gazetted and came into force on 3 September 2020: the National Policy Statement for Freshwater Management 2020, National Environmental Standards for Freshwater, stock exclusion regulations, and amended water measurement and reporting regulations. The NPS-FM 2020 introduced Te Mana o te Wai and a hierarchy of obligations, putting the health of water bodies first, human health second and economic use third. Some proposals were scaled back in the final package: stream reclamation assessments were made less stringent, controls on higher-risk farming were narrowed mainly to feedlots and dairy intensification, and specified vegetable growing areas in Pukekohe and Horowhenua received exemptions. Regional councils were required to notify freshwater plans by 31 December 2024, a deadline none met before the change of government.",
+   "status": "largely",
+   "statusReason": "A new national freshwater framework covering the whole system was gazetted within the term. But several proposals were weakened, and on-the-ground implementation by councils was still years away.",
+   "keyNumber": "Higher water quality standards -> NPS-FM 2020 and NES-Freshwater in force 3 Sept 2020",
+   "evidenceUrls": [
+    "https://www.russellmcveagh.com/insights-news/fresh-updates-in-the-freshwater-space/",
+    "https://environment.govt.nz/assets/publications/npsfm-2020-amended-december-2025.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "environment-labour-doc-funding",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, item 42, significantly increase Department of Conservation funding",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Significantly increase the Department of Conservation's funding.",
+   "whatHappened": "DOC received funding increases in successive Budgets: about $181.62 million in Budget 2018, a further $10.7 million in Budget 2019, and $501.8 million in Budget 2020. The last of these came largely through Jobs for Nature nature-based employment funding in the COVID-19 response. Much of the 2020 uplift was time-limited rather than baseline funding, and Jobs for Nature contracts began winding down from 2023. Under the following government, DOC's baseline was reduced by about $8 million a year of ongoing savings in Budget 2025, including closure of the Nature Heritage Fund and the Crown Land Acquisition Fund.",
+   "status": "delivered",
+   "statusReason": "Conservation funding rose substantially in every Budget of the term, which is what the commitment asked for.",
+   "keyNumber": "Significantly increase DOC funding -> approx $181.6m (2018), $10.7m (2019) and $501.8m (2020) in new funding",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+    "https://www.doc.govt.nz/news/budget/budget-2025-overview/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "environment-labour-kauri-dieback-myrtle-rust",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, items 44b and 44c, counter myrtle rust and address kauri dieback",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Fund work to counter the spread of myrtle rust and to address kauri dieback disease.",
+   "whatHappened": "On 20 November 2018 the Government announced $13.75 million over three years for research into myrtle rust and kauri dieback. A National Pest Management Plan for kauri dieback was then developed, and Tiakina Kauri was set up within Biosecurity New Zealand as a dedicated kauri protection agency. Protecting kauri was carried into the 2020 Labour-Greens cooperation agreement as a shared biodiversity commitment.",
+   "status": "delivered",
+   "statusReason": "Dedicated funding and a national management programme for both diseases were established within the term.",
+   "keyNumber": "Kauri dieback and myrtle rust response -> $13.75m over three years announced 20 Nov 2018",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+    "https://www.interest.co.nz/news/107748/proposed-cooperation-agreement-between-labour-and-greens-released-greens-delegates"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "environment-nzf-bottled-water-royalty",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, item 46, royalty on exports of bottled water",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Introduce a royalty on exports of bottled water.",
+   "whatHappened": "A technical advisory group was set up and officials worked on options, but Cabinet had made no decision by March 2019 and no royalty was introduced. The commitment did not survive into the 2020-2023 term, when NZ First was out of Parliament, and no water export royalty has been legislated. The related commitment not to introduce water resource rentals during the 2017-2020 term was kept.",
+   "status": "not-delivered",
+   "statusReason": "No royalty was introduced at any point in the term, despite the explicit coalition commitment.",
+   "keyNumber": "Royalty on bottled water exports -> none introduced",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "environment-nzf-no-water-resource-rentals",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, item 45, no water resource rentals this term",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Introduce no water resource rentals during the 2017-2020 parliamentary term.",
+   "whatHappened": "On 17 April 2019 the Government confirmed it would not introduce water resource rentals during the term. Water allocation and charging were left to be dealt with separately. The Essential Freshwater package that followed in 2020 regulated water quality and use without imposing rentals or charges on takes.",
+   "status": "delivered",
+   "statusReason": "No water resource rentals were introduced during the term, as committed.",
+   "keyNumber": "No water resource rentals this term -> none introduced, confirmed 17 April 2019",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "environment-nzf-1080-alternatives",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, item 44a, pilot alternatives to 1080",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Increase support for pilot programmes trialling alternatives to 1080 for predator control.",
+   "whatHappened": "On 19 February 2019 the Government allocated $19.5 million from the Provincial Growth Fund to Predator Free 2050 Limited, for innovative predator control tools and landscape-scale eradication projects. Trap networks, self-resetting traps, lures and detection technology were funded alongside continued 1080 use, which was not reduced. The National-led government later disestablished Predator Free 2050 Limited in May 2025, absorbing its functions into DOC and booking about $3.6 million a year of savings.",
+   "status": "delivered",
+   "statusReason": "Dedicated funding for alternative predator-control tools was allocated within the term as promised, though 1080 use continued.",
+   "keyNumber": "Pilot alternatives to 1080 -> $19.5m from the Provincial Growth Fund, Feb 2019",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+    "https://www.doc.govt.nz/news/budget/budget-2025-overview/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "environment-nzf-tyre-stewardship",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, item 43, establish a tyre stewardship fund",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Establish a tyre stewardship fund to deal with end-of-life tyres.",
+   "whatHappened": "On 29 July 2020 the Government declared tyres a priority product under the Waste Minimisation Act 2008, which requires a regulated product stewardship scheme. Tyres were one of six priority products declared at the same time. The accredited scheme, Tyrewise, began operating with fees on imported tyres from 2024, several years after the declaration.",
+   "status": "delivered",
+   "statusReason": "The regulatory step promised (a mandatory tyre stewardship scheme) was taken within the term.",
+   "keyNumber": "Tyre stewardship scheme -> tyres declared a priority product 29 July 2020",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "environment-nzf-kermadec-sanctuary",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, item 48, resolve the outstanding issues with the Kermadec Ocean Sanctuary Bill",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Resolve the outstanding issues preventing passage of the Kermadec Ocean Sanctuary Bill. The bill would create a 620,000 square kilometre fully protected sanctuary covering about 15 percent of New Zealand's exclusive economic zone.",
+   "whatHappened": "The previous National government introduced the bill after John Key's 2015 announcement. It had passed its second reading and then stalled over fishing quota rights and Treaty settlement obligations. It made no progress through the 2017-2020 term. Iwi leaders rejected a revised Labour proposal in June 2023, and a last-ditch ministerial push in August 2023 failed before the election. On 28 March 2024 the incoming coalition formally scrapped all work on the legislation, with Fisheries Minister Shane Jones describing it as a 620,000 square kilometre economic no-go zone. The existing 12-nautical-mile Kermadec marine reserve remains.",
+   "status": "not-delivered",
+   "statusReason": "The outstanding issues were never resolved and the bill did not pass during the term.",
+   "keyNumber": "620,000 sq km ocean sanctuary -> not enacted; bill abandoned 28 March 2024",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/political/512889/government-halts-plan-for-kermadec-ocean-sanctuary",
+    "https://www.rnz.co.nz/news/te-manu-korihi/313303/govt-to-delay-kermadec-ocean-sanctuary-bill"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "environment-greens-biodiversity-waste",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Greens Cooperation Agreement 2020, protecting our environment and biodiversity through Te Mana o te Taiao, protecting kauri, building on pest management programmes, and taking action to minimise waste and problem plastics",
+   "sourceUrl": "https://www.interest.co.nz/news/107748/proposed-cooperation-agreement-between-labour-and-greens-released-greens-delegates",
+   "promise": "Work to achieve the outcomes of Te Mana o te Taiao, the Aotearoa New Zealand Biodiversity Strategy 2020. Protect kauri, build on pest management programmes, and act to minimise waste and problem plastics.",
+   "whatHappened": "Te Mana o te Taiao was published in 2020, with an implementation plan in 2022, but it is a non-statutory strategy without binding targets. Predator Free 2050 and Jobs for Nature funding continued, and a kauri dieback National Pest Management Plan was made. On waste, the Government legislated a phased expansion and increase of the waste disposal levy, and standardised kerbside recycling. But the container return scheme announced in March 2022, a 20 cent deposit expected to cut beverage container litter by more than half, was dropped in 2023 before legislation, despite 98 percent support in public consultation. A staged ban on some single-use plastics proceeded, but later stages were revisited. Predator Free 2050 Limited was disestablished in May 2025, and DOC's baseline was cut by about $8 million a year in Budget 2025.",
+   "status": "partly",
+   "statusReason": "Strategy documents, pest programmes and kerbside recycling reform were delivered. But the flagship waste measure, the container return scheme, was abandoned, and the biodiversity strategy carried no binding targets.",
+   "keyNumber": "Container return scheme with 20c deposit -> proposed March 2022, dropped 2023 without legislation",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/national/463243/government-plans-to-shake-up-new-zealand-s-inadequate-waste-recycling",
+    "https://zerowaste.co.nz/container-return-scheme/",
+    "https://en.wikipedia.org/wiki/Predator_Free_2050"
+   ],
+   "contested": true,
+   "contestedNote": "The Greens and Labour point to Jobs for Nature, kerbside standardisation and the biodiversity strategy as substantive delivery. Critics note the strategy was non-binding, the container return scheme was designed and then shelved, and no measurable reversal of biodiversity decline occurred within the term."
+  },
+  {
+   "id": "environment-national-replace-npsfm",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First and National-ACT Coalition Agreements 2023, replace the National Policy Statement for Freshwater Management 2020",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Replace the National Policy Statement for Freshwater Management 2020 with provisions that better reflect the interests of all water users and rebalance Te Mana o te Wai. Exempt or relieve councils from NPS-FM 2020 obligations as soon as practicable.",
+   "whatHappened": "On 14 December 2023 Cabinet agreed to replace the NPS-FM. It said the work would take 18-24 months, and pushed the council notification deadline out from 31 December 2024 to 31 December 2027. The Resource Management (Freshwater and Other Matters) Amendment Act 2024, in force from 25 October 2024, barred consent authorities from applying the Te Mana o te Wai hierarchy of obligations when deciding consents. It also removed freshwater farm plan requirements in five regions and eased section 107 discharge permit tests. Consultation on the replacement national direction ran to 27 July 2025, with three options for Te Mana o te Wai, including removing it entirely. As at the December 2025 reprint, the NPS-FM 2020 remained in force with Te Mana o te Wai and the hierarchy still in the document, amended only to add operational need for quarrying and mining.",
+   "status": "partly",
+   "statusReason": "The hierarchy has been disapplied from consenting and council deadlines deferred. But the promised replacement national policy statement had not been gazetted as at the most recent published version of the NPS-FM 2020.",
+   "keyNumber": "Replace NPS-FM 2020 -> not yet replaced; council deadline moved from 31 Dec 2024 to 31 Dec 2027",
+   "evidenceUrls": [
+    "https://www.simpsongrierson.com/insights-news/legal-updates/rma-amendments-signal-major-change-of-direction-for-freshwater-planning-and-consenting",
+    "https://environment.govt.nz/assets/publications/npsfm-2020-amended-december-2025.pdf",
+    "https://www.beehive.govt.nz/release/government-takes-first-steps-towards-pragmatic-and-sensible-freshwater-rules"
+   ],
+   "contested": true,
+   "contestedNote": "The Government argues the substantive rebalancing has already been achieved through the 2024 RMA amendments, and that full replacement is sequenced with the wider RMA rewrite. On the literal commitment, the NPS-FM 2020 is still the operative national direction and the term is not finished."
+  },
+  {
+   "id": "environment-act-significant-natural-areas",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023, cease implementation of new Significant Natural Areas",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Stop implementing new Significant Natural Areas, and seek advice on how existing SNAs operate, as part of Resource Management Act reform.",
+   "whatHappened": "On 14 March 2024 Associate Environment Minister Andrew Hoggard announced a three-year suspension of the requirement for councils to comply with the SNA provisions of the National Policy Statement for Indigenous Biodiversity. The suspension lasts while the RMA is replaced. In practice this told councils not to proceed with new SNA mapping. Existing council obligations to protect areas of significant indigenous vegetation under section 6(c) of the RMA were unaffected, and SNAs already in operative district plans remain.",
+   "status": "delivered",
+   "statusReason": "New SNA implementation was halted within four months of taking office, exactly as the agreement specified.",
+   "keyNumber": "Cease new SNAs -> suspended for 3 years from 14 March 2024",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/significant-natural-areas-requirement-be-suspended",
+    "https://www.rnz.co.nz/news/politics/511689/government-drops-need-for-councils-to-comply-with-significant-natural-areas-provisions"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "environment-act-rma-replacement",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023, repeal the Natural and Built Environment Act and Spatial Planning Act by Christmas and replace the RMA with laws premised on property rights",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Repeal the Natural and Built Environment Act 2023 and Spatial Planning Act 2023 by Christmas 2023. Replace the Resource Management Act 1991 with new resource management laws premised on the enjoyment of property rights as a guiding principle.",
+   "whatHappened": "Labour's two replacement statutes were repealed in December 2023 under urgency, in the Government's first weeks. A phased programme followed. Phase two brought amendments including the Resource Management (Freshwater and Other Matters) Amendment Act 2024, in force 25 October 2024, and the Resource Management (Extended Duration of Coastal Permits for Marine Farms) Amendment Act 2024. Phase three, replacing the RMA itself with new planning and natural environment legislation, was announced and progressed through 2025-2026. The RMA 1991 remains the operative statute as at August 2026.",
+   "status": "partly",
+   "statusReason": "The repeal was completed on time. But the full replacement of the RMA has not yet taken effect and the term is unfinished.",
+   "keyNumber": "Repeal NBA/SPA by Christmas and replace the RMA -> repeal done Dec 2023; RMA 1991 still operative at Aug 2026",
+   "evidenceUrls": [
+    "https://www.dlapiper.com/en/insights/publications/2024/11/legislation-changes-in-resource-management-in-new-zealand",
+    "https://www.simpsongrierson.com/insights-news/legal-updates/rma-amendments-signal-major-change-of-direction-for-freshwater-planning-and-consenting"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "environment-act-crown-minerals-promotion",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023, update the Crown Minerals Act 1991 to clarify its role as promoting the use of Crown minerals",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Update the Crown Minerals Act 1991 to clarify its role as promoting the use of Crown minerals. Explore a critical minerals list with a preferential development pathway.",
+   "whatHappened": "The Crown Minerals Amendment Bill was introduced on 24 September 2024 and passed on 31 July 2025, receiving royal assent on 5 August 2025. It changed the Act's purpose from managing to promoting the use of Crown minerals, removed the offshore petroleum exploration ban, and created a Tier 3 permit category for small-scale gold mining. It also replaced trailing decommissioning liability with ministerial discretion over financial security. Of 5,524 select committee submissions, 94.5 percent opposed the bill. A separate critical minerals list was developed as part of the Government's minerals strategy.",
+   "status": "delivered",
+   "statusReason": "The statutory purpose was changed to promotion by Act of Parliament within the term.",
+   "keyNumber": "Crown Minerals Act purpose changed to promotion -> royal assent 5 Aug 2025; 94.5% of 5,524 submitters opposed",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Crown_Minerals_Amendment_Act_2025",
+    "https://www.nzpam.govt.nz/nz-industry/crown-minerals-act-law-changes"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "environment-nzf-fast-track-consenting",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023, fast-track consenting for major infrastructure and development projects",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Establish a one-stop-shop fast-track consenting regime to improve the speed and process of resource approvals for major infrastructure and development projects.",
+   "whatHappened": "The Fast-track Approvals Bill was introduced on 7 March 2024 and passed its third reading on 17 December 2024, receiving royal assent on 23 December 2024. The Act creates a permanent expedited pathway, allowing projects to be exempted from requirements under the Resource Management Act 1991, Conservation Act 1987, Wildlife Act 1953 and Reserves Act 1977, including activities on conservation land. Treaty settlement land, protected customary rights areas and iwi-settlement aquaculture areas are excluded. After sustained opposition from Labour, the Greens, Te Pāti Māori, Forest and Bird, the Environmental Defence Society and Greenpeace, and nationwide protests, the ministerial power to approve projects directly was removed at select committee. Approval was left with independent expert panels, while the Minister retains referral and referral-stage decline powers. 149 projects were listed, including 44 housing, 43 infrastructure, 22 renewable energy, 11 mining and 7 aquaculture or farming projects.",
+   "status": "delivered",
+   "statusReason": "A permanent one-stop-shop fast-track regime was legislated within the first 13 months and is operating with 149 listed projects.",
+   "keyNumber": "One-stop-shop fast-track regime -> Act in force 23 Dec 2024; 149 projects listed including 11 mining",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Fast-track_Approvals_Act_2024",
+    "https://www.dlapiper.com/en/insights/publications/2024/11/legislation-changes-in-resource-management-in-new-zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "environment-nzf-indigenous-biodiversity-review",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023, commence an urgent review into the implementation of the National Policy Statement on Indigenous Biodiversity",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Start an urgent review of how the National Policy Statement for Indigenous Biodiversity 2023 is being implemented.",
+   "whatHappened": "A review was begun promptly. Its most visible outcome was the 14 March 2024 suspension, for three years, of the requirement for councils to comply with the NPS-IB's Significant Natural Areas provisions. The rest of the NPS-IB remained in place. Its future was folded into the wider replacement of the resource management system rather than resolved separately, so a new or amended national policy statement for indigenous biodiversity had not been issued as at August 2026.",
+   "status": "partly",
+   "statusReason": "The review was started urgently and produced the SNA suspension. But the NPS-IB itself has not been amended or replaced, and the work is now bundled into the RMA rewrite.",
+   "keyNumber": "Urgent review of the NPS-IB -> SNA compliance suspended for 3 years from March 2024; NPS-IB otherwise unchanged",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/significant-natural-areas-requirement-be-suspended",
+    "https://www.rnz.co.nz/news/politics/511689/government-drops-need-for-councils-to-comply-with-significant-natural-areas-provisions"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "environment-nzf-marine-farming-permits",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023, deliver longer durations for marine farming permits",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Deliver longer durations for marine farming permits and remove regulations that impede the productivity of the seafood sector.",
+   "whatHappened": "The Resource Management (Extended Duration of Coastal Permits for Marine Farms) Amendment Act 2024 was enacted on 27 August 2024. It automatically extends all existing aquaculture coastal permits by 20 years, without requiring reconsenting, capped so that no permit runs beyond 2050. Aquaculture projects were also made eligible for the fast-track regime, with 7 aquaculture or farming projects among the 149 listed.",
+   "status": "delivered",
+   "statusReason": "Legislation automatically extending marine farm permits by 20 years passed within the first year.",
+   "keyNumber": "Longer marine farming permits -> all existing coastal permits extended by 20 years (not beyond 2050)",
+   "evidenceUrls": [
+    "https://www.dlapiper.com/en/insights/publications/2024/11/legislation-changes-in-resource-management-in-new-zealand",
+    "https://en.wikipedia.org/wiki/Fast-track_Approvals_Act_2024"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-greens-waste-plastic-bags-levy",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Confidence and Supply Agreement 2017, policy goal 9, minimise waste to landfill, with significant reductions by 2020",
+   "sourceUrl": "https://thestandard.org.nz/labour-green-confidence-and-supply-agreement-released/",
+   "promise": "Minimise waste to landfill, with significant reductions achieved by 2020.",
+   "whatHappened": "Green Associate Environment Minister Eugenie Sage announced a mandatory phase-out of single-use plastic shopping bags in August 2018, and the ban took effect on 1 July 2019. New Zealand was one of the first countries to ban them outright. On the levy, Sage announced in 2021 that the waste disposal levy would rise from $10 a tonne, unchanged since 2009, to $60 a tonne progressively over four years. It would also be extended from municipal landfills, about 10 per cent of landfills, to construction and demolition landfills from 1 July 2022. Alongside this, $124 million from the COVID-19 Response and Recovery Fund went to recycling infrastructure. Both the levy increase and the levy expansion took effect after the 2020 deadline in the agreement, and total waste to landfill was not reduced by 2020.",
+   "status": "partly",
+   "statusReason": "Two substantial waste measures were delivered. But the levy reform arrived after the agreement's 2020 deadline, and landfill volumes did not fall by then.",
+   "keyNumber": "Significant reduction in waste to landfill by 2020 -> plastic bag ban from 1 July 2019; levy $10 to $60 per tonne phased from 2021, expanded to C&D landfills from July 2022",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/single-use-plastic-shopping-bags-ban-kicks",
+    "https://www.beehive.govt.nz/release/government-steps-action-waste-funds-recycling-infrastructure-and-expands-levy-scheme",
+    "https://www.rnz.co.nz/news/national/421245/plans-to-reduce-waste-released-by-government"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-greens-ocean-sanctuaries",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Confidence and Supply Agreement 2017, policy goal 8, safeguard marine ecosystems and establish ocean sanctuaries",
+   "sourceUrl": "https://thestandard.org.nz/labour-green-confidence-and-supply-agreement-released/",
+   "promise": "Safeguard New Zealand's marine ecosystems, including by establishing ocean sanctuaries.",
+   "whatHappened": "The flagship measure available was the Kermadec Ocean Sanctuary Bill. It would have created a 620,000 square kilometre fully protected sanctuary covering about 15 per cent of New Zealand's exclusive economic zone. The bill had passed its second reading before the 2017 election, then stalled over fishing quota rights held under a 1992 Treaty settlement. It made no progress through either Labour-led term. In January 2020 the Greens' own conservation spokespeople publicly recorded that the government had failed to deliver the sanctuary. Iwi leaders rejected a revised proposal in June 2023, and a final ministerial push in August 2023 failed before the election. No new ocean sanctuary was established during the period, and the incoming government formally scrapped the bill on 28 March 2024.",
+   "status": "not-delivered",
+   "statusReason": "No ocean sanctuary was established in six years, and the one bill on the table never advanced.",
+   "keyNumber": "620,000 sq km Kermadec Ocean Sanctuary -> not enacted in six years; bill scrapped 28 March 2024",
+   "evidenceUrls": [
+    "https://www.scoop.co.nz/stories/PA2001/S00055/government-fails-to-deliver-on-kermadec-sanctuary.htm",
+    "https://www.rnz.co.nz/news/political/512889/government-halts-plan-for-kermadec-ocean-sanctuary"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-greens-predator-control-funding",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Confidence and Supply Agreement 2017, policy goal 6, safeguard indigenous biodiversity by reducing the extinction risk of 3,000 species",
+   "sourceUrl": "https://thestandard.org.nz/labour-green-confidence-and-supply-agreement-released/",
+   "promise": "Safeguard indigenous biodiversity by reducing the extinction risk of 3,000 threatened species.",
+   "whatHappened": "Green Conservation Minister Eugenie Sage secured more than $81.2 million over four years for predator control in Budget 2018, which the Department of Conservation described as one of its biggest ever funding increases. She also secured more than $16 million over four years for departmental capability. Predator Free 2050 programmes were expanded, including regional projects in Wellington, Taranaki and Banks Peninsula, and a kauri dieback National Pest Management Plan took effect on 2 August 2022 with $32 million behind it. However, the 3,000-species extinction risk goal was never converted into a measurable programme or reported against, and Te Mana o te Taiao, the 2020 biodiversity strategy, carried no binding targets. Predator Free 2050 Limited was disestablished in May 2025.",
+   "status": "partly",
+   "statusReason": "Substantial and specific funding was delivered, but the numeric species goal in the agreement was never measured or reported against.",
+   "keyNumber": "Reduce extinction risk for 3,000 species -> $81.2m over four years for predator control in Budget 2018; no reporting against the 3,000 figure",
+   "evidenceUrls": [
+    "https://www.doc.govt.nz/news/budget/budget-20182/",
+    "https://www.nzherald.co.nz/nz/budget-2018-rats-green-party-gets-20-million-a-year-for-pest-control/OOMIB57R5DQFS5XNVEKJKLNTCI/",
+    "https://www.beehive.govt.nz/release/national-plan-protect-kauri-commences"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  }
+ ]
+}

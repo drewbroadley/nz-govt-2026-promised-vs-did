@@ -1,0 +1,1463 @@
+<!DOCTYPE html>
+<html lang="en-NZ" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Promised vs Performed: NZ Government Delivery Tracker</title>
+<meta name="author" content="Drew Broadley">
+<meta name="description" content="A neutral, sourced scorecard of what New Zealand's parties promised and what they delivered: Labour, Greens and NZ First 2017-2023, and National, ACT and NZ First 2023-2026.">
+<meta property="og:title" content="Promised vs Performed: NZ Government Delivery Tracker">
+<meta property="og:description" content="307 promises from five parties across two governments, each with a status and a source.">
+<meta property="og:type" content="website">
+<style>
+/* =========================================================================
+   PROMISED VS PERFORMED , house style
+
+   Three rules govern this stylesheet.
+
+   1. ALL COLOUR IS DATA. The chrome is monochrome ink on paper. There are no
+      coloured buttons, no coloured links, no accent hue anywhere in the
+      furniture. On a political scorecard a blue accent reads as National and
+      a red one reads as Labour, so the interface forfeits colour entirely and
+      spends it only on the numbers. The party and status hexes below are the
+      validated data palette and are not used for decoration.
+   2. RULES, NOT SHADOWS. Structure comes from hairlines and whitespace, the
+      way it does in a printed report. No drop shadows, no blur, no gradients.
+   3. SERIF SETS THE ARGUMENT, GROTESQUE SETS THE EVIDENCE. Prose is serif.
+      Labels, figures, axes and tables are sans, small and letterspaced.
+   ========================================================================= */
+
+:root{
+  color-scheme: light;
+
+  --paper:      #fcfbf8;   /* cards, chart surface: the validated light surface */
+  --paper-page: #f2f0e9;   /* page ground */
+  --paper-well: #e9e6dd;   /* inset wells, table heads */
+  --rule:       #d9d5c9;
+  --rule-firm:  #b6b0a0;
+  --rule-ink:   #3a3931;
+
+  --ink:    #1a1a17;
+  --ink-2:  #4c4b43;
+  --ink-3:  #77756b;
+
+  /* validated data palette , identity */
+  --p-labour:#e34948; --p-national:#2a78d6; --p-greens:#008300;
+  --p-nzfirst:#4a3aa7; --p-act:#eda100;
+
+  /* validated data palette , reserved status tiers, always with icon + label */
+  --st-kept:#0ca30c; --st-partial:#fab219; --st-broken:#d03b3b; --st-unscored:#8a8880;
+  --st-kept-soft:#e8f2e5; --st-partial-soft:#f7efdb; --st-broken-soft:#f6e6e3; --st-unscored-soft:#edebe4;
+
+  --serif: ui-serif, "Iowan Old Style", Charter, "Bitstream Charter", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+  --sans: "Helvetica Neue", Helvetica, Arial, -apple-system, "Segoe UI", sans-serif;
+  --mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+
+  --maxw: 1140px;
+  --r: 2px;
+}
+:root[data-theme="dark"]{
+  color-scheme: dark;
+  --paper:      #17181a;
+  --paper-page: #0f1011;
+  --paper-well: #202224;
+  --rule:       #32343a;
+  --rule-firm:  #4d5057;
+  --rule-ink:   #cfcec6;
+
+  --ink:   #f4f3ee;
+  --ink-2: #b8b7ae;
+  --ink-3: #8b8a81;
+
+  --p-labour:#e66767; --p-national:#3987e5; --p-greens:#008300;
+  --p-nzfirst:#9085e9; --p-act:#c98500;
+
+  --st-kept-soft:#132417; --st-partial-soft:#2b2410; --st-broken-soft:#2b1616; --st-unscored-soft:#212225;
+}
+
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--paper-page); color:var(--ink);
+  font-family:var(--serif); font-size:17px; line-height:1.62;
+  font-variant-numeric:tabular-nums; -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3,h4{font-family:var(--serif);line-height:1.18;margin:0;font-weight:600;letter-spacing:-.006em}
+p{margin:0 0 .9em}
+a{color:inherit;text-decoration:underline;text-underline-offset:.16em;text-decoration-thickness:.5px}
+a:hover{text-decoration-thickness:1.5px}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 28px}
+@media(max-width:640px){.wrap{padding:0 16px}}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* ---------- masthead bar ---------- */
+.topbar{position:sticky;top:0;z-index:60;background:var(--paper);border-bottom:1px solid var(--rule-firm)}
+.topbar-in{display:flex;align-items:center;gap:16px;height:50px}
+.brand{
+  font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:.15em;
+  text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.brand span{font-weight:400;color:var(--ink-3)}
+.topnav{display:flex;gap:0;margin-left:auto;overflow-x:auto;scrollbar-width:none}
+.topnav::-webkit-scrollbar{display:none}
+.topnav a{
+  font-family:var(--sans);font-size:11px;font-weight:500;letter-spacing:.07em;text-transform:uppercase;
+  color:var(--ink-2);text-decoration:none;white-space:nowrap;padding:6px 11px;border-left:1px solid var(--rule);
+}
+.topnav a:first-child{border-left:0}
+.topnav a:hover{color:var(--ink);background:var(--paper-well)}
+.iconbtn{
+  display:inline-grid;place-items:center;width:30px;height:30px;flex:0 0 auto;
+  background:transparent;border:1px solid var(--rule-firm);border-radius:var(--r);cursor:pointer;
+}
+.iconbtn:hover{background:var(--paper-well)}
+.iconbtn svg{width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+:root[data-theme="dark"] .i-sun{display:none}
+:root:not([data-theme="dark"]) .i-moon{display:none}
+@media(max-width:900px){.topnav{display:none}}
+
+/* ---------- title block ---------- */
+.hero{background:var(--paper);border-bottom:1px solid var(--rule-firm);padding:0}
+.hero .wrap{padding-top:0;padding-bottom:0}
+.masthead{border-top:3px double var(--rule-ink);border-bottom:1px solid var(--rule);padding:38px 0 26px;margin-top:0}
+.eyebrow{
+  font-family:var(--sans);font-size:10.5px;font-weight:700;letter-spacing:.19em;
+  text-transform:uppercase;color:var(--ink-3);margin-bottom:20px;
+}
+.hero h1{font-size:clamp(2rem,4.7vw,3.15rem);letter-spacing:-.022em;font-weight:600;max-width:27ch;line-height:1.1}
+.hero .lede{
+  font-size:clamp(1.02rem,2vw,1.22rem);color:var(--ink-2);max-width:56ch;margin-top:20px;
+  line-height:1.55;
+}
+.hero-meta{
+  display:flex;flex-wrap:wrap;gap:0;margin:30px 0 0;border-top:1px solid var(--rule);
+  font-family:var(--sans);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);
+}
+.hero-meta>div{padding:13px 22px 13px 0;margin-right:22px;border-right:1px solid var(--rule)}
+.hero-meta>div:last-child{border-right:0;margin-right:0}
+.hero-meta b{display:block;font-family:var(--serif);font-size:22px;font-weight:600;letter-spacing:-.01em;
+  text-transform:none;color:var(--ink);margin-bottom:1px}
+@media(max-width:640px){
+  .hero-meta>div{padding:10px 14px 10px 0;margin-right:14px}
+  .hero-meta b{font-size:18px}
+}
+
+/* ---------- sections ---------- */
+section{padding:52px 0;border-bottom:1px solid var(--rule-firm);scroll-margin-top:50px}
+section:nth-of-type(even){background:var(--paper)}
+.sec-head{margin-bottom:32px;max-width:64ch}
+.sec-head h2{font-size:clamp(1.5rem,3.4vw,2.15rem);letter-spacing:-.016em}
+.sec-head p{color:var(--ink-2);margin-top:13px;font-size:16.5px}
+.kicker{
+  font-family:var(--sans);font-size:10.5px;font-weight:700;letter-spacing:.19em;text-transform:uppercase;
+  color:var(--ink-3);margin-bottom:12px;padding-bottom:9px;border-bottom:1px solid var(--rule-firm);
+  display:block;
+}
+.kicker::before{content:counter(sec) ". ";counter-increment:sec;font-variant-numeric:tabular-nums}
+body{counter-reset:sec}
+
+/* ---------- callouts ---------- */
+.callout{
+  border:1px solid var(--rule);border-left:2px solid var(--rule-ink);background:transparent;
+  padding:16px 20px;font-size:15px;color:var(--ink-2);border-radius:0;
+}
+.callout strong{color:var(--ink);font-weight:600}
+.callout.neutral{border-left-color:var(--rule-firm)}
+
+/* ---------- executive summary ---------- */
+.verdict{border:0;border-top:1px solid var(--rule-firm);border-bottom:1px solid var(--rule-firm);
+  padding:24px 0;margin-bottom:34px;max-width:70ch}
+.verdict-lede{font-size:clamp(1.14rem,2.5vw,1.44rem);line-height:1.48;letter-spacing:-.008em;color:var(--ink)}
+.verdict-lede b{font-weight:600}
+.verdict p:last-child{color:var(--ink-2);font-size:15.5px;margin-bottom:0}
+.cmp-grid{display:grid;grid-template-columns:1fr 1fr;gap:0;margin-bottom:38px;border:1px solid var(--rule)}
+@media(max-width:760px){.cmp-grid{grid-template-columns:1fr}}
+.cmp-card{background:var(--paper);padding:22px 24px;position:relative;border-right:1px solid var(--rule)}
+.cmp-card:last-child{border-right:0}
+@media(max-width:760px){.cmp-card{border-right:0;border-bottom:1px solid var(--rule)}}
+.cmp-card::before{content:"";position:absolute;inset:0 0 auto 0;height:3px;background:var(--ac)}
+.cmp-card[data-side="labour"]{--ac:var(--p-labour)}
+.cmp-card[data-side="national"]{--ac:var(--p-national)}
+.cmp-head{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin-bottom:16px;padding-top:6px}
+.cmp-dates{font-family:var(--sans);font-size:11px;color:var(--ink-3);letter-spacing:.04em}
+.cmp-dl{margin:0}
+.cmp-dl>div{display:grid;grid-template-columns:1fr auto;gap:14px;align-items:baseline;
+  padding:8px 0;border-top:1px solid var(--rule)}
+.cmp-dl>div:first-child{border-top:0}
+.cmp-dl dt{font-family:var(--sans);font-size:11.5px;color:var(--ink-3);letter-spacing:.04em}
+.cmp-dl dd{margin:0;font-size:15px;font-weight:600;text-align:right}
+.cmp-dl .mut{font-weight:400;color:var(--ink-3);font-size:13px;font-family:var(--sans)}
+.sum-points{display:grid;grid-template-columns:1fr 1fr;gap:26px 40px;margin-bottom:26px}
+@media(max-width:860px){.sum-points{grid-template-columns:1fr;gap:22px}}
+.sum-point{border-top:1px solid var(--rule-firm);padding-top:14px}
+.sum-point h3{font-size:17px;letter-spacing:-.008em;margin-bottom:11px;display:flex;gap:12px;align-items:baseline;line-height:1.3}
+.sum-point .np{
+  flex:0 0 auto;font-family:var(--sans);font-size:11px;font-weight:700;color:var(--ink-3);
+  letter-spacing:.08em;
+}
+.sum-point p{font-size:15.5px;color:var(--ink-2);line-height:1.6;max-width:58ch}
+.sum-point p b{color:var(--ink);font-weight:600}
+
+/* ---------- era cards ---------- */
+.era-grid{display:grid;grid-template-columns:1fr 1fr;gap:0;border:1px solid var(--rule)}
+@media(max-width:820px){.era-grid{grid-template-columns:1fr}}
+.era-card{background:var(--paper);padding:26px;position:relative;border-right:1px solid var(--rule)}
+.era-card:last-child{border-right:0}
+@media(max-width:820px){.era-card{border-right:0;border-bottom:1px solid var(--rule)}}
+.era-card::before{content:"";position:absolute;inset:0 0 auto 0;height:3px;background:var(--accent)}
+.era-card[data-era="labour"]{--accent:var(--p-labour)}
+.era-card[data-era="national"]{--accent:var(--p-national)}
+.era-title{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin-bottom:3px;padding-top:6px}
+.era-title h3{font-size:1.3rem}
+.era-dates{font-family:var(--sans);font-size:11.5px;color:var(--ink-3);letter-spacing:.04em}
+.era-parties{display:flex;flex-wrap:wrap;gap:5px;margin:15px 0 22px}
+.hero-num{display:flex;align-items:baseline;gap:6px;margin:6px 0 5px}
+.hero-num .n{font-size:4rem;font-weight:600;letter-spacing:-.035em;line-height:.95}
+.hero-num .u{font-size:1.5rem;font-weight:500;color:var(--ink-2)}
+.hero-num-label{font-family:var(--sans);font-size:12.5px;color:var(--ink-2);margin-bottom:20px;line-height:1.5}
+.hero-num-label b{color:var(--ink)}
+.era-foot{margin-top:18px;padding-top:15px;border-top:1px solid var(--rule);font-size:14px;color:var(--ink-3);font-family:var(--sans);line-height:1.55}
+
+/* ---------- chips & badges ---------- */
+.pchip{
+  display:inline-flex;align-items:center;gap:6px;padding:2px 8px 2px 6px;border-radius:var(--r);
+  font-family:var(--sans);font-size:11.5px;font-weight:600;letter-spacing:.02em;
+  background:transparent;border:1px solid var(--rule-firm);white-space:nowrap;
+}
+.pchip .dot{width:8px;height:8px;flex:0 0 auto;background:var(--c)}
+.pchip[data-party="Labour"]{--c:var(--p-labour)}
+.pchip[data-party="National"]{--c:var(--p-national)}
+.pchip[data-party="Greens"]{--c:var(--p-greens)}
+.pchip[data-party="NZ First"]{--c:var(--p-nzfirst)}
+.pchip[data-party="ACT"]{--c:var(--p-act)}
+.pchip .role{color:var(--ink-3);font-weight:400}
+
+.sbadge{
+  display:inline-flex;align-items:center;gap:5px;padding:2px 8px 2px 6px;border-radius:var(--r);
+  font-family:var(--sans);font-size:11.5px;font-weight:600;letter-spacing:.02em;
+  border:1px solid transparent;white-space:nowrap;
+}
+.sbadge svg{width:12px;height:12px;flex:0 0 auto}
+.sbadge[data-tier="kept"]{background:var(--st-kept-soft);color:#0a7a0a;border-color:color-mix(in srgb,var(--st-kept) 34%,transparent)}
+.sbadge[data-tier="partial"]{background:var(--st-partial-soft);color:#7d5700;border-color:color-mix(in srgb,var(--st-partial) 48%,transparent)}
+.sbadge[data-tier="broken"]{background:var(--st-broken-soft);color:#b32d2d;border-color:color-mix(in srgb,var(--st-broken) 34%,transparent)}
+.sbadge[data-tier="unscored"]{background:var(--st-unscored-soft);color:var(--ink-2);border-color:var(--rule-firm)}
+:root[data-theme="dark"] .sbadge[data-tier="kept"]{color:#3cc23c}
+:root[data-theme="dark"] .sbadge[data-tier="partial"]{color:var(--st-partial)}
+:root[data-theme="dark"] .sbadge[data-tier="broken"]{color:#e56b6b}
+
+.tag{
+  display:inline-flex;align-items:center;gap:4px;padding:2px 7px;border-radius:var(--r);
+  font-family:var(--sans);font-size:10.5px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;
+  background:transparent;border:1px solid var(--rule);color:var(--ink-3);white-space:nowrap;
+}
+.tag.contested{border-color:color-mix(in srgb,var(--st-partial) 55%,transparent);color:#7d5700;background:var(--st-partial-soft)}
+:root[data-theme="dark"] .tag.contested{color:var(--st-partial)}
+
+/* ---------- tier bar ---------- */
+.tierbar{display:flex;width:100%;height:24px;overflow:hidden;background:var(--paper-well);gap:1px;border-radius:0}
+.tierbar .seg{position:relative;display:grid;place-items:center;min-width:0}
+.tierbar .seg span{font-family:var(--sans);font-size:11px;font-weight:700;padding:0 4px;white-space:nowrap;overflow:hidden}
+.seg[data-tier="kept"]{background:var(--st-kept)}       .seg[data-tier="kept"] span{color:#fff}
+.seg[data-tier="partial"]{background:var(--st-partial)} .seg[data-tier="partial"] span{color:#3d2b00}
+.seg[data-tier="broken"]{background:var(--st-broken);background-image:repeating-linear-gradient(135deg,rgba(255,255,255,.3) 0 2px,transparent 2px 6px)}
+.seg[data-tier="broken"] span{color:#fff}
+.seg[data-tier="unscored"]{background:var(--st-unscored);background-image:repeating-linear-gradient(45deg,rgba(255,255,255,.22) 0 1.5px,transparent 1.5px 5px)}
+.seg[data-tier="unscored"] span{color:#fff}
+.tierbar.sm{height:16px}
+.tierbar.sm .seg span{font-size:10px}
+
+.legend{display:flex;flex-wrap:wrap;gap:7px 20px;margin-top:15px;font-family:var(--sans);font-size:11.5px;
+  letter-spacing:.04em;color:var(--ink-2);border-top:1px solid var(--rule);padding-top:11px}
+.legend .li{display:inline-flex;align-items:center;gap:7px}
+.legend .sw{width:13px;height:13px;flex:0 0 auto}
+.legend .sw[data-tier="kept"]{background:var(--st-kept)}
+.legend .sw[data-tier="partial"]{background:var(--st-partial)}
+.legend .sw[data-tier="broken"]{background:var(--st-broken);background-image:repeating-linear-gradient(135deg,rgba(255,255,255,.36) 0 2px,transparent 2px 6px)}
+.legend .sw[data-tier="unscored"]{background:var(--st-unscored);background-image:repeating-linear-gradient(45deg,rgba(255,255,255,.26) 0 1.5px,transparent 1.5px 5px)}
+
+/* ---------- score rows ---------- */
+.rows{display:flex;flex-direction:column}
+.row{display:grid;grid-template-columns:186px 1fr 62px;gap:16px;align-items:center;
+  padding:10px 2px;border-bottom:1px solid var(--rule)}
+.row:last-child{border-bottom:0}
+.row:hover{background:var(--paper-well)}
+.row .lbl{display:flex;align-items:center;gap:9px;min-width:0;font-size:15px;font-weight:500}
+.row .lbl .nm{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.row .lbl .dot{width:8px;height:8px;flex:0 0 auto}
+.row .pct{text-align:right;font-weight:600;font-size:16px}
+.row .pct small{display:block;font-family:var(--sans);font-weight:400;font-size:10.5px;color:var(--ink-3);letter-spacing:.03em}
+.rows-head{display:grid;grid-template-columns:186px 1fr 62px;gap:16px;padding:0 2px 8px;
+  font-family:var(--sans);font-size:10px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--ink-3);border-bottom:1px solid var(--rule-ink)}
+.rows-head :last-child{text-align:right}
+.rows.has-adj .row,.rows-head.has-adj{grid-template-columns:186px 1fr 74px 62px}
+.row .pct.adj{color:var(--ink-3);font-weight:500}
+.rows-head.has-adj :nth-child(3){text-align:right}
+@media(max-width:640px){
+  .row{grid-template-columns:1fr 54px;gap:7px 10px}
+  .row .lbl{grid-column:1} .row .pct{grid-column:2;grid-row:1} .row .tierbar{grid-column:1/-1}
+  .rows-head{display:none}
+  .rows.has-adj .row{grid-template-columns:1fr 54px 54px}
+  .rows.has-adj .row .lbl{grid-column:1}
+  .rows.has-adj .row .pct.adj{grid-column:2;grid-row:1}
+  .rows.has-adj .row .pct:not(.adj){grid-column:3;grid-row:1}
+  .rows.has-adj .row .tierbar{grid-column:1/-1}
+  .row .pct.adj::after{content:"adj";display:block;font-family:var(--sans);font-size:9px;color:var(--ink-3)}
+}
+
+/* ---------- tabs ---------- */
+.tabs{display:flex;gap:0;border-bottom:1px solid var(--rule-ink);margin-bottom:26px;flex-wrap:wrap}
+.tabs button{
+  padding:9px 16px;border:0;background:transparent;cursor:pointer;
+  font-family:var(--sans);font-size:11.5px;font-weight:600;letter-spacing:.09em;text-transform:uppercase;
+  color:var(--ink-3);border-bottom:2px solid transparent;margin-bottom:-1px;
+}
+.tabs button:hover{color:var(--ink)}
+.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--ink)}
+
+/* ---------- filters ---------- */
+/* deliberately not sticky: five rows of controls pinned to the top eats a quarter
+   of the viewport, and a pinned panel reads like an app rather than a document */
+.filters{background:var(--paper);border:1px solid var(--rule-firm);padding:0;margin-bottom:22px}
+.fgroup{display:flex;flex-wrap:wrap;gap:5px;align-items:center;padding:11px 14px;border-top:1px solid var(--rule)}
+.fgroup:first-child{border-top:0}
+.flabel{font-family:var(--sans);font-size:10px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--ink-3);margin-right:6px;flex:0 0 auto;width:58px}
+@media(max-width:640px){.flabel{width:auto;flex-basis:100%;margin-bottom:2px}}
+.pill{
+  padding:4px 10px;border:1px solid var(--rule-firm);background:transparent;border-radius:var(--r);
+  font-family:var(--sans);font-size:12px;font-weight:500;cursor:pointer;color:var(--ink-2);
+  display:inline-flex;align-items:center;gap:6px;
+}
+.pill:hover{border-color:var(--ink-3);color:var(--ink)}
+.pill[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.pill[aria-pressed="true"] .dot{box-shadow:0 0 0 1px var(--paper)}
+.pill .dot{width:8px;height:8px;flex:0 0 auto}
+.pill .ct{font-size:10.5px;color:var(--ink-3)}
+.pill[aria-pressed="true"] .ct{color:color-mix(in srgb,var(--paper) 68%,transparent)}
+.searchwrap{position:relative;flex:1 1 200px;min-width:160px}
+.searchwrap svg{position:absolute;left:9px;top:50%;transform:translateY(-50%);width:14px;height:14px;
+  fill:none;stroke:var(--ink-3);stroke-width:1.8;stroke-linecap:round}
+.searchwrap input{
+  width:100%;padding:6px 28px 6px 29px;border:1px solid var(--rule-firm);background:var(--paper-page);
+  border-radius:var(--r);font-family:var(--sans);font-size:13px;color:var(--ink);
+}
+.searchwrap input::placeholder{color:var(--ink-3)}
+.clearbtn{position:absolute;right:4px;top:50%;transform:translateY(-50%);border:0;background:transparent;
+  cursor:pointer;color:var(--ink-3);padding:4px;line-height:0}
+.clearbtn:hover{color:var(--ink)}
+.fbar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:14px;
+  font-family:var(--sans)}
+.fcount{font-size:12px;color:var(--ink-2);letter-spacing:.04em}
+.fcount b{color:var(--ink);font-weight:700}
+.linkbtn{border:0;background:transparent;cursor:pointer;font-family:var(--sans);font-size:11.5px;font-weight:600;
+  letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);padding:4px 8px;text-decoration:underline;
+  text-underline-offset:3px}
+.linkbtn:hover{color:var(--ink)}
+@media(max-width:900px){
+  .filters{position:static}
+}
+
+/* ---------- area groups & promise cards ---------- */
+.agroup{border:1px solid var(--rule);border-radius:0;margin-bottom:-1px;background:var(--paper)}
+.ahead{display:grid;grid-template-columns:1fr minmax(120px,210px) auto;gap:16px;align-items:center;
+  width:100%;padding:14px 16px;border:0;background:transparent;cursor:pointer;text-align:left}
+.ahead:hover{background:var(--paper-well)}
+.ahead h3{font-size:16.5px;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;font-weight:600}
+.ahead .n{font-family:var(--sans);font-size:11px;font-weight:600;color:var(--ink-3);letter-spacing:.05em}
+.ahead .chev{width:16px;height:16px;stroke:var(--ink-3);fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;transition:transform .2s}
+.agroup[open] .chev{transform:rotate(180deg)}
+@media(max-width:720px){.ahead{grid-template-columns:1fr auto;gap:9px}.ahead .tierbar{grid-column:1/-1}}
+.abody{padding:0 16px 18px;border-top:1px solid var(--rule)}
+.ablurb{font-size:15px;color:var(--ink-2);padding:14px 0 2px;max-width:72ch;font-style:italic}
+
+.pcard{border-top:1px solid var(--rule);padding:17px 0}
+.pcard:first-of-type{border-top:0}
+.pcard-top{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:10px}
+.pcard-q{font-size:17px;font-weight:500;line-height:1.42;margin-bottom:9px;max-width:74ch}
+.pcard-num{display:inline-block;font-family:var(--mono);font-size:12px;font-weight:500;
+  background:var(--paper-well);border:1px solid var(--rule);border-radius:var(--r);
+  padding:4px 9px;margin-bottom:10px;color:var(--ink)}
+.pcard-why{font-size:15px;color:var(--ink-2);max-width:74ch}
+.pcard-why b{color:var(--ink);font-weight:600}
+.disc{margin-top:10px}
+.disc.srcs{margin-left:22px}
+@media(max-width:520px){.disc.srcs{margin-left:0;display:block}}
+.disc summary{cursor:pointer;font-family:var(--sans);font-size:11.5px;font-weight:600;letter-spacing:.07em;
+  text-transform:uppercase;color:var(--ink-2);list-style:none;display:inline-flex;align-items:center;gap:6px;padding:3px 0}
+.disc summary:hover{color:var(--ink)}
+.disc summary::-webkit-details-marker{display:none}
+.disc summary::after{content:"";width:5px;height:5px;border-right:1.6px solid currentColor;border-bottom:1.6px solid currentColor;transform:rotate(45deg);margin-top:-3px}
+.disc[open] summary::after{transform:rotate(-135deg);margin-top:1px}
+.disc-body{padding:12px 0 3px;font-size:15px;color:var(--ink-2);max-width:74ch;line-height:1.62}
+.disc-body p{margin:0 0 .75em}
+.srcline{display:flex;flex-wrap:wrap;gap:5px;margin-top:11px;align-items:center}
+.srclink{display:inline-flex;align-items:center;gap:5px;font-family:var(--sans);font-size:10.5px;font-weight:600;
+  letter-spacing:.04em;padding:3px 8px;border:1px solid var(--rule-firm);border-radius:var(--r);
+  text-decoration:none;color:var(--ink-2);background:transparent}
+.srclink:hover{border-color:var(--ink-3);color:var(--ink)}
+.srclink svg{width:10px;height:10px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.contest-note{margin-top:11px;padding:11px 14px;border:1px solid color-mix(in srgb,var(--st-partial) 42%,transparent);
+  border-left:2px solid var(--st-partial);background:var(--st-partial-soft);
+  font-size:14.5px;color:var(--ink-2);max-width:74ch}
+.contest-note b{color:var(--ink);font-weight:600}
+.empty{text-align:center;padding:50px 20px;color:var(--ink-3);border:1px solid var(--rule-firm);font-style:italic}
+
+/* ---------- head to head ---------- */
+.h2h{display:flex;flex-direction:column}
+.h2h-row{display:grid;grid-template-columns:186px 1fr 1fr;gap:16px;align-items:center;padding:10px 2px;
+  border-bottom:1px solid var(--rule)}
+.h2h-row:last-child{border-bottom:0}
+.h2h-row:hover{background:var(--paper-well)}
+.h2h-row .lbl{font-size:15px;font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.h2h-cell{display:flex;align-items:center;gap:10px}
+.h2h-cell .pct{font-weight:600;font-size:15px;width:42px;text-align:right;flex:0 0 auto}
+.h2h-cell .na{color:var(--ink-3);font-size:12px;font-family:var(--sans);font-style:italic}
+.h2h-cell .pct.tiny{color:var(--ink-3);font-weight:400;font-size:12.5px;font-family:var(--sans)}
+.h2h-cell .pct.soft{color:var(--ink-2)}
+.h2h-cell .pct.soft::after{content:"*";color:var(--ink-3)}
+.h2h-head{display:grid;grid-template-columns:186px 1fr 1fr;gap:16px;padding:0 2px 8px;
+  font-family:var(--sans);font-size:10px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--ink-3);border-bottom:1px solid var(--rule-ink)}
+@media(max-width:720px){
+  .h2h-row{grid-template-columns:1fr;padding:13px 2px;gap:7px}
+  .h2h-head{display:none}
+  .h2h-cell::before{content:attr(data-era);font-family:var(--sans);font-size:10px;font-weight:700;
+    text-transform:uppercase;letter-spacing:.1em;color:var(--ink-3);width:64px;flex:0 0 auto}
+}
+
+/* ---------- charts ---------- */
+.chart-theme{margin-bottom:40px}
+.chart-theme:last-child{margin-bottom:0}
+.cth{font-size:1.16rem;letter-spacing:-.012em;margin-bottom:6px;padding-bottom:8px;border-bottom:1px solid var(--rule-ink)}
+.cthb{font-size:15px;color:var(--ink-2);max-width:68ch;margin-bottom:18px;font-style:italic}
+.chart-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:0;
+  border-top:1px solid var(--rule);border-left:1px solid var(--rule)}
+.chart-card{background:var(--paper);border-right:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  padding:18px;display:flex;flex-direction:column}
+.chart-card h3{font-size:16px;margin-bottom:3px;font-weight:600}
+.chart-card .sub{font-family:var(--sans);font-size:11px;color:var(--ink-3);margin-bottom:14px;letter-spacing:.03em}
+.chart-card .dirn{font-style:italic}
+.chart-card svg{display:block;width:100%;height:auto;overflow:visible}
+.chart-card .notewrap{margin-top:auto;padding-top:12px}
+.chart-card .note{font-family:var(--sans);font-size:11px;color:var(--ink-3);line-height:1.55;padding:9px 0 2px}
+.chart-card details>summary{cursor:pointer;list-style:none;font-family:var(--sans);font-size:10.5px;font-weight:700;
+  letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);padding-top:10px;border-top:1px solid var(--rule);
+  display:flex;align-items:center;gap:5px}
+.chart-card details>summary:hover{color:var(--ink-2)}
+.chart-card details>summary::-webkit-details-marker{display:none}
+.chart-card details>summary::after{content:"";width:5px;height:5px;border-right:1.6px solid currentColor;border-bottom:1.6px solid currentColor;transform:rotate(45deg);margin-top:-3px}
+.chart-card details[open]>summary::after{transform:rotate(-135deg);margin-top:1px}
+.gridline{stroke:var(--rule);stroke-width:1}
+.axis-txt{fill:var(--ink-3);font-size:10px;font-family:var(--sans)}
+.dot-mk{stroke:var(--paper);stroke-width:2}
+.era-band{fill:currentColor;opacity:.06}
+.era-lab{fill:var(--ink-3);font-size:9px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;font-family:var(--sans)}
+.era-lab.covid{font-size:8px;letter-spacing:.1em;opacity:.85}
+.vsep{stroke:var(--rule-firm);stroke-width:1}
+.termsplit{display:grid;grid-template-columns:1fr 1fr;gap:0;margin-top:14px;border:1px solid var(--rule)}
+.td{padding:9px 11px;display:flex;flex-direction:column;gap:2px;border-top:2px solid var(--bd);border-right:1px solid var(--rule)}
+.td:last-child{border-right:0}
+.td.labour{--bd:var(--p-labour)} .td.national{--bd:var(--p-national)}
+.td-lab{font-family:var(--sans);font-size:9.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3)}
+.td-lab em{font-style:normal;font-weight:400;letter-spacing:.02em;text-transform:none}
+.td-v{font-size:17px;font-weight:600;color:var(--ink)}
+.td-v.good{color:#0a7a0a} .td-v.bad{color:#b32d2d}
+:root[data-theme="dark"] .td-v.good{color:#3cc23c} :root[data-theme="dark"] .td-v.bad{color:#e56b6b}
+.td.na .td-v{font-size:12.5px;font-weight:400;color:var(--ink-3);font-family:var(--sans);font-style:italic}
+
+/* ---------- method ---------- */
+/* A flowing column layout, not a grid: equal-height grid rows left big empty
+   gaps under the short cards. Columns let each block take only the depth it needs. */
+.mgrid{column-count:3;column-gap:34px;border-top:1px solid var(--rule-ink);padding-top:20px}
+.mcard{break-inside:avoid;background:transparent;padding:0 0 20px;margin-bottom:20px;
+  border-bottom:1px solid var(--rule)}
+.mfull{border-top:1px solid var(--rule-ink);padding-top:20px;margin-bottom:26px}
+.mfull .mcard{border-bottom:0;margin-bottom:0;padding-bottom:0}
+@media(max-width:980px){.mgrid{column-count:2}}
+@media(max-width:640px){.mgrid{column-count:1}}
+.mcard h3{font-size:16px;margin-bottom:10px}
+.mcard p,.mcard li{font-size:14.5px;color:var(--ink-2);line-height:1.6}
+.mcard ul{margin:0;padding-left:17px}
+.mcard li{margin-bottom:7px}
+.statuskey{display:flex;flex-direction:column;gap:10px}
+.statuskey .k{display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:start;font-size:14.5px}
+.statuskey .k p{margin:0;font-size:14px}
+
+.byline{font-family:var(--sans);font-size:12.5px;color:var(--ink-3);letter-spacing:.02em;margin:16px 0 0}
+.byline a{color:var(--ink-2)}
+.colophon-h{font-family:var(--sans);font-size:10px;font-weight:700;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3);margin-bottom:7px;padding-bottom:6px;border-bottom:1px solid var(--rule)}
+.dl-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:0;
+  border-top:1px solid var(--rule);border-left:1px solid var(--rule)}
+.dl{display:flex;flex-direction:column;gap:5px;padding:18px;text-decoration:none;
+  border-right:1px solid var(--rule);border-bottom:1px solid var(--rule);background:var(--paper)}
+.dl:hover{background:var(--paper-well)}
+.dl-k{font-family:var(--sans);font-size:9.5px;font-weight:700;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-3)}
+.dl-t{font-size:16px;font-weight:600;text-decoration:underline;text-underline-offset:3px;
+  text-decoration-thickness:.5px}
+.dl-d{font-size:13.5px;color:var(--ink-2);line-height:1.5}
+footer{padding:40px 0 64px;color:var(--ink-3);font-size:14px;background:var(--paper-page);
+  border-top:3px double var(--rule-ink)}
+.foot-grid{display:flex;justify-content:space-between;gap:26px;flex-wrap:wrap;align-items:flex-start}
+footer a{color:var(--ink-2)}
+
+@media print{
+  .topbar,.filters,.tabs,.iconbtn{display:none!important}
+  body{background:#fff;font-size:11pt}
+  section{break-inside:avoid;border:0;padding:18pt 0}
+}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+  <symbol id="i-delivered" viewBox="0 0 16 16"><circle cx="8" cy="8" r="7" fill="currentColor"/><path d="M4.7 8.2l2.2 2.2 4.4-4.6" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-largely" viewBox="0 0 16 16"><circle cx="8" cy="8" r="6.6" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M4.7 8.2l2.2 2.2 4.4-4.6" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-partly" viewBox="0 0 16 16"><circle cx="8" cy="8" r="6.6" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M8 1.4a6.6 6.6 0 010 13.2z" fill="currentColor"/></symbol>
+  <symbol id="i-not-delivered" viewBox="0 0 16 16"><circle cx="8" cy="8" r="6.6" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M5.6 5.6l4.8 4.8M10.4 5.6l-4.8 4.8" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></symbol>
+  <symbol id="i-abandoned" viewBox="0 0 16 16"><circle cx="8" cy="8" r="7" fill="currentColor"/><path d="M10.6 5.4H6.9a2.3 2.3 0 000 4.6h3.1M8.6 3.6L10.8 5.4 8.6 7.2" fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-in-progress" viewBox="0 0 16 16"><circle cx="8" cy="8" r="6.6" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M8 4.3V8l2.4 1.6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-superseded" viewBox="0 0 16 16"><circle cx="8" cy="8" r="6.6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-dasharray="2.4 2.1"/><path d="M4.8 6.6h6.4M9.4 4.8l1.8 1.8-1.8 1.8M11.2 10.4H4.8M6.6 8.6L4.8 10.4l1.8 1.8" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <pattern id="covidHatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+    <rect width="7" height="7" fill="none"/>
+    <line x1="0" y1="0" x2="0" y2="7" stroke="var(--ink-3)" stroke-width="1.4" opacity=".22"/>
+  </pattern>
+  <symbol id="i-ext" viewBox="0 0 16 16"><path d="M6.5 3.5H3.2v9.3h9.3V9.5M9.6 3.4h3v3M12.4 3.6L7.2 8.8"/></symbol>
+  <symbol id="i-chev" viewBox="0 0 16 16"><path d="M4 6l4 4 4-4"/></symbol>
+  <symbol id="i-search" viewBox="0 0 16 16"><circle cx="7" cy="7" r="4.6"/><path d="M10.4 10.4l3.1 3.1"/></symbol>
+  <symbol id="i-x" viewBox="0 0 16 16"><path d="M4.4 4.4l7.2 7.2M11.6 4.4l-7.2 7.2" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" fill="none"/></symbol>
+</defs></svg>
+
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <div class="brand">Promised <span>vs</span> Performed</div>
+    <nav class="topnav" aria-label="Sections">
+      <a href="#summary">Summary</a>
+      <a href="#scorecard">Scorecard</a>
+      <a href="#parties">Parties</a>
+      <a href="#browse">Every promise</a>
+      <a href="#h2h">Head to head</a>
+      <a href="#nzfirst">NZ First</a>
+      <a href="#outcomes">Outcomes</a>
+      <a href="#method">Method</a>
+      <a href="#data">Data</a>
+    </nav>
+    <button class="iconbtn" id="themeBtn" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+      <svg class="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.6v2.2M12 19.2v2.2M4.2 4.2l1.6 1.6M18.2 18.2l1.6 1.6M2.6 12h2.2M19.2 12h2.2M4.2 19.8l1.6-1.6M18.2 5.8l1.6-1.6"/></svg>
+      <svg class="i-moon" viewBox="0 0 24 24"><path d="M20.5 14.4A8.6 8.6 0 019.6 3.5a8.6 8.6 0 1010.9 10.9z"/></svg>
+    </button>
+  </div>
+</header>
+
+<main>
+<div class="hero">
+  <div class="wrap">
+    <div class="masthead">
+      <div class="eyebrow">New Zealand general election &middot; Saturday 7 November 2026</div>
+      <h1>Heading into the election.<br>What they promised.<br>What they did.</h1>
+      <p class="lede">Before you vote, a record of what the last two governments said they would do, and what they actually did. Every election and coalition promise from five parties, across Labour&rsquo;s term from 2017 to 2023 and the National-led coalition since. Each one scored on whether it was delivered, not on whether it was a good idea.</p>
+      <p class="byline">By <a href="mailto:drew@broadley.org.nz">Drew Broadley</a>. Researched and written with AI assistance.</p>
+      <div class="hero-meta">
+        <div><b id="mTotal">0</b>promises tracked</div>
+        <div><b>5</b>parties</div>
+        <div><b>18</b>policy areas</div>
+        <div><b id="mSources">0</b>source links</div>
+        <div><b id="mDays">0</b>days to the election</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<section id="summary">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">Executive summary</div>
+      <h2>The short version</h2>
+      <p>If you read nothing else here, read this. It sets out what the numbers below show, and what they do not.</p>
+    </div>
+
+    <div class="verdict">
+      <p class="verdict-lede">On delivery alone, there is very little between these two governments. Labour kept <b id="sLab">55%</b> of the promises it could be judged on, over six years. The National-led coalition has kept <b id="sNat">58%</b> in two years and nine months, and has <b id="sNatUp">11</b> promises still running that could lift it to <b id="sNatMax">64%</b>. Across <b id="sTot">347</b> promises, three points apart is a tie.</p>
+      <p>What really separates them is <em>what they promised in the first place</em>, and the conditions they were working under.</p>
+    </div>
+
+    <div class="cmp-grid">
+      <div class="cmp-card" data-side="labour">
+        <div class="cmp-head"><span class="pchip" data-party="Labour"><span class="dot"></span>Labour-led</span><span class="cmp-dates">Oct 2017 &ndash; Nov 2023</span></div>
+        <dl class="cmp-dl">
+          <div><dt>Time in office</dt><dd>6 years, 1 month</dd></div>
+          <div><dt>Promises tracked</dt><dd>152 <span class="mut">&middot; 25 per year</span></dd></div>
+          <div><dt>Promised before polling day</dt><dd>57% <span class="mut">manifesto pledges</span></dd></div>
+          <div><dt>Kept most of</dt><dd>Foreign affairs &amp; defence <span class="mut">83%, from 6</span></dd></div>
+          <div><dt>Kept least of</dt><dd>Transport &amp; infrastructure <span class="mut">20%, from 10</span></dd></div>
+          <div><dt>Biggest constraint</dt><dd>Covid-19</dd></div>
+        </dl>
+      </div>
+      <div class="cmp-card" data-side="national">
+        <div class="cmp-head"><span class="pchip" data-party="National"><span class="dot"></span>National-led</span><span class="cmp-dates">Nov 2023 &ndash; present</span></div>
+        <dl class="cmp-dl">
+          <div><dt>Time in office</dt><dd>2 years, 9 months <span class="mut">unfinished</span></dd></div>
+          <div><dt>Promises tracked</dt><dd>195 <span class="mut">&middot; 71 per year</span></dd></div>
+          <div><dt>Promised before polling day</dt><dd>35% <span class="mut">manifesto pledges</span></dd></div>
+          <div><dt>Kept most of</dt><dd>Law &amp; order <span class="mut">83%, from 12</span></dd></div>
+          <div><dt>Kept least of</dt><dd>Cost of living &amp; tax <span class="mut">38%, from 8</span></dd></div>
+          <div><dt>Biggest constraint</dt><dd>Three-party coalition</dd></div>
+        </dl>
+      </div>
+    </div>
+
+    <div class="sum-points">
+      <div class="sum-point">
+        <h3><span class="np">1</span>Labour had three times as long, and lost much of it to Covid</h3>
+        <p>Six years sounds like a big advantage over two years and nine months, and it is. But Covid-19 arrived in March 2020, near the end of Labour&rsquo;s first term, and it dominated the second. The border stayed shut for two and a half years. Parliament&rsquo;s agenda, the Budget and most of the public service&rsquo;s capacity went into the response. Promises with nothing to do with the pandemic were put off, then quietly dropped. Light rail, the rental warrant of fitness, the capital gains tax and social unemployment insurance all went this way.</p>
+        <p>This cuts both ways, and this site does not settle it. Covid is a real reason many promises were not kept. It is also true that a government is judged on the term it had, and that Labour won a <em>larger</em> majority in 2020, in the middle of the pandemic, on a fresh set of promises it also underdelivered. Both views are fair. What is not fair is applying the excuse to one side only.</p>
+      </div>
+      <div class="sum-point">
+        <h3><span class="np">2</span>National has promised more, faster, and its promises were easier</h3>
+        <p>195 promises in 33 months, against Labour&rsquo;s 152 in 73 months. That is close to three times the rate. But the volume is not the interesting part. The <b>composition</b> is. 65% of National&rsquo;s commitments come from signed coalition agreements, written <em>after</em> the election by people who already knew what could be delivered. Only 43% of Labour&rsquo;s do. Across this dataset, coalition agreement commitments are kept 61% of the time and manifesto pledges 51% of the time.</p>
+        <p>The same pattern shows up in the kind of promise each party made. Promises to <em>do a thing</em>, like passing a law or abolishing a body, are kept 70% of the time by anyone. Promises to <em>hit a number</em>, like cutting hardship by so much or building so many houses, are kept 36% of the time by anyone. Put both governments on the same mix of promise types and the gap between them gets smaller, not bigger.</p>
+      </div>
+      <div class="sum-point">
+        <h3><span class="np">3</span>National&rsquo;s term is not over, and that shapes the score</h3>
+        <p><em>Every single</em> unfinished promise in this dataset belongs to the current government, because the other one ended in 2023. That creates a trap. Leave unfinished promises out of the score and National gets an exemption Labour cannot use. So an unfinished promise counts in the denominator, but not as a success. Labour&rsquo;s incomplete long-term targets are treated exactly the same way.</p>
+        <p>Some commitments still described as under way are, by the record&rsquo;s own account, moving <em>away</em> from their target. Jobseeker numbers are up against a pledge to cut them by 50,000. Material hardship is up against a pledge to reduce it. Those are scored as partly delivered rather than left open, which is why this section matters more than it looks.</p>
+      </div>
+      <div class="sum-point">
+        <h3><span class="np">4</span>The real difference is what they delivered on, not how much</h3>
+        <p>Both governments kept roughly three promises in five. They kept <em>different</em> ones. Labour delivered on trade and foreign policy, on housing rules and on climate law. It failed almost completely on transport and on the health system it had just restructured. National has delivered on law and order and on energy. It has fallen shortest on cost of living and tax, which is the ground it won the election on, and on foreign affairs and defence.</p>
+        <p>Read the area-by-area table rather than the headline. A government can keep 60% of its promises and still have kept none of the ones you voted for.</p>
+      </div>
+    </div>
+
+    <div class="callout neutral" style="margin-top:8px">
+      <strong>What this scorecard cannot tell you.</strong> It scores delivery, not merit. A promise kept scores the same whether the policy worked or was a disaster, and a promise broken scores the same whether dropping it was cowardice or good sense. It cannot tell you whether a government caused the changes that happened on its watch. And it comes from one round of research with its sources attached, not a peer-reviewed audit. Where a call is genuinely arguable it is marked <b id="sContested">70</b> times as contested, with both readings given. Disagree with those and the number moves.
+    </div>
+  </div>
+</section>
+
+<section id="scorecard">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">The headline</div>
+      <h2>Two governments, side by side</h2>
+      <p>Each bar is every promise a party made in that term, sorted by what became of it. The big number is the share of judgeable promises it kept. An unfinished promise counts against the score. That is the same rule applied to Labour&rsquo;s unfinished targets when it left office in 2023.</p>
+    </div>
+    <div class="era-grid" id="eraCards"></div>
+    <div class="legend" id="mainLegend"></div>
+    <div class="callout" style="margin-top:22px">
+      <strong>These two numbers are closer than the politics suggests.</strong> Every in-progress promise here belongs to the current term, because the other government&rsquo;s ended in 2023. So unfinished promises count in the denominator, but not as a success. Leaving them out would hand National an exemption Labour could not use. National has <span id="ipCount">11</span> promises genuinely live, and the cards show where its score lands if they all come in.
+    </div>
+    <div class="callout neutral" style="margin-top:12px">
+      <strong>Still not a like-for-like verdict.</strong> Labour had six years and a pandemic. National has had two years and nine months, and its term is not over. Labour governed alone from 2020, while National needs two partners to agree. And <span id="sNatCoal">65%</span> of National&rsquo;s promises are post-election coalition commitments, written by people who already knew what could be delivered, against <span id="sLabCoal">43%</span> of Labour&rsquo;s. The fairest comparisons on this site are the like-for-like column under <a href="#parties" style="color:var(--ink)">Who kept what</a> and the area-by-area table further down.
+    </div>
+  </div>
+</section>
+
+<section id="parties">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">By party</div>
+      <h2>Who kept what</h2>
+      <p>Junior coalition partners are scored on their own promises, not their government&rsquo;s. That is why a support party can beat the party leading the government, or fall well behind it.</p>
+    </div>
+    <div class="tabs" role="tablist" id="partyTabs">
+      <button role="tab" aria-selected="true" data-view="party">By party</button>
+      <button role="tab" aria-selected="false" data-view="area">By policy area</button>
+      <button role="tab" aria-selected="false" data-view="src">Manifesto vs coalition deal</button>
+    </div>
+    <div id="partyPanel"></div>
+    <div class="legend" id="partyLegend"></div>
+  </div>
+</section>
+
+<section id="browse">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">The full ledger</div>
+      <h2>Every promise</h2>
+      <p>Filter, search, and open any promise to see what happened and where that comes from. Grouped by policy area.</p>
+    </div>
+    <div class="filters" id="filters">
+      <div class="fgroup">
+        <span class="flabel">Term</span>
+        <div id="fEra"></div>
+        <div class="searchwrap">
+          <svg viewBox="0 0 16 16"><use href="#i-search"/></svg>
+          <input type="search" id="fQ" placeholder="Search promises, e.g. KiwiBuild, ferries, tax" aria-label="Search promises">
+          <button class="clearbtn" id="fQClear" type="button" aria-label="Clear search" hidden><svg viewBox="0 0 16 16" width="13" height="13"><use href="#i-x"/></svg></button>
+        </div>
+      </div>
+      <div class="fgroup"><span class="flabel">Party</span><div id="fParty"></div></div>
+      <div class="fgroup"><span class="flabel">Outcome</span><div id="fStatus"></div></div>
+      <div class="fgroup"><span class="flabel">Source</span><div id="fSrc"></div></div>
+      <div class="fgroup"><span class="flabel">Kind</span><div id="fType"></div></div>
+    </div>
+    <div class="fbar">
+      <div class="fcount"><b id="fN">0</b> of <b id="fTot">0</b> promises shown</div>
+      <div>
+        <button class="linkbtn" id="expandAll" type="button">Expand all</button>
+        <button class="linkbtn" id="resetF" type="button">Reset filters</button>
+      </div>
+    </div>
+    <div id="promiseList"></div>
+  </div>
+</section>
+
+<section id="h2h">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">Like for like</div>
+      <h2>Head to head, area by area</h2>
+      <p>The same eighteen policy areas, both terms. Holding the subject steady is the fairest way to compare, but it also thins the sample out. Most cells rest on five to ten promises. A figure marked <b>*</b> comes from fewer than ten. <b>n/a</b> means fewer than six, where a percentage would be noise. Read the bars, not just the numbers.</p>
+    </div>
+    <div class="h2h-head"><div>Policy area</div><div>Labour 2017&ndash;23</div><div>National 2023&ndash;26</div></div>
+    <div class="h2h" id="h2hRows"></div>
+    <div class="legend" id="h2hLegend"></div>
+  </div>
+</section>
+
+<section id="nzfirst">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">The crossover</div>
+      <h2>NZ First: the same party, two governments</h2>
+      <p>NZ First is the only party here to have governed in both terms. It was with Labour from 2017 to 2020, and has been with National since 2023. It is the closest thing to a controlled experiment New Zealand politics offers.</p>
+    </div>
+    <div class="era-grid" id="nzfCards"></div>
+    <div class="callout neutral" style="margin-top:20px" id="nzfNote"></div>
+  </div>
+</section>
+
+<section id="outcomes">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">The numbers underneath</div>
+      <h2>What actually moved</h2>
+      <p>Promises are one thing; outcomes are another. <b id="chartCount">17</b> official series covering both terms. The tinted band behind each line shows who was in office. The hatched band marks Covid-19, from March 2020 to the full border reopening in August 2022. Under each chart is the change during each government&rsquo;s own stretch, so you can read the two terms separately.</p>
+    </div>
+    <div id="charts"></div>
+    <div class="callout" style="margin-top:22px">
+      <strong>These are trends, not verdicts.</strong> A government inherits far more than it causes, and most of these series were already moving before it took office. Inflation and interest rates in particular were driven by a global cycle that hit every comparable country. Read the per-term changes as <em>what happened while they were there</em>, which is a different claim from <em>what they did</em>.
+    </div>
+    <div class="callout" style="margin-top:12px">
+      <strong>What is still missing, and why.</strong> Four measures are still missing: real GDP per head, average hourly earnings, police officer numbers and public housing stock. Stats NZ has retired the tables that held the first two, and its replacement site does not publish them in a readable form. Police report staff numbers only inside annual report PDFs. The housing dashboard moved when the Ministry of Housing and Urban Development became part of the new Ministry for Cities, Environment, Regions and Transport on 1 July 2026. Emissions, road deaths and rents <em>were</em> recovered, by opening the source agencies in a browser and reading their spreadsheets directly. Leaving a series out is honest. Estimating one is not.
+    </div>
+  </div>
+</section>
+
+<section id="method">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">How this was built</div>
+      <h2>Method, and what to distrust</h2>
+      <p>A scorecard is only as good as its rules. Here are the ones used, including where they are weak.</p>
+    </div>
+
+    <div class="mfull">
+      <div class="mcard">
+        <h3>The seven outcomes</h3>
+        <div class="statuskey" id="statusKey"></div>
+      </div>
+    </div>
+
+    <div class="mgrid">
+      <div class="mcard">
+        <h3>What counts as a promise</h3>
+        <p>Two kinds, tagged separately throughout. <b>Manifesto</b> promises are what a party told voters at the election. <b>Coalition agreement</b> commitments are what it actually signed up to in government: the 2017 Labour and NZ First deal, the 2017 and 2020 Labour and Greens agreements, and the 2023 National agreements with ACT and with NZ First.</p>
+        <p>Where a party&rsquo;s own manifesto policy was traded away in coalition talks, both are recorded and the manifesto one is marked <b>superseded</b>. Specific, checkable promises were preferred over aspirations.</p>
+      </div>
+      <div class="mcard">
+        <h3>How the score is calculated</h3>
+        <p>The percentage is <b>kept &divide; (kept + broken + in progress)</b>. Kept means delivered or largely delivered; broken means partly, not delivered, or abandoned.</p>
+        <p>An <b>in-progress</b> promise counts in the denominator, but not as a success. This matters more than it sounds. Every in-progress promise in the dataset belongs to the current term, so leaving them out would have given National a break Labour could not use. Promises <b>superseded</b> in coalition talks are left out completely, because the party never got to attempt them.</p>
+        <p>A percentage is <b>not shown at all</b> where fewer than 6 promises are scored. Small samples produce confident-looking numbers that mean nothing.</p>
+      </div>
+      <div class="mcard" style="border-color:color-mix(in srgb,var(--st-partial) 45%,var(--rule))">
+        <h3>Three things that can skew a scorecard like this</h3>
+        <p>Delivery scores are easy to tilt without meaning to. These three effects were tested for, and handled as follows.</p>
+        <ul>
+          <li><b>Unfinished promises can only help one side.</b> Every in-progress promise belongs to the current term, so excluding them would flatter it and nothing else. They count in the denominator instead. Commitments the record itself shows moving away from target are scored as partly delivered, not left open.</li>
+          <li><b>The kind of promise matters more than the party.</b> Promises to do a thing are kept 70% of the time across the whole dataset. Promises to hit a number are kept 36% of the time. A party that campaigned mostly on one kind will score differently for reasons that have nothing to do with competence, so the like-for-like column reweights every party to the same mix.</li>
+          <li><b>Coalition commitments are co-signed but recorded against one party.</b> All 19 broken signed-agreement commitments sit with ACT or NZ First, while National&rsquo;s own agreement list shows no outright failure. That is a bias by role rather than by politics, and it flatters whichever party leads a government. It is not corrected for, so read partner scores with it in mind.</li>
+        </ul>
+        <p>The risk in a scorecard like this is rarely loaded language. It is almost always the counting rules.</p>
+      </div>
+      <div class="mcard">
+        <h3>The comparison is not symmetrical</h3>
+        <ul>
+          <li>Labour governed for <b>six years</b>; National has governed for <b>two years and nine months</b>.</li>
+          <li>Labour&rsquo;s term included Covid-19, which took over the agenda from 2020 to 2022 and killed off promises unrelated to it.</li>
+          <li>Labour held a single-party majority from 2020. National governs with two partners whose agreement it needs.</li>
+          <li>National&rsquo;s term is unfinished. Some promises scored here will change status before the election.</li>
+        </ul>
+      </div>
+      <div class="mcard">
+        <h3>On the Treaty section</h3>
+        <p>This is the most contested material on the site, and it was handled with extra care. Policies are described by what the law actually did, in the parties&rsquo; own neutral terms.</p>
+        <p>Where the <em>significance</em> of a change is disputed, and it often is, both readings are set out in the promise&rsquo;s contested note and the site does not pick one. Delivery is scored on whether the stated commitment happened. That is a narrower question than whether it was right.</p>
+      </div>
+      <div class="mcard">
+        <h3>Known weaknesses</h3>
+        <ul>
+          <li>Several manifesto PDFs from 2017 and 2020 could not be retrieved. Those promises cite the strongest available record of the commitment instead of the manifesto itself.</li>
+          <li><b>The Greens&rsquo; number is the least trustworthy on the site.</b> It rests on 33 promises, 42% of them targets for things outside the party&rsquo;s control, and five of them pledges in portfolios the Greens never held in Cabinet. Several cooperation agreement clauses have nothing measurable in them and are still counted. Use the like-for-like column, and treat even that with caution.</li>
+          <li>Treaty and M&#257;ori policy is the hardest area to score fairly and the one to read most sceptically. It carries 17 promises from the Labour years and 13 from the current term.</li>
+          <li><b id="mContested">0</b> promises are flagged <b>contested</b>, meaning the status call is genuinely arguable. Open them and judge for yourself.</li>
+          <li>Promise counts differ by party, so a percentage drawn from a small sample is less reliable than one drawn from a large sample. Counts are shown everywhere for that reason.</li>
+          <li>This is one round of research, not a peer-reviewed audit. Treat it as a starting point with its sources attached, not a final verdict.</li>
+        </ul>
+      </div>
+      <div class="mcard">
+        <h3>Sources</h3>
+        <p>Primary sources were used wherever possible: the signed coalition agreements, legislation.govt.nz for what actually passed, Beehive releases, Treasury Budget documents and departmental data. New Zealand news outlets, including RNZ, the NZ Herald, The Post, Newsroom, The Spinoff and BusinessDesk, were used to check them.</p>
+        <p>Every promise carries at least one link to the promise and at least one to the evidence of what happened. <b id="mSources2">0</b> distinct source links in total.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="data">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">Open data</div>
+      <h2>Check the work</h2>
+      <p>Everything behind this page is published. The full dataset, every source link, the outcome series and the scripts that build the site are all in one repository. If you think a call is wrong, the evidence is there to argue with.</p>
+    </div>
+
+    <div class="dl-grid">
+      <a class="dl" href="https://github.com/drewbroadley/nz-govt-2026-promised-vs-did/blob/main/data/promises.csv">
+        <span class="dl-k">Spreadsheet</span>
+        <span class="dl-t">promises.csv</span>
+        <span class="dl-d">All <b id="dlN">347</b> promises with status, reasoning, party, policy area and source links. Opens in Excel or Sheets.</span>
+      </a>
+      <a class="dl" href="https://github.com/drewbroadley/nz-govt-2026-promised-vs-did/blob/main/data/promises.json">
+        <span class="dl-k">Structured</span>
+        <span class="dl-t">promises.json</span>
+        <span class="dl-d">The same data as JSON, which is what the page itself runs on.</span>
+      </a>
+      <a class="dl" href="https://github.com/drewbroadley/nz-govt-2026-promised-vs-did/blob/main/data/indicators.csv">
+        <span class="dl-k">Statistics</span>
+        <span class="dl-t">indicators.csv</span>
+        <span class="dl-d">The <b id="dlI">21</b> official outcome series, one row per year, with the source for each.</span>
+      </a>
+      <a class="dl" href="https://github.com/drewbroadley/nz-govt-2026-promised-vs-did/blob/main/sources/by-policy-area.md">
+        <span class="dl-k">Citations</span>
+        <span class="dl-t">Sources by policy area</span>
+        <span class="dl-d">Every promise with its links, grouped by subject. The quickest way to audit one area.</span>
+      </a>
+      <a class="dl" href="https://github.com/drewbroadley/nz-govt-2026-promised-vs-did/blob/main/sources/all-sources.md">
+        <span class="dl-k">Citations</span>
+        <span class="dl-t">Every source URL</span>
+        <span class="dl-d">All <b id="dlS">573</b> distinct links, grouped by domain, showing which entries cite each one.</span>
+      </a>
+      <a class="dl" href="https://github.com/drewbroadley/nz-govt-2026-promised-vs-did/blob/main/METHODOLOGY.md">
+        <span class="dl-k">Method</span>
+        <span class="dl-t">METHODOLOGY.md</span>
+        <span class="dl-d">The scoring rules in full, including how unfinished promises are handled and where the method is weak.</span>
+      </a>
+    </div>
+
+    <div class="callout" style="margin-top:22px">
+      <strong>Found something wrong?</strong> Open an issue on <a href="https://github.com/drewbroadley/nz-govt-2026-promised-vs-did/issues">the repository</a> or email <a href="mailto:drew@broadley.org.nz">drew@broadley.org.nz</a>. Corrections with a source attached will be made. The dataset is released under CC0, so you are free to reuse any of it without permission.
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap foot-grid">
+    <div style="max-width:46ch">
+      <strong style="color:var(--ink-2)">Promised vs Performed</strong> is a delivery scorecard for the 2026 New Zealand general election, held on 7 November 2026.
+      <br><br>Scored on delivery only. The site takes no position on whether any policy was a good one. Where a call is arguable it is labelled contested, and both readings are given.
+    </div>
+    <div style="max-width:38ch">
+      <div class="colophon-h">Who made this</div>
+      Compiled by <strong style="color:var(--ink-2)">Drew Broadley</strong>.<br>
+      <a href="mailto:drew@broadley.org.nz">drew@broadley.org.nz</a>
+      <br><br>The research, data collection and writing were done with AI assistance. Every promise carries links to the promise and to the evidence, so you can check any entry yourself. Corrections are welcome.
+    </div>
+    <div style="text-align:right">
+      <div class="colophon-h">This edition</div>
+      Compiled 18 August 2026<br>
+      <span id="footCounts"></span>
+    </div>
+  </div>
+</footer>
+
+<script>
+const DATA = __DATA__;
+</script>
+<script>
+/* ============ CONSTANTS ============ */
+const PARTY_ORDER = ["Labour","National","Greens","NZ First","ACT"];
+const PARTY_VAR = {"Labour":"--p-labour","National":"--p-national","Greens":"--p-greens","NZ First":"--p-nzfirst","ACT":"--p-act"};
+const ERA_META = {
+  labour:{name:"Labour-led government", dates:"Oct 2017 – Nov 2023", len:"6 years, 1 month",
+    parties:[["Labour","led government"],["NZ First","coalition 2017–20"],["Greens","support partner"]],
+    foot:"Two terms. A coalition with NZ First and Green support from 2017 to 2020, then a single-party majority from 2020 to 2023."},
+  national:{name:"National-led coalition", dates:"Nov 2023 – present", len:"2 years, 9 months",
+    parties:[["National","led government"],["ACT","coalition partner"],["NZ First","coalition partner"]],
+    foot:"A three-party coalition. The term is still running, and the general election is on 7 November 2026."}
+};
+const STATUS_META = {
+  "delivered":     {label:"Delivered",        tier:"kept",     icon:"i-delivered",     desc:"Done, broadly as promised, within the term."},
+  "largely":       {label:"Largely delivered",tier:"kept",     icon:"i-largely",       desc:"Done, but scaled back, late, or with real caveats."},
+  "partly":        {label:"Partly delivered", tier:"partial",  icon:"i-partly",        desc:"Real progress, but well short of what was promised."},
+  "not-delivered": {label:"Not delivered",    tier:"broken",   icon:"i-not-delivered", desc:"Promised, and it did not happen, whether or not it was attempted."},
+  "abandoned":     {label:"Abandoned",        tier:"broken",   icon:"i-abandoned",     desc:"Dropped, cancelled or reversed by the party that promised it."},
+  "in-progress":   {label:"In progress",      tier:"unscored", icon:"i-in-progress",   desc:"Still live and moving at the end of the period. Counts against the score, but not as a success."},
+  "superseded":    {label:"Superseded",       tier:"unscored", icon:"i-superseded",    desc:"Traded away in coalition talks before the party got to govern. Left out of the score."}
+};
+const STATUS_ORDER = ["delivered","largely","partly","not-delivered","abandoned","in-progress","superseded"];
+const TIER_ORDER = ["kept","partial","broken","unscored"];
+const TIER_LABEL = {kept:"Kept",partial:"Partly kept",broken:"Broken",unscored:"Not scored"};
+const KEPT = new Set(["delivered","largely"]);
+const BROKEN = new Set(["partly","not-delivered","abandoned"]);
+
+const $ = (s,r)=> (r||document).querySelector(s);
+const $$ = (s,r)=> Array.from((r||document).querySelectorAll(s));
+const esc = s => String(s==null?"":s).replace(/[&<>"']/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const host = u => { try{ return new URL(u).hostname.replace(/^www\./,""); }catch(e){ return "source"; } };
+
+/* Minimum scored promises before a percentage is shown at all. Below this a
+   percentage is noise dressed up as a finding , the stacked bar still shows the
+   raw counts, which is the honest thing to show at that sample size.
+   Between MIN_N and SOFT_N the number is shown but visibly de-emphasised. */
+const MIN_N = 6;
+const SOFT_N = 10;
+
+/* Scoring rule , applied identically to both terms.
+   Denominator = kept + broken + still in progress.
+   An unfinished promise counts against the score, exactly as the Labour term's
+   unfinished long-horizon targets did. The upper bound shows where the score
+   would land if every in-progress promise were delivered. */
+function tally(items){
+  const t={kept:0,partial:0,broken:0,unscored:0}, s={};
+  STATUS_ORDER.forEach(k=>s[k]=0);
+  items.forEach(p=>{ s[p.status]++; t[STATUS_META[p.status].tier]++; });
+  const kept = t.kept;
+  const broken = t.partial + t.broken;
+  const inprog = s["in-progress"];
+  const den = kept + broken + inprog;
+  const ok = den >= MIN_N;
+  return {
+    n: items.length, tiers:t, statuses:s, kept, broken, inprog, den,
+    pct:      (den && ok) ? Math.round(100*kept/den) : null,
+    pctUpper: (den && ok) ? Math.round(100*(kept+inprog)/den) : null,
+    thin: !ok && den > 0,
+    soft: ok && den < SOFT_N        // shown, but small enough to treat gently
+  };
+}
+
+/* Like-for-like adjustment (direct standardisation on promise type).
+   Promises to do a thing (pass a law, abolish a body) are kept 70% of the time
+   across the whole dataset. Promises to hit a number (cut this by that much) are
+   kept 36% of the time, by anyone. A party that made mostly one kind is not thereby better or
+   worse at governing. This reweights every party to the dataset-wide mix. */
+const PTYPES = ["act","outcome","procedural","other"];
+let PT_WEIGHTS = null;
+function ptWeights(){
+  if(PT_WEIGHTS) return PT_WEIGHTS;
+  const w = {}; let tot = 0;
+  PTYPES.forEach(t=>{
+    const n = DATA.promises.filter(p=>p.ptype===t && p.status!=="superseded").length;
+    w[t] = n; tot += n;
+  });
+  PTYPES.forEach(t=> w[t] = tot? w[t]/tot : 0);
+  return (PT_WEIGHTS = w);
+}
+function adjusted(items){
+  const w = ptWeights();
+  let num = 0, wsum = 0;
+  PTYPES.forEach(t=>{
+    const sel = items.filter(p=>p.ptype===t);
+    const k = sel.filter(p=>KEPT.has(p.status)).length;
+    const b = sel.filter(p=>BROKEN.has(p.status)).length;
+    const ip = sel.filter(p=>p.status==="in-progress").length;
+    const den = k+b+ip;
+    if(den < 4) return;                 // stratum too thin to estimate
+    num += w[t] * (k/den); wsum += w[t];
+  });
+  if(wsum < 0.55) return null;          // too much of the mix unestimable
+  return Math.round(100*num/wsum);
+}
+
+/* ============ COMPONENTS ============ */
+function tierBar(t, opts){
+  opts = opts || {};
+  const total = TIER_ORDER.reduce((a,k)=>a+t[k],0);
+  if(!total) return '<div class="tierbar'+(opts.sm?" sm":"")+'"></div>';
+  const segs = TIER_ORDER.filter(k=>t[k]>0).map(k=>{
+    const pc = 100*t[k]/total;
+    const show = pc >= (opts.sm?11:8);
+    return '<div class="seg" data-tier="'+k+'" style="flex:'+t[k]+' 1 0" role="img" aria-label="'+t[k]+' '+TIER_LABEL[k]+'">'
+         + (show?'<span>'+t[k]+'</span>':'')+'</div>';
+  }).join("");
+  return '<div class="tierbar'+(opts.sm?" sm":"")+'">'+segs+'</div>';
+}
+function legend(){
+  return TIER_ORDER.map(k=>'<span class="li"><span class="sw" data-tier="'+k+'"></span>'+TIER_LABEL[k]+'</span>').join("");
+}
+function pchip(party, role){
+  return '<span class="pchip" data-party="'+esc(party)+'"><span class="dot"></span>'+esc(party)
+       + (role?'<span class="role">'+esc(role)+'</span>':'')+'</span>';
+}
+function sbadge(status){
+  const m = STATUS_META[status];
+  return '<span class="sbadge" data-tier="'+m.tier+'"><svg aria-hidden="true"><use href="#'+m.icon+'"/></svg>'+m.label+'</span>';
+}
+
+/* ============ HERO / SCORECARD ============ */
+function renderHero(){
+  const P = DATA.promises;
+  const srcs = new Set();
+  P.forEach(p=>{ srcs.add(p.sourceUrl); (p.evidenceUrls||[]).forEach(u=>srcs.add(u)); });
+  $("#mTotal").textContent = P.length;
+  $("#mSources").textContent = srcs.size;
+  $("#mSources2").textContent = srcs.size;
+  $("#mContested").textContent = P.filter(p=>p.contested).length;
+  const days = Math.max(0, Math.round((new Date("2026-11-07") - new Date("2026-08-18"))/864e5));
+  $("#mDays").textContent = days;
+  $("#ipCount").textContent = P.filter(p=>p.era==="national" && p.status==="in-progress").length;
+  $("#footCounts").textContent = P.length+" promises · "+srcs.size+" sources · 18 policy areas";
+
+  // executive summary figures , computed, never hand-typed, so they cannot drift from the data
+  const tl = tally(P.filter(p=>p.era==="labour")), tn = tally(P.filter(p=>p.era==="national"));
+  const set = (id,v)=>{ const el=$("#"+id); if(el) el.textContent=v; };
+  set("sLab", tl.pct+"%"); set("sNat", tn.pct+"%");
+  set("sNatUp", tn.inprog); set("sNatMax", tn.pctUpper+"%");
+  set("sTot", P.length); set("sContested", P.filter(p=>p.contested).length);
+  const coalShare = era => {
+    const all = P.filter(p=>p.era===era);
+    return Math.round(100*all.filter(p=>p.sourceType==="coalition-agreement").length/all.length)+"%";
+  };
+  set("sNatCoal", coalShare("national")); set("sLabCoal", coalShare("labour"));
+  set("dlN", P.length); set("dlS", srcs.size); set("dlI", (DATA.stats.indicators||[]).length);
+}
+
+function renderEraCards(){
+  $("#eraCards").innerHTML = ["labour","national"].map(era=>{
+    const m = ERA_META[era], t = tally(DATA.promises.filter(p=>p.era===era));
+    return '<article class="era-card" data-era="'+era+'">'
+      + '<div class="era-title"><h3>'+m.name+'</h3><span class="era-dates">'+m.dates+'</span></div>'
+      + '<div class="era-parties">'+m.parties.map(x=>pchip(x[0],x[1])).join("")+'</div>'
+      + '<div class="hero-num"><span class="n">'+(t.pct==null?"–":t.pct)+'</span><span class="u">%</span></div>'
+      + '<div class="hero-num-label">of its '+t.den+' judgeable promises were kept'
+      + (t.inprog? ' &middot; <b style="color:var(--ink)">up to '+t.pctUpper+'%</b> if all '+t.inprog+' still in progress land' : '')
+      + ' &middot; '+t.n+' tracked in total</div>'
+      + tierBar(t.tiers)
+      + '<div class="era-foot">'+m.foot+'</div></article>';
+  }).join("");
+  $("#mainLegend").innerHTML = legend();
+  $("#partyLegend").innerHTML = legend();
+  $("#h2hLegend").innerHTML = legend();
+}
+
+/* ============ PARTY / AREA / SOURCE PANEL ============ */
+function scoreRow(label, dotVar, t, adj){
+  const pctTxt = t.pct==null ? '<span title="too few promises to score reliably">n/a</span>' : t.pct+"%";
+  const sub = t.thin ? "only "+t.den+" scored" : t.n+" promises";
+  return '<div class="row"><div class="lbl">'
+    + (dotVar?'<span class="dot" style="background:var('+dotVar+')"></span>':'')
+    + '<span class="nm">'+esc(label)+'</span></div>'
+    + tierBar(t.tiers,{sm:true})
+    + (adj!==undefined ? '<div class="pct adj">'+(adj==null?"–":adj+"%")+'</div>' : '')
+    + '<div class="pct">'+pctTxt+'<small>'+sub+'</small></div></div>';
+}
+function renderPanel(view){
+  const el = $("#partyPanel");
+  let html = "";
+  if(view==="party"){
+    html += '<p style="font-size:14.5px;color:var(--ink-2);max-width:74ch;margin-bottom:18px">'
+      + 'The <b>like-for-like</b> column puts every party on the same mix of promise types. '
+      + 'Across the whole dataset, promises to <em>do a thing</em>, like passing a law or abolishing a body, are kept 70% of the time. '
+      + 'Promises to <em>hit a number</em>, like cutting something by so much, are kept 36% of the time. That holds for every party. '
+      + 'A party that campaigned mostly on one kind is not therefore better at governing.</p>';
+    ["labour","national"].forEach(era=>{
+      const m = ERA_META[era];
+      html += '<h3 style="font-size:15px;margin:22px 0 10px">'+m.name+' <span style="color:var(--ink-3);font-weight:500;font-size:13px">'+m.dates+'</span></h3>';
+      html += '<div class="rows-head has-adj"><div>Party</div><div>Outcome of its promises</div><div>Like&nbsp;for&nbsp;like</div><div>Kept</div></div><div class="rows has-adj">';
+      PARTY_ORDER.filter(pt=>DATA.promises.some(p=>p.era===era&&p.party===pt)).forEach(pt=>{
+        const sel = DATA.promises.filter(p=>p.era===era&&p.party===pt);
+        html += scoreRow(pt, PARTY_VAR[pt], tally(sel), adjusted(sel));
+      });
+      html += '</div>';
+    });
+    html += '<div class="callout" style="margin-top:20px"><strong>Two things to hold in mind.</strong> '
+      + 'The Greens’ number rests on 33 promises, 42% of them targets for things outside the party’s control, and five of them in portfolios the Greens never held in Cabinet. It is the least reliable figure here, which is why the like-for-like column moves it most. '
+      + 'And every coalition agreement commitment is signed by two parties but recorded against one, so a lead party never carries the blame for a partner’s missed commitment. '
+      + 'Sharing those out would move National down and its partners up.</div>';
+  } else if(view==="area"){
+    html += '<div class="rows-head"><div>Policy area</div><div>Outcome of all promises, both terms</div><div>Kept</div></div><div class="rows">';
+    DATA.areas.map(a=>({a, t:tally(DATA.promises.filter(p=>p.area===a.key))}))
+      .sort((x,y)=>(y.t.pct==null?-1:y.t.pct)-(x.t.pct==null?-1:x.t.pct))
+      .forEach(({a,t})=>{ html += scoreRow(a.label, null, t); });
+    html += '</div>';
+  } else {
+    html += '<p style="font-size:14.5px;color:var(--ink-2);max-width:70ch;margin-bottom:18px">Promises written into a signed coalition agreement are kept far more often than promises made only in a manifesto. That is the price of coalition government, and the reason the two are tracked separately here.</p>';
+    ["labour","national"].forEach(era=>{
+      const m = ERA_META[era];
+      html += '<h3 style="font-size:15px;margin:22px 0 10px">'+m.name+'</h3>';
+      html += '<div class="rows-head"><div>Where the promise was made</div><div>Outcome</div><div>Kept</div></div><div class="rows">';
+      [["coalition-agreement","In a signed coalition agreement"],["manifesto","In a manifesto only"]].forEach(([st,lab])=>{
+        const sel = DATA.promises.filter(p=>p.era===era&&p.sourceType===st);
+        if(sel.length) html += scoreRow(lab, null, tally(sel));
+      });
+      html += '</div>';
+    });
+  }
+  el.innerHTML = html;
+}
+
+/* ============ FILTERS + PROMISE LIST ============ */
+const state = {era:"all", parties:new Set(), statuses:new Set(), src:"all", types:new Set(), q:"", open:new Set()};
+const PT_META = {
+  act:       {label:"Do a thing",     hint:"Pass, repeal, abolish or establish something. Inside the government's control."},
+  outcome:   {label:"Hit a number",   hint:"A target for something out in the world, not a single act."},
+  procedural:{label:"Look into it",   hint:"Review, explore, investigate or consult."},
+  other:     {label:"Other",          hint:"Does not fall cleanly into the other three."}
+};
+
+function pillHTML(id, label, count, pressed, dotVar){
+  return '<button class="pill" type="button" data-v="'+esc(id)+'" aria-pressed="'+(pressed?"true":"false")+'">'
+    + (dotVar?'<span class="dot" style="background:var('+dotVar+')"></span>':'')
+    + esc(label) + (count!=null?'<span class="ct">'+count+'</span>':'') + '</button>';
+}
+function renderFilters(){
+  $("#fEra").innerHTML =
+    pillHTML("all","Both terms",null,state.era==="all") +
+    pillHTML("labour","Labour 2017–23",DATA.promises.filter(p=>p.era==="labour").length,state.era==="labour") +
+    pillHTML("national","National 2023–26",DATA.promises.filter(p=>p.era==="national").length,state.era==="national");
+  $("#fEra").style.cssText="display:flex;gap:6px;flex-wrap:wrap";
+
+  $("#fParty").innerHTML = PARTY_ORDER.map(pt=>
+    pillHTML(pt, pt, DATA.promises.filter(p=>p.party===pt).length, state.parties.has(pt), PARTY_VAR[pt])).join("");
+  $("#fParty").style.cssText="display:flex;gap:6px;flex-wrap:wrap";
+
+  $("#fStatus").innerHTML = STATUS_ORDER.map(s=>
+    pillHTML(s, STATUS_META[s].label, DATA.promises.filter(p=>p.status===s).length, state.statuses.has(s))).join("");
+  $("#fStatus").style.cssText="display:flex;gap:6px;flex-wrap:wrap";
+
+  $("#fSrc").innerHTML =
+    pillHTML("all","Both",null,state.src==="all") +
+    pillHTML("coalition-agreement","Coalition agreement",DATA.promises.filter(p=>p.sourceType==="coalition-agreement").length,state.src==="coalition-agreement") +
+    pillHTML("manifesto","Manifesto",DATA.promises.filter(p=>p.sourceType==="manifesto").length,state.src==="manifesto");
+  $("#fSrc").style.cssText="display:flex;gap:6px;flex-wrap:wrap";
+
+  $("#fType").innerHTML = PTYPES.map(t=>
+    '<button class="pill" type="button" data-v="'+t+'" aria-pressed="'+(state.types.has(t)?"true":"false")+'" title="'+esc(PT_META[t].hint)+'">'
+    + esc(PT_META[t].label)+'<span class="ct">'+DATA.promises.filter(p=>p.ptype===t).length+'</span></button>').join("");
+  $("#fType").style.cssText="display:flex;gap:6px;flex-wrap:wrap";
+}
+function filtered(){
+  const q = state.q.trim().toLowerCase();
+  return DATA.promises.filter(p=>{
+    if(state.era!=="all" && p.era!==state.era) return false;
+    if(state.parties.size && !state.parties.has(p.party)) return false;
+    if(state.statuses.size && !state.statuses.has(p.status)) return false;
+    if(state.src!=="all" && p.sourceType!==state.src) return false;
+    if(state.types.size && !state.types.has(p.ptype)) return false;
+    if(q){
+      const hay = (p.promise+" "+p.whatHappened+" "+p.areaLabel+" "+p.party+" "+p.statusReason+" "+p.sourceDoc+" "+p.keyNumber).toLowerCase();
+      if(!hay.includes(q)) return false;
+    }
+    return true;
+  });
+}
+function promiseCard(p){
+  const m = STATUS_META[p.status];
+  const links = [{u:p.sourceUrl,l:"The promise"}].concat((p.evidenceUrls||[]).map((u,i)=>({u,l:"Evidence "+(i+1)})));
+  return '<article class="pcard">'
+    + '<div class="pcard-top">'+pchip(p.party)+sbadge(p.status)
+    + '<span class="tag">'+(p.sourceType==="coalition-agreement"?"Coalition agreement":"Manifesto")+'</span>'
+    + '<span class="tag" title="'+esc(PT_META[p.ptype].hint)+'">'+esc(PT_META[p.ptype].label)+'</span>'
+    + (p.coSigned?'<span class="tag" title="Signed by two parties, attributed here to one">Co-signed</span>':'')
+    + (p.contested?'<span class="tag contested">Contested call</span>':'')+'</div>'
+    + '<div class="pcard-q">'+esc(p.promise)+'</div>'
+    + (p.keyNumber?'<div class="pcard-num">'+esc(p.keyNumber).replace(/ -&gt; /g,' \u2192 ')+'</div>':'')
+    + '<div class="pcard-why"><b>'+esc(m.label)+'.</b> '+esc(p.statusReason)+'</div>'
+    + '<details class="disc"><summary>What actually happened</summary><div class="disc-body">'
+    + '<p>'+esc(p.whatHappened)+'</p>'
+    + (p.sourceDoc?'<p style="font-size:12.5px;color:var(--ink-3)">Promise source: '+esc(p.sourceDoc)+'</p>':'')
+    + '</div></details>'
+    + '<details class="disc srcs"><summary>Sources ('+links.length+')</summary><div class="disc-body">'
+    + '<div class="srcline">'+links.map(x=>'<a class="srclink" href="'+esc(x.u)+'" target="_blank" rel="noopener noreferrer">'+esc(x.l)+' · '+esc(host(x.u))+'<svg><use href="#i-ext"/></svg></a>').join("")+'</div>'
+    + '</div></details>'
+    + (p.contested?'<div class="contest-note"><b>Why this one is arguable.</b> '+esc(p.contestedNote)+'</div>':'')
+    + '</article>';
+}
+function renderList(){
+  const list = filtered();
+  $("#fN").textContent = list.length;
+  $("#fTot").textContent = DATA.promises.length;
+  const el = $("#promiseList");
+  if(!list.length){ el.innerHTML = '<div class="empty">No promises match those filters. Try widening them.</div>'; return; }
+  const anyFilter = state.era!=="all"||state.parties.size||state.statuses.size||state.src!=="all"||state.q.trim();
+  el.innerHTML = DATA.areas.map(a=>{
+    const items = list.filter(p=>p.area===a.key);
+    if(!items.length) return "";
+    const t = tally(items);
+    const open = state.open.has(a.key) || (anyFilter && list.length<=60);
+    items.sort((x,y)=> STATUS_ORDER.indexOf(x.status)-STATUS_ORDER.indexOf(y.status) || PARTY_ORDER.indexOf(x.party)-PARTY_ORDER.indexOf(y.party));
+    return '<details class="agroup" data-area="'+a.key+'"'+(open?" open":"")+'>'
+      + '<summary class="ahead"><h3>'+esc(a.label)+'<span class="n">'+items.length+'</span></h3>'
+      + tierBar(t.tiers,{sm:true})
+      + '<svg class="chev" viewBox="0 0 16 16" aria-hidden="true"><use href="#i-chev"/></svg></summary>'
+      + '<div class="abody">'+(a.blurb?'<p class="ablurb">'+esc(a.blurb)+'</p>':'')
+      + items.map(promiseCard).join("")+'</div></details>';
+  }).join("");
+  $$("#promiseList .agroup").forEach(d=>{
+    d.addEventListener("toggle",()=>{ d.open? state.open.add(d.dataset.area) : state.open.delete(d.dataset.area); });
+  });
+}
+function wireFilters(){
+  $("#fEra").addEventListener("click",e=>{ const b=e.target.closest(".pill"); if(!b)return; state.era=b.dataset.v; renderFilters(); renderList(); });
+  $("#fSrc").addEventListener("click",e=>{ const b=e.target.closest(".pill"); if(!b)return; state.src=b.dataset.v; renderFilters(); renderList(); });
+  $("#fParty").addEventListener("click",e=>{ const b=e.target.closest(".pill"); if(!b)return; const v=b.dataset.v; state.parties.has(v)?state.parties.delete(v):state.parties.add(v); renderFilters(); renderList(); });
+  $("#fStatus").addEventListener("click",e=>{ const b=e.target.closest(".pill"); if(!b)return; const v=b.dataset.v; state.statuses.has(v)?state.statuses.delete(v):state.statuses.add(v); renderFilters(); renderList(); });
+  $("#fType").addEventListener("click",e=>{ const b=e.target.closest(".pill"); if(!b)return; const v=b.dataset.v; state.types.has(v)?state.types.delete(v):state.types.add(v); renderFilters(); renderList(); });
+  let tm; $("#fQ").addEventListener("input",e=>{ state.q=e.target.value; $("#fQClear").hidden=!state.q; clearTimeout(tm); tm=setTimeout(renderList,140); });
+  $("#fQClear").addEventListener("click",()=>{ state.q=""; $("#fQ").value=""; $("#fQClear").hidden=true; renderList(); });
+  $("#resetF").addEventListener("click",()=>{ state.era="all"; state.src="all"; state.parties.clear(); state.statuses.clear(); state.types.clear(); state.q=""; state.open.clear(); $("#fQ").value=""; $("#fQClear").hidden=true; renderFilters(); renderList(); });
+  $("#expandAll").addEventListener("click",()=>{
+    const allOpen = $$("#promiseList .agroup").every(d=>d.open);
+    DATA.areas.forEach(a=> allOpen? state.open.delete(a.key) : state.open.add(a.key));
+    $$("#promiseList .agroup").forEach(d=>d.open=!allOpen);
+    $("#expandAll").textContent = allOpen? "Expand all":"Collapse all";
+  });
+}
+
+/* ============ HEAD TO HEAD ============ */
+function renderH2H(){
+  $("#h2hRows").innerHTML = DATA.areas.map(a=>{
+    const cells = ["labour","national"].map(era=>{
+      const sel = DATA.promises.filter(p=>p.area===a.key && p.era===era);
+      if(!sel.length) return '<div class="h2h-cell" data-era="'+(era==="labour"?"Labour":"National")+'"><span class="na">none tracked</span></div>';
+      const t = tally(sel);
+      const cls = t.pct==null ? " tiny" : (t.soft ? " soft" : "");
+      const ttl = t.pct==null ? ' title="only '+t.den+' scored promises here, too few to put a number on"'
+                : (t.soft ? ' title="based on just '+t.den+' scored promises, treat with caution"' : '');
+      return '<div class="h2h-cell" data-era="'+(era==="labour"?"Labour":"National")+'">'
+        + tierBar(t.tiers,{sm:true})
+        + '<span class="pct'+cls+'"'+ttl+'>'+(t.pct==null? "n/a" : t.pct+"%")+'</span></div>';
+    }).join("");
+    return '<div class="h2h-row"><div class="lbl">'+esc(a.label)+'</div>'+cells+'</div>';
+  }).join("");
+}
+
+/* ============ NZ FIRST ============ */
+function renderNZF(){
+  $("#nzfCards").innerHTML = ["labour","national"].map(era=>{
+    const sel = DATA.promises.filter(p=>p.party==="NZ First" && p.era===era);
+    const t = tally(sel);
+    const partner = era==="labour"?"In government with Labour":"In government with National";
+    const dates = era==="labour"?"Oct 2017 – Oct 2020":"Nov 2023 – present";
+    return '<article class="era-card" data-era="'+era+'" style="--accent:var(--p-nzfirst)">'
+      + '<div class="era-title"><h3>'+partner+'</h3><span class="era-dates">'+dates+'</span></div>'
+      + '<div class="era-parties">'+pchip("NZ First","coalition partner")+'</div>'
+      + '<div class="hero-num"><span class="n">'+(t.pct==null?"–":t.pct)+'</span><span class="u">%</span></div>'
+      + '<div class="hero-num-label">of its '+t.den+' judgeable promises were kept &middot; '+t.n+' tracked</div>'
+      + tierBar(t.tiers)+'</article>';
+  }).join("");
+  const a = tally(DATA.promises.filter(p=>p.party==="NZ First"&&p.era==="labour"));
+  const b = tally(DATA.promises.filter(p=>p.party==="NZ First"&&p.era==="national"));
+  const sup = DATA.promises.filter(p=>p.party==="NZ First"&&p.status==="superseded").length;
+  let verdict;
+  if(a.pct==null||b.pct==null) verdict = "There is not enough scored material in one of the two terms to compare them reliably.";
+  else if(Math.abs(a.pct-b.pct) < 6) verdict = "The two are close enough that the difference is inside the noise of a dataset this size.";
+  else verdict = "NZ First's promises fared "+(a.pct>b.pct?"better with Labour":"better with National")+", by "+Math.abs(a.pct-b.pct)+" percentage points.";
+  const adjA = adjusted(DATA.promises.filter(p=>p.party==="NZ First"&&p.era==="labour"));
+  const adjB = adjusted(DATA.promises.filter(p=>p.party==="NZ First"&&p.era==="national"));
+  $("#nzfNote").innerHTML = '<strong>Reading this fairly.</strong> '+verdict
+    + (adjA!=null&&adjB!=null? ' Adjusted for promise type, the gap is '+adjA+'% against '+adjB+'%.' : '')
+    + ' The current term also has nearly twice as many tracked promises ('+b.n+' against '+a.n+'), because NZ First won far more written commitments in the 2023 coalition agreement than in 2017. A longer, more specific list is a harder list to keep. '
+    + sup+' NZ First promises across both terms are marked superseded. These are policies it campaigned on but traded away at the negotiating table, more than any other party here.';
+}
+
+/* ============ CHARTS ============ */
+const ERA_SPLIT = 2023.85;   // the Nov 2023 handover
+const COVID_FROM = 2020, COVID_TO = 2022.6;  // Mar 2020 border closure -> Aug 2022 full reopening
+
+const CHART_THEMES = [
+  {key:"econ",  title:"The economy and the cost of living",
+   blurb:"Inflation, interest rates and jobs drove both elections. The spike from 2021 to 2023 is the largest movement anywhere in this dataset.",
+   keys:["cpi-inflation","official-cash-rate","unemployment-rate","median-house-price","net-core-crown-debt-gdp","net-migration"]},
+  {key:"hard",  title:"Housing and hardship",
+   blurb:"Where the two governments' housing and welfare choices show up in people's lives. Watch for the changes in definition flagged on each series.",
+   keys:["weekly-rent","emergency-housing-households","public-housing-register","child-poverty-material-hardship","child-poverty-ahc50","jobseeker-support-recipients","main-benefit-recipients"]},
+  {key:"pub",   title:"Public services and crime",
+   blurb:"Slower-moving series. Several were only measured once a government decided to set a target on them, which tells you something in itself.",
+   keys:["ed-six-hour-target","school-attendance-regular","prison-population","adults-victimised-by-crime","road-deaths"]},
+  {key:"env",   title:"Climate and energy",
+   blurb:"Both emissions series come from a single inventory year. That sounds like a technicality but is not. The Ministry revises its whole back series each year, so mixing years can show emissions rising over a period in which they actually fell.",
+   keys:["emissions-gross","emissions-net","renewable-electricity-share"]}
+];
+
+function fmtVal(v,f){
+  if(f==="currency") return "$"+Math.round(v).toLocaleString("en-NZ");
+  if(f==="percent") return (Math.round(v*10)/10)+"%";
+  return Math.round(v).toLocaleString("en-NZ");
+}
+function fmtDelta(v,f){
+  const s = v>0?"+":(v<0?"−":"");
+  const a = Math.abs(v);
+  if(f==="percent") return s+(Math.round(a*10)/10)+" pts";
+  if(f==="currency") return s+"$"+Math.round(a).toLocaleString("en-NZ");
+  return s+Math.round(a).toLocaleString("en-NZ");
+}
+/* Split a series at the Nov 2023 handover so each government's stretch can be read
+   on its own. Uses the real data point nearest the handover , never interpolates. */
+function splitAtHandover(pts){
+  const before = pts.filter(p=>p.year<=2023);
+  const after  = pts.filter(p=>p.year>=2023);
+  const pivot  = before.length? before[before.length-1] : null;
+  return {
+    labour:   (before.length>=2 && pivot) ? {from:before[0], to:pivot} : null,
+    national: (after.length>=2)           ? {from:after[0],  to:after[after.length-1]} : null
+  };
+}
+function lineChart(ind){
+  const W=520,H=210,ML=52,MR=14,MT=14,MB=30;
+  const pts = ind.series.slice().sort((a,b)=>a.year-b.year);
+  if(pts.length<2) return "";
+  const xs = pts.map(p=>p.year), ys = pts.map(p=>p.value);
+  const x0=Math.min(...xs), x1=Math.max(...xs);
+  const lo=Math.min(...ys), hi=Math.max(...ys), span=hi-lo;
+  let y0, y1;
+  if(span===0){ y0 = lo - Math.abs(lo||1)*0.1; y1 = hi + Math.abs(hi||1)*0.1; }
+  else {
+    y0 = lo - span*0.18; y1 = hi + span*0.18;
+    /* Anchor to zero only when the data genuinely sits near it. Forcing a zero
+       baseline on a series that lives between 760k and 790k flattens the line into
+       a meaningless straight edge , the opposite of what a zero baseline is for. */
+    if(lo >= 0 && lo <= span*0.6) y0 = 0;
+    else if(y0 < 0 && lo >= 0) y0 = 0;
+  }
+  const px = y => MT+(H-MT-MB)*(1-(y-y0)/(y1-y0));
+  const qx = x => ML+(W-ML-MR)*((x-x0)/((x1-x0)||1));
+  const ticks=4, tv=[...Array(ticks+1)].map((_,i)=>y0+(y1-y0)*i/ticks);
+  let s = '<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="'+esc(ind.label)+' from '+x0+' to '+x1+'">';
+  // era bands
+  const sp = Math.max(x0, Math.min(x1, ERA_SPLIT));
+  if(sp>x0) s += '<rect class="era-band" style="color:var(--p-labour)" x="'+qx(x0)+'" y="'+MT+'" width="'+(qx(sp)-qx(x0))+'" height="'+(H-MT-MB)+'"/>';
+  if(sp<x1) s += '<rect class="era-band" style="color:var(--p-national)" x="'+qx(sp)+'" y="'+MT+'" width="'+(qx(x1)-qx(sp))+'" height="'+(H-MT-MB)+'"/>';
+  // Covid-19 period , hatched overlay, drawn above the era band so both read at once
+  const cf = Math.max(x0, COVID_FROM), ct = Math.min(x1, COVID_TO);
+  if(ct>cf){
+    s += '<rect x="'+qx(cf)+'" y="'+MT+'" width="'+(qx(ct)-qx(cf))+'" height="'+(H-MT-MB)+'" fill="url(#covidHatch)"/>'
+       + '<text class="era-lab covid" x="'+((qx(cf)+qx(ct))/2)+'" y="'+(H-MB-5)+'" text-anchor="middle">COVID-19</text>';
+  }
+  tv.forEach(v=>{ s+='<line class="gridline" x1="'+ML+'" x2="'+(W-MR)+'" y1="'+px(v)+'" y2="'+px(v)+'"/>'
+    + '<text class="axis-txt" x="'+(ML-8)+'" y="'+(px(v)+3.5)+'" text-anchor="end">'+fmtVal(v,ind.format)+'</text>'; });
+  if(sp>x0&&sp<x1){
+    s += '<line class="vsep" x1="'+qx(sp)+'" x2="'+qx(sp)+'" y1="'+MT+'" y2="'+(H-MB)+'"/>';
+    // only label a band that is actually wide enough to hold the word, otherwise the
+    // text spills past the plot edge , which happens whenever a term is one data point long
+    if(qx(sp)-qx(x0) > 44) s += '<text class="era-lab" x="'+(qx(sp)-5)+'" y="'+(MT+10)+'" text-anchor="end">Labour</text>';
+    if(qx(x1)-qx(sp) > 66) s += '<text class="era-lab" x="'+(qx(sp)+5)+'" y="'+(MT+10)+'">National</text>';
+    else s += '<text class="era-lab" x="'+(W-MR)+'" y="'+(MT+10)+'" text-anchor="end">Nat.</text>';
+  }
+  xs.forEach(x=>{ s+='<text class="axis-txt" x="'+qx(x)+'" y="'+(H-MB+16)+'" text-anchor="middle">'+String(x).slice(2)+'</text>'; });
+  const d = pts.map((p,i)=>(i?"L":"M")+qx(p.year).toFixed(1)+" "+px(p.value).toFixed(1)).join(" ");
+  s += '<path d="'+d+'" fill="none" stroke="var(--ink)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>';
+  pts.forEach(p=>{ s+='<circle class="dot-mk" cx="'+qx(p.year).toFixed(1)+'" cy="'+px(p.value).toFixed(1)+'" r="4" fill="var(--ink)"><title>'+p.year+": "+fmtVal(p.value,ind.format)+'</title></circle>'; });
+  // final value label , drop it below the point when the point sits high enough to
+  // collide with the era labels along the top of the plot
+  const l = pts[pts.length-1];
+  const ly = px(l.value);
+  const lyOff = (ly < MT+26) ? ly+15 : ly-11;
+  s += '<text class="axis-txt" style="font-weight:700;fill:var(--ink);font-size:11px" x="'+(qx(l.year))+'" y="'+lyOff+'" text-anchor="end">'+fmtVal(l.value,ind.format)+'</text>';
+  s += '</svg>';
+  return s;
+}
+function termDelta(ind, seg, side){
+  if(!seg) return '<div class="td '+side+' na"><span class="td-lab">'+(side==="labour"?"Labour":"National")+'</span><span class="td-v">not covered</span></div>';
+  const chg = seg.to.value - seg.from.value;
+  let cls = "";
+  if(ind.higherIsBetter===true || ind.higherIsBetter===false){
+    if(Math.abs(chg)>1e-9) cls = ((chg>0)===(ind.higherIsBetter===true)) ? " good" : " bad";
+  }
+  return '<div class="td '+side+'">'
+    + '<span class="td-lab">'+(side==="labour"?"Labour":"National")+' <em>'+seg.from.year+'–'+seg.to.year+'</em></span>'
+    + '<span class="td-v'+cls+'">'+fmtDelta(chg, ind.format)+'</span></div>';
+}
+function chartCard(ind){
+  const pts = ind.series.slice().sort((a,b)=>a.year-b.year);
+  if(pts.length<2) return "";
+  const f=pts[0], l=pts[pts.length-1];
+  const seg = splitAtHandover(pts);
+  const srcLine = 'Source: <a href="'+esc(ind.sourceUrl)+'" target="_blank" rel="noopener noreferrer">'+esc(host(ind.sourceUrl))+'</a>.';
+  const noteBody = '<div class="note">'+esc(ind.note||"")+(ind.note?" ":"")+srcLine+'</div>';
+  const dirNote = ind.higherIsBetter===true ? "higher is better"
+                : ind.higherIsBetter===false ? "lower is better" : "neither direction is inherently better";
+  return '<div class="chart-card"><h3>'+esc(ind.label)+'</h3>'
+    + '<div class="sub">'+f.year+'–'+l.year+' &middot; '+esc(ind.source||"")+' &middot; <span class="dirn">'+dirNote+'</span></div>'
+    + lineChart(ind)
+    + '<div class="termsplit">'+termDelta(ind,seg.labour,"labour")+termDelta(ind,seg.national,"national")+'</div>'
+    + '<div class="notewrap">'
+    + (ind.note && ind.note.length>110
+        ? '<details><summary>Notes &amp; caveats on this series</summary>'+noteBody+'</details>'
+        : '<div style="border-top:1px solid var(--rule)">'+noteBody+'</div>')
+    + '</div></div>';
+}
+function renderCharts(){
+  const inds = (DATA.stats&&DATA.stats.indicators)||[];
+  const byKey = {}; inds.forEach(i=>byKey[i.key]=i);
+  const used = new Set();
+  let html = "";
+  CHART_THEMES.forEach(th=>{
+    const list = th.keys.map(k=>byKey[k]).filter(Boolean);
+    if(!list.length) return;
+    list.forEach(i=>used.add(i.key));
+    html += '<div class="chart-theme"><h3 class="cth">'+esc(th.title)+'</h3>'
+          + '<p class="cthb">'+esc(th.blurb)+'</p>'
+          + '<div class="chart-grid">'+list.map(chartCard).join("")+'</div></div>';
+  });
+  const rest = inds.filter(i=>!used.has(i.key));
+  if(rest.length) html += '<div class="chart-theme"><h3 class="cth">Other measures</h3>'
+          + '<div class="chart-grid">'+rest.map(chartCard).join("")+'</div></div>';
+  $("#charts").innerHTML = html;
+  $("#chartCount").textContent = inds.length;
+}
+
+/* ============ METHOD ============ */
+function renderStatusKey(){
+  $("#statusKey").innerHTML = STATUS_ORDER.map(s=>{
+    const m=STATUS_META[s], n=DATA.promises.filter(p=>p.status===s).length;
+    return '<div class="k">'+sbadge(s)+'<p>'+esc(m.desc)+' <b style="color:var(--ink)">'+n+'</b> promises.</p></div>';
+  }).join("");
+}
+
+/* ============ THEME ============ */
+/* Always open light. This is a printed-report style document, and paper is its
+   default state , it should not flip to dark just because the reader's OS is set
+   that way. The toggle below still switches manually for anyone who wants it. */
+document.documentElement.setAttribute("data-theme", "light");
+$("#themeBtn").addEventListener("click",()=>{
+  const cur = document.documentElement.getAttribute("data-theme");
+  document.documentElement.setAttribute("data-theme", cur==="dark"?"light":"dark");
+});
+
+/* ============ INIT ============ */
+renderHero();
+renderEraCards();
+renderPanel("party");
+renderFilters(); wireFilters(); renderList();
+renderH2H();
+renderNZF();
+renderCharts();
+renderStatusKey();
+$("#partyTabs").addEventListener("click",e=>{
+  const b=e.target.closest("button[data-view]"); if(!b) return;
+  $$("#partyTabs button").forEach(x=>x.setAttribute("aria-selected", x===b?"true":"false"));
+  renderPanel(b.dataset.view);
+});
+</script>
+</body>
+</html>

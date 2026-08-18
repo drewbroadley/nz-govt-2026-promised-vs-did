@@ -1,0 +1,511 @@
+{
+ "areaKey": "economy",
+ "areaLabel": "Economy, Jobs & Fiscal",
+ "areaBlurb": "Labour campaigned on tight fiscal rules, sector-wide bargaining and a Reserve Bank mandate that included employment, then spent through a pandemic; National campaigned on reversing those settings and returning to surplus by 2026/27, and by August 2026 was forecasting its first surplus two years later than promised with unemployment at a decade high.",
+ "promises": [
+  {
+   "id": "economy-labour-budget-responsibility-rules",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 fiscal plan / Budget Responsibility Rules (agreed with the Greens, March 2017)",
+   "sourceUrl": "https://www.pressreader.com/new-zealand/the-timaru-herald/20191211/281676846790667",
+   "promise": "Meet five Budget Responsibility Rules. The strictest is to reduce net core Crown debt to below 20 percent of GDP within five years of taking office, and to keep core Crown spending at or around 30 percent of GDP, while running sustainable operating surpluses across the economic cycle.",
+   "whatHappened": "Labour ran operating surpluses in its first two full years and was on track against the debt rule before the COVID-19 pandemic. From 2020 the rules were set aside. The government borrowed heavily for the wage subsidy and other pandemic support, the 20 percent debt ceiling was replaced with a looser range, and the books were in operating deficit every year from 2019/20 through to the October 2023 handover. The Greens, who had co-signed the rules in 2017, formally abandoned them in December 2019, before the pandemic.",
+   "status": "partly",
+   "statusReason": "The rules were met in the first term and abandoned in the second. The debt and surplus targets were not in place at the end of the era.",
+   "keyNumber": "Net core Crown debt below 20% of GDP within 5 years -> on track pre-COVID, target dropped in 2020; operating deficits every year from 2019/20 to 2022/23",
+   "evidenceUrls": [
+    "https://www.treasury.govt.nz/publications/efu/budget-economic-and-fiscal-update-2026",
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand"
+   ],
+   "contested": true,
+   "contestedNote": "Labour argues the rules were explicitly conditional on there being no major economic shock, and that abandoning them in 2020 was the intended response to a once-in-a-century pandemic, which the Treasury and Reserve Bank supported. Critics argue the deficits and debt continued well beyond the pandemic emergency, with the books still in deficit at the 2023 handover, and that no replacement debt anchor of comparable strictness was adopted. The underlying fiscal record is not disputed."
+  },
+  {
+   "id": "economy-greens-budget-responsibility-rules",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "manifesto",
+   "sourceDoc": "Green Party 2017 election commitment (Budget Responsibility Rules co-signed with Labour, March 2017)",
+   "sourceUrl": "https://www.pressreader.com/new-zealand/the-timaru-herald/20191211/281676846790667",
+   "promise": "Sign up to and govern by Labour's Budget Responsibility Rules. These include reducing net core Crown debt to less than 20 percent of GDP within five years and keeping government spending at or below 30 percent of GDP.",
+   "whatHappened": "In December 2019, after an internal policy review, the Green Party's policy group voted to scrap the Budget Responsibility Rules and replace them with an economic policy allowing higher public spending. Co-leader James Shaw said the rules had limited the government's scope for change, and that the party would instead focus on wellbeing measures beyond GDP and a stronger public sector. The rules did not appear in the Greens' 2020 platform.",
+   "status": "abandoned",
+   "statusReason": "The Greens explicitly and publicly dropped a fiscal commitment they had campaigned on, part-way through the term.",
+   "keyNumber": "Debt below 20% of GDP and spending at or below 30% of GDP -> rules formally scrapped by the Greens in December 2019",
+   "evidenceUrls": [
+    "https://www.pressreader.com/new-zealand/the-timaru-herald/20191211/281676846790667"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-labour-fair-pay-agreements",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 and 2020 manifestos / workplace relations policy",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Fair_Pay_Agreements_Act_2022",
+   "promise": "Introduce Fair Pay Agreements, allowing unions and employers to bargain sector-wide minimum terms and conditions binding on all employers in an occupation or industry.",
+   "whatHappened": "A Fair Pay Agreements Working Group was set up in June 2018. The Fair Pay Agreements Bill passed its third reading on 25 October 2022 by 76 votes to 43 and received royal assent on 1 November 2022, five years after the promise was first made. Bargaining was initiated in a small number of sectors. No fair pay agreement had been concluded when the incoming government repealed the Act on 20 December 2023.",
+   "status": "largely",
+   "statusReason": "The system was legislated as promised, but only in the final year of the second term, and no agreement was ever concluded under it.",
+   "keyNumber": "Fair Pay Agreements promised in 2017 -> Act passed October 2022; 0 agreements concluded before repeal in December 2023",
+   "evidenceUrls": [
+    "https://www.legislation.govt.nz/act/public/2022/0058/latest/whole.html",
+    "https://www.mbie.govt.nz/business-and-employment/employment-and-skills/fair-pay-agreements",
+    "https://www.instituteforgovernment.org.uk/comment/labours-fair-pay-agreements-new-zealand"
+   ],
+   "contested": true,
+   "contestedNote": "One reading is that the promise was to legislate the framework, which happened in full, so this is close to delivered. The other is that the point of the policy was agreements covering workers, of which there were none, so it is closer to partly delivered. The five-year delay and the zero-agreement outcome are both undisputed."
+  },
+  {
+   "id": "economy-labour-minimum-wage-20",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 manifesto / workplace relations policy",
+   "sourceUrl": "https://www.beehive.govt.nz/release/minimum-wage-increase-1650-hour",
+   "promise": "Raise the adult minimum wage from $15.75 to $20 an hour by 2021, starting with $16.50 from 1 April 2018. Workplace Relations Minister Iain Lees-Galloway said on 22 December 2017: 'we are committed to increasing the minimum wage to $20 by 2021'.",
+   "whatHappened": "The adult minimum wage rose to $16.50 on 1 April 2018, $17.70 in 2019, $18.90 in 2020 and $20.00 on 1 April 2021, hitting the target on schedule. It kept rising to $21.20 in 2022 and $22.70 in 2023, a cumulative increase of 44 percent over the six years of the Labour government.",
+   "status": "delivered",
+   "statusReason": "The exact rate was reached on the exact promised date.",
+   "keyNumber": "$15.75 in 2017 -> $20.00 on 1 April 2021 as promised, and $22.70 by April 2023",
+   "evidenceUrls": [
+    "https://www.employment.govt.nz/pay-and-hours/pay-and-wages/minimum-wage/previous-min-wage-rates",
+    "https://www.mbie.govt.nz/business-and-employment/employment-and-skills/employment-legislation-reviews/minimum-wage-reviews"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-labour-abolish-90-day-trials",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 manifesto / workplace relations policy",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+   "promise": "Abolish 90-day trial periods. They allow an employer to dismiss a new employee within their first 90 days, without the employee being able to bring a personal grievance for unjustified dismissal.",
+   "whatHappened": "The Employment Relations Amendment Act 2018 did not abolish trial periods. Instead it restricted them to employers with fewer than 20 employees, with the change taking effect in 2019. Coalition partner NZ First required the carve-out for small business. The incoming government reversed the restriction in December 2023, extending trials back to employers of all sizes.",
+   "status": "partly",
+   "statusReason": "Trial periods were narrowed rather than abolished, and the narrowing lasted less than five years.",
+   "keyNumber": "Abolish 90-day trials -> restricted to employers with fewer than 20 staff from 2019, reversed in December 2023",
+   "evidenceUrls": [
+    "https://thespinoff.co.nz/politics/28-11-2023/the-ctrl-z-coalition-all-the-repeals-and-reversals-planned-by-the-new-government",
+    "https://en.wikipedia.org/wiki/Sixth_National_Government_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-nzfirst-provincial-growth-fund",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement, 24 October 2017",
+   "sourceUrl": "https://www.scoop.co.nz/stories/PA1710/S00058/coalition-agreement-nz-first-and-labour.htm",
+   "promise": "Establish a Regional Development (Provincial Growth) Fund of $1 billion a year to invest in the regions.",
+   "whatHappened": "The Provincial Growth Fund was launched in February 2018 with $3 billion allocated over three years. NZ First minister Shane Jones ran it as Regional Economic Development Minister. It included dedicated allocations such as $100 million for Māori economic development. Much of the remaining money was redirected into COVID-19 infrastructure and redeployment packages in 2020, and the fund did not continue in its original form after NZ First left Parliament at the 2020 election. Job-creation claims made for the fund were disputed at the time.",
+   "status": "largely",
+   "statusReason": "A fund of the promised scale was established and spent, but at $3 billion over three years rather than $1 billion every year of the term. It did not survive the change of government arrangements in 2020.",
+   "keyNumber": "$1 billion a year for the regions -> $3 billion Provincial Growth Fund over three years from February 2018",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+    "https://newsroom.co.nz/2017/10/24/nz-first-labour-agree-1b-regional-fund/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-nzfirst-reserve-bank-dual-mandate",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement, 24 October 2017",
+   "sourceUrl": "https://www.scoop.co.nz/stories/PA1710/S00058/coalition-agreement-nz-first-and-labour.htm",
+   "promise": "Reform the Reserve Bank Act so that monetary policy is directed at maximising employment alongside price stability, and move decision-making to a committee.",
+   "whatHappened": "The Policy Targets Agreement signed in 2018 added 'supporting maximum sustainable employment' to the Reserve Bank's objectives. The Reserve Bank of New Zealand (Monetary Policy) Amendment Act 2018 wrote the dual mandate into legislation and created a statutory Monetary Policy Committee, which began operating in 2019. The dual mandate was carried into the Reserve Bank of New Zealand Act 2021. The incoming government removed it on 20 December 2023.",
+   "status": "delivered",
+   "statusReason": "The mandate change and the committee structure were both legislated within the first term, as agreed.",
+   "keyNumber": "Employment added to the RBNZ mandate -> legislated in 2018; removed again on 20 December 2023",
+   "evidenceUrls": [
+    "https://www.rbnz.govt.nz/monetary-policy/about-monetary-policy/history-of-the-remit-and-policy-targets-agreement",
+    "https://www.rbnz.govt.nz/about-us/legislation/reserve-bank-of-new-zealand-act-2021"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-labour-foreign-buyer-ban",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 manifesto / Labour-NZ First Coalition Agreement, 24 October 2017",
+   "sourceUrl": "https://www.scoop.co.nz/stories/PA1710/S00058/coalition-agreement-nz-first-and-labour.htm",
+   "promise": "Ban overseas buyers who are not residents from purchasing existing residential homes in New Zealand.",
+   "whatHappened": "The Overseas Investment Amendment Act 2018 classified residential land as sensitive land requiring consent. That in effect barred most non-resident foreign buyers from purchasing existing homes from 22 October 2018. Australian and Singaporean buyers remained exempt under existing free trade agreements. The ban survived the 2023 change of government. National campaigned on partially lifting it for homes over $2 million, but agreed in the National-NZ First coalition agreement that its tax plan 'will not include a repeal of the foreign buyer's residential property ban'.",
+   "status": "delivered",
+   "statusReason": "Legislated within the first year of the term, and still in force in August 2026.",
+   "keyNumber": "Ban on non-resident foreign buyers of existing homes -> in force from 22 October 2018",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+    "https://www.1news.co.nz/2023/11/24/nz-first-scuppers-nationals-foreign-buyers-tax-plan/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-national-surplus-2026-27",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 fiscal plan",
+   "sourceUrl": "https://www.nzherald.co.nz/nz/politics/national-slides-back-into-the-red-that-surplus-position-is-challenged-nicola-willis-warns-surplus-promise-may-not-be-met/ACH2CI5JGJAMPO4TDEGLWXX6XY/",
+   "promise": "Return the government's books to an operating surplus of $2.9 billion in the 2026/27 year. Fund this by spending restraint and reduced growth in new expenditure rather than higher borrowing.",
+   "whatHappened": "The government changed its headline fiscal measure in 2024 to OBEGALx, which excludes ACC. Nicola Willis publicly conceded the 2026/27 surplus was unlikely to be met, saying she 'wouldn't describe myself as optimistic' about it. Budget 2026, delivered on 28 May 2026, forecast OBEGALx deficits of $11.9 billion in 2025/26 and $11.4 billion in 2026/27. The first surplus of $2.6 billion is not due until 2028/29. That is a year earlier than the December 2025 half-year update had projected, but two years later than promised. Net core Crown debt is forecast to peak at 46.1 percent of GDP in 2027/28 before easing to 44.4 percent by 2029/30.",
+   "status": "not-delivered",
+   "statusReason": "The specific surplus year and amount promised in the 2023 fiscal plan will not be met. The 2026/27 year is now forecast to be an $11.4 billion deficit.",
+   "keyNumber": "$2.9 billion surplus in 2026/27 -> $11.4 billion deficit forecast for 2026/27; first surplus now forecast for 2028/29",
+   "evidenceUrls": [
+    "https://budget.govt.nz/budget/2026/fiscal-strategy-report/fiscal-outlook.htm",
+    "https://www.1news.co.nz/2026/05/28/budget-2026-new-tax-changes-as-nz-to-return-to-surplus-sooner/",
+    "https://www.beehive.govt.nz/speech/budget-2026-securing-new-zealands-future"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-national-savings-and-reprioritisation",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 manifesto / 'Back Pocket Boost' fiscal plan, 30 August 2023",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/496895/national-s-tax-plan-and-costings-what-you-need-to-know",
+   "promise": "Fund the $14.6 billion tax package without additional borrowing. Use roughly $800 million a year of public service back-office savings, $2.3 billion from the Climate Emergency Response Fund and new revenue measures.",
+   "whatHappened": "The December 2023 mini-budget identified $7.47 billion of savings over four years. These included cancelling the Climate Emergency Response Fund ($2 billion), removing depreciation deductions for commercial buildings ($2.3 billion), $400 million from reduced consultant spending and $600 million from departmental cost reductions. In January 2024 departments were told to find baseline savings of 6.5 or 7.5 percent towards a $1.5 billion a year target. The package was delivered as fiscally neutral, but two of the three funding legs changed. The promised foreign buyer tax was dropped, and the gap was helped by the commercial building depreciation change and the retained 'app tax', neither of which National had campaigned on as revenue for the package.",
+   "status": "largely",
+   "statusReason": "The savings were found and the tax package was funded without extra borrowing. The mix of measures used differed materially from the one put to voters.",
+   "keyNumber": "About $800 million a year of back-office savings -> $7.47 billion of savings over four years identified in the December 2023 mini-budget",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/2023_New_Zealand_mini-budget",
+    "https://www.rnz.co.nz/news/politics/524904/how-many-public-sector-roles-are-going-and-from-where",
+    "https://www.1news.co.nz/2023/11/24/nz-first-scuppers-nationals-foreign-buyers-tax-plan/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-national-reserve-bank-single-mandate",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement and National's 100-day plan, November 2023",
+   "sourceUrl": "https://thespinoff.co.nz/politics/28-11-2023/the-ctrl-z-coalition-all-the-repeals-and-reversals-planned-by-the-new-government",
+   "promise": "Remove 'supporting maximum sustainable employment' from the Reserve Bank's remit, so that monetary policy focuses solely on price stability.",
+   "whatHappened": "The Reserve Bank of New Zealand (Economic Objective) Amendment Bill was the first bill passed by the new Parliament. It went through all stages on 13 December 2023 and came into force on 20 December 2023. The accompanying Remit removes the employment objective, but retains employment as one of the variables in which the Monetary Policy Committee should seek to avoid unnecessary volatility. Treasury's regulatory impact statement on the change was published in November 2023.",
+   "status": "delivered",
+   "statusReason": "Legislated within the first month of the term exactly as set out in the coalition agreement and 100-day plan.",
+   "keyNumber": "Dual mandate removed -> legislated 13 December 2023, in force 20 December 2023",
+   "evidenceUrls": [
+    "https://www.legislation.govt.nz/bill/government/2023/0002/latest/whole.html",
+    "https://www.rbnz.govt.nz/monetary-policy/about-monetary-policy/history-of-the-remit-and-policy-targets-agreement",
+    "https://www.treasury.govt.nz/sites/default/files/2023-12/ris-tsy-rdmrba-nov23.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-national-repeal-fair-pay-agreements",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement and National's 100-day plan, November 2023",
+   "sourceUrl": "https://thespinoff.co.nz/politics/28-11-2023/the-ctrl-z-coalition-all-the-repeals-and-reversals-planned-by-the-new-government",
+   "promise": "Repeal the Fair Pay Agreements Act 2022 by Christmas 2023.",
+   "whatHappened": "The Fair Pay Agreements Act Repeal Bill passed its third reading under urgency on 14 December 2023, received royal assent on 19 December and took effect on 20 December 2023. No fair pay agreement had been concluded under the Act, so none were cancelled. Unions, Labour, the Greens and Te Pāti Māori opposed the repeal. Business groups supported it.",
+   "status": "delivered",
+   "statusReason": "Repealed within the promised timeframe and before Christmas 2023.",
+   "keyNumber": "Repeal by Christmas 2023 -> repealed 20 December 2023",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Fair_Pay_Agreements_Act_2022",
+    "https://www.mbie.govt.nz/dmsdocument/28026-repeal-of-fair-pay-agreements-legislation-proactiverelease-pdf",
+    "https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20231212_20231213_40"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-national-90-day-trials-all-employers",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement and National's 100-day plan, November 2023",
+   "sourceUrl": "https://thespinoff.co.nz/politics/28-11-2023/the-ctrl-z-coalition-all-the-repeals-and-reversals-planned-by-the-new-government",
+   "promise": "Restore 90-day employment trial periods for businesses of all sizes, reversing Labour's restriction to employers with fewer than 20 staff.",
+   "whatHappened": "Amending legislation passed in December 2023, and 90-day trial periods became available to all employers from 23 December 2023. It was one of the first measures completed under the 100-day plan.",
+   "status": "delivered",
+   "statusReason": "Legislated within the first month of the term as promised.",
+   "keyNumber": "90-day trials limited to employers with under 20 staff -> extended to all employers from December 2023",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_National_Government_of_New_Zealand",
+    "https://wynnwilliams.co.nz/insights/employment/change-on-the-horizon-what-the-coalition-agreements-and-100-day-plan-means-for-employment-in-aotearoa-new-zealand/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-act-ministry-for-regulation",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement, 24 November 2023",
+   "sourceUrl": "https://thespinoff.co.nz/politics/24-11-2023/the-coalition-deal-at-a-glance",
+   "promise": "Establish a Ministry for Regulation to cut red tape, funded by disestablishing the Productivity Commission. Pass a Regulatory Standards Act setting principles for good law-making.",
+   "whatHappened": "The Ministry for Regulation was established in 2024 with ACT leader David Seymour as Minister for Regulation, and the New Zealand Productivity Commission was disestablished to fund it. The Regulatory Standards Bill passed its second and third readings in November 2025 and received royal assent, becoming the Regulatory Standards Act 2025. The Act sets principles covering the rule of law, personal liberties, property rights and taxation. It also establishes a Regulatory Standards Board to consider complaints about existing law. ACT had pursued the policy for around 20 years, and Labour, the Greens and Te Pāti Māori strongly opposed it.",
+   "status": "delivered",
+   "statusReason": "Both the new ministry and the Act were delivered within the term, in the form set out in the coalition agreement.",
+   "keyNumber": "Ministry for Regulation and a Regulatory Standards Act -> ministry established 2024; Act passed November 2025",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Regulatory_Standards_Act_2025",
+    "https://en.wikipedia.org/wiki/Ministry_for_Regulation"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-act-public-sector-back-to-2017-levels",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement, 24 November 2023",
+   "sourceUrl": "https://thespinoff.co.nz/politics/24-11-2023/the-coalition-deal-at-a-glance",
+   "promise": "Shrink the public sector back to 2017 levels by reducing non-essential back-office functions.",
+   "whatHappened": "Departments were directed in January 2024 to find baseline savings of 6.5 or 7.5 percent, the higher figure applying to agencies that had grown more than 50 percent since 2017. RNZ counted around 9,500 public sector roles going by the end of 2024. Public service full-time-equivalent staffing fell from a peak of 65,699 in the December 2023 quarter to 62,654 in June 2025, but then rose again to 64,535 by March 2026. At June 2024 the public service was still about 34 percent larger than at June 2017. In May 2026 the government announced a further plan to cut about 8,700 roles, setting a target of no more than 55,000 full-time equivalents by July 2029, four years after the end of this parliamentary term.",
+   "status": "not-delivered",
+   "statusReason": "Public service headcount at March 2026 was only about 1,200 below its December 2023 peak and remained far above 2017 levels. The government's own new target date for a smaller public service is 2029.",
+   "keyNumber": "Public sector back to 2017 levels -> 64,535 public service FTEs at March 2026, versus a December 2023 peak of 65,699 and a June 2017 base roughly a third smaller",
+   "evidenceUrls": [
+    "https://www.publicservice.govt.nz/data/workforce-data/public-sector-composition/workforce-size",
+    "https://www.rnz.co.nz/news/politics/524904/how-many-public-sector-roles-are-going-and-from-where",
+    "https://www.globalgovernmentforum.com/new-zealand-government-announces-plan-to-cut-nearly-9000-public-service-jobs/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-act-minimum-wage-freeze",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "manifesto",
+   "sourceDoc": "ACT 2023 election policy",
+   "sourceUrl": "https://www.rnz.co.nz/programmes/news-extras/story/2018902030/election-2023-rnz-s-guide-to-party-policy",
+   "promise": "Freeze the adult minimum wage for three years.",
+   "whatHappened": "The freeze was not adopted in the coalition agreements. The adult minimum wage rose from $22.70 to $23.15 on 1 April 2024 (2.0 percent), to $23.50 on 1 April 2025 (1.5 percent) and to $23.95 on 1 April 2026 (1.9 percent). The increases were much smaller than the 5.8 to 7.3 percent annual rises under the previous government, but the wage was not frozen in any year of the term.",
+   "status": "superseded",
+   "statusReason": "ACT's policy was not written into the coalition agreements, and the minimum wage was increased in each of the three years.",
+   "keyNumber": "Three-year minimum wage freeze -> minimum wage rose from $22.70 to $23.95 between April 2023 and April 2026",
+   "evidenceUrls": [
+    "https://www.calculate.co.nz/reference/nz-minimum-wage.php",
+    "https://www.employment.govt.nz/pay-and-hours/pay-and-wages/minimum-wage/previous-min-wage-rates"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-act-top-ten-oecd-growth",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "manifesto",
+   "sourceDoc": "ACT 2023 election policy / alternative budget",
+   "sourceUrl": "https://www.rnz.co.nz/programmes/news-extras/story/2018902030/election-2023-rnz-s-guide-to-party-policy",
+   "promise": "Lift New Zealand into the top 10 OECD countries for GDP growth. Do this through lower taxes, deep cuts to government spending and the removal of programmes ACT considered wasteful.",
+   "whatHappened": "The economy contracted through much of 2024 and recovered only slowly. Unemployment rose steadily across the term, reaching 5.6 percent in the June 2026 quarter, the highest reading in more than a decade, with 171,000 people unemployed. Underutilisation was 13.8 percent, or about 440,000 people wanting more work. Treasury's Budget 2026 forecasts put annual GDP growth at 1.2 percent for the year to June 2026, rising to 3.2 percent by June 2028, with nominal GDP growth forecasts revised slightly down from earlier updates.",
+   "status": "not-delivered",
+   "statusReason": "Growth of 1.2 percent in the year to June 2026, following a recession, is not consistent with a top-10 OECD growth ranking, and unemployment rose over the term.",
+   "keyNumber": "Top 10 OECD for GDP growth -> 1.2% annual growth in the year to June 2026 and unemployment at 5.6%, a decade high",
+   "evidenceUrls": [
+    "https://www.stats.govt.nz/news/unemployment-rate-at-5-6-percent-in-the-june-2026-quarter/",
+    "https://newswire.co.nz/2026/08/unemployment-5-6-percent-june-2026-quarter/",
+    "https://www.beehive.govt.nz/speech/budget-2026-securing-new-zealands-future"
+   ],
+   "contested": true,
+   "contestedNote": "ACT could argue the goal was framed as a medium-term ambition rather than a single-term deliverable, and that the coalition did not adopt most of its spending and tax programme, so the target was never properly tested. Critics point out that the party campaigned on it as the measure of its economic programme, and that on any within-term reading the target was missed. The growth and unemployment figures themselves are not disputed."
+  },
+  {
+   "id": "economy-nzfirst-regional-infrastructure-fund",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement, 24 November 2023",
+   "sourceUrl": "https://thespinoff.co.nz/politics/24-11-2023/the-coalition-deal-at-a-glance",
+   "promise": "Establish a $1.2 billion Regional Infrastructure Fund over three years, reviving the model of the Provincial Growth Fund.",
+   "whatHappened": "The Regional Infrastructure Fund was established with $1.2 billion in Budget 2024. NZ First minister Shane Jones administers it as Minister for Regional Development. Allocations to flood protection, water storage, energy and regional transport projects have continued through the term.",
+   "status": "delivered",
+   "statusReason": "A fund of the promised size was established in the first Budget of the term with the promised minister and scope.",
+   "keyNumber": "$1.2 billion Regional Infrastructure Fund over three years -> established in Budget 2024",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_National_Government_of_New_Zealand",
+    "https://www.rnz.co.nz/news/politics/503153/coalition-details-at-a-glance-what-you-need-to-know"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-nzfirst-surplus-2024-25",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto ('Back to Black')",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4158/attachments/original/1696631089/2023-New-Zealand-First-Policy-Manifesto-1.pdf",
+   "promise": "Return the Budget to surplus in 2024/25. Hold total government expenses to no more than $165 billion and core government expenses to no more than $133 billion for 2024/25.",
+   "whatHappened": "The books remained in deficit through 2024/25 and 2025/26. Budget 2026 forecast OBEGALx deficits of $11.9 billion in 2025/26 and $11.4 billion in 2026/27, with the first surplus not expected until 2028/29, four years later than NZ First's target. Budget 2026 held new operating spending to $2.1 billion against a $2.4 billion allowance and cut the bond programme by $6 billion over four years, the first downward revision since 2021.",
+   "status": "not-delivered",
+   "statusReason": "No surplus was achieved in 2024/25 or any later year of the term, and the forecast surplus is four years later than promised.",
+   "keyNumber": "Budget surplus in 2024/25 -> deficits in every year; first surplus now forecast for 2028/29",
+   "evidenceUrls": [
+    "https://budget.govt.nz/budget/2026/fiscal-strategy-report/fiscal-outlook.htm",
+    "https://www.beehive.govt.nz/speech/budget-2026-securing-new-zealands-future"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-nzfirst-minimum-wage-25",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4158/attachments/original/1696631089/2023-New-Zealand-First-Policy-Manifesto-1.pdf",
+   "promise": "Lift the adult minimum wage to at least $25 an hour, offset for employers through business tax concessions.",
+   "whatHappened": "The minimum wage rose to $23.15 on 1 April 2024, $23.50 on 1 April 2025 and $23.95 on 1 April 2026. The offsetting business tax concessions were not introduced. NZ First's target was not written into the National-NZ First coalition agreement.",
+   "status": "not-delivered",
+   "statusReason": "The minimum wage was $23.95 at April 2026, more than a dollar short of the promised floor, and the tax offset mechanism was never introduced.",
+   "keyNumber": "At least $25 an hour -> $23.95 at 1 April 2026",
+   "evidenceUrls": [
+    "https://www.calculate.co.nz/reference/nz-minimum-wage.php",
+    "https://www.employment.govt.nz/pay-and-hours/pay-and-wages/minimum-wage/previous-min-wage-rates"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "economy-nzfirst-kiwisaver-and-small-business",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4158/attachments/original/1696631089/2023-New-Zealand-First-Policy-Manifesto-1.pdf",
+   "promise": "Rebuild KiwiSaver. Restore the KiwiSaver kickstart with auto-enrolment at birth from July 2024, pay a $250 annual state contribution matched by the individual until age 18, and raise the government contribution to $1,540. Separately, redefine a small or medium enterprise from 19 to 50 full-time equivalent employees, and allow 100 percent depreciation on business equipment worth up to $20,000.",
+   "whatHappened": "None of the KiwiSaver commitments were written into the National-NZ First coalition agreement, and none had been legislated as at August 2026. The SME redefinition and the $20,000 full-expensing rule were also not adopted. Regulatory relief for business was pursued instead through ACT's Ministry for Regulation and Regulatory Standards Act.",
+   "status": "not-delivered",
+   "statusReason": "No element of the KiwiSaver package or the small business tax changes was adopted in the coalition agreement or legislated during the term.",
+   "keyNumber": "KiwiSaver kickstart from July 2024 and a $1,540 government contribution -> neither introduced as at August 2026",
+   "evidenceUrls": [
+    "https://kpmg.com/nz/en/insights/2023/11/national-act-nzfirst-government-tax-policies.html",
+    "https://www.1news.co.nz/2026/05/28/budget-2026-new-tax-changes-as-nz-to-return-to-surplus-sooner/",
+    "https://thespinoff.co.nz/politics/24-11-2023/the-coalition-deal-at-a-glance"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-greens-green-investment-finance",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Confidence and Supply Agreement 2017, policy goal 4, stimulate up to $1 billion of investment in low carbon industries by 2020",
+   "sourceUrl": "https://thestandard.org.nz/labour-green-confidence-and-supply-agreement-released/",
+   "promise": "Stimulate up to $1 billion of investment in low carbon industries by 2020, through a proposed Green Investment Fund.",
+   "whatHappened": "Cabinet agreed to establish New Zealand Green Investment Finance Limited in late 2018. The company was capitalised with $100 million and began investing in 2019. It had committed roughly half its initial capital by 2020, far short of the $1 billion of stimulated investment named for that year. Capital was later increased to $400 million, and on 9 May 2023 Climate Change Minister James Shaw announced a further $300 million, taking total capital to $700 million. NZGIF's investments included EV charging infrastructure, solar on schools and electric buses, with estimated lifetime emissions reductions of 580,000 to 710,000 tonnes CO2e as at June 2022.",
+   "status": "partly",
+   "statusReason": "The institution was created and its capital grew, but the $1 billion by 2020 figure in the agreement was not close to being met on that date.",
+   "keyNumber": "Up to $1b of low carbon investment stimulated by 2020 -> NZGIF capitalised at $100m in 2019, about half committed by 2020; capital reached $700m by May 2023",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/100-million-investment-fund-launched-invest-reducing-emissions",
+    "https://www.beehive.govt.nz/release/pioneering-green-investor-gets-significant-boost",
+    "https://www.treasury.govt.nz/sites/default/files/2018-12/establishing-nz-green-investment-finance-limited.pdf"
+   ],
+   "contested": true,
+   "contestedNote": "The government's reading is that NZGIF mobilises private capital at a multiple of its own balance sheet, so the total investment stimulated exceeds its capitalisation. Critics note that the agreement named a $1 billion figure and a 2020 date, and that on any measure of capital deployed by 2020 the figure was in the tens of millions."
+  },
+  {
+   "id": "gapfill-greens-wealth-tax-gmi",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "manifesto",
+   "sourceDoc": "Green Party 2020 Poverty Action Plan, wealth tax, new top income tax rates and a Guaranteed Minimum Income",
+   "sourceUrl": "https://www.interest.co.nz/news/105728/greens-propose-introducing-universal-payment-least-325week-those-who-dont-work-full",
+   "promise": "Introduce a wealth tax on net assets over $1 million, new top personal income tax rates, and a Guaranteed Minimum Income of at least $325 a week for everyone not in full-time paid work.",
+   "whatHappened": "The Poverty Action Plan was the Greens' central 2020 election policy. Prime Minister Jacinda Ardern publicly ruled out a wealth tax during the campaign, and repeated that position after Labour won an outright majority on 17 October 2020. The 2020 Labour-Greens Cooperation Agreement, signed 1 November 2020, contains no tax or income-support commitments at all. Its cooperation areas are limited to climate, biodiversity and waste, and homelessness, warm homes and child and youth mental health. Neither a wealth tax nor a Guaranteed Minimum Income was introduced during the term.",
+   "status": "superseded",
+   "statusReason": "The party's flagship 2020 policy was excluded from the cooperation agreement negotiated after the election and never became government policy.",
+   "keyNumber": "Wealth tax over $1m net assets and a $325 a week Guaranteed Minimum Income -> neither included in the 2020 Cooperation Agreement",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/politics/428348/what-else-apart-from-a-wealth-tax-the-shape-of-a-labour-greens-coalition",
+    "https://www.scoop.co.nz/stories/PA2010/S00117/cooperation-agreement-between-the-nz-labour-party-and-the-green-party-of-aotearoa-nz.htm"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-nzf-banking-competition-inquiry",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National. NZ First Coalition Agreement, 24 November 2023 (Economy)",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Establish a select committee inquiry into banking competition, focused on how competitive the sector is, customer services and profitability.",
+   "whatHappened": "Parliament's Finance and Expenditure Committee launched an inquiry into banking competition in 2024. It worked alongside the Primary Production Committee on rural banking, and the Reserve Bank and other regulators made submissions from September 2024. The Commerce Commission's separate market study into personal banking reported in August 2024. The Government responded to the Finance and Expenditure Committee's inquiry on 13 November 2025, agreeing or partly agreeing to all 19 of the committee's recommendations. The response focused on standardising bank disclosure to make comparison easier, strengthening Kiwibank's competitive position through more investment, and reducing regulatory barriers to new entrants and non-bank deposit takers.",
+   "status": "delivered",
+   "statusReason": "Parliament held the inquiry with the promised focus. It reported, and it drew a full government response.",
+   "keyNumber": "Select committee inquiry promised -> held 2024-25; Government agreed or partly agreed to all 19 recommendations on 13 Nov 2025",
+   "evidenceUrls": [
+    "https://www.treasury.govt.nz/news-and-events/reviews-consultation/finance-and-expenditure-committee-inquiry-banking-competition",
+    "https://www.treasury.govt.nz/sites/default/files/2025-12/pr-eco-25-sub-0181.pdf",
+    "https://www.interest.co.nz/banking/128220/two-parliamentary-select-committees-will-conduct-inquiry-banking-competition"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-nzf-ird-audit-funding",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National. NZ First Coalition Agreement, 24 November 2023 (Economy)",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Increase funding for IRD tax audits to urgently expand Inland Revenue's tax audit capacity.",
+   "whatHappened": "Budget 2024 gave Inland Revenue $116 million over four years for compliance and audit work, taking effect from July 2024, and more compliance investment followed in Budgets 2025 and 2026. Inland Revenue's published figures show administration funding rising to $79 million a year from 2026/27, with forecast extra Crown revenue of $526 million a year plus about $18 million a year in student loan repayments. Inland Revenue's performance targets for revenue from compliance interventions rose to $1,228.1 million in 2025/26 and $1,334.1 million in 2026/27. Results are reported quarterly.",
+   "status": "delivered",
+   "statusReason": "Audit and compliance funding rose in the first Budget of the term and again in later Budgets, with published capacity and revenue targets.",
+   "keyNumber": "Increase IRD audit funding -> $116m over four years from Budget 2024; forecast $526m a year in extra revenue",
+   "evidenceUrls": [
+    "https://www.ird.govt.nz/about-us/tax-statistics/major-spending-decisions/budget-2024-investment-in-compliance-activities",
+    "https://www.beehive.govt.nz/release/government-provides-support-tackle-tax-debt-and-compliance"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-nzf-minimum-wage-annual-increases",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National. NZ First Coalition Agreement, 24 November 2023 (Employment and Immigration)",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Commit to moderate increases to the minimum wage every year.",
+   "whatHappened": "The adult minimum wage rose in each year of the term: to $23.15 an hour from 1 April 2024, to $23.50 from 1 April 2025, and to $23.95 from 1 April 2026. Workplace Relations and Safety Minister Brooke van Velden announced the 2026 increase on 12 December 2025. She described the 2 per cent rise as a balance between the cost of living and business costs, and said it would benefit about 122,500 workers. The increases were around or slightly below the rate of inflation in each year, which is what the word 'moderate' in the agreement signalled.",
+   "status": "delivered",
+   "statusReason": "The minimum wage rose in every year of the term, at the modest scale the agreement described.",
+   "keyNumber": "$22.70 (2023) -> $23.15 (Apr 2024), $23.50 (Apr 2025), $23.95 (Apr 2026)",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/minimum-wage-increase-balances-business-and-worker-needs",
+    "https://www.rnz.co.nz/news/politics/536895/minimum-wage-set-to-get-modest-bump-to-23-point-50-in-april",
+    "https://www.mbie.govt.nz/about/news/minimum-wage-set-for-2026"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "_provenance": "Collected 18 Aug 2026 by driving a real browser against the source agencies. These four series were previously dropped because the underlying files were behind JavaScript viewers or spreadsheet downloads that a plain fetcher could not read.",
+ "indicators": [
+  {
+   "key": "emissions-gross",
+   "label": "Gross greenhouse gas emissions",
+   "unit": "kt CO2-e",
+   "format": "number",
+   "source": "Ministry for the Environment",
+   "sourceUrl": "https://environment.govt.nz/publications/new-zealands-greenhouse-gas-inventory-19902024/",
+   "note": "Gross emissions (all sectors excluding land use, land-use change and forestry), kilotonnes of carbon dioxide equivalent, using AR5 global warming potentials. Calendar years. Read directly from the Summary emissions data workbook published with New Zealand's Greenhouse Gas Inventory 1990-2024, so every year here comes from ONE inventory vintage. This matters: MfE revises the whole back series each year as methods improve, and comparing a figure from the 2024 inventory against one from the 2026 inventory can show emissions rising over a period when, within a single vintage, they fell. The inventory is published with roughly an 18-month lag, so 2025 and 2026 do not yet exist.",
+   "higherIsBetter": false,
+   "series": [
+    {
+     "year": 2017,
+     "value": 82302
+    },
+    {
+     "year": 2018,
+     "value": 82563
+    },
+    {
+     "year": 2019,
+     "value": 83658
+    },
+    {
+     "year": 2020,
+     "value": 80961
+    },
+    {
+     "year": 2021,
+     "value": 81528
+    },
+    {
+     "year": 2022,
+     "value": 77663
+    },
+    {
+     "year": 2023,
+     "value": 75899
+    },
+    {
+     "year": 2024,
+     "value": 75812
+    }
+   ]
+  },
+  {
+   "key": "emissions-net",
+   "label": "Net greenhouse gas emissions (after forestry)",
+   "unit": "kt CO2-e",
+   "format": "number",
+   "source": "Ministry for the Environment",
+   "sourceUrl": "https://environment.govt.nz/publications/new-zealands-greenhouse-gas-inventory-19902024/",
+   "note": "Net emissions including land use, land-use change and forestry, kilotonnes CO2 equivalent, AR5 global warming potentials, calendar years. Same single inventory vintage as the gross series. Net emissions are what New Zealand's international targets are measured against, but they move with forest harvest and planting cycles as well as with anything a government does, so year-to-year movements are noisier than the gross figure. Published with an 18-month lag, so the series ends at 2024.",
+   "higherIsBetter": false,
+   "series": [
+    {
+     "year": 2017,
+     "value": 58486
+    },
+    {
+     "year": 2018,
+     "value": 59696
+    },
+    {
+     "year": 2019,
+     "value": 61494
+    },
+    {
+     "year": 2020,
+     "value": 59211
+    },
+    {
+     "year": 2021,
+     "value": 59457
+    },
+    {
+     "year": 2022,
+     "value": 57796
+    },
+    {
+     "year": 2023,
+     "value": 55932
+    },
+    {
+     "year": 2024,
+     "value": 54834
+    }
+   ]
+  },
+  {
+   "key": "road-deaths",
+   "label": "Road deaths",
+   "unit": "deaths",
+   "format": "number",
+   "source": "Ministry of Transport",
+   "sourceUrl": "https://www.transport.govt.nz/statistics-and-insights/safety-road-deaths",
+   "note": "Total deaths on New Zealand roads by calendar year, from the Ministry of Transport's historical series. Figures from 1980 onward are drawn from the Crash Analysis System; this extract is dated 16 September 2025, so 2025 was incomplete at the time of reading and is excluded rather than shown as an artificially low year. Excludes deaths ruled intentional, caused by a medical event, or occurring off a public road.",
+   "higherIsBetter": false,
+   "series": [
+    {
+     "year": 2017,
+     "value": 377
+    },
+    {
+     "year": 2018,
+     "value": 378
+    },
+    {
+     "year": 2019,
+     "value": 350
+    },
+    {
+     "year": 2020,
+     "value": 319
+    },
+    {
+     "year": 2021,
+     "value": 319
+    },
+    {
+     "year": 2022,
+     "value": 371
+    },
+    {
+     "year": 2023,
+     "value": 342
+    },
+    {
+     "year": 2024,
+     "value": 292
+    }
+   ]
+  },
+  {
+   "key": "weekly-rent",
+   "label": "Weekly rent on new tenancies",
+   "unit": "NZD per week",
+   "format": "currency",
+   "source": "Tenancy Services / MBIE bond data",
+   "higherIsBetter": false,
+   "sourceUrl": "https://www.tenancy.govt.nz/about-tenancy-services/data-and-statistics/rental-bond-data/",
+   "note": "Geometric mean weekly rent across all private bonds lodged nationally in December each year. MBIE publishes the geometric mean rather than the median because rents cluster on round numbers, which makes a median sit flat for months and then jump; the geometric mean closely approximates the median without that stepping. This measures rent on NEW tenancies as they start, not rent across all existing tenancies, so it turns faster than what a sitting tenant experiences. The series stops at December 2025 deliberately: MBIE migrated to a new bond management system and warns that recent figures may reflect that change rather than the market. The break is visible in the raw data (monthly bond lodgements jump from about 14,000 to 17,790 in January 2026) so 2026 is excluded.",
+   "series": [
+    {
+     "year": 2017,
+     "value": 411
+    },
+    {
+     "year": 2018,
+     "value": 430
+    },
+    {
+     "year": 2019,
+     "value": 454
+    },
+    {
+     "year": 2020,
+     "value": 472
+    },
+    {
+     "year": 2021,
+     "value": 515
+    },
+    {
+     "year": 2022,
+     "value": 527
+    },
+    {
+     "year": 2023,
+     "value": 571
+    },
+    {
+     "year": 2024,
+     "value": 576
+    },
+    {
+     "year": 2025,
+     "value": 569
+    }
+   ]
+  }
+ ]
+}

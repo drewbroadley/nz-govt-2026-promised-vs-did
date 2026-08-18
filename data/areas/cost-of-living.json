@@ -1,0 +1,324 @@
+{
+ "areaKey": "cost-of-living",
+ "areaLabel": "Cost of Living & Tax",
+ "areaBlurb": "Both governments campaigned on making households better off. Labour through targeted transfers and a higher top tax rate while ruling out a capital gains tax, National through income tax threshold relief and a childcare rebate funded by measures that were partly abandoned in coalition talks.",
+ "promises": [
+  {
+   "id": "cost-of-living-labour-tax-working-group-cgt",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 manifesto / 2017 campaign tax policy",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/532793/capital-gains-tax-a-timeline-of-politicians-ruling-it-in-and-out",
+   "promise": "Set up a Tax Working Group in the first term to design a fairer tax system, including consideration of a capital gains tax. Take its recommendations to voters at the 2020 election.",
+   "whatHappened": "The Tax Working Group, chaired by Sir Michael Cullen, was established in December 2017. It delivered its final report in February 2019, recommending a broad capital gains tax that excluded the family home. On 17 April 2019 the government announced it would not proceed. Jacinda Ardern said no capital gains tax would be introduced while she led the Labour Party, telling RNZ she 'just couldn't get the numbers'. Coalition partner NZ First had refused to support it, with Winston Peters saying there was no compelling evidence it would improve equality. In July 2023 Chris Hipkins went further and ruled out both a capital gains tax and a wealth tax under his leadership. He also shelved a Treasury/IRD high-wealth study commissioned by Revenue Minister David Parker.",
+   "status": "abandoned",
+   "statusReason": "The working group was set up and reported as promised. The government then dropped its central recommendation, and Labour later ruled the policy out entirely.",
+   "keyNumber": "Tax Working Group's central recommendation (broad capital gains tax) -> ruled out April 2019, none legislated",
+   "evidenceUrls": [
+    "https://www.scoop.co.nz/stories/PO1905/S00214/nz-labour-government-rules-out-capital-gains-tax.htm",
+    "https://www.nzherald.co.nz/nz/pm-jacinda-ardern-has-ruled-out-implementing-a-capital-gains-tax-while-she-is-at-the-helm-of-labour/IQ4FD7CLYKKLU6YAH2H2S4MDSE/",
+    "https://www.rnz.co.nz/programmes/news-extras/story/2018902030/election-2023-rnz-s-guide-to-party-policy"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "cost-of-living-labour-39-percent-top-rate",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 manifesto / 2020 campaign tax policy",
+   "sourceUrl": "https://www.interest.co.nz/news/106960/labour-campaigns-introducing-new-top-income-tax-rate-39-income-over-180k-rules-out",
+   "promise": "Introduce a new top personal income tax rate of 39 percent on income above $180,000, affecting roughly the top 2 percent of earners.",
+   "whatHappened": "The Taxation (Income Tax Rate and Other Amendments) Bill was introduced on 2 December 2020 and passed under urgency. The 39 percent rate took effect on 1 April 2021 exactly as promised. The same Act introduced new trust disclosure rules to police avoidance of the new rate. Inland Revenue reported the rate captured tens of thousands more taxpayers than originally estimated, as wages rose.",
+   "status": "delivered",
+   "statusReason": "Legislated within four months of the election at the promised rate, threshold and start date.",
+   "keyNumber": "39% on income over $180,000 promised -> legislated December 2020, in force 1 April 2021",
+   "evidenceUrls": [
+    "https://www.taxpolicy.ird.govt.nz/news/2020/2020-12-02-introduction-taxation-income-tax-rate-other-amendments-bill",
+    "https://www.nzherald.co.nz/nz/politics/labours-new-39-per-cent-top-tax-rate-nets-44000-extra-taxpayers/YEPQKEZDFOIQI4KPRJUYLXKV7I/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "cost-of-living-labour-no-other-new-taxes",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 manifesto / 2020 campaign tax policy",
+   "sourceUrl": "https://www.interest.co.nz/news/106960/labour-campaigns-introducing-new-top-income-tax-rate-39-income-over-180k-rules-out",
+   "promise": "The 39 percent top rate would be the only tax change in the 2020-23 term: no wealth tax, no capital gains tax and no change to GST.",
+   "whatHappened": "Labour did not introduce a wealth tax, a capital gains tax or any GST rate change, and in 2023 Chris Hipkins publicly ruled the first two out. In March 2021, however, the government removed interest deductibility for residential landlords and extended the bright-line test on investment property to ten years. In 2022-23 it legislated GST on services sold through online platforms such as Uber and Airbnb (the 'app tax'), to take effect from 1 April 2024. Opposition parties and property groups described these as new taxes. Labour said they were changes to existing rules rather than new taxes.",
+   "status": "partly",
+   "statusReason": "The specific taxes Labour ruled out were not introduced. Two large revenue-raising changes outside the stated plan were legislated during the term.",
+   "keyNumber": "1 promised new tax (39% rate) -> 39% rate plus removal of landlord interest deductibility, a 10-year bright-line test and GST on online platforms",
+   "evidenceUrls": [
+    "https://assets.kpmg.com/content/dam/kpmg/nz/pdf/2023/09/2023-election-tax-policy-v4.pdf",
+    "https://www.rnz.co.nz/news/political/485228/national-claims-airbnb-and-uber-price-hikes-possible-under-govt-s-planned-tax-changes",
+    "https://bakertillysr.nz/news/tax-talk-heres-how-the-new-app-tax-regulations-will-apply/"
+   ],
+   "contested": true,
+   "contestedNote": "Labour argued that the bright-line extension and the removal of interest deductibility were adjustments to existing income tax rules, and that the platform rules extended existing GST rather than creating a new tax, so the pledge was kept. National, ACT and property investor groups argued they were new taxes in substance and that the pledge was broken. Both readings rest on the same undisputed policy changes."
+  },
+  {
+   "id": "cost-of-living-labour-families-package",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 manifesto / Families Package campaign policy",
+   "sourceUrl": "https://img.scoop.co.nz/media/pdfs/1707/Families_Package_factsheet.pdf",
+   "promise": "Cancel National's legislated April 2018 income tax threshold cuts and replace them with a Families Package worth $890 million in 2018/19. The package includes a Winter Energy Payment of $450 a year for single superannuitants and beneficiaries and $700 for couples, a Best Start payment of $60 a week per child, a higher Family Tax Credit and an increased Working for Families abatement threshold of $42,700.",
+   "whatHappened": "The Families Package (Income Tax and Benefits) Act 2017 passed in December 2017. It repealed National's planned threshold changes and legislated the package. Accommodation Supplement increases began on 1 April 2018, and the Winter Energy Payment and Best Start payments began in 2018. The Winter Energy Payment has been paid every winter since. A 2022 Motu evaluation found the payment had a weakly positive effect on recipients' energy spending and hardship assistance needs, though most estimated effects were not statistically significant.",
+   "status": "delivered",
+   "statusReason": "Legislated within the first three months of the term at the promised payment rates and thresholds.",
+   "keyNumber": "Winter Energy Payment $450 single / $700 couple and Best Start $60 a week promised -> both legislated December 2017 and paid from 2018",
+   "evidenceUrls": [
+    "https://www.treasury.govt.nz/publications/information-release/families-package-information-release",
+    "https://www.msd.govt.nz/about-msd-and-our-work/newsroom/2017/families-package-qas.html",
+    "https://www.motu.nz/our-research/population-and-labour/individual-and-group-outcomes/impact-winter-energy-payment"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "cost-of-living-labour-gst-fruit-and-vegetables",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2023 campaign policy announcement, 13 August 2023",
+   "sourceUrl": "https://www.labour.org.nz/news-release_cost_living_gst",
+   "promise": "Remove GST from fresh and frozen fruit and vegetables from 1 April 2024. Raise the Working for Families in-work tax credit by $25 a week from the same date, and lift the Working for Families abatement threshold to $50,000 from 1 April 2026.",
+   "whatHappened": "Labour lost the October 2023 election and the policy was never introduced as legislation. GST still applies to all food as at August 2026. Economists including Infometrics' Brad Olsen and Deloitte publicly questioned how much of the saving would reach consumers. The incoming National government later legislated the $25 a week in-work tax credit increase in Budget 2024, taking effect on 31 July 2024.",
+   "status": "not-delivered",
+   "statusReason": "GST was not removed from fruit and vegetables. Labour left office three weeks after making the promise and never had the numbers to legislate it.",
+   "keyNumber": "GST off fresh and frozen fruit and vegetables from 1 April 2024 -> not legislated; GST still applies to all food in August 2026",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/election-2023/495698/labour-promises-to-remove-gst-from-fruit-and-vegetables-boost-working-for-families",
+    "https://www.nzherald.co.nz/nz/election-2023-labours-promise-of-gst-off-fruit-and-veg-what-would-be-covered-what-would-not/PHBRF43ZCJD5HFEB7PMDFNOIIU/",
+    "https://www.beehive.govt.nz/release/responsible-tax-relief-squeezed-middle"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "cost-of-living-national-tax-thresholds",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 manifesto / 'Back Pocket Boost' tax plan, 30 August 2023",
+   "sourceUrl": "https://www.interest.co.nz/public-policy/124026/national-unveils-tax-policy",
+   "promise": "From 1 July 2024, lift income tax thresholds to compensate for inflation: the 10.5 percent bracket from $14,000 to $15,600, the 17.5 percent bracket from $48,000 to $53,500 and the 30 percent bracket from $70,000 to $78,100. The cost is about $8.9 billion over four years.",
+   "whatHappened": "Budget 2024, delivered on 30 May 2024, legislated exactly those thresholds, effective 31 July 2024 rather than 1 July. The package also expanded the Independent Earner Tax Credit and raised the in-work tax credit by $25 a week. Finance Minister Nicola Willis said 3.5 million New Zealanders would benefit, at a cost of $3.7 billion a year including the restoration of interest deductibility. No further threshold changes were made in Budget 2025 or Budget 2026, and the thresholds are not indexed.",
+   "status": "delivered",
+   "statusReason": "The promised bracket thresholds were legislated in the first Budget of the term, four weeks later than the promised start date.",
+   "keyNumber": "Thresholds $15,600 / $53,500 / $78,100 from 1 July 2024 -> legislated in Budget 2024, effective 31 July 2024",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/responsible-tax-relief-squeezed-middle",
+    "https://kpmg.com/nz/en/insights/2023/11/national-act-nzfirst-government-tax-policies.html"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "cost-of-living-national-250-a-fortnight",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 manifesto / 'Back Pocket Boost' tax plan, 30 August 2023",
+   "sourceUrl": "https://www.interest.co.nz/public-policy/124026/national-unveils-tax-policy",
+   "promise": "Deliver up to $250 a fortnight in extra income to an average-income household with children (household income around $120,000). This would come from threshold changes, FamilyBoost and Working for Families increases together.",
+   "whatHappened": "Budget 2024 delivered up to $102 a fortnight for average-income households. The Beehive's own figures put the average gain at $78 a fortnight ($2,028 a year) for households with children and $32 a fortnight ($832 a year) for working-age New Zealanders. A single person on $55,000 gained about $51 a fortnight. During the 2023 campaign the Council of Trade Unions calculated that only about 3,000 households out of 1.63 million (under 0.2 percent) met all the conditions needed to receive the full $252. It required a couple with children both earning between $53,500 and $66,000 and spending at least $300 a week on early childhood education.",
+   "status": "partly",
+   "statusReason": "Real tax relief was delivered. The typical gain for households with children was under a third of the headline figure, and only a very small number of households received the advertised maximum.",
+   "keyNumber": "Up to $250 a fortnight for an average family -> $78 a fortnight average for households with children; about 3,000 households qualified for the full amount",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/responsible-tax-relief-squeezed-middle",
+    "https://union.org.nz/3000-households-get-a-252-per-fortnight-tax-cut-under-national/",
+    "https://theconversation.com/nz-budget-2024-tax-relief-for-the-squeezed-middle-but-whos-paying-7-experts-follow-the-money-230102"
+   ],
+   "contested": true,
+   "contestedNote": "National says the figure was always presented as an 'up to' maximum for a specific household type using full-time childcare, and that the components were delivered as designed. Critics say the $250 figure was used throughout the campaign as the benefit to an 'average household', and that the delivered average of $78 a fortnight for families with children shows the headline was not representative. Both sides agree on the underlying payment figures."
+  },
+  {
+   "id": "cost-of-living-national-familyboost",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 manifesto / 'Back Pocket Boost' tax plan, 30 August 2023",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/496895/national-s-tax-plan-and-costings-what-you-need-to-know",
+   "promise": "Introduce FamilyBoost, a childcare tax rebate of up to $150 a fortnight (25 percent of early childhood fees). It would abate from a household income of $140,000 and cut out at $180,000, benefiting an extra 130,000 households at a cost of $996 million over four years.",
+   "whatHappened": "FamilyBoost began on 1 July 2024 and is administered by Inland Revenue on a claim-back basis. Uptake was well below forecast. About 60,000 families had claimed by mid-2025, and only 249 families consistently received the maximum payment. In May 2025 it was reported that close to a quarter of the money spent on the scheme to that point had gone on administration. In July 2025 the government raised the rebate from 25 percent to 40 percent of fees and lifted the income cap from $180,000 to $229,000, with IRD projecting about 16,000 additional claimants and roughly 92,000 in total.",
+   "status": "partly",
+   "statusReason": "The rebate exists and pays at the promised headline rate. Take-up fell far short of the 130,000 households promised, and almost no families received the advertised maximum until the scheme was redesigned a year in.",
+   "keyNumber": "Up to $150 a fortnight for an extra 130,000 households -> about 60,000 families claiming by mid-2025, 249 receiving the full amount",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/politics/566156/familyboost-payment-increased-income-limit-raised",
+    "https://www.nzherald.co.nz/nz/politics/government-plans-familyboost-changes-after-low-uptake-revealed/EW3P25VC4VCGBNJSUIMWZJUOKQ/",
+    "https://www.1news.co.nz/2025/05/14/nearly-a-quarter-of-familyboost-money-spent-on-admin/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "cost-of-living-national-in-work-tax-credit",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 manifesto / 'Back Pocket Boost' tax plan, 30 August 2023",
+   "sourceUrl": "https://www.rnz.co.nz/programmes/news-extras/story/2018902030/election-2023-rnz-s-guide-to-party-policy",
+   "promise": "Increase the Working for Families in-work tax credit by $25 a week for low and middle income working families.",
+   "whatHappened": "Budget 2024 legislated a $25 a week increase to the in-work tax credit, taking it from $72.50 to $97.50 a week, effective 31 July 2024. Budget 2026 added a further temporary $50 a week in-work tax credit for around 157,000 working families as a cost-of-living measure.",
+   "status": "delivered",
+   "statusReason": "The promised $25 a week increase was legislated in the first Budget of the term.",
+   "keyNumber": "In-work tax credit +$25 a week -> $72.50 raised to $97.50 from 31 July 2024",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/responsible-tax-relief-squeezed-middle",
+    "https://www.beehive.govt.nz/speech/budget-2026-securing-new-zealands-future"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "cost-of-living-national-foreign-buyer-tax",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 manifesto / 'Back Pocket Boost' tax plan, 30 August 2023",
+   "sourceUrl": "https://www.interest.co.nz/public-policy/124026/national-unveils-tax-policy",
+   "promise": "Allow foreign buyers to purchase homes worth over $2 million, subject to a 15 percent foreign buyer tax. This would raise about $740 million a year ($2.9 billion over four years) to help fund the income tax package.",
+   "whatHappened": "The policy was dropped in the National-NZ First coalition agreement signed on 24 November 2023. That agreement states that tax relief 'will be progressed as set out in National's Tax Plan, but will not include a repeal of the foreign buyer's residential property ban'. NZ First had opposed the tax throughout negotiations. Independent modelling during the campaign had already suggested the revenue forecast was around $2 billion too high over four years. The revenue gap was covered from other sources, including cancelling the Climate Emergency Response Fund and commercial building depreciation in the December 2023 mini-budget.",
+   "status": "superseded",
+   "statusReason": "National's own manifesto revenue measure was struck out in coalition negotiations before the government took office. No foreign buyer tax was ever introduced.",
+   "keyNumber": "$740 million a year from a 15% foreign buyer tax -> policy dropped in coalition talks, $0 raised",
+   "evidenceUrls": [
+    "https://www.1news.co.nz/2023/11/24/nz-first-scuppers-nationals-foreign-buyers-tax-plan/",
+    "https://kpmg.com/nz/en/insights/2023/11/national-act-nzfirst-government-tax-policies.html",
+    "https://en.wikipedia.org/wiki/2023_New_Zealand_mini-budget",
+    "https://www.nzherald.co.nz/nz/politics/election-2023-beyond-comprehension-modelling-shows-2b-hole-in-nationals-foreign-buyer-tax/YKML3VY6CNGMLBEIVPESDNA5FQ/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "cost-of-living-national-app-tax-repeal",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 campaign commitment / National's economic plan",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/485228/national-claims-airbnb-and-uber-price-hikes-possible-under-govt-s-planned-tax-changes",
+   "promise": "Reverse Labour's 'app tax', the GST rules requiring platforms such as Uber and Airbnb to charge GST on services provided through them. On 3 March 2023 finance spokesperson Nicola Willis said the change would 'increase prices in the middle of a cost of living crisis', and that National would repeal it.",
+   "whatHappened": "After taking office the coalition indicated in late 2023 that it would not repeal the rules. The platform GST rules took effect on 1 April 2024 as Labour had legislated, and remain in force in August 2026. The retained revenue helped offset the loss of the foreign buyer tax in funding the income tax package.",
+   "status": "abandoned",
+   "statusReason": "An explicit campaign commitment to reverse a tax was dropped in office and the tax took effect unchanged.",
+   "keyNumber": "Promised repeal of GST on platform services -> rules took effect 1 April 2024 and remain in force",
+   "evidenceUrls": [
+    "https://bakertillysr.nz/news/tax-talk-heres-how-the-new-app-tax-regulations-will-apply/",
+    "https://www.deloitte.com/nz/en/services/tax/perspectives/april-2024-gst-on-digital-platforms-now-in-force",
+    "https://thespinoff.co.nz/politics/28-11-2023/the-ctrl-z-coalition-all-the-repeals-and-reversals-planned-by-the-new-government"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "cost-of-living-national-auckland-fuel-tax",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National's 100-day plan, November 2023",
+   "sourceUrl": "https://thespinoff.co.nz/politics/28-11-2023/the-ctrl-z-coalition-all-the-repeals-and-reversals-planned-by-the-new-government",
+   "promise": "Abolish the Auckland regional fuel tax introduced in 2018.",
+   "whatHappened": "Legislation repealing the Auckland regional fuel tax was passed in 2024 and collection ceased during that year. For context on the other side of the ledger, Labour's separate temporary relief package ended on 30 June 2023 at a total cost of roughly $2 billion. That package was a 25 cents a litre cut to fuel excise duty and half-price public transport fares, introduced in March 2022 and extended four times. Budget 2026 added $150 million for strategic fuel reserves and a $450 million contingency for fuel-related pressures.",
+   "status": "delivered",
+   "statusReason": "The tax was repealed within the first year of the term as set out in the 100-day plan.",
+   "keyNumber": "Auckland regional fuel tax (introduced 2018) -> repealed in 2024",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_National_Government_of_New_Zealand",
+    "https://en.wikipedia.org/wiki/2022_New_Zealand_fuel_tax_subsidy",
+    "https://www.beehive.govt.nz/speech/budget-2026-securing-new-zealands-future"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "cost-of-living-act-tax-cuts",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "manifesto",
+   "sourceDoc": "ACT 2023 alternative budget and tax policy",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/498449/watch-act-leader-david-seymour-reveals-alternative-budget",
+   "promise": "Move to a flatter, lower income tax scale: 17.5 percent under $60,000, 30 percent from $60,000 to $70,000, 33 percent from $70,000 to $180,000 and 39 percent above that. Extend the 30 percent bracket to $180,000 in 2025/26, and cut the top rate from 39 percent to 33 percent in 2026/27. Pay a carbon tax refund of about $243 per person in 2023/24.",
+   "whatHappened": "The coalition agreements committed the government to National's tax plan, not ACT's. The 2024 changes lifted thresholds but kept all five rates, and the 39 percent top rate remains in force in August 2026. No carbon tax refund was paid. The Climate Emergency Response Fund, which ACT and National both proposed to redirect, was cancelled in the December 2023 mini-budget and its $2 billion used to help fund National's tax package. ACT's longer-standing goal of a two-rate or single-rate income tax scale was not adopted at any point in the term.",
+   "status": "superseded",
+   "statusReason": "ACT's rate structure and carbon dividend were both dropped in favour of National's tax plan in the coalition agreement, and none of the promised rate changes were legislated.",
+   "keyNumber": "Top rate cut from 39% to 33% by 2026/27 and a $243 per person carbon tax refund -> neither delivered; 39% rate still in force in August 2026",
+   "evidenceUrls": [
+    "https://kpmg.com/nz/en/insights/2023/11/national-act-nzfirst-government-tax-policies.html",
+    "https://www.beehive.govt.nz/release/responsible-tax-relief-squeezed-middle",
+    "https://en.wikipedia.org/wiki/2023_New_Zealand_mini-budget"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "cost-of-living-nzfirst-tax-free-threshold",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4158/attachments/original/1696631089/2023-New-Zealand-First-Policy-Manifesto-1.pdf",
+   "promise": "Make the lowest income tax bracket (the first $14,000 of income) tax free no later than 1 April 2027, worth $28.27 a week to workers. Adjust tax brackets for inflation, with the first adjustment in 2027 and reviews every three years.",
+   "whatHappened": "The National-NZ First coalition agreement committed the government to National's tax plan. Thresholds were lifted once, on 31 July 2024, and the bottom $15,600 of income is still taxed at 10.5 percent. No automatic inflation indexation of brackets has been legislated, and neither Budget 2025 nor Budget 2026 made further threshold changes. Budget 2026 instead introduced a new prudential levy on financial institutions and a cap on charitable donation tax credits.",
+   "status": "not-delivered",
+   "statusReason": "As at August 2026 no tax-free bracket or bracket indexation regime has been legislated, and the policy was not picked up in the coalition agreement.",
+   "keyNumber": "$14,000 tax-free bracket worth $28.27 a week by 1 April 2027 -> not legislated as at August 2026",
+   "evidenceUrls": [
+    "https://kpmg.com/nz/en/insights/2023/11/national-act-nzfirst-government-tax-policies.html",
+    "https://www.beehive.govt.nz/release/responsible-tax-relief-squeezed-middle",
+    "https://www.1news.co.nz/2026/05/28/budget-2026-new-tax-changes-as-nz-to-return-to-surplus-sooner/"
+   ],
+   "contested": true,
+   "contestedNote": "One reading is that the promise was superseded, because it was not written into the National-NZ First coalition agreement, which adopted National's tax plan instead. Another is that the promise is not yet due, because NZ First set a deadline of 1 April 2027 that falls after the current parliamentary term ends. On either reading, nothing had been legislated by August 2026."
+  },
+  {
+   "id": "cost-of-living-nzfirst-supergold-rates-rebate",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4158/attachments/original/1696631089/2023-New-Zealand-First-Policy-Manifesto-1.pdf",
+   "promise": "Give SuperGold cardholders a 50 percent local authority rates rebate of up to $1,600 a year, costed in the manifesto at about $480 million for couples.",
+   "whatHappened": "The rebate was not included in the National-NZ First coalition agreement and has not been introduced. Rates relief for superannuitants is still delivered through the pre-existing means-tested Rates Rebate Scheme rather than a SuperGold entitlement. Budget 2026's cost-of-living measures were a temporary in-work tax credit top-up and fuel-related contingencies rather than rates relief.",
+   "status": "not-delivered",
+   "statusReason": "The rebate was not adopted in the coalition agreement, and no SuperGold rates rebate has been legislated as at August 2026.",
+   "keyNumber": "50% rates rebate up to $1,600 a year for SuperGold cardholders -> not implemented as at August 2026",
+   "evidenceUrls": [
+    "https://kpmg.com/nz/en/insights/2023/11/national-act-nzfirst-government-tax-policies.html",
+    "https://www.beehive.govt.nz/speech/budget-2026-securing-new-zealands-future",
+    "https://thespinoff.co.nz/politics/24-11-2023/the-coalition-deal-at-a-glance"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-labour-supermarket-market-study",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 manifesto",
+   "sourceUrl": "https://s3.ap-southeast-2.amazonaws.com/nzdoctor.files/production/public/2020-10/Labour_Manifesto_2020.pdf",
+   "promise": "Ask the Commerce Commission to conduct market studies on supermarkets and building supplies to ensure everyone is getting a fair deal.",
+   "whatHappened": "The Commerce Commission launched its market study into the retail grocery sector in November 2020 and published its final report in March 2022. The report concluded that competition was not working well for consumers and made 14 recommendations, of which the Government accepted 12. The Commerce (Grocery Sector Covenants) Amendment Act 2022 banned restrictive land covenants and exclusive leases used to block competing grocery retailers. The Grocery Industry Competition Act 2023 created a Grocery Commissioner within the Commerce Commission, a wholesale supply regime with a regulatory backstop, and supplier protections, with the Grocery Supply Code taking effect on 28 March 2024. A parallel market study into residential building supplies was also completed. The Commission has since reported that competition in groceries remains limited.",
+   "status": "delivered",
+   "statusReason": "Both market studies were carried out as promised. The grocery study was followed by a regulator and two Acts before the end of the term.",
+   "keyNumber": "2 market studies promised -> both completed; grocery study reported March 2022 with 14 recommendations, 12 accepted",
+   "evidenceUrls": [
+    "https://www.mbie.govt.nz/business-and-employment/business/competition-regulation-and-policy/market-studies/market-study-into-supermarkets",
+    "https://www.comcom.govt.nz/regulated-industries/projects/market-study-into-retail-grocery-sector/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  }
+ ]
+}

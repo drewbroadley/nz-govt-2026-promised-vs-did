@@ -1,0 +1,582 @@
+{
+ "areaKey": "treaty",
+ "areaLabel": "Treaty & Māori Policy",
+ "areaBlurb": "Labour built new Treaty-based institutions and removed the poll veto on Māori wards, while the National-led coalition committed to unwinding much of that programme, disestablishing the Māori Health Authority, restoring ward referendums, repealing section 7AA, amending the Marine and Coastal Area Act and reviewing Treaty principles clauses in statute, with several of those commitments still incomplete as at August 2026.",
+ "promises": [
+  {
+   "id": "treaty-labour-maori-health-authority",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 term commitment, following the Health and Disability System Review, to establish an independent Māori health authority",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Pae_Ora_(Healthy_Futures)_Act_2022",
+   "promise": "Establish an independent Māori Health Authority with its own commissioning powers, as a Treaty partnership body inside the reformed health system.",
+   "whatHappened": "Health Minister Andrew Little announced the authority on 21 April 2021. It was created by the Pae Ora (Healthy Futures) Act 2022, which passed its third reading on 7 June 2022. Te Aka Whai Ora began operating on 1 July 2022 with Riana Manuel as chief executive. Budget 2022 allocated $188 million for commissioning and iwi partnership work. It was still operating at the October 2023 handover, and the incoming government disestablished it on 30 June 2024.",
+   "status": "delivered",
+   "statusReason": "The authority was legislated and operating well before the end of the term, in the form promised.",
+   "keyNumber": "Independent Māori health authority promised -> Te Aka Whai Ora operating from 1 July 2022, $188m in Budget 2022",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Te_Aka_Whai_Ora",
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "treaty-labour-maori-wards-poll-removal",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 term commitment to remove the binding-poll provisions of the Local Electoral Act, announced by Local Government Minister Nanaia Mahuta in February 2021",
+   "sourceUrl": "https://en.wikipedia.org/wiki/M%C4%81ori_wards_and_constituencies",
+   "promise": "Remove the provisions of the Local Electoral Act that let five per cent of electors force a binding poll. Those polls could overturn a council decision to establish Māori wards or constituencies.",
+   "whatHappened": "The Local Electoral (Māori Wards and Māori Constituencies) Amendment Act 2021 passed its third reading on 25 February 2021 under urgency, removing the mechanism for petition-triggered referendums. Councils then adopted wards in large numbers. By the 2022 local elections, six of eleven regional councils (54.5 per cent) had Māori constituencies and 29 of 67 territorial authorities (43.3 per cent) had Māori wards. The next government reinstated the provisions in July 2024.",
+   "status": "delivered",
+   "statusReason": "The poll provisions were repealed within four months of the promise being acted on, and the intended effect followed: councils established wards without a referendum.",
+   "keyNumber": "Poll veto removed Feb 2021 -> Māori constituencies in 6 of 11 regional councils and wards in 29 of 67 territorial authorities by 2022",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/M%C4%81ori_wards_and_constituencies",
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "treaty-labour-matariki-holiday",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 election campaign pledge announced by Jacinda Ardern on 7 September 2020",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Matariki",
+   "promise": "Create a new public holiday for Matariki, the first public holiday recognising te ao Māori, to take effect from 2022.",
+   "whatHappened": "The Te Kahui o Matariki Public Holiday Bill was introduced on 30 September 2021. It passed its third reading on 7 April 2022 and received royal assent on 11 April 2022. The first Matariki public holiday was observed on 24 June 2022, marked by a pre-dawn hautapu ceremony. The date is set by a lunar calculation rather than a fixed calendar date, and dates were published through to 2051. The holiday remained in place through the change of government.",
+   "status": "delivered",
+   "statusReason": "The holiday was legislated and first observed in 2022, exactly on the promised timetable.",
+   "keyNumber": "New Matariki public holiday from 2022 -> first observed 24 June 2022, dates set to 2051",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Matariki"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "treaty-labour-three-waters-cogovernance",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 term commitment to the Three Waters reform programme (Cabinet decisions announced October 2021)",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Three_Waters_reform_programme",
+   "promise": "Establish water services entities governed by regional representative groups made up of equal numbers of council and mana whenua representatives, with a Te Mana o te Wai statement mechanism for mana whenua.",
+   "whatHappened": "The 50-50 council and mana whenua regional representative group model was announced in October 2021. It was legislated in the Water Services Entities Act, passed in December 2022 with only Labour's votes. In April 2023 the programme was rebranded and expanded from four entities to ten, with the start date pushed back to 1 July 2026. No entity ever began operating, so no regional representative group was ever constituted. The legislation was repealed on 14 February 2024.",
+   "status": "partly",
+   "statusReason": "The co-governance structure was legislated but never came into operation before the term ended, and the wider programme was rescoped and delayed.",
+   "keyNumber": "50-50 council and mana whenua governance legislated Dec 2022 -> 0 entities and 0 representative groups operating at the Oct 2023 handover",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Three_Waters_reform_programme",
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "treaty-nzfirst-2017-maori-seats-referendum",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "NZ First 2017 election campaign commitment, announced by Winston Peters, to hold a binding referendum on the Māori electorates",
+   "sourceUrl": "https://en.wikipedia.org/wiki/M%C4%81ori_electorates",
+   "promise": "Hold a binding referendum on whether the separate Māori electorates should be abolished.",
+   "whatHappened": "During the post-election coalition negotiations in October 2017, Peters signalled he would consider dropping the referendum call. NZ First agreed to drop the demand as part of forming a government with Labour. No referendum was held, and the seven Māori electorates were retained throughout the 2017-2023 government. NZ First returned to campaigning on a referendum on the future of the Māori electorates, announced on 12 February 2026.",
+   "status": "superseded",
+   "statusReason": "The commitment was traded away in the 2017 coalition negotiation, before the government took office, and was never pursued in the term.",
+   "keyNumber": "Binding referendum on 7 Māori electorates promised -> dropped in the 2017 coalition negotiation, 0 referendums held",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/M%C4%81ori_electorates",
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+    "https://en.wikipedia.org/wiki/2026_New_Zealand_general_election"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "treaty-act-treaty-principles-bill",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/haxjinrp/national-act-nz-first-coalition-government-policies-constitution-and-rights.pdf",
+   "promise": "Introduce a Treaty Principles Bill based on existing ACT policy, and support it to a Select Committee as soon as practicable.",
+   "whatHappened": "David Seymour introduced the Principles of the Treaty of Waitangi Bill. It set out three proposed principles: that the Government has the right to govern all New Zealanders; that the Government will honour all New Zealanders in the chieftainship of their land and property; and that all New Zealanders are equal under the law with the same rights and duties. It passed its first reading on 14 November 2024 by 68 votes to 54 and was referred to the Justice Committee. The committee received over 200,000 online and 12,000 handwritten submissions, with about 90 per cent opposed and 8 per cent in support. A nationwide hikoi that began on 11 November 2024 brought tens of thousands to Parliament on 19 November. The bill was defeated at its second reading on 10 April 2025 by 112 votes to 11, with National and NZ First voting against as their agreements provided.",
+   "status": "delivered",
+   "statusReason": "The agreement required introduction and support only to select committee, and both happened. National and NZ First never undertook to support it further.",
+   "keyNumber": "Support to select committee promised -> introduced, first reading 68-54 on 14 Nov 2024, defeated 112-11 on 10 Apr 2025",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Treaty_Principles_Bill",
+    "https://en.wikipedia.org/wiki/Sixth_National_Government_of_New_Zealand"
+   ],
+   "contested": true,
+   "contestedNote": "One reading is that the commitment was met in full, because the agreement only ever required support to select committee and the bill got there. The other is that the exercise did not change the law and consumed a very large amount of parliamentary and public process, with roughly 90 per cent of submissions opposed. The facts of the votes and the wording of the agreement are not in dispute; what the commitment was worth is."
+  },
+  {
+   "id": "treaty-act-treaty-principles-referendum",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "manifesto",
+   "sourceDoc": "ACT policy announced by David Seymour in March 2022 and carried into the 2023 campaign",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_Principles_Bill",
+   "promise": "Hold a binding referendum on the principles of the Treaty of Waitangi at the 2026 general election.",
+   "whatHappened": "Seymour announced the referendum plan in March 2022 and raised it as a condition in coalition negotiations. It was not agreed. The National-ACT agreement committed only to introducing a Treaty Principles Bill and supporting it to select committee. No referendum was legislated for or held. The bill itself was defeated at second reading on 10 April 2025.",
+   "status": "superseded",
+   "statusReason": "The 2023 coalition negotiation dropped the referendum. It was replaced with a commitment that went no further than a select committee.",
+   "keyNumber": "Binding referendum at the 2026 election sought -> not agreed in coalition, 0 referendums held",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Treaty_Principles_Bill",
+    "https://en.wikipedia.org/wiki/Sixth_National_Government_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "treaty-nzfirst-treaty-principles-legislation-review",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement, signed 24 November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Conduct a comprehensive review of all legislation that includes 'the Principles of the Treaty of Waitangi', except where it relates to full and final Treaty settlements. Replace all such references with specific words about the relevance and application of the Treaty, or repeal the references.",
+   "whatHappened": "Justice Minister Paul Goldsmith announced the outcome of the review on 15 May 2026. Twenty-eight Acts were originally in scope, narrowed to 19 for review. Existing Treaty settlements were excluded and several Acts were handled through separate processes. Cabinet agreed to make two references more specific and to repeal seven references outright. It capped the remaining ten at a 'take into account' standard. Future provisions would refer to both 'the Treaty of Waitangi' and 'te Tiriti o Waitangi'. Iwi consultation was under way and a full select committee process was still to follow. No amending legislation had been enacted as at 17 August 2026.",
+   "status": "in-progress",
+   "statusReason": "Term unfinished. The review was completed and decisions taken, but the statutory changes had not been introduced and passed by August 2026.",
+   "keyNumber": "28 Acts in scope -> 19 reviewed, 7 references to be repealed, 2 made specific, 10 capped at 'take into account'; 0 enacted by Aug 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/ensuring-treaty-references-are-consistent",
+    "https://www.beehive.govt.nz/portfolio/nationalactnew-zealand-first-coalition-government-2023-2026/justice"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "treaty-nzfirst-waitangi-tribunal-legislation",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement, signed 24 November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Amend the Waitangi Tribunal legislation to refocus the scope, purpose, and nature of its inquiries back to the original intent of that legislation.",
+   "whatHappened": "On 17 January 2025 Minister for Māori Development Tama Potaka announced a membership overhaul. Eight new members were appointed and six warrants renewed. Ten members were not reappointed, including Linda Tuhiwai Smith, Rawinia Higgins and Monty Soutar. On 9 May 2025 Potaka announced an independent technical advisory group to review the Treaty of Waitangi Act 1975. Further Tribunal appointments were confirmed on 28 July 2026. No amending legislation had been introduced or passed as at 17 August 2026.",
+   "status": "partly",
+   "statusReason": "A review process and membership changes have happened. But the promised amendment to the Tribunal's governing legislation had not been made, with under three months of the term remaining.",
+   "keyNumber": "Amend Waitangi Tribunal legislation -> advisory group announced 9 May 2025, 0 amending Acts passed by Aug 2026",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Waitangi_Tribunal",
+    "https://www.beehive.govt.nz/portfolio/nationalactnew-zealand-first-coalition-government-2023-2026/m%C4%81ori-development"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "treaty-nzfirst-takutai-moana-s58",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement, signed 24 November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Amend section 58 of the Marine and Coastal Area Act to make clear Parliament's original intent, following the Court of Appeal decision in Re Edwards.",
+   "whatHappened": "The Marine and Coastal Area (Takutai Moana) (Customary Marine Title) Amendment Act 2025 passed on 22 October 2025. It tightened the statutory threshold that applicants must meet to be awarded customary marine title.",
+   "status": "delivered",
+   "statusReason": "The section 58 test was amended by Act of Parliament inside the term, as the agreement required.",
+   "keyNumber": "Amend s58 test -> Marine and Coastal Area (Takutai Moana) (Customary Marine Title) Amendment Act passed 22 Oct 2025",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/54th_New_Zealand_Parliament"
+   ],
+   "contested": true,
+   "contestedNote": "The Government says the amendment restores the threshold Parliament intended in 2011, which applied before the Court of Appeal's Re Edwards judgment. Māori applicants and opposition parties argued that it raises the bar above what the courts had found the 2011 Act to mean. They said it will defeat claims that would otherwise have succeeded. The text of the amendment and the date of passage are agreed. Its practical effect on future title applications was not yet tested as at August 2026."
+  },
+  {
+   "id": "treaty-national-maori-wards-referendums",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT and National-NZ First Coalition Agreements 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/haxjinrp/national-act-nz-first-coalition-government-policies-constitution-and-rights.pdf",
+   "promise": "Restore the right to a local referendum on setting up or continuing to use Māori wards. This includes requiring a referendum at the next local body elections on any wards established without one.",
+   "whatHappened": "Local Government Minister Simeon Brown announced on 4 April 2024 that councils which had introduced Māori wards without a poll would have to hold referendums or disestablish the wards. The Local Government (Electoral Legislation and Māori Wards and Māori Constituencies) Amendment Act 2024 passed on 30 July 2024. It required affected councils either to disestablish their wards by 6 September 2024 or hold binding polls alongside the 2025 local elections. Those polls went ahead, with 24 councils voting to remove their Māori wards and 18 voting to retain them. The results take effect from the 2028 local elections.",
+   "status": "delivered",
+   "statusReason": "Legislation restored the referendum right within nine months, and the binding polls were held at the 2025 local elections exactly as promised.",
+   "keyNumber": "Binding referendums restored -> Act passed 30 July 2024, 42 polls held in 2025, 24 councils voted to remove wards and 18 to retain",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/M%C4%81ori_wards_and_constituencies",
+    "https://en.wikipedia.org/wiki/Sixth_National_Government_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "treaty-national-oranga-tamariki-7aa",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "2023 coalition commitments on constitution and rights, compiled from the National-ACT and National-NZ First agreements",
+   "sourceUrl": "https://www.russellmcveagh.com/media/haxjinrp/national-act-nz-first-coalition-government-policies-constitution-and-rights.pdf",
+   "promise": "Repeal section 7AA of the Oranga Tamariki Act 1989.",
+   "whatHappened": "Section 7AA had been added on 1 July 2019 by the Sixth Labour Government. It required the chief executive to reduce disparities for Māori children, to take whakapapa and whānau links into account when children were removed, and to develop strategic partnerships with iwi and Māori organisations. The Oranga Tamariki (Repeal of Section 7AA) Amendment Act 2025 received royal assent on 3 April 2025. The replacement provisions kept a duty on the chief executive to develop strategic relationships with Māori and iwi organisations and to report on the wellbeing of Māori children.",
+   "status": "delivered",
+   "statusReason": "Section 7AA was repealed by Act of Parliament inside the term, as promised.",
+   "keyNumber": "Repeal s7AA -> Oranga Tamariki (Repeal of Section 7AA) Amendment Act, royal assent 3 April 2025",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Oranga_Tamariki_Act_1989"
+   ],
+   "contested": true,
+   "contestedNote": "The Government says section 7AA created a duty that could be read as competing with the child's safety as the paramount consideration. It says the replacement provisions keep the practical iwi partnership and reporting obligations. Iwi organisations, the Children's Commissioner's successor bodies and opposition parties argued the repeal removed the only explicit statutory recognition of whakapapa in care decisions. Both sides agree on what the repeal Act does and when it passed."
+  },
+  {
+   "id": "treaty-national-cogovernance-public-services",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT and National-NZ First Coalition Agreements 2023 (the commitment appears in both)",
+   "sourceUrl": "https://www.russellmcveagh.com/media/haxjinrp/national-act-nz-first-coalition-government-policies-constitution-and-rights.pdf",
+   "promise": "Remove co-governance from the delivery of public services.",
+   "whatHappened": "Three of the main co-governance structures in public service delivery were removed. Urgent legislation passed on 28 February 2024 disestablished Te Aka Whai Ora, the Māori Health Authority, which ceased to exist on 30 June 2024. Iwi-Māori partnership boards were retained inside the health system. Parliament repealed the Water Services Entities Act on 14 February 2024. That Act had provided for regional representative groups with equal council and mana whenua membership. Section 7AA of the Oranga Tamariki Act was repealed with effect from 3 April 2025. The Waitangi Tribunal found in its Hautupua report of 29 November 2024 that the Crown had breached Treaty principles in disestablishing Te Aka Whai Ora.",
+   "status": "largely",
+   "statusReason": "The named co-governance arrangements in health, water and care of children were all removed. Co-governance arrangements in conservation, Treaty settlement bodies and some council structures continued.",
+   "keyNumber": "Co-governance removed from public service delivery -> Māori Health Authority, Three Waters representative groups and s7AA all repealed between Feb 2024 and Apr 2025",
+   "evidenceUrls": [
+    "https://www.buddlefindlay.com/insights/legislation-passed-to-disestablish-the-maori-health-authority-te-aka-whai-ora/",
+    "https://www.waitangitribunal.govt.nz/en/news/tribunal-releases-report-on-disestablishment-of-te-aka-whai-ora",
+    "https://en.wikipedia.org/wiki/Three_Waters_reform_programme"
+   ],
+   "contested": true,
+   "contestedNote": "The Government describes these bodies as duplicative structures that gave a non-elected group decision rights over universal services, and says need-based delivery replaces them. The Waitangi Tribunal found in Hautupua that the Crown did not act in good faith over Te Aka Whai Ora, did not consult Māori, and acted on political ideology rather than evidence. It also found the authority was integral to equitable health delivery. The legislative facts are not disputed. What is disputed is how to characterise what was removed."
+  },
+  {
+   "id": "treaty-nzfirst-honour-settlements",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement, signed 24 November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "The Coalition Government will honour the undertakings made by the Crown through past Treaty of Waitangi settlements.",
+   "whatHappened": "Settlements continued to be signed and legislated through the term. The Whakatohea claims settlement passed on 28 May 2024 after three decades of negotiation. Ngāti Ranginui settled on 15 May 2025 after 17 years. Ngāti Paoa's settlement passed its final reading on 5 November 2025 after 14 years. Legislation returning Kororipo Pa to Ngapuhi passed on 17 December 2025. The Ngāti Haua settlement passed its final reading on 29 January 2026, with $19 million of financial redress, the return of 64 culturally significant sites and posthumous pardons. A deed was signed with Ngāti Ruapani on 25 February 2026. Three Hauraki iwi settlement bills, for Ngāti Rahiri Tumutumu, Ngāti Tara Tokanui and Ngāti Hei, passed their final reading on 13 May 2026. Existing settlements were also expressly carved out of the review of Treaty principles clauses announced on 15 May 2026.",
+   "status": "delivered",
+   "statusReason": "Settlement legislation continued to pass throughout the term, and past settlements were expressly excluded from the Treaty principles review.",
+   "keyNumber": "Honour past settlements -> at least 8 settlement bills or deeds progressed between May 2024 and May 2026; settlements excluded from the Treaty clauses review",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/portfolio/nationalactnew-zealand-first-coalition-government-2023-2026/treaty-waitangi-negotiations",
+    "https://www.beehive.govt.nz/release/ensuring-treaty-references-are-consistent"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "treaty-nzfirst-he-puapua-undrip",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement, signed 24 November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Stop all work on He Puapua. Confirm that the Government does not recognise the United Nations Declaration on the Rights of Indigenous Peoples as having any binding legal effect on New Zealand.",
+   "whatHappened": "He Puapua was a 2019 report commissioned through Te Puni Kōkiri by a Declaration Working Group set up in August 2019 and chaired by Claire Charters. It set out a path to implement UNDRIP by 2040. It was completed in December 2019 but was not released publicly at the time, and was never adopted as government policy. No Declaration Plan was ever formally adopted. The incoming government adopted NZ First's position of halting all work related to the report. No Declaration Plan work programme has been identified as running after November 2023.",
+   "status": "largely",
+   "statusReason": "There is no evidence of continuing work on He Puapua or a Declaration Plan after the change of government. But no published document confirming the work programme was formally closed was located.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/He_Puapua",
+    "https://en.wikipedia.org/wiki/Sixth_National_Government_of_New_Zealand"
+   ],
+   "contested": true,
+   "contestedNote": "Evidence for this entry is limited. The commitment is documented, and so is the fact that the Government adopted the policy of halting work. But the sources available for this run contained no primary document formally recording the closure of the Declaration Plan work programme, and no statement of the Government's position on UNDRIP's legal effect. The status should be treated as provisional."
+  },
+  {
+   "id": "treaty-act-departments-english-names",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023 (a related commitment on communicating primarily in English appears in the National-NZ First agreement)",
+   "sourceUrl": "https://www.russellmcveagh.com/media/haxjinrp/national-act-nz-first-coalition-government-policies-constitution-and-rights.pdf",
+   "promise": "Ensure all public service departments have their primary name in English, except for those specifically related to Māori. Require public service departments and Crown entities to communicate primarily in English.",
+   "whatHappened": "The change was applied agency by agency rather than through a single instrument. On 8 December 2023 the Transport Minister directed Waka Kotahi to prioritise its English name, NZ Transport Agency. Similar direction followed at other agencies. Agencies with a specifically Māori remit, such as Te Puni Kōkiri and Te Taura Whiri i te Reo Māori, kept their Māori names. No legislation was passed changing the statutory names of departments. Māori names remained in use alongside English ones in many agencies.",
+   "status": "partly",
+   "statusReason": "English-first naming and communication came through ministerial direction at individual agencies rather than across the board, and no statutory name changes were made.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/M%C4%81ori_language",
+    "https://en.wikipedia.org/wiki/Sixth_National_Government_of_New_Zealand"
+   ],
+   "contested": true,
+   "contestedNote": "Evidence for how complete this change was is limited. The direction to NZ Transport Agency in December 2023 is documented, and so is the coalition commitment. But the sources available for this run contained no consolidated public record of which departments changed their primary name, and when."
+  },
+  {
+   "id": "treaty-nzfirst-english-official-language",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement, signed 24 November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Legislate to make English an official language of New Zealand.",
+   "whatHappened": "New Zealand has two statutory official languages: te reo Māori under the Māori Language Act 1987, and New Zealand Sign Language under the New Zealand Sign Language Act 2006. English remains a de facto official language that is not recognised in statute. Clayton Mitchell introduced a NZ First member's bill in February 2018 to recognise English in statute, and it did not become law. In the sources reviewed, no Act recognising English as an official language had been passed as at August 2026.",
+   "status": "not-delivered",
+   "statusReason": "English still had no statutory official language status with under three months of the term remaining.",
+   "keyNumber": "Legislate English as an official language -> 0 Acts passed; official languages remain te reo Māori (1987) and NZ Sign Language (2006)",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Languages_of_New_Zealand"
+   ],
+   "contested": true,
+   "contestedNote": "The evidence here is the absence of any recorded legislation, rather than a positive statement that the commitment was abandoned. A bill may have been introduced late in the term that the sources available for this run do not capture, so the status should be treated as provisional."
+  },
+  {
+   "id": "gapfill-treaty-labour-whanau-ora-funding",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour Māori manifesto: 'further support for Whānau Ora'",
+   "sourceUrl": "https://www.labour.org.nz/news-maori-manifesto",
+   "promise": "Provide further support for Whānau Ora, the whānau-centred commissioning model delivered through independent Māori and Pacific commissioning agencies.",
+   "whatHappened": "Labour commissioned a review of Whānau Ora in 2018. It reported that other government agencies were not buying into the model enough. Budget 2019 allocated $80 million over four years. Close to two-thirds went directly to the three commissioning agencies, and $20 million was set aside to test localised commissioning in the North Island. On 23 January 2020 a further $3 million was redirected to the three existing agencies in-year, taking their combined allocation for that year to about $87 million. More Whānau Ora funding flowed through the COVID-19 response. The commissioning model itself was not restructured or expanded to new agencies during the term. The Auditor-General reported on Whānau Ora commissioning in 2023.",
+   "status": "largely",
+   "statusReason": "Funding was increased repeatedly as promised, but the commissioning model was not broadened in the way the 2018 review pointed to.",
+   "keyNumber": "Further support for Whānau Ora -> $80m over four years in Budget 2019, plus $3m in-year in Jan 2020; agency allocation approx $87m for 2019/20",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/boost-wh%C4%81nau-ora-funding-keep-changing-lives",
+    "https://www.rnz.co.nz/news/te-manu-korihi/383028/government-review-finds-its-own-agencies-don-t-buy-into-whanau-ora-enough",
+    "https://oag.parliament.nz/2023/whanau-ora/part2.htm"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-treaty-labour-te-reo-education-2025",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour te reo Māori education policy, integrate te reo Māori into education in early learning and schools by 2025",
+   "sourceUrl": "https://www.beehive.govt.nz/release/progress-integrating-te-reo-m%C4%81ori-education",
+   "promise": "Integrate te reo Māori into education in early learning services and schools by 2025, so that te reo Māori is part of every student's education. Do not make it a compulsory core curriculum subject.",
+   "whatHappened": "Labour rejected compulsion and pursued integration by building teacher capability instead. Te Ahu o te Reo Māori, a $12 million teacher language programme, was piloted in 2019 with 685 educators enrolled across four regions, and was then scaled up nationally. The Maihi Karauna Crown strategy for te reo Māori revitalisation was adopted in 2018, with a 2040 goal of one million New Zealanders speaking basic te reo. At the October 2023 handover te reo Māori had not been made a core curriculum subject, and the 2025 integration date had not arrived. The incoming government discontinued Te Ahu o te Reo Māori funding in 2024.",
+   "status": "partly",
+   "statusReason": "Real workforce investment was made. But te reo was not integrated across all schools, and the enabling programme was ended before the 2025 date.",
+   "keyNumber": "Te reo integrated into all early learning and schools by 2025 -> teacher programme scaled from 685 educators in 2019; no curriculum requirement in place at Oct 2023",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/progress-integrating-te-reo-m%C4%81ori-education",
+    "https://thespinoff.co.nz/atea/19-07-2019/cheat-sheet-compulsory-te-reo-maori-in-schools",
+    "https://www.nzherald.co.nz/nz/politics/maori-language-commission-deeply-concerned-about-erica-stanfords-funding-cuts-to-te-reo-programme-for-teachers/JWYLC3ZBMFCVBH34KCRV5YHPQM/"
+   ],
+   "contested": true,
+   "contestedNote": "One reading is that the target date of 2025 fell outside Labour's term, so the goal could not fairly be marked failed at the October 2023 handover. The other is that the 2025 date was never going to be met on the trajectory set. There was no curriculum change, no entitlement, and after six years the workforce programme still reached only a fraction of teachers."
+  },
+  {
+   "id": "gapfill-treaty-greens-te-reo-core-curriculum-2025",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "manifesto",
+   "sourceDoc": "Green Party 2017 te reo Māori policy, te reo Māori a core curriculum subject in all schools by 2025",
+   "sourceUrl": "https://www.greens.org.nz/te-reo-maori-must-be-core-curriculum-topic-all-schools-2025-say-greens",
+   "promise": "Make te reo Māori a core curriculum subject in all state primary and secondary schools by 2025, alongside additional resourcing for kaupapa Māori education.",
+   "whatHappened": "The Greens carried this policy into the 2017 confidence and supply arrangement and the 2020 cooperation agreement, but it was not adopted as government policy. Labour declined to make te reo compulsory, citing insufficient teacher supply, and pursued integration through the Te Ahu o te Reo Māori workforce programme instead. Green MPs continued to advocate the position publicly through the term. No legislation or National Curriculum change making te reo a core subject was made before the October 2023 handover.",
+   "status": "not-delivered",
+   "statusReason": "The core-curriculum requirement the Greens promised was never adopted while they were in government arrangements.",
+   "keyNumber": "Te reo a core subject in all schools by 2025 -> no curriculum change made by Oct 2023",
+   "evidenceUrls": [
+    "https://thespinoff.co.nz/atea/19-07-2019/cheat-sheet-compulsory-te-reo-maori-in-schools",
+    "https://www.beehive.govt.nz/release/progress-integrating-te-reo-m%C4%81ori-education"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-treaty-labour-treaty-settlements-progress",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour Māori manifesto, commitment to Te Tiriti o Waitangi and to Te Arawhiti, the Office for Māori Crown Relations, to progress settlements",
+   "sourceUrl": "https://www.labour.org.nz/news-maori-manifesto",
+   "promise": "Progress the settlement of historical Treaty of Waitangi claims through Te Arawhiti, prioritising durable settlements over speed. This includes advancing negotiations with Ngapuhi, the largest iwi grouping.",
+   "whatHappened": "Labour established Te Arawhiti, the Office for Māori Crown Relations, in January 2019. Over Andrew Little's five-plus years as Treaty Negotiations Minister the Crown completed 13 settlements worth about $690 million. That compares with 46 settlements worth about $1.23 billion over the previous government's nine years. Labour dropped the previous target of completing all willing historical settlements by 2030, with Little arguing that durable settlements mattered more than a deadline. The Ngapuhi settlement was not achieved. By early 2023 the Crown was negotiating with roughly eight separate Ngapuhi groupings rather than a single mandate.",
+   "status": "partly",
+   "statusReason": "Settlements continued and Te Arawhiti was established. But the rate was roughly a quarter of the previous one, the completion target was removed, and the largest outstanding claim did not advance to settlement.",
+   "keyNumber": "13 settlements worth approx $690m over six years -> vs 46 settlements worth approx $1.23b over the previous nine years; 2030 completion target dropped",
+   "evidenceUrls": [
+    "https://www.nzherald.co.nz/nz/politics/waitangi-2023-treaty-settlements-under-labour-and-whats-happening-with-ngapuhi-countrys-largest-iwi/XLPMDBEK4NCM5LODCUBV3MSFR4/",
+    "https://oag.parliament.nz/media/2024/treaty-settlement.htm"
+   ],
+   "contested": true,
+   "contestedNote": "Critics read the drop in settlement numbers as a delivery failure. The Crown and several iwi argue the remaining claims are the most complex and contested ones. They say the earlier pace reflected easier settlements being done first, and that a 2030 deadline would have pressured groups into settlements they did not accept."
+  },
+  {
+   "id": "gapfill-treaty-labour-oranga-tamariki-7aa",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour Māori manifesto, ensure Oranga Tamariki partners with iwi, hapū and Māori organisations to find the best solutions",
+   "sourceUrl": "https://www.labour.org.nz/news-maori-manifesto",
+   "promise": "Bring into force statutory Treaty duties on the chief executive of Oranga Tamariki. These require the agency to reduce disparities for tamariki Māori, to have regard to mana tamaiti, whakapapa and whanaungatanga, to develop strategic partnerships with iwi and Māori organisations, and to report publicly each year.",
+   "whatHappened": "Section 7AA of the Oranga Tamariki Act 1989 came into force on 1 July 2019 under the Labour government. It required the chief executive to set measurable outcomes for reducing disparities for Māori children, to have regard to mana tamaiti, whakapapa and whanaungatanga, to seek strategic partnerships with iwi and Māori organisations, and to report annually and publicly. Strategic partnerships with iwi and Māori organisations were signed, and section 7AA reports were published each year. The provision remained in force at the October 2023 handover. The incoming government repealed it, with the repeal taking effect on 7 April 2025.",
+   "status": "delivered",
+   "statusReason": "The statutory duties came into force on time and operated for the rest of the term, with partnerships signed and annual reporting published.",
+   "keyNumber": "Section 7AA in force 1 July 2019 -> operated until repeal took effect 7 April 2025",
+   "evidenceUrls": [
+    "https://www.legislation.govt.nz/act/public/2017/0031/latest/DLM7064559.html",
+    "https://www.orangatamariki.govt.nz/about-us/performance-and-monitoring/section-7aa/what-we-do-section-7aa/",
+    "https://www.1news.co.nz/2024/08/02/section-7aa-explained-the-repeal-that-has-iwi-marching-to-parliament/"
+   ],
+   "contested": true,
+   "contestedNote": "The drafting provenance is disputed. Section 7AA was inserted by the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017, which passed under the previous National government. But its commencement on 1 July 2019, the strategic partnership programme built under it, and the response to the 2021 Waitangi Tribunal urgent inquiry all sat with Labour. Some critics also note that Labour declined the Tribunal's central recommendation for an independent Māori transition authority."
+  },
+  {
+   "id": "gapfill-treaty-labour-whai-kainga-whai-oranga",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour Māori manifesto, strengthen Māori housing through collaborative partnerships, home-ownership models and papakāinga provision",
+   "sourceUrl": "https://www.labour.org.nz/news-maori-manifesto",
+   "promise": "Fund Māori-led housing through Whai Kāinga Whai Oranga. The four-year $730 million programme, announced in October 2021, was to build over 1,000 new Māori homes, repair 700 existing whānau-owned homes, and provide infrastructure for papakāinga sites.",
+   "whatHappened": "Budget 2021 provided $380 million for Whai Kāinga Whai Oranga plus $350 million for a Māori infrastructure fund, a combined $730 million over four years. Applications opened on 20 October 2021, with no completion deadline set. By December 2021, 24 further projects had been approved covering over 140 new houses, and $15 million had gone to repairs on 242 whānau-owned homes. A progress update from late 2022 recorded funding approved for up to 959 of the 1,000 new-build homes, up to 331 of the 700 repairs, and infrastructure enabled for up to 1,356 of 2,700 identified sites. No consolidated count of completed homes was published by the October 2023 handover. The programme ended in May 2025.",
+   "status": "partly",
+   "statusReason": "Funding approvals came close to the new-build target, but repairs ran well behind. Throughout the term the programme reported approvals rather than completed homes.",
+   "keyNumber": "1,000 new homes and 700 repairs from $730m -> up to 959 new builds and 331 repairs approved as at late 2022; completions not reported",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/national/453522/whai-kainga-govt-programme-to-help-iwi-build-1000-new-homes",
+    "https://www.beehive.govt.nz/release/further-m%C4%81ori-housing-projects-underway",
+    "https://www.hud.govt.nz/assets/Uploads/Documents/9.MAIHI-Ka-Ora-Implementation-Plan-Progress-Update.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-treaty-labour-maihi-ka-ora-strategy",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour Māori manifesto, continued work with iwi to build more papakāinga and improve Māori home ownership rates",
+   "sourceUrl": "https://www.labour.org.nz/news-maori-manifesto",
+   "promise": "Strengthen Māori housing through collaborative partnerships, home-ownership models and papakāinga provision, set out in a new national Māori housing strategy developed with Māori.",
+   "whatHappened": "The government published MAIHI Ka Ora, the National Māori Housing Strategy, in 2021. It became the operative national Māori housing strategy in place of He Whare Āhuru He Oranga Tangata, the strategy issued in July 2014 under the previous government. MAIHI Ka Ora does not itself describe the earlier document as revoked, and presents itself as building on the MAIHI framework. It set six priority areas: Māori Crown partnerships, Māori-led local solutions, Māori housing supply, Māori housing support, the Māori housing system, and Māori housing sustainability. It came with an implementation plan and progress reporting through Te Tūāpapa Kura Kāinga and Te Puni Kōkiri. The strategy is not set in statute and has no binding numeric targets. Its main funding vehicle was Whai Kāinga Whai Oranga.",
+   "status": "delivered",
+   "statusReason": "The new national strategy was written, published and given an implementation plan and funding vehicle within the term.",
+   "keyNumber": "New national Māori housing strategy -> MAIHI Ka Ora published 2021 with six priority areas",
+   "evidenceUrls": [
+    "https://www.hud.govt.nz/assets/Uploads/Documents/MAIHI-Ka-Ora-Strategy-Document.pdf",
+    "https://www.hud.govt.nz/assets/Uploads/Documents/9.MAIHI-Ka-Ora-Implementation-Plan-Progress-Update.pdf",
+    "https://www.beehive.govt.nz/release/he-whare-%C4%81huru-he-oranga-t%C4%81ngata-m%C4%81ori-housing-strategy-launched"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-treaty-labour-nz-history-curriculum",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour Māori manifesto. New Zealand history a core curriculum subject in all schools and kura by 2022",
+   "sourceUrl": "https://www.labour.org.nz/news-maori-manifesto",
+   "promise": "Make New Zealand history, including the Treaty of Waitangi and Māori history, a core part of the curriculum in all schools and kura by 2022.",
+   "whatHappened": "The government announced in September 2019 that New Zealand history would be taught in all schools and kura. A draft curriculum went out for consultation in 2021 and drew substantial criticism from historians. In January 2022 the Ministry of Education deferred implementation by a year. Prime Minister Jacinda Ardern launched Aotearoa New Zealand's Histories on 17 March 2022. It became a compulsory part of the curriculum for years 1 to 10 from the start of the 2023 school year, one year later than the manifesto date.",
+   "status": "largely",
+   "statusReason": "The curriculum was written and made compulsory as promised, but a year later than the stated 2022 date.",
+   "keyNumber": "Core curriculum in all schools by 2022 -> curriculum launched March 2022, compulsory from the 2023 school year",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/national/463479/aotearoa-new-zealand-history-curriculum-launches",
+    "https://www.teaonews.co.nz/2022/01/27/aotearoa-history-curriculum-delayed-until-2023/",
+    "https://www.beehive.govt.nz/release/nz-history-be-taught-all-schools"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-treaty-labour-maori-procurement-target",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour Māori manifesto, a progressive procurement policy that would set a target for Māori business procurement",
+   "sourceUrl": "https://www.labour.org.nz/news-maori-manifesto",
+   "promise": "Introduce a progressive procurement policy setting a target for the share of government contracts awarded to Māori businesses.",
+   "whatHappened": "A progressive procurement policy took effect from 2020. It required departments to award at least 5 per cent of their contracts by number to Māori businesses. In the 2021/22 financial year Māori businesses accounted for 6 per cent of government procurement contracts, more than 3,200 contracts worth about $930 million across the public sector. On 23 March 2023 the government raised the target to 8 per cent, with a review set for 2024.",
+   "status": "delivered",
+   "statusReason": "The policy and a numeric target were introduced, the target was met, and it was then raised within the term.",
+   "keyNumber": "5 per cent of contracts to Māori businesses -> 6 per cent achieved in 2021/22 (3,200+ contracts, approx $930m); target raised to 8 per cent in 2023",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/government-target-increased-keep-powering-m%C4%81ori-economy",
+    "https://www.beehive.govt.nz/release/boosting-m%C4%81ori-economy-through-progressive-procurement"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-treaty-labour-maori-boarding-schools-20m",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 campaign policy, $20 million fund to support Māori boarding schools",
+   "sourceUrl": "https://www.scoop.co.nz/stories/PO2009/S00394/new-fund-to-support-maori-boarding-schools.htm",
+   "promise": "Invest $20 million into a fund to upgrade New Zealand's four Māori boarding schools. Te Aute College, St Joseph's Māori Girls' College, Hukarere Girls' College and Hato Paora College.",
+   "whatHappened": "The commitment was announced on 26 September 2020 during the election campaign and funded in Budget 2021. About $2.337 million was paid out in 2021/22 for urgent works at Hato Paora and St Joseph's. On 16 August 2022 the remaining $14.9 million was allocated: $6.2 million to St Joseph's Māori Girls' College, $5.0 million to Te Aute College, $2.7 million to Hato Paora College and $981,300 to Hukarere Girls' College. That accounts for about $17.2 million of the $20 million. The balance was not separately reported by the October 2023 handover.",
+   "status": "largely",
+   "statusReason": "The fund was created and most of it was allocated to the four named schools. But allocation ran two years behind the announcement, and the full $20 million was not publicly accounted for.",
+   "keyNumber": "$20m fund for four Māori boarding schools -> approx $17.2m allocated by August 2022",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/149m-allocated-m%C4%81ori-boarding-school-upgrades",
+    "https://www.stuff.co.nz/pou-tiaki/te-reo-maori/122908573/relief-at-20-million-fund-for-mori-boarding-schools"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-treaty-nzfirst-pgf-maori-land-100m",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, $1 billion per annum Provincial Growth Fund, administered by NZ First's Regional Economic Development Minister",
+   "sourceUrl": "https://www.scoop.co.nz/stories/PA1710/S00058/coalition-agreement-nz-first-and-labour.htm",
+   "promise": "Use the Provincial Growth Fund to unlock the productive potential of Māori-owned land. Its special legal status creates particular barriers to commercial finance.",
+   "whatHappened": "On 3 February 2019 Prime Minister Jacinda Ardern and Regional Economic Development Minister Shane Jones made an announcement at Otamatea Marae. Up to $100 million of the Provincial Growth Fund would be set aside for projects increasing the productivity of Māori-owned land, delivered as loans and grants under the Whenua Māori programme. Funded projects included horticulture conversions, such as an 18.2 hectare blueberry orchard at Te Teko. No full outcome reporting on jobs created and hectares brought into production was published. The PGF as a whole drew Auditor-General scrutiny over its assessment processes.",
+   "status": "delivered",
+   "statusReason": "The dedicated $100 million allocation was made, and a loans and grants programme for Māori landowners operated for the rest of the term.",
+   "keyNumber": "Up to $100m of the Provincial Growth Fund ring-fenced for Māori land development -> announced 3 February 2019",
+   "evidenceUrls": [
+    "http://www.beehive.govt.nz/release/100-million-investment-support-m%C4%81ori-landowners-and-drive-regional-growth",
+    "https://www.growregions.govt.nz/established-funds/what-we-have-funded/the-provincial-growth-fund/maori-economic-development"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-treaty-greens-honour-te-tiriti-cs2017",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Confidence and Supply Agreement 2017, policy goal 17, honour te Tiriti o Waitangi",
+   "sourceUrl": "https://thestandard.org.nz/labour-green-confidence-and-supply-agreement-released/",
+   "promise": "Honour te Tiriti o Waitangi, as one of the twenty policy goals in the 2017 Labour-Green confidence and supply agreement.",
+   "whatHappened": "Unlike most of the other nineteen goals, this commitment carried no named policy, number or date. Across the two terms Green ministers held Conservation, Climate Change, Associate Environment, Land Information, Prevention of Family and Sexual Violence and Associate Housing. None of these were Māori Crown relations portfolios. Labour ministers led the Government's Treaty measures in this period: the Māori Health Authority, removal of the Māori wards poll provisions, the Matariki public holiday and the New Zealand histories curriculum. Cabinet halted work on a plan to implement the UN Declaration on the Rights of Indigenous Peoples in December 2022, without a plan being produced. The Greens supported these measures in the House, but the agreement goal itself was never given a deliverable to measure.",
+   "status": "partly",
+   "statusReason": "Treaty measures the Greens supported did pass, but the commitment as written specified nothing that could be delivered or missed.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://www.interest.co.nz/news/90522/greens-outline-confidence-and-supply-agreement-new-government-which-includes-20-policy",
+    "https://newsroom.co.nz/2022/12/08/co-governance-work-put-on-ice/"
+   ],
+   "contested": true,
+   "contestedNote": "The Greens argue the goal was honoured through support for the Māori Health Authority, Māori wards changes and the histories curriculum. Critics of the scorecard note that scoring an undefined aspiration either way is arbitrary. They also note that the one concrete Treaty workstream of the period, the UNDRIP implementation plan, was stopped without a Green minister holding the portfolio to prevent it."
+  },
+  {
+   "id": "gapfill-national-act-need-not-race-circular",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National. ACT Coalition Agreement, 24 November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Within the first six months of Government, issue a Cabinet Office circular to all central government organisations. It is to state the Government's expectation that public services should be prioritised on the basis of need, not race.",
+   "whatHappened": "Cabinet Office Circular CO (24) 5, Needs-based Service Provision, was issued on 13 September 2024. That was about nine and a half months after the Government was formed, and roughly four months after the six-month deadline. It states that the targeting, commissioning and design of public services should be based on the needs of all New Zealanders. It applies to public service agencies and their chief executives, and asks Crown entities and state-owned enterprises to comply so far as is consistent with their legal obligations. A supporting Cabinet paper, Ensuring Public Services are Based on Need and Contracts are Awarded on Value, was released at the same time. An identically worded commitment appears in the National-NZ First coalition agreement, without the six-month deadline.",
+   "status": "largely",
+   "statusReason": "The circular was issued in the form promised, but about four months after the six-month deadline written into the agreement.",
+   "keyNumber": "Circular due within 6 months (by late May 2024) -> issued 13 September 2024",
+   "evidenceUrls": [
+    "https://www.dpmc.govt.nz/publications/co-24-5-needs-based-service-provision",
+    "https://www.beehive.govt.nz/sites/default/files/2024-09/Ensuring%20Public%20Services%20are%20Based%20on%20Need%20and%20Contracts%20are%20Awarded%20on%20Value%20-%20Cabinet%20Paper.pdf",
+    "https://www.nzherald.co.nz/nz/politics/government-tells-public-services-to-deliver-based-on-need-not-race/3WX4KBSKPFE2RLEY32K2XMUYSI/"
+   ],
+   "contested": true,
+   "contestedNote": "The Government says the circular directs agencies to allocate services by assessed need rather than ethnicity, and does not stop agencies from taking ethnicity into account where it is itself evidence of need. Critics, including public health researchers publishing in the NZ Herald and in academic journals, argue that ethnicity is an established marker of need. They say removing ethnic targeting reduces the reach of services to Māori and Pacific populations, and that the circular sits uneasily with Treaty obligations. The dispute is about the circular's effect, not about whether it was issued."
+  }
+ ]
+}

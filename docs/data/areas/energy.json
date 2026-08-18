@@ -1,0 +1,280 @@
+{
+ "areaKey": "energy",
+ "areaLabel": "Energy",
+ "areaBlurb": "New Zealand's energy debate shifted from how fast to reach a fully renewable electricity system to how to keep the lights on affordably as domestic gas ran down, with each government reversing the other's central project.",
+ "promises": [
+  {
+   "id": "energy-labour-100pc-renewable-2030",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 campaign energy policy, announced 17 September 2020",
+   "sourceUrl": "https://www.axios.com/new-zealand-renewable-energy-2030-36493cd8-ff1a-4577-9b51-f2ca43d945a8.html",
+   "promise": "Achieve 100 per cent renewable electricity generation by 2030 in a normal hydrological year, bringing forward the previous 2035 goal by five years.",
+   "whatHappened": "The renewable share of generation was about 84 per cent when the target was announced in September 2020. It reached 88.1 per cent in 2023, the year of the handover. It then fell to 85.5 per cent in 2024, as low hydro inflows and falling gas supply pushed coal generation up 118 per cent year on year to 5.1 per cent of total generation. The main enabling project, the NZ Battery pumped hydro scheme at Lake Onslow, was stopped in late 2023 before any build decision. The incoming Government did not adopt the 2030 target.",
+   "status": "partly",
+   "statusReason": "The renewable share rose materially during the two terms. But no settled pathway to 100 per cent existed at the handover, and the enabling storage project was never decided.",
+   "keyNumber": "100 per cent renewable electricity by 2030 -> 88.1 per cent in 2023, 85.5 per cent in 2024",
+   "evidenceUrls": [
+    "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-publications-and-technical-papers/energy-in-new-zealand/energy-in-new-zealand-2025/electricity",
+    "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-publications-and-technical-papers/energy-in-new-zealand/energy-in-new-zealand-2025/renewables",
+    "https://www.mbie.govt.nz/about/news/favourable-hydro-conditions-see-record-high-share-of-electricity-generation-from-renewables"
+   ],
+   "contested": true,
+   "contestedNote": "One reading: the target date of 2030 fell outside the term, and the renewable share did rise, so the promise could not fairly be marked failed at the handover. Another: no funded pathway to the last 10-15 percentage points was ever settled, the dry-year solution was abandoned, and the 2024 fall back to 85.5 per cent shows the system was still dependent on gas and coal."
+  },
+  {
+   "id": "energy-labour-nz-battery-onslow",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 campaign energy policy. NZ Battery / Lake Onslow investigation",
+   "sourceUrl": "https://www.axios.com/new-zealand-renewable-energy-2030-36493cd8-ff1a-4577-9b51-f2ca43d945a8.html",
+   "promise": "Spend $70 million investigating a pumped hydro scheme at Lake Onslow (the NZ Battery project) to solve the dry-year problem, and decide whether to build it.",
+   "whatHappened": "The NZ Battery project ran from 2020. It produced feasibility, hydrology, landscape and cultural studies on Lake Onslow, and later broadened to alternative sites and non-hydro options, including grid batteries, green peaker generation and carbon capture. No build decision was ever made. MBIE records that the Government stopped the Lake Onslow investigations in late 2023, and the incoming Government confirmed in December 2023 that it was dumping the project. MBIE continued dry-year security work inside its wider electricity system programme.",
+   "status": "partly",
+   "statusReason": "The investigation the promise funded did take place. But the decision it was supposed to lead to was never made before the term ended.",
+   "keyNumber": "$70m investigation plus a build decision -> studies delivered, no build decision, investigations stopped late 2023",
+   "evidenceUrls": [
+    "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/low-emissions-economy/nz-battery",
+    "https://www.rnz.co.nz/news/national/503816/govt-confirms-it-is-dumping-hugely-wasteful-lake-onslow-battery-project"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "energy-labour-winter-energy-payment",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 Families Package. Winter Energy Payment",
+   "sourceUrl": "https://www.interest.co.nz/news/88733/families-young-children-and-pensioners-main-beneficiaries-labours-families-package",
+   "promise": "Introduce a Winter Energy Payment of up to $700 a year for couples and people with dependants, and $450 for single people. Pay it automatically to superannuitants and main benefit recipients over the colder months, starting 1 July 2018.",
+   "whatHappened": "The Families Package legislation passed in December 2017 and the Winter Energy Payment began on 1 July 2018, at the promised rates of $450 for single people and $700 for couples and people with dependants. It reached over a million people in its first year. It ran from 1 July to 30 September in 2018, and from 1 May to 1 October in later years. It was temporarily doubled in 2020 during COVID-19, and remained in place at the October 2023 handover.",
+   "status": "delivered",
+   "statusReason": "Introduced on the promised date at the promised rates to the promised group.",
+   "keyNumber": "$450 single / $700 couples from 1 July 2018 -> delivered on time to over 1 million people",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/winter-energy-payments-keep-million-kiwis-warm-and-healthy",
+    "https://img.scoop.co.nz/media/pdfs/1707/Winter_Energy_Payment_factsheet.pdf",
+    "https://www.motu.nz/our-research/population-and-labour/individual-and-group-outcomes/impact-winter-energy-payment"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "energy-labour-greens-renewable-2035-plan",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Greens confidence & supply agreement 2017",
+   "sourceUrl": "https://thestandard.org.nz/labour-green-confidence-and-supply-agreement-released/",
+   "promise": "Request the Climate Commission to plan the transition to 100 per cent renewable electricity by 2035, including geothermal, in a normal hydrological year.",
+   "whatHappened": "The Climate Change Commission was established under the Climate Change Response (Zero Carbon) Amendment Act 2019, and electricity decarbonisation formed part of its advice on emissions budgets. In September 2020 Labour replaced the 2035 goal with a 100 per cent by 2030 aspiration, and no binding 2035 transition pathway was legislated. Renewable generation was 88.1 per cent in 2023, fell to 85.5 per cent in 2024, and hit a record quarterly high of 96.4 per cent in the December 2025 quarter.",
+   "status": "partly",
+   "statusReason": "The Commission was created and did advise on electricity. But no 100 per cent transition plan with a defined pathway was adopted.",
+   "keyNumber": "Plan for 100 per cent renewable electricity by 2035 -> no binding pathway adopted; 88.1 per cent renewable in 2023",
+   "evidenceUrls": [
+    "https://www.axios.com/new-zealand-renewable-energy-2030-36493cd8-ff1a-4577-9b51-f2ca43d945a8.html",
+    "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-publications-and-technical-papers/energy-in-new-zealand/energy-in-new-zealand-2025/electricity"
+   ],
+   "contested": true,
+   "contestedNote": "On one reading the procedural commitment, to ask the Commission to plan the transition, was met: the Commission was established and advised on electricity decarbonisation. On another, the specific 2035 target was quietly replaced by a different aspiration and then dropped entirely, so the transition plan the Greens negotiated for never happened."
+  },
+  {
+   "id": "energy-national-cancel-nz-battery",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 campaign commitment to scrap the Lake Onslow / NZ Battery project",
+   "sourceUrl": "https://www.rnz.co.nz/news/national/503816/govt-confirms-it-is-dumping-hugely-wasteful-lake-onslow-battery-project",
+   "promise": "Scrap the Lake Onslow pumped hydro (NZ Battery) project.",
+   "whatHappened": "The Government confirmed in December 2023 that it was stopping the NZ Battery project and the Lake Onslow investigations. It described the scheme as a $16 billion project and the spending on it as wasteful. MBIE folded remaining dry-year security work into its wider electricity system programme. Energy academics criticised the decision as short-sighted, and by 2026 there was renewed public discussion of reviving an Onslow-type scheme, but no project was restarted.",
+   "status": "delivered",
+   "statusReason": "The project was stopped within weeks of taking office, as promised.",
+   "keyNumber": "Scrap Lake Onslow -> investigations stopped December 2023",
+   "evidenceUrls": [
+    "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/low-emissions-economy/nz-battery",
+    "https://www.rnz.co.nz/news/national/503885/scrapping-nz-battery-project-short-sighted-otago-energy-expert",
+    "https://www.odt.co.nz/rural-life/rural-life-other/revival-lake-onslow-scheme-considered"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "energy-national-oil-gas-ban-reversal",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition agreement commitment to reverse the offshore oil and gas exploration ban; legislation promised by the end of 2024",
+   "sourceUrl": "https://www.beehive.govt.nz/release/government-reverse-oil-and-gas-exploration-ban",
+   "promise": "Reverse the 2018 ban on new offshore oil and gas exploration outside onshore Taranaki, with legislation passed by the end of 2024.",
+   "whatHappened": "The Crown Minerals Amendment Bill was introduced on 25 September 2024, but did not pass its third reading until 31 July 2025. It received royal assent on 5 August 2025, about seven months later than the commitment. The Act removed the exploration ban beyond onshore Taranaki, and shifted the Crown Minerals Act's purpose from managing prospecting and extraction to promoting it. The first offshore exploration permit since the reversal was granted to EnZed Energy on 29 July 2026, covering 546 square kilometres off Taranaki. There was a sole applicant, and the initial work programme was limited to reinterpreting existing seismic data. Gas reserves fell 23 per cent to 731 petajoules by January 2026, the lowest in two decades.",
+   "status": "largely",
+   "statusReason": "The ban was reversed as promised but roughly seven months late, and only one exploration permit had resulted a year on.",
+   "keyNumber": "Legislation by end of 2024 -> Act passed 31 July 2025; 1 offshore exploration permit granted by Aug 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/milestone-return-petroleum-exploration",
+    "https://newswire.co.nz/2026/07/first-offshore-oil-gas-permit-since-ban-reversal-taranaki/",
+    "https://en.wikipedia.org/wiki/Crown_Minerals_Amendment_Act_2025",
+    "https://thediplomat.com/2025/06/new-zealand-reverses-offshore-oil-and-gas-exploration-ban-amid-energy-security-concerns/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "energy-national-electricity-market-review",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Government energy security package announced 26 August 2024, improve electricity market regulation and review market performance",
+   "sourceUrl": "https://www.beehive.govt.nz/release/urgent-action-taken-bolster-energy-security",
+   "promise": "Review the performance of the electricity market and improve its regulation so competition works and power is affordable and reliable.",
+   "whatHappened": "The Frontier Economics review and the Government's response were released on 1 October 2025. The Government did not adopt structural separation of the four gentailers. The review considered but did not recommend it, and officials judged behavioural rules faster to implement and less disruptive to investment. On 26 May 2026 the Energy Minister announced level playing field rules. From 1 July 2026 Contact, Genesis, Mercury and Meridian must offer independent retailers the same hedge contract terms as their own retail arms, unless a difference is objectively justifiable. Those four companies hold about 85 per cent of generation and about 85 per cent of household customers. They must also file annual compliance plans and show every six months that retail prices reflect costs. Maximum penalties are to rise from $2 million to the greater of $10 million, three times commercial gain, or 10 per cent of turnover, once legislation passes in 2027. Household power bills had risen roughly a third over four years.",
+   "status": "largely",
+   "statusReason": "The review was completed and binding conduct rules took effect. But the enforcement regime that gives them teeth does not arrive until 2027.",
+   "keyNumber": "Electricity market review -> report Oct 2025, structural separation rejected, hedge access rules from 1 July 2026, penalties from $2m to $10m in 2027",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/delivering-fairer-electricity-market-kiwi-consumers",
+    "https://www.ea.govt.nz/news/press-release/electricity-authority-welcomes-outcome-of-electricity-market-review/",
+    "https://www.comcom.govt.nz/news-and-media/news-and-events/2025/electricity-authority-moves-to-level-the-power-playing-field/"
+   ],
+   "contested": true,
+   "contestedNote": "The Government and the Electricity Authority argue that behavioural level playing field rules address the vertical integration problem faster and with less investment risk than a break-up. Independent retailers, some business groups and opposition parties argue only structural separation of generation from retail would fix it, and note the higher penalties do not take effect until 2027."
+  },
+  {
+   "id": "energy-national-lng-import",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Government energy security package announced 26 August 2024, remove regulatory barriers to LNG imports",
+   "sourceUrl": "https://www.beehive.govt.nz/release/urgent-action-taken-bolster-energy-security",
+   "promise": "Remove the regulatory barriers to building a liquefied natural gas import facility so New Zealand can import gas when domestic supply is short.",
+   "whatHappened": "On 9 February 2026 the Government announced it would contract to build an LNG import facility in Taranaki, having shortlisted leading proposals. Contract signing was targeted for mid-2026, with the facility potentially operating in 2027 or early 2028. The design brings in large shipments only when needed, to limit exposure to international gas price volatility. The Government estimated it would save households about $50 a year by damping price spikes, and be worth about $1.2 billion a year to the economy by 2035 if domestic gas keeps declining. No facility was operating as at August 2026.",
+   "status": "in-progress",
+   "statusReason": "Regulatory barriers were addressed and a facility is at contracting stage, but nothing is built and the term is not finished.",
+   "keyNumber": "LNG import facility -> at contracting stage Aug 2026, target operation 2027 to early 2028",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/delivering-lng-support-energy-security"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "energy-national-gas-co-investment",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Budget 2025 gas co-investment fund and Crown cornerstone stake policy",
+   "sourceUrl": "https://www.nzherald.co.nz/bay-of-plenty-times/news/budget-2025-energy-sector-welcomes-200m-government-gas-exploration-fund/MMB5AO5JFFGDJG44QNEYGYFF6M/",
+   "promise": "Establish a $200 million co-investment fund and take Crown cornerstone stakes in new gas field developments, to reduce sovereign risk and lift domestic gas supply.",
+   "whatHappened": "Budget 2025 created the $200 million commercial co-investment fund for new gas field development. On 6 November 2025 its scope was widened to cover more drilling in existing fields and production facility upgrades, exploration and appraisal drilling, greenfield exploration beyond Taranaki, and gas storage. Ministers cited a worsening supply outlook. Kanoa was to call for expressions of interest that month, and no investment had been concluded at that point. Gas reserves fell 23 per cent to 731 petajoules by January 2026, and 2026 production was forecast to fall 15 per cent year on year to about 85 petajoules.",
+   "status": "partly",
+   "statusReason": "The fund exists and was broadened, but no completed investment or reversal of the gas production decline is yet evident.",
+   "keyNumber": "$200m gas co-investment fund -> fund created May 2025 and widened Nov 2025; gas reserves still fell 23 per cent to 731 PJ by Jan 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/widened-scope-co-investment-new-gas",
+    "https://newswire.co.nz/2026/07/first-offshore-oil-gas-permit-since-ban-reversal-taranaki/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "energy-national-fast-track-renewables",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition Government fast-track consenting programme and RMA national direction for infrastructure and renewable electricity",
+   "sourceUrl": "https://www.beehive.govt.nz/release/electrifying-growth-infrastructure-and-energy-rma-national-direction-changes",
+   "promise": "Make it faster and cheaper to consent renewable electricity generation and network infrastructure. Do this through a one-stop-shop fast-track approvals regime and new national direction under the Resource Management Act.",
+   "whatHappened": "The Fast-track Approvals Act 2024 created a referral and expert-panel pathway. On 2 April 2026 the 380MW, 55-turbine Southland Wind Farm was approved after a five-month panel process. It would be New Zealand's largest and had previously been declined resource consent. By 3 July 2026 six renewable energy projects had been approved through fast-track, including the 190MW Mahinerangi wind farm expansion, alongside hydro schemes at Kaimai, Pukaki, Tekapo and Waitaha. On 15 January 2026 the Government introduced a new National Policy Statement for Infrastructure, and amended the national policy statements for Renewable Electricity Generation and Electricity Networks.",
+   "status": "delivered",
+   "statusReason": "The regime was legislated, the national direction was made, and six renewable projects had been consented through it by mid-2026.",
+   "keyNumber": "Faster consenting for renewables -> 6 renewable projects approved under fast-track by July 2026, including a 380MW wind farm",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/fast-track-approved-project-could-deliver-new-zealand%E2%80%99s-largest-wind-farm",
+    "https://www.beehive.govt.nz/release/sixth-renewable-energy-project-fast-tracked",
+    "https://www.fasttrack.govt.nz/projects/southland-wind-farm"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "energy-national-dry-year-security",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Government energy security package announced 26 August 2024",
+   "sourceUrl": "https://www.beehive.govt.nz/release/urgent-action-taken-bolster-energy-security",
+   "promise": "Take urgent action to secure electricity supply and manage dry-year risk after the 2024 gas shortage and wholesale price spike. This includes easing restrictions on lines companies owning generation and securing gentailer access to hydro contingent storage.",
+   "whatHappened": "Wholesale prices rose from roughly $300/MWh to over $800/MWh between July and early August 2024. Hydro storage was at a six-year low. Gas production was down 12.5 per cent in 2023 and a further 27.8 per cent in the first quarter of 2024, and wind output was often below 300MW against more than 1,000MW of capacity. Coal generation rose 118 per cent in 2024 to 5.1 per cent of the total, and several North Island mills closed or curtailed production. The Government eased lines company generation restrictions and addressed hydro contingent storage access. In February 2026 it bought up to $200 million of new Genesis Energy shares to fund flexible generation, while keeping the Crown's 51 per cent stake. Renewable generation reached a record 96.4 per cent in the December 2025 quarter under favourable hydrology.",
+   "status": "partly",
+   "statusReason": "Specific measures were implemented and the immediate crisis eased. But structural dry-year and gas-decline risk remains unresolved, with the LNG facility and new gas investment still pending.",
+   "keyNumber": "Secure supply after the 2024 crisis -> wholesale prices peaked above $800/MWh in Aug 2024; Crown put up to $200m into Genesis in Feb 2026",
+   "evidenceUrls": [
+    "https://www.ea.govt.nz/news/eye-on-electricity/what-was-behind-high-wholesale-electricity-prices/",
+    "https://www.beehive.govt.nz/release/government-invests-support-energy-security",
+    "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-publications-and-technical-papers/energy-in-new-zealand/energy-in-new-zealand-2025/electricity"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "energy-national-nzfirst-marsden-point",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First coalition agreement 2023, investigate reopening the Marsden Point oil refinery",
+   "sourceUrl": "https://www.beehive.govt.nz/release/marsden-point-oil-refinery-reopening-be-investigated-fuel-security-study",
+   "promise": "Investigate the feasibility of reopening the Marsden Point oil refinery as part of a fuel security study.",
+   "whatHappened": "The study was commissioned in 2024. MBIE engaged Envisory and Castalia in 2024-25 to examine the costs and benefits of re-establishing the refinery, with peer review by Beca. That work fed into the 2025 Fuel Security Study and Fuel Security Plan. The refinery closed in 2022 and operates as an import terminal. It was not reopened and no decision to reopen it was taken. NZ First had campaigned on restoring refining capacity.",
+   "status": "delivered",
+   "statusReason": "The commitment as written was to investigate, and the investigation was commissioned and completed.",
+   "keyNumber": "Investigate reopening Marsden Point -> study completed 2024-25; refinery not reopened",
+   "evidenceUrls": [
+    "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-generation-and-markets/liquid-fuel-market/fuel-security-in-new-zealand",
+    "https://newsroom.co.nz/2024/02/08/nz-firsts-doomed-deal-to-reopen-marsden-point-refinery/"
+   ],
+   "contested": true,
+   "contestedNote": "Read as written, the coalition commitment was only to investigate, and that happened, so it is delivered. Read against NZ First's public campaign that Marsden Point should refine fuel again, nothing changed: the site remains an import terminal and no reopening decision was made."
+  },
+  {
+   "id": "energy-national-nzfirst-fuel-security-plan",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First coalition agreement 2023, fuel security plan",
+   "sourceUrl": "https://www.beehive.govt.nz/release/marsden-point-oil-refinery-reopening-be-investigated-fuel-security-study",
+   "promise": "Establish a fuel security plan to safeguard New Zealand's transport, logistics and emergency services from any international or domestic disruption to fuel supply.",
+   "whatHappened": "MBIE ran a 2025 Fuel Security Study and consulted on a draft plan in July and August 2025. The Fuel Security Plan was released in November 2025 as the Government's medium- to long-term resilience strategy. It was tested in 2026. In March the Government set up a ministerial group to oversee fuel security, joined an international oil response and widened fuel supply options. In April it announced an additional 90 million litres of diesel.",
+   "status": "delivered",
+   "statusReason": "The plan was published and then put to use, though about two years after the commitment was signed.",
+   "keyNumber": "Fuel security plan -> released November 2025, about two years after the coalition agreement",
+   "evidenceUrls": [
+    "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-generation-and-markets/liquid-fuel-market/fuel-security-in-new-zealand",
+    "https://www.beehive.govt.nz/portfolio/nationalactnew-zealand-first-coalition-government-2023-2026/energy"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-greens-warmer-kiwi-homes",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Confidence and Supply Agreement 2017, policy goal 13, end energy poverty and ensure everyone has warm, dry homes",
+   "sourceUrl": "https://thestandard.org.nz/labour-green-confidence-and-supply-agreement-released/",
+   "promise": "End energy poverty and ensure everyone has a warm, dry home, including through a large-scale programme of home insulation and heating retrofits for low-income owner-occupiers.",
+   "whatHappened": "The Warmer Kiwi Homes programme began in 2018. It offered grants covering the bulk of the cost of ceiling and underfloor insulation and an efficient heater, for low-income homeowners in deprived areas. By August 2023 it had delivered 122,589 retrofits since 2018: 81,920 insulation claims and 40,669 heating claims, against a target of 26,500 retrofits a year. Budget 2023 extended the programme with $402.6 million over four years to June 2027, added hot water heat pumps and about 5 million LED bulbs, and widened eligibility to deprivation index level 7 areas. Cost cover was 90 per cent for the most deprived areas and Community Services Card holders. Energy hardship itself was not eliminated, and a separate Energy Hardship Expert Panel was still working at the end of the term.",
+   "status": "largely",
+   "statusReason": "The retrofit programme ran at or above its annual target for the whole term and was expanded. The broader goal of ending energy poverty was not achieved.",
+   "keyNumber": "26,500 retrofits a year -> 122,589 retrofits delivered 2018 to August 2023 (81,920 insulation, 40,669 heating)",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/over-50000-more-kiwis-be-eligible-insulation-grants",
+    "https://www.eeca.govt.nz/co-funding-and-support/products/warmer-kiwi-homes-programme/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  }
+ ]
+}

@@ -1,0 +1,298 @@
+{
+ "areaKey": "public-service",
+ "areaLabel": "Public Service & Regulation",
+ "areaBlurb": "Labour expanded the public service and public media and legislated a series of democratic process changes, while the National-led coalition set out to shrink the workforce, cut consultant spending, rewrite the Public Service Act and impose new statutory tests on regulation, with the headline regulatory law passed but the Public Service Amendment Bill still unfinished as at August 2026.",
+ "promises": [
+  {
+   "id": "public-service-labour-rnz-tvnz-merger",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 term commitment to a new public media entity, following the 2019 advisory group process and Cabinet consideration in January 2020",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Aotearoa_New_Zealand_Public_Media",
+   "promise": "Merge Radio New Zealand and Television New Zealand into one new public media entity, Aotearoa New Zealand Public Media. It would run as an autonomous Crown entity from 1 March 2023.",
+   "whatHappened": "Broadcasting Minister Willie Jackson introduced the Aotearoa New Zealand Public Media Bill on 23 June 2022. It passed its first reading on 26 July 2022. The start date slipped from 1 March 2023 to July 2023. On 8 February 2023 Prime Minister Chris Hipkins announced the merger would stop entirely, as part of a policy reprioritisation towards cost-of-living measures. RNZ received an extra $10 million instead. By April 2023 the cancelled project had cost about $19.6 million. That was roughly $12 million on contractors and consultants, $2.6 million on offices and overheads, and $3 million in compensation to TVNZ, RNZ and NZ On Air.",
+   "status": "abandoned",
+   "statusReason": "The promising party cancelled the merger outright in February 2023, after the bill had already passed its first reading.",
+   "keyNumber": "Merged entity from 1 March 2023 -> cancelled 8 Feb 2023 at a sunk cost of about $19.6m",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Aotearoa_New_Zealand_Public_Media",
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "public-service-labour-foreign-donations",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017-2020 term commitment to tighten electoral donation rules against foreign influence",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+   "promise": "Ban foreign donations to political parties and candidates above a nominal threshold.",
+   "whatHappened": "A law was passed banning foreign donations above NZ$50 to political parties and candidates. It replaced the previous $1,500 threshold. The change was in force for the 2020 general election and stayed in place for the rest of the term.",
+   "status": "delivered",
+   "statusReason": "The ban was legislated and in force well before the end of the term.",
+   "keyNumber": "Foreign donation cap cut to $50",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "public-service-labour-prisoner-voting",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 term commitment to act on the Supreme Court's declaration of inconsistency and the Waitangi Tribunal's findings on the prisoner voting ban",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+   "promise": "Restore the right to vote for prisoners serving sentences of less than three years, reversing the 2010 blanket ban.",
+   "whatHappened": "A law passed in 2020 restored the vote to prisoners serving sentences of under three years, in time for the general election that year. Separate legislation removed the Electoral Commission's power to strike prisoners from the electoral roll. The blanket ban on voting for those serving three years or more stayed in place.",
+   "status": "delivered",
+   "statusReason": "The promised partial restoration was legislated within the term. Lifting the wider ban was never promised.",
+   "keyNumber": "Voting restored for sentences under 3 years; ban retained for 3 years and over",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "public-service-greens-cannabis-referendum",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Greens Confidence and Supply Agreement 2017",
+   "sourceUrl": "https://en.wikipedia.org/wiki/2020_New_Zealand_cannabis_referendum",
+   "promise": "Hold a referendum on legalising the personal use of cannabis at, or by, the 2020 general election.",
+   "whatHappened": "The referendum was held alongside the general election on 17 October 2020. It asked voters whether they supported the proposed Cannabis Legalisation and Control Bill. Voters rejected the proposal: 1,474,635 votes (51.17 per cent) against and 1,406,973 votes (48.83 per cent) in favour. The referendum was non-binding, so Parliament was not required to act on the result. The bill was not proceeded with.",
+   "status": "delivered",
+   "statusReason": "The promise was to hold the referendum by the 2020 election, and it was held on time. The outcome was not part of the commitment.",
+   "keyNumber": "Referendum by the 2020 election -> held 17 Oct 2020, 51.17 per cent no to 48.83 per cent yes",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/2020_New_Zealand_cannabis_referendum",
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "public-service-nzfirst-2017-smacking-referendum",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "NZ First 2017 election campaign commitment to binding referendums, including on the anti-smacking law",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+   "promise": "Hold a binding referendum on overturning New Zealand's anti-smacking law.",
+   "whatHappened": "In the October 2017 coalition negotiations, NZ First agreed to drop its demand for referendums on overturning the anti-smacking law and on abolishing the Māori electorates. That was part of the price of forming a government with Labour. Neither referendum was held during the 2017-2023 government, and the law was not changed.",
+   "status": "superseded",
+   "statusReason": "The commitment was traded away in the 2017 coalition negotiation, before the government took office.",
+   "keyNumber": "Binding referendum promised -> dropped in the 2017 coalition negotiation, 0 held",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "public-service-national-act-public-service-act-amendment",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/h1whr1gg/national-act-nz-first-coalition-government-policies-public-services.pdf",
+   "promise": "Amend the Public Service Act 2020 to clarify the role of the public service, drive performance, and make it accountable for delivering the agenda of the government of the day.",
+   "whatHappened": "Public Service Minister Judith Collins announced the overhaul on 1 April 2025. She said the 2020 Act 'added new responsibilities to the core role of chief executives which diminished their responsibility for implementing government policies'. The Public Service Amendment Bill passed its first reading on 31 July 2025. It clarifies the role of the public service, streamlines chief executive responsibilities and reinforces merit-based appointments. It also ends automatic reappointment at the end of a fixed term and strengthens performance management. It removes pay equity, diversity and inclusion provisions on the basis that they are covered elsewhere. The bill had not passed its remaining stages as at 17 August 2026. A separate Plain Language Act Repeal Bill passed its first reading on 1 April 2025.",
+   "status": "in-progress",
+   "statusReason": "Term unfinished: the bill was introduced and passed a first reading, but it had not been enacted with under three months of the term remaining.",
+   "keyNumber": "Amend the Public Service Act 2020 -> bill first reading 31 July 2025, not passed as at Aug 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/back-basics-public-service",
+    "https://www.beehive.govt.nz/release/public-service-get-back-basics-deliver-value",
+    "https://www.beehive.govt.nz/portfolio/nationalactnew-zealand-first-coalition-government-2023-2026/public-service"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "public-service-national-consultant-spending",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 campaign commitment to cut back-office and contractor spending, given effect by the Government's savings target set in Budget 2024",
+   "sourceUrl": "https://www.beehive.govt.nz/release/cuts-consultant-contractor-spend-exceed-target",
+   "promise": "Cut public service spending on consultants and contractors by $400 million over two years to 2024/25.",
+   "whatHappened": "Public Service Minister Judith Collins announced on 27 March 2025 that savings were on track to reach about $800 million by the end of June. That is double the original $400 million target. Earlier data released on 13 June 2024 showed contractor and consultant spending had fallen to $700.5 million over nine months. That was down 34 per cent on an annualised basis, and the lowest share of total workforce expenditure since 2018. A further release on 9 October 2025 reported contractor spending down by $915 million, while frontline roles increased over two years.",
+   "status": "delivered",
+   "statusReason": "The savings target was met and roughly doubled inside the promised period, on the Government's own published figures.",
+   "keyNumber": "$400m saved on consultants and contractors over 2 years -> about $800m by June 2025",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/cuts-consultant-contractor-spend-exceed-target",
+    "https://www.beehive.govt.nz/release/latest-data-shows-size-public-service-decreasing",
+    "https://www.beehive.govt.nz/portfolio/nationalactnew-zealand-first-coalition-government-2023-2026/public-service"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "public-service-nzfirst-core-crown-expenditure",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement, signed 24 November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Reduce Core Crown expenditure as a proportion of the overall economy.",
+   "whatHappened": "Public service full-time equivalent staff peaked at 65,699 in the December 2023 quarter. Over the next 18 months they fell 4.6 per cent to 62,654 by June 2025, then rose again to 64,535 by March 2026. Budget 2026 was delivered on 28 May 2026. It forecast core Crown expenses staying stable as a share of GDP for the first two forecast years, then falling to 30.3 per cent of GDP in 2029/30. It also forecast the operating balance returning to a $2.6 billion surplus in 2028/29, and net core Crown debt peaking at 46.1 per cent of GDP in 2027/28. On 19 May 2026 Finance Minister Nicola Willis announced a plan to cut 8,700 public sector jobs and merge departments by mid-2029. It targets 55,000 FTEs by July 2029 and $2.4 billion of savings, with teachers, doctors, nurses, police and defence personnel excluded.",
+   "status": "partly",
+   "statusReason": "Spending as a share of the economy was forecast to fall, but the reduction sits mostly beyond the end of this term. The public service workforce was also larger in March 2026 than a year earlier.",
+   "keyNumber": "Public service FTEs 65,699 (Dec 2023 peak) -> 62,654 (Jun 2025) -> 64,535 (Mar 2026); target 55,000 by July 2029",
+   "evidenceUrls": [
+    "https://www.publicservice.govt.nz/data/workforce-data/public-sector-composition/workforce-size",
+    "https://budget.govt.nz/budget/2026/fiscal-strategy-report/fiscal-outlook.htm",
+    "https://www.globalgovernmentforum.com/new-zealand-government-announces-plan-to-cut-nearly-9000-public-service-jobs/",
+    "https://en.wikipedia.org/wiki/2026_New_Zealand_budget"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "public-service-nzfirst-four-year-term-referendum",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement, signed 24 November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Support a bill providing for a binding referendum on extending the parliamentary term from three years to four.",
+   "whatHappened": "A four-year term proposal was progressed during the term. But on 18 February 2026 the Government confirmed it had scrapped plans to hold a referendum on extending the parliamentary term at the 2026 general election. No referendum on the parliamentary term was held or scheduled, and the three-year term applied to the 7 November 2026 election.",
+   "status": "not-delivered",
+   "statusReason": "The referendum the commitment was aimed at was explicitly dropped in February 2026, and the term was not extended.",
+   "keyNumber": "Binding referendum on a 4-year term -> scrapped 18 Feb 2026, 0 referendums held",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/2026_in_New_Zealand",
+    "https://en.wikipedia.org/wiki/2026_New_Zealand_general_election"
+   ],
+   "contested": true,
+   "contestedNote": "The commitment was to support a bill to a referendum, not to guarantee a referendum. On that reading the parties met their obligation, and the referendum simply did not survive the parliamentary process. The detail of the bill's progress through the House was not established from the sources available for this run. The status call therefore rests mainly on the February 2026 decision not to hold the referendum."
+  },
+  {
+   "id": "public-service-nzfirst-covid-inquiry",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement, signed 24 November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Conduct a full-scale, wide-ranging, independent public inquiry into the Covid-19 pandemic response, covering matters the existing inquiry did not.",
+   "whatHappened": "The Labour government established the Royal Commission of Inquiry into COVID-19 Lessons Learned on 5 December 2022. It launched on 1 February 2023 at an estimated cost of $15 million. On 2 February 2024 Internal Affairs Minister Brooke van Velden announced the scope would be expanded. On 25 June 2024 the Government confirmed a second phase covering vaccine efficacy and safety, the use of vaccine mandates, lockdowns, and the disruption to health, education and business. The phase one report was released on 28 November 2024. Phase two public hearings began on 7 July 2025. The phase two report was released on 10 March 2026 and concluded that the response was effective but late and poorly communicated.",
+   "status": "delivered",
+   "statusReason": "A second, expanded inquiry phase covering the promised subject matter was established and reported inside the term.",
+   "keyNumber": "Wider Covid-19 inquiry -> scope expanded 2 Feb 2024, phase two hearings from 7 July 2025, report 10 March 2026",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Royal_Commission_of_Inquiry_into_COVID-19_Lessons_Learned",
+    "https://en.wikipedia.org/wiki/2026_in_New_Zealand",
+    "https://en.wikipedia.org/wiki/Sixth_National_Government_of_New_Zealand"
+   ],
+   "contested": true,
+   "contestedNote": "NZ First campaigned for a separate standalone inquiry. The Government instead expanded and re-staged the existing Royal Commission. Supporters say the expanded terms of reference cover everything that was promised. Critics, including some of those who pushed for the inquiry, say reusing the existing commission was not the fresh independent inquiry that was sought. The terms of reference, hearing dates and report dates are agreed."
+  },
+  {
+   "id": "public-service-act-regulatory-standards-act",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/h1whr1gg/national-act-nz-first-coalition-government-policies-public-services.pdf",
+   "promise": "Pass a Regulatory Standards Act setting principles of responsible regulation, so that all new and existing legislation is tested against those principles.",
+   "whatHappened": "Public consultation ran from 19 November 2024 to 13 January 2025 and drew nearly 23,000 submissions. The Ministry estimated 88 per cent opposed the proposal and 0.33 per cent supported it. The bill was introduced on 19 May 2025 and passed its first reading on 23 May 2025 by 68 votes to 55. The Finance and Expenditure Committee heard oral submissions on 7-10 July 2025 and reported back on 10 October 2025. The bill passed its second reading on 4 November 2025 and its third reading on 13 November 2025, on party lines, with royal assent later that month. A Regulatory Standards Board was appointed on 20 April 2026, statutory guidance was issued on 15 May 2026, and the Act took effect on 1 July 2026.",
+   "status": "delivered",
+   "statusReason": "The Act was passed and brought into force inside the term, with the review board established and operating.",
+   "keyNumber": "Regulatory Standards Act -> passed 13 Nov 2025, in force 1 July 2026; about 23,000 submissions, 88 per cent opposed",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Regulatory_Standards_Act_2025",
+    "https://www.beehive.govt.nz/portfolio/nationalactnew-zealand-first-coalition-government-2023-2026/regulation",
+    "https://en.wikipedia.org/wiki/54th_New_Zealand_Parliament"
+   ],
+   "contested": true,
+   "contestedNote": "ACT's position is that the Act creates a transparent, non-binding quality check on regulation, protecting property rights and the rule of law. Opponents, including the large majority of submitters, argued it embeds a particular economic philosophy in statute, weakens environmental protection and omits the Treaty of Waitangi. The Waitangi Tribunal heard an urgent claim on 15 May 2025 and issued an interim report on 16 May 2025, urging the Crown to pause for consultation with Māori. David Seymour disputed the submission figures, claiming 99.5 per cent were bot-generated. The legislative dates and vote outcomes are not in dispute."
+  },
+  {
+   "id": "public-service-national-department-mergers",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 campaign commitment to reduce back-office bureaucracy and the number of government agencies while protecting frontline services",
+   "sourceUrl": "https://www.globalgovernmentforum.com/new-zealand-government-announces-plan-to-cut-nearly-9000-public-service-jobs/",
+   "promise": "Reduce the size and number of government departments and back-office functions, protecting frontline staff such as teachers, doctors, nurses and police.",
+   "whatHappened": "Finance Minister Nicola Willis asked departments on 26 January 2024 to identify $1.5 billion in annual savings. At least 845 job losses had been signalled by 6 April 2024. On 16 December 2025 the Government announced a merger. The Ministry for the Environment, the Ministry of Housing and Urban Development, the Ministry of Transport and the local government functions of the Department of Internal Affairs would become a new Ministry of Cities, Environment, Regions and Transport. The enabling legislation passed on 27 May 2026 and the ministry was to be operational from July 2026. Judith Collins said the merger was 'not intended as a cost-cutting exercise'. On 19 May 2026 the Government announced a further 8,700 job reductions and department mergers by mid-2029, a 14 per cent cut. That targets 55,000 FTEs and $2.4 billion of savings. Budget 2026 cut Te Puni Kōkiri by $23.6 million, the Ministry for Pacific Peoples by $2.8 million and the Ministry for Culture and Heritage by $27 million.",
+   "status": "partly",
+   "statusReason": "Real agency mergers and savings were achieved. But the public service was still larger in March 2026 than in mid-2025, and most of the promised reduction is scheduled for after this term.",
+   "keyNumber": "Back-office reduction promised -> 4 agencies merged into MCERT from July 2026; 8,700 further cuts scheduled to mid-2029, FTEs 64,535 as at March 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/new-ministry-deliver-better-housing-transport-and-environmental-outcomes",
+    "https://en.wikipedia.org/wiki/2026_New_Zealand_budget",
+    "https://en.wikipedia.org/wiki/2026_in_New_Zealand",
+    "https://www.publicservice.govt.nz/data/workforce-data/public-sector-composition/workforce-size"
+   ],
+   "contested": true,
+   "contestedNote": "The exact wording of National's 2023 back-office commitment was not verified from a primary manifesto document in this run. The promise text is therefore a summary of the position the Government has consistently described, rather than a word-for-word quotation. The events, dates and figures in the record of what happened all come from Government or Budget sources."
+  },
+  {
+   "id": "gapfill-greens-public-sector-gender-pay-gap",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Confidence and Supply Agreement 2017, policy goal 12, eliminate the gender pay gap within the public sector",
+   "sourceUrl": "https://thestandard.org.nz/labour-green-confidence-and-supply-agreement-released/",
+   "promise": "Eliminate the gender pay gap within the public sector.",
+   "whatHappened": "The Public Service Commission ran a Gender Pay Gap Action Plan from 2018. It then ran Kia Toipoto, the Public Service Pay Gaps Action Plan 2021-24. That plan extended coverage to Māori, Pacific and ethnic pay gaps, and required every agency to publish an action plan. The public service median gender pay gap fell from 10.7 per cent in 2018 to 5.8 per cent as at 30 June 2023. The mean gap was 7.1 per cent in 2023 ($101,700 average for men against $94,500 for women). The gap narrowed but was not eliminated by the October 2023 handover, and Kia Toipoto ran to 2024.",
+   "status": "partly",
+   "statusReason": "The gap roughly halved over the term, but the agreement promised elimination and it was not eliminated.",
+   "keyNumber": "Eliminate the public sector gender pay gap -> median gap fell from 10.7 per cent (2018) to 5.8 per cent (June 2023); mean gap 7.1 per cent",
+   "evidenceUrls": [
+    "https://www.publicservice.govt.nz/research-and-data/workforce-data-2023/workforce-data-2023-remunerationpay/workforce-data-2023-pay-gaps",
+    "https://www.publicservice.govt.nz/system/public-service-people/pay-gaps-and-pay-equity/kia-toipoto"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-labour-public-interest-journalism-fund",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 manifesto",
+   "sourceUrl": "https://s3.ap-southeast-2.amazonaws.com/nzdoctor.files/production/public/2020-10/Labour_Manifesto_2020.pdf",
+   "promise": "Provide multi-year contestable funding through NZ On Air to fund public interest journalism.",
+   "whatHappened": "A $55 million three-year Public Interest Journalism Fund was announced in 2021 and administered by NZ On Air. NZ On Air added a further $9 million, taking the total to about $64 million. The fund ran from July 2021 and completed its final general funding round in April 2023, across seven rounds. It supported 73 projects, 219 journalism roles and 22 industry development initiatives, including regional coverage and Māori journalist training. NZ On Air reported more than 60,000 pieces of funded content and over 134 million views by early April 2023. The fund was time-limited and was not renewed.",
+   "status": "delivered",
+   "statusReason": "The multi-year contestable fund was set up through NZ On Air and fully allocated within the term, as promised.",
+   "keyNumber": "$55m fund promised -> about $64m allocated, 73 projects and 219 roles funded by April 2023",
+   "evidenceUrls": [
+    "https://www.nzonair.govt.nz/news/expectations-exceeded-as-public-interest-journalism-fund-comes-to-a-close/",
+    "https://www.nzherald.co.nz/nz/government-earmarks-55-million-to-support-public-interest-journalism-with-new-media-fund/5UU3XEUYEQ2422SKPKJR4JQZ2M/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-labour-electoral-finance-review",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 manifesto",
+   "sourceUrl": "https://s3.ap-southeast-2.amazonaws.com/nzdoctor.files/production/public/2020-10/Labour_Manifesto_2020.pdf",
+   "promise": "Protect the integrity of New Zealand elections and voters' access to the polls, including a review of election financing rules.",
+   "whatHappened": "Two workstreams followed. The Electoral Amendment Act 2022 passed in December 2022, in time for the 2023 general election. It lowered the threshold at which party donations must be publicly attributed to a named donor, and required disclosure of party loans. Separately, an Independent Electoral Review panel of six was appointed and worked from May 2022 to November 2023. It carried out a full review of the Electoral Act 1993, including party and candidate funding. The panel delivered its final report to the Minister of Justice on 30 November 2023, and the report was published on 16 January 2024. Both fell after the change of government, so no response to the panel's recommendations was possible within the term.",
+   "status": "partly",
+   "statusReason": "Targeted donation and loan disclosure changes were legislated. But the broader review of financing rules reported only after the term had ended, and produced no legislative change.",
+   "keyNumber": "Review of financing rules -> disclosure changes legislated Dec 2022; Independent Electoral Review reported 30 Nov 2023, after the term",
+   "evidenceUrls": [
+    "https://www.justice.govt.nz/justice-sector-policy/constitutional-issues-and-human-rights/independent-electoral-review/",
+    "https://elections.nz/guidance-and-rules/donations-and-loans/rules-for-party-donations-and-loans",
+    "https://www.rnz.co.nz/news/politics/480677/law-passes-to-tighten-political-donations-rules"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  }
+ ]
+}

@@ -1,0 +1,275 @@
+{
+ "areaKey": "immigration",
+ "areaLabel": "Immigration",
+ "areaBlurb": "Both governments promised to make the immigration system more selective, but net migration swung from a promised cut through a closed border to a record inflow and back again, and immigration is where the gap between New Zealand First's manifestos and the coalition agreements it signed is widest.",
+ "promises": [
+  {
+   "id": "immigration-labour-net-migration-cut",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 immigration policy",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/342077/ardern-confirms-labour-s-immigration-target-to-hold-sway",
+   "promise": "Reduce net migration by 20,000 to 30,000 a year, mainly by tightening student visas and low-skilled work visas.",
+   "whatHappened": "Jacinda Ardern confirmed in October 2017 that the coalition negotiation had not changed Labour's policy. The detailed package announced in mid-2018 tightened post-study work visas. Officials estimated it would affect only 9,000 to 12,000 of about 18,266 post-study visa holders. By then the government was calling the 20,000-30,000 figure an estimate rather than a commitment. Net migration then fell sharply for reasons unrelated to policy when the border closed in March 2020, and turned negative during 2021-22. After the border reopened it rebounded to a record. There was a net gain of 126,000 in the December 2023 year, and 245,600 migrant arrivals in the year to October 2023, up 165 percent on the year before. Along the way the government granted residence to 212,649 people through the one-off 2021 Resident Visa.",
+   "status": "not-delivered",
+   "statusReason": "By the October 2023 handover, net migration was at a record high rather than 20,000-30,000 lower. The policy package was never scaled to deliver the promised cut.",
+   "keyNumber": "cut of 20,000-30,000 a year promised -> net migration gain of 126,000 in the December 2023 year, a record",
+   "evidenceUrls": [
+    "https://newsroom.co.nz/2018/06/01/immigration-cuts-finally-revealed/",
+    "https://www.stats.govt.nz/news/net-migration-remains-near-record-level/",
+    "https://www.stats.govt.nz/information-releases/international-migration-october-2023/"
+   ],
+   "contested": true,
+   "contestedNote": "Labour argues COVID-19 distorts the comparison. The border was shut for two years, then a catch-up surge followed reopening, so no year in the term was a normal test of the policy. Critics note the target was quietly downgraded to an 'estimate' in 2018, before COVID. They also note the government chose to grant residence to more than 212,000 people and to reopen work visa settings after 2021."
+  },
+  {
+   "id": "immigration-labour-nzf-10000-net-migration",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "NZ First 2017 immigration policy",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/342077/ardern-confirms-labour-s-immigration-target-to-hold-sway",
+   "promise": "Cut net migration to around 10,000 a year.",
+   "whatHappened": "NZ First campaigned on a net migration figure roughly a fifth of Labour's. Labour's policy prevailed in the coalition negotiation. Jacinda Ardern said on 21 October 2017 that 'Labour's policy remains absolutely unchanged as a result of these negotiations'. The signed coalition agreement contained no net migration number at all. It committed only to ensure work visas reflect genuine skills shortages, cut down on low-quality international education courses, and act on migrant exploitation.",
+   "status": "superseded",
+   "statusReason": "The 10,000 target was dropped in the coalition negotiation and does not appear in the signed agreement.",
+   "keyNumber": "10,000 net migration a year sought -> no migration number in the signed coalition agreement",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "immigration-labour-nzf-work-student-visas",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First coalition agreement, October 2017",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Ensure work visas issued reflect genuine skills shortages and cut down on low quality international education courses.",
+   "whatHappened": "Changes announced in 2018 came into force in late November 2018. They removed employer-assisted post-study work visas and gave graduates at bachelor's level and above a three-year open post-study work visa. Students studying below degree level had to complete two years of study to qualify for a one-year visa. Partner and dependent rights were restricted to students in long-term skill shortage areas at postgraduate level. First-time student visas were down 7 percent in the year to May 2019, though applications from some markets rose. An independent review of the coalition agreement recorded the commitment as fully implemented.",
+   "status": "largely",
+   "statusReason": "The visa settings were changed broadly as described. The effect on overall student numbers was smaller and less even than intended.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://newsroom.co.nz/2018/06/01/immigration-cuts-finally-revealed/",
+    "https://www.rnz.co.nz/news/national/391498/the-unintended-consequences-of-tightening-student-visas"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "immigration-labour-nzf-migrant-exploitation",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First coalition agreement, October 2017",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Take serious action on migrant exploitation, particularly of international students.",
+   "whatHappened": "MBIE ran a Temporary Migrant Worker Exploitation Review from 2018, backed by $50 million over four years. From 1 July 2021 a Migrant Exploitation Protection Visa let exploited migrants leave an employer and stay lawfully for up to six months. It came with a dedicated 0800 reporting line and extra funding for Immigration NZ and Employment NZ investigators. Against that, the Accredited Employer Work Visa (AEWV) scheme introduced in July 2022 became the largest source of exploitation complaints. An independent assurance review released on 27 February 2024 found serious weaknesses in employer accreditation and job checks. There were nearly 33,000 accredited employers, over 108,000 approved AEWV applications, 145 accreditations revoked and 53 suspended. MBIE accepted all findings and all 10 recommendations. The Human Rights Commission published a critical human rights review of the scheme in 2024.",
+   "status": "partly",
+   "statusReason": "Real protections were built. But the same government's flagship work visa scheme created large-scale exploitation risk, and a formal review found the agency should have done more to prevent it.",
+   "keyNumber": "action on migrant exploitation promised -> Migrant Exploitation Protection Visa from 1 Jul 2021, but 145 employer accreditations revoked and a critical review of the AEWV in Feb 2024",
+   "evidenceUrls": [
+    "https://www.mbie.govt.nz/immigration-and-tourism/immigration/temporary-migrant-worker-exploitation-review/",
+    "https://www.mbie.govt.nz/about/news/mbie-responds-to-review-on-accredited-employer-work-visa",
+    "https://www.publicservice.govt.nz/assets/Assurance-review-of-the-operation-of-the-AEWV-scheme-Final-Report.pdf"
+   ],
+   "contested": true,
+   "contestedNote": "The government points to the Migrant Exploitation Protection Visa, the $50m package and increased enforcement as delivery of the commitment. Critics say the AEWV, launched under the same government, enabled exploitation on a scale that outweighed those protections. MBIE itself accepted it 'should have done more' on risk."
+  },
+  {
+   "id": "immigration-labour-refugee-quota-1500",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 immigration policy",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/366801/refugee-quota-to-rise-from-1000-to-1500",
+   "promise": "Raise the annual refugee quota to 1,500 within three years, with funding for resettlement services.",
+   "whatHappened": "Prime Minister Jacinda Ardern announced the increase from 1,000 to 1,500 on 19 September 2018, to take effect from July 2020. The package included $6.2 million operating funding over four years and $7.7 million capital for two new accommodation blocks at the Mangere Refugee Resettlement Centre. It also included $32.5 million over three years for public housing for about 150 additional refugee families, and six new settlement locations. The quota did rise to 1,500 places from 1 July 2020. Actual arrivals then collapsed. There were 797 in the year to 30 June 2020 against a 1,000 quota, and no quota arrivals in July 2020 because of COVID-19 border restrictions.",
+   "status": "largely",
+   "statusReason": "The quota was lifted to 1,500 on the promised timetable. Border closures then meant actual arrivals fell far short of the quota for several years.",
+   "keyNumber": "quota of 1,500 promised -> quota lifted from 1,000 to 1,500 from 1 July 2020; 797 arrivals in the year to June 2020",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/refugee-quota-increases-1500-2020",
+    "https://www.immigration.govt.nz/about-us/our-strategies-and-programmes/supporting-refugees-and-asylum-seekers/refugee-resettlement-strategy/increasing-new-zealands-refugee-quota/",
+    "https://www.waikato.ac.nz/assets/Uploads/News-and-events/News/News/2021/new-zealand-refugee-quota-august-2020.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "immigration-labour-greens-refugee-quota-6000",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "manifesto",
+   "sourceDoc": "Green Party 2017 refugee policy",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/366801/refugee-quota-to-rise-from-1000-to-1500",
+   "promise": "Increase New Zealand's annual refugee quota to around 6,000 places.",
+   "whatHappened": "The Greens campaigned for a quota about six times the level in place in 2017. The government lifted the quota to 1,000 from July 2018 and to 1,500 from July 2020. It stayed at 1,500 through the end of the term. No further increase toward the Greens' figure was made in the 2017-2020 confidence and supply period or the 2020-2023 cooperation agreement period.",
+   "status": "not-delivered",
+   "statusReason": "The quota reached 1,500, a quarter of the level the Greens sought, and no further increase followed.",
+   "keyNumber": "quota of about 6,000 sought -> quota reached 1,500 from July 2020",
+   "evidenceUrls": [
+    "https://www.immigration.govt.nz/about-us/our-strategies-and-programmes/supporting-refugees-and-asylum-seekers/refugee-resettlement-strategy/increasing-new-zealands-refugee-quota/",
+    "https://www.beehive.govt.nz/release/refugee-quota-increases-1500-2020"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "immigration-labour-2021-resident-visa",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour government policy announcement, 30 September 2021 (one-off 2021 Resident Visa)",
+   "sourceUrl": "https://www.beehive.govt.nz/release/one-residence-pathway-provides-certainty-migrants-and-business",
+   "promise": "Provide a one-off simplified residence pathway for about 165,000 migrants already in New Zealand on eligible work visas, and decide most applications within a year.",
+   "whatHappened": "Applications opened in two phases from 1 December 2021 and closed on 31 July 2022. Immigration New Zealand received 106,349 applications covering 217,586 people and approved 103,961 of them. That made 212,649 new New Zealand residents, well above the 165,000 estimated when the policy was announced. Processing ran past the one-year expectation for some applicants.",
+   "status": "delivered",
+   "statusReason": "The pathway was opened on the announced timetable and granted residence to more people than the announcement estimated.",
+   "keyNumber": "about 165,000 migrants promised a pathway -> 103,961 applications approved covering 212,649 residents",
+   "evidenceUrls": [
+    "https://www.immigration.govt.nz/about-us/news-centre/2021-resident-visa/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "immigration-national-parent-boost-visa",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 immigration policy announcement, 23 September 2023",
+   "sourceUrl": "https://www.ericastanfordmp.co.nz/post/national-to-introduce-parent-visa-boost",
+   "promise": "Introduce a multiple-entry Parent Visa Boost valid for five years and renewable for a further five. Children or grandchildren sponsor it, health insurance is compulsory, and there is no access to NZ Super or other entitlements.",
+   "whatHappened": "Immigration Minister Erica Stanford confirmed in 2024 that work on the renewable parent visa was under way as a manifesto commitment. The Parent Boost Visitor Visa opened for applications on 29 September 2025. It allows stays of up to five years, with the option of a second five-year visa, sponsorship by a child or grandchild, and a health insurance requirement. By 2 February 2026 Immigration New Zealand had received 708 applications. It had approved 230 and declined 6, with 44 withdrawn and 108 approved in principle pending insurance.",
+   "status": "delivered",
+   "statusReason": "The visa was created with the duration, renewal, sponsorship and insurance conditions promised, and is open.",
+   "keyNumber": "5-year renewable parent visitor visa promised -> opened 29 Sep 2025; 708 applications and 230 approvals by 2 Feb 2026",
+   "evidenceUrls": [
+    "https://www.immigration.govt.nz/about-us/news-centre/overview-of-parent-visas-and-application-numbers",
+    "https://www.rnz.co.nz/news/political/531213/stanford-looks-to-trusted-employers-to-help-unblock-work-visas-logjam"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "immigration-national-nzf-parent-cap-1000",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "NZ First 2023 election policies. Immigration",
+   "sourceUrl": "https://www.nzfirst.nz/2023_policies",
+   "promise": "Maintain the parent category visa cap at 1,000 places, with sponsors required to adequately support family members.",
+   "whatHappened": "The National-NZ First coalition agreement contains no parent category cap. The National-ACT coalition agreement instead committed to a five-year renewable parent visa. The Parent Resident Visa continued to allow approvals of up to 2,500 a year. In 2025/26 exactly 2,500 approvals in principle were issued (2,103 from the ballot pool and 483 from the queued pool). The separate Parent Boost Visitor Visa opened on 29 September 2025 with no numerical cap of the kind NZ First proposed.",
+   "status": "superseded",
+   "statusReason": "The 1,000 cap was not carried into either coalition agreement and the parent categories operated well above it.",
+   "keyNumber": "cap of 1,000 sought -> 2,500 parent resident approvals in principle issued in 2025/26",
+   "evidenceUrls": [
+    "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+    "https://www.immigration.govt.nz/about-us/news-centre/overview-of-parent-visas-and-application-numbers"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "immigration-national-nzf-replace-aewv",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "NZ First 2023 election policies. Immigration",
+   "sourceUrl": "https://www.nzfirst.nz/2023_policies",
+   "promise": "Replace the Accredited Employer Work Visa with a Critical Skill and Labour Shortage Visa that prioritises New Zealand workers.",
+   "whatHappened": "The National-NZ First coalition agreement committed only to 'improve the Accredited Employer Work Visa to focus the immigration system on attracting the workers and skills New Zealand needs' and to ensure Immigration New Zealand undertakes proper risk management and verification. No Critical Skill and Labour Shortage Visa was created. The AEWV remained the main employer-assisted work visa and was reformed in stages instead. The changes included tighter skills and English requirements from 2024, removal of the median wage threshold in favour of market-rate pay, and a shift toward a higher-trust model for compliant employers.",
+   "status": "superseded",
+   "statusReason": "The replacement visa was dropped in the coalition negotiation. In its place came a commitment to improve the existing scheme, which is what happened.",
+   "keyNumber": "AEWV replacement sought -> AEWV retained and amended",
+   "evidenceUrls": [
+    "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+    "https://ojs.aut.ac.nz/nzjer/article/download/187/105/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "immigration-national-nzf-improve-aewv",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First coalition agreement, 24 November 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Improve the Accredited Employer Work Visa so the immigration system attracts the workers and skills New Zealand needs. Ensure Immigration New Zealand undertakes proper risk management and verification, and ensure those responsible for abusing migrant workers face consequences.",
+   "whatHappened": "An independent assurance review of the AEWV released on 27 February 2024 found weaknesses in accreditation and job checks. MBIE accepted all 10 recommendations, and by then 145 employer accreditations had been revoked and 53 suspended. The government tightened the scheme through 2024, adding English language and skills threshold requirements and restricting migrant employment durations. In 2025 it removed the median wage threshold, instead requiring that migrants be paid the market rate for the role, and moved toward a higher-trust model for established compliant employers. Erica Stanford said the scheme had nearly ground to a halt, with waits of more than six months, before the changes. Net migration fell from a peak of 130,900 in the year to February 2024 to a gain of 17,600 in the June 2026 year.",
+   "status": "largely",
+   "statusReason": "The scheme was reviewed, tightened and then rebuilt broadly as the agreement described. The 'Essential Worker' workforce planning mechanism in the same agreement remains an investigation rather than a system.",
+   "keyNumber": "AEWV reform promised -> 145 accreditations revoked, review recommendations accepted Feb 2024; net migration 130,900 (Feb 2024 year) to 17,600 (Jun 2026 year)",
+   "evidenceUrls": [
+    "https://www.mbie.govt.nz/about/news/mbie-responds-to-review-on-accredited-employer-work-visa",
+    "https://ojs.aut.ac.nz/nzjer/article/download/187/105/",
+    "https://www.scoop.co.nz/stories/AK2608/S00432/net-migration-gain-of-17600.htm"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "immigration-national-act-median-wage-removal",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT coalition agreement, 24 November 2023",
+   "sourceUrl": "https://vialtopartners.com/regional-alerts/new-zealand-immigration-potential-immigration-policy-changes",
+   "promise": "Remove the median wage requirement from skilled migrant and employer-assisted work visas. Allow family members of visa holders to work, and increase the Recognised Seasonal Employer worker cap.",
+   "whatHappened": "The median wage threshold was removed from the Accredited Employer Work Visa and replaced with a requirement that employers pay the market rate for the role. Skilled Migrant Category settings were reworked from August 2024, with new work experience, English language and continuous stay rules. New wage thresholds were set at 1.1 times the median wage from mid-2026. Erica Stanford also confirmed policy decisions on partner work rights alongside the parent visa and investor visa work.",
+   "status": "largely",
+   "statusReason": "The median wage change and the skilled migrant rework were delivered. The wider package was implemented in stages, with some thresholds only taking effect in 2026.",
+   "keyNumber": "median wage requirement removed -> replaced with market-rate pay requirement for AEWV roles",
+   "evidenceUrls": [
+    "https://ojs.aut.ac.nz/nzjer/article/download/187/105/",
+    "https://www.rnz.co.nz/news/political/531213/stanford-looks-to-trusted-employers-to-help-unblock-work-visas-logjam"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "immigration-national-investor-visa",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 policy to attract top talent and investment; confirmed as an investor visa replacement by Immigration Minister Erica Stanford in 2024",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/531213/stanford-looks-to-trusted-employers-to-help-unblock-work-visas-logjam",
+   "promise": "Replace the investor visa category with settings that actually attract international investment to New Zealand.",
+   "whatHappened": "Revised Active Investor Plus settings took effect on 1 April 2025. They split the visa into a Growth category (NZ$5 million over three years into higher-risk investments) and a Balanced category (NZ$10 million over five years). They also removed the English language requirement and reduced time-in-New Zealand requirements for more active investors. Within under three months, 189 applications had been received, against 116 over the previous two and a half years under the old settings. By 2026 Immigration New Zealand reported 837 applications and 395 approvals since April 2025, covering 2,732 people, with NZ$2.3 billion in capital transferred to New Zealand and a further NZ$2.41 billion in the pipeline. The largest applicant groups were from the United States (277), China (156) and Hong Kong (110).",
+   "status": "delivered",
+   "statusReason": "The category was rebuilt, and application and investment volumes rose by an order of magnitude against the previous settings.",
+   "keyNumber": "116 applications over 2.5 years under old settings -> 837 applications and NZ$2.3b transferred since April 2025",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/flood-interest-invest-new-zealand",
+    "https://www.immigration.govt.nz/about-us/news-centre/investor-category"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "immigration-national-international-education",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 international education policy announcement, 21 September 2023",
+   "sourceUrl": "https://www.ericastanfordmp.co.nz/press",
+   "promise": "Revive the international education sector after the COVID-19 collapse.",
+   "whatHappened": "The government set targets to lift international enrolments from 83,400 in 2024 to 105,000 by 2027 and 119,000 by 2034. It also set a target to double the economic impact of education exports from NZ$3.6 billion in 2024 to NZ$7.2 billion by 2034. Between January and August 2025 New Zealand hosted 85,535 international students, 14 percent more than the same period in 2024, and education-related travel exports reached NZ$4.5 billion in the year to September 2025. Post-study settings were widened from 16 November 2026. A new six-month Short Term Graduate Work Visa covers NZQCF Level 5-7 graduates, and Post Study Work Visa eligibility was extended to Level 7 graduate diploma holders who already hold a bachelor's degree.",
+   "status": "in-progress",
+   "statusReason": "Enrolments and export earnings are rising and the visa settings are in place. The enrolment and export targets run to 2027 and 2034, beyond this term.",
+   "keyNumber": "83,400 enrolments in 2024 -> 85,535 in Jan-Aug 2025; targets of 105,000 by 2027 and NZ$7.2b exports by 2034",
+   "evidenceUrls": [
+    "https://monitor.icef.com/2026/03/new-zealand-expands-post-study-work-opportunities-for-international-students/",
+    "https://www.immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  }
+ ]
+}

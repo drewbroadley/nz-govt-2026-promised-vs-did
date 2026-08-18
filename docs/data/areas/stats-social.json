@@ -1,0 +1,180 @@
+{
+ "indicators": [
+  {
+   "key": "child-poverty-material-hardship",
+   "label": "Children in material hardship",
+   "unit": "%",
+   "format": "percent",
+   "source": "Stats NZ (published in Treasury / Budget Child Poverty Reports)",
+   "sourceUrl": "https://www.treasury.govt.nz/sites/default/files/2026-05/b26-child-poverty-report.pdf",
+   "note": "Primary measure (c) under the Child Poverty Reduction Act 2018: the proportion of children living in households reported to be in material hardship. Each value is for the year ended June, from Stats NZ's household survey. Figures were read on Treasury's statutory Budget Child Poverty Reports: 2017/18 and 2020/21 from the Budget 2022 report (https://budget.govt.nz/budget/2022/wellbeing/child-poverty-report/what-progress.htm), 2021/22 and 2022/23 from the Budget 2024 report (https://www.treasury.govt.nz/sites/default/files/2024-06/b24-child-poverty-report.pdf), 2023/24 and 2024/25 from the Budget 2026 report. Years ended June 2019 and June 2020 are omitted: no official page carrying those two values could be fetched, and they have not been estimated. BREAK IN COMPARABILITY: the Household Economic Survey was replaced by the Household Income and Living Survey in 2024, and Stats NZ changed the material hardship index at the same time (from the DEP-17 index to MH-18, 7 or more of 18 items) specifically to maintain continuity between the two surveys. Stats NZ designed the change for continuity but the 2024/25 figure is not strictly on the same basis as earlier years. The 2023/24 figure was also revised between reports (13.4 per cent in MSD's target-progress page, 13.5 per cent in the Budget 2026 report); the later figure is used. Treasury states that none of the movements between 2023/24 and 2024/25 are statistically significant. There is no 2026 value: the year ended June 2026 statistics are not published until early 2027.",
+   "higherIsBetter": false,
+   "series": [
+    {
+     "year": 2018,
+     "value": 13.3
+    },
+    {
+     "year": 2021,
+     "value": 11.0
+    },
+    {
+     "year": 2022,
+     "value": 10.5
+    },
+    {
+     "year": 2023,
+     "value": 12.5
+    },
+    {
+     "year": 2024,
+     "value": 13.5
+    },
+    {
+     "year": 2025,
+     "value": 14.3
+    }
+   ]
+  },
+  {
+   "key": "child-poverty-ahc50",
+   "label": "Children in low income after housing costs (AHC50, fixed line)",
+   "unit": "%",
+   "format": "percent",
+   "source": "Stats NZ (published in Treasury / Budget Child Poverty Reports)",
+   "sourceUrl": "https://www.treasury.govt.nz/sites/default/files/2026-05/b26-child-poverty-report.pdf",
+   "note": "Primary measure (b) under the Child Poverty Reduction Act 2018: the proportion of children in households with income below 50 per cent of the 2017/18 median equivalised disposable household income, after deducting housing costs and adjusting for inflation. This is the FIXED-LINE measure anchored to the 2017/18 base year, not the moving-line AHC50 measure, and the two are not interchangeable. Each value is for the year ended June. Figures were read on Treasury's statutory Budget Child Poverty Reports: 2017/18 and 2020/21 from the Budget 2022 report (https://budget.govt.nz/budget/2022/wellbeing/child-poverty-report/what-progress.htm), 2021/22 and 2022/23 from the Budget 2024 report (https://www.treasury.govt.nz/sites/default/files/2024-06/b24-child-poverty-report.pdf), 2023/24 and 2024/25 from the Budget 2026 report. Years ended June 2019 and June 2020 are omitted because no official page carrying those values could be fetched; they have not been estimated. BREAK IN COMPARABILITY: the Household Economic Survey was replaced by the Household Income and Living Survey in 2024, so the 2024/25 figure comes from a different survey than earlier years. The 2023/24 figure was revised between reports (17.7 per cent on MSD's target-progress page, 18.2 per cent in the Budget 2026 report); the later figure is used. Because the poverty line is fixed in real terms at its 2017/18 level, this measure falls when real household incomes rise and rises sharply in high-inflation years, which explains the 2022/23 jump. There is no 2026 value: the year ended June 2026 statistics are not published until early 2027.",
+   "higherIsBetter": false,
+   "series": [
+    {
+     "year": 2018,
+     "value": 22.8
+    },
+    {
+     "year": 2021,
+     "value": 16.3
+    },
+    {
+     "year": 2022,
+     "value": 14.4
+    },
+    {
+     "year": 2023,
+     "value": 17.5
+    },
+    {
+     "year": 2024,
+     "value": 18.2
+    },
+    {
+     "year": 2025,
+     "value": 17.8
+    }
+   ]
+  },
+  {
+   "key": "jobseeker-support-recipients",
+   "label": "People receiving Jobseeker Support",
+   "unit": "people",
+   "format": "number",
+   "source": "Ministry of Social Development",
+   "sourceUrl": "https://www.msd.govt.nz/about-msd-and-our-work/publications-resources/statistics/benefit/index.html",
+   "note": "Working-age people receiving Jobseeker Support (all sub-categories, including Health Condition and Disability) at the end of December each year, read from the narrative text of MSD's Quarterly Benefit Fact Sheets snapshot for that December quarter. The 2026 value is as at the end of June 2026, the latest published quarter, NOT a December figure; benefit numbers are seasonal, so the 2026 point is not directly comparable with the December points. Each value is as published in that quarter's own fact sheet; MSD makes small revisions to earlier quarters in later releases (for example the December 2018 total is 134,048 as published at the time). The 2020 and 2021 values are dominated by the COVID-19 labour market shock. The definition of Jobseeker Support is unchanged across the whole period, but eligibility settings, obligations and sanctions policy changed over it, most notably the reintroduction of stricter work obligations and sanctions from 2024.",
+   "higherIsBetter": false,
+   "series": [
+    {
+     "year": 2017,
+     "value": 123041
+    },
+    {
+     "year": 2018,
+     "value": 134048
+    },
+    {
+     "year": 2019,
+     "value": 147464
+    },
+    {
+     "year": 2020,
+     "value": 212468
+    },
+    {
+     "year": 2021,
+     "value": 187989
+    },
+    {
+     "year": 2022,
+     "value": 170103
+    },
+    {
+     "year": 2023,
+     "value": 189798
+    },
+    {
+     "year": 2024,
+     "value": 213321
+    },
+    {
+     "year": 2025,
+     "value": 223512
+    },
+    {
+     "year": 2026,
+     "value": 218481
+    }
+   ]
+  },
+  {
+   "key": "main-benefit-recipients",
+   "label": "People receiving a main benefit",
+   "unit": "people",
+   "format": "number",
+   "source": "Ministry of Social Development",
+   "sourceUrl": "https://www.msd.govt.nz/about-msd-and-our-work/publications-resources/statistics/benefit/index.html",
+   "note": "Total working-age people receiving a main benefit (Jobseeker Support, Sole Parent Support, Supported Living Payment and other main benefits) at the end of December each year, read from the narrative text of MSD's Quarterly Benefit Fact Sheets snapshot for that December quarter. The 2026 value is as at the end of June 2026, the latest published quarter, NOT a December figure, and benefit numbers are seasonal, so it is not directly comparable with the December points. Values are as published in each quarter's own fact sheet; the December 2020 figure is stated by MSD as 389,500 and appears to be rounded in that publication, while all other values are exact. This is a headcount of recipients and is not adjusted for growth in the working-age population, which grew over the period, so the share of the working-age population on benefit rose by less than the headcount.",
+   "higherIsBetter": false,
+   "series": [
+    {
+     "year": 2017,
+     "value": 289788
+    },
+    {
+     "year": 2018,
+     "value": 299345
+    },
+    {
+     "year": 2019,
+     "value": 314408
+    },
+    {
+     "year": 2020,
+     "value": 389500
+    },
+    {
+     "year": 2021,
+     "value": 368172
+    },
+    {
+     "year": 2022,
+     "value": 353904
+    },
+    {
+     "year": 2023,
+     "value": 378711
+    },
+    {
+     "year": 2024,
+     "value": 409665
+    },
+    {
+     "year": 2025,
+     "value": 427236
+    },
+    {
+     "year": 2026,
+     "value": 413691
+    }
+   ]
+  }
+ ]
+}

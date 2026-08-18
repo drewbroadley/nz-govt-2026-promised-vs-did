@@ -1,0 +1,72 @@
+{
+ "indicators": [
+  {
+   "key": "adults-victimised-by-crime",
+   "label": "Adults who experienced crime in the past 12 months",
+   "unit": "%",
+   "format": "percent",
+   "source": "Ministry of Justice (New Zealand Crime and Victims Survey)",
+   "sourceUrl": "https://www.justice.govt.nz/justice-sector-policy/research-data/nzcvs/",
+   "note": "Percentage of New Zealand adults who were the victim of one or more personal or household crimes in the 12 months before being interviewed, from the New Zealand Crime and Victims Survey (NZCVS). This is a survey measure, not police-recorded crime, so it includes offences never reported to Police. One NZCVS cycle covers each year: cycle 1 interviews ran March-October 2018 (29 percent), cycle 4 is labelled 2021 (29 percent), cycle 5 interviews ran November 2021 to November 2022 (31 percent), cycle 6 is 2023 (32 percent), cycle 7 interviews ran October 2023 to October 2024 (30 percent), and cycle 8 interviews ran October 2024 to October 2025 (28 percent, published 20 March 2026). 2019 and 2020 are omitted, not estimated: the cycle 2 and cycle 3 headline percentages are published only in PDF reports that could not be retrieved. IMPORTANT COMPARABILITY BREAK: each value here is the figure published in that cycle's own Ministry of Justice release. The Ministry has since re-benchmarked NZCVS results to 2023 Census population projections, and the March 2026 release now states the 2018 figure as 30 percent rather than the 29 percent published at the time. So roughly one percentage point of the movement across this series is revision rather than real change. NZCVS margins of error are also wide; differences of one or two percentage points between adjacent years should not be read as meaningful.",
+   "higherIsBetter": false,
+   "series": [
+    {
+     "year": 2018,
+     "value": 29
+    },
+    {
+     "year": 2021,
+     "value": 29
+    },
+    {
+     "year": 2022,
+     "value": 31
+    },
+    {
+     "year": 2023,
+     "value": 32
+    },
+    {
+     "year": 2024,
+     "value": 30
+    },
+    {
+     "year": 2025,
+     "value": 28
+    }
+   ]
+  },
+  {
+   "key": "renewable-electricity-share",
+   "label": "Renewable share of electricity generation",
+   "unit": "%",
+   "format": "percent",
+   "source": "MBIE",
+   "sourceUrl": "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-publications-and-technical-papers/energy-in-new-zealand/energy-in-new-zealand-2025",
+   "note": "Renewable sources (hydro, geothermal, wind, solar, bioenergy) as a percentage of total electricity generated in New Zealand, full calendar year. Each value is the figure stated in the MBIE 'Energy in New Zealand' edition that reports on that year: 2020 from Energy in New Zealand 2021, 2021 from the 2022 edition, 2022 from the 2023 edition, 2023 from the 2024 edition (and restated identically in the 2025 edition), 2024 from Energy in New Zealand 2025 ('85.5% of electricity was generated from renewable sources, down from 88.1% in 2023'). The 2022 figure is published as a whole number (87 per cent) in that edition; the others are published to one decimal place. The series starts at 2020, not 2017, because earlier Energy in New Zealand editions did not state an explicit renewable-share percentage on the pages that could be retrieved; 2017-2019 are omitted rather than estimated. There is no 2025 or 2026 value: Energy in New Zealand 2026 (covering calendar 2025) had not been published as at August 2026. The share is heavily driven by annual hydrological conditions, so year-to-year moves largely reflect rainfall rather than policy.",
+   "higherIsBetter": true,
+   "series": [
+    {
+     "year": 2020,
+     "value": 81.1
+    },
+    {
+     "year": 2021,
+     "value": 82.1
+    },
+    {
+     "year": 2022,
+     "value": 87
+    },
+    {
+     "year": 2023,
+     "value": 88.1
+    },
+    {
+     "year": 2024,
+     "value": 85.5
+    }
+   ]
+  }
+ ]
+}

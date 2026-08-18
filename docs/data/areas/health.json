@@ -1,0 +1,468 @@
+{
+ "areaKey": "health",
+ "areaLabel": "Health",
+ "areaBlurb": "Between 2017 and 2026 New Zealand rebuilt its health system twice. Labour merged 20 district health boards into a single national agency and created a Māori Health Authority, and the National-led coalition then abolished that authority, restored numerical health targets and reset hospital, medicines and workforce commitments, while wait times, hospital rebuilds and medicines funding remained the most visible tests of both.",
+ "promises": [
+  {
+   "id": "health-labour-dhb-abolition",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 commitment to act on the Health and Disability System Review (Simpson Review), commissioned by the Labour government in May 2018",
+   "sourceUrl": "https://ao.parliament.nz/data/health-reforms/about-health-reform",
+   "promise": "Act on the Health and Disability System Review to replace the district health board structure with a single national health service.",
+   "whatHappened": "The review reported on 16 June 2020. In April 2021 the Government announced it would abolish all 20 DHBs and create Health New Zealand | Te Whatu Ora. The Pae Ora (Healthy Futures) Act passed its third reading on 7 June 2022. The 20 DHBs were disestablished on 1 July 2022, when Health NZ, the Public Health Agency and iwi-Māori partnership boards began operating. The new agency then ran large deficits: $722m in 2023/24 and $947m in 2024/25. In July 2024 the Health Minister replaced its board with Commissioner Lester Levy, citing overspending of about $130m a month. A board was reinstated on 23 July 2025.",
+   "status": "delivered",
+   "statusReason": "The structural change promised was legislated and put in place in full within the term, though the decision to abolish DHBs was announced mid-term in April 2021.",
+   "keyNumber": "20 DHBs -> 1 national agency (Health NZ) from 1 July 2022",
+   "evidenceUrls": [
+    "https://ao.parliament.nz/data/health-reforms/about-health-reform",
+    "https://en.wikipedia.org/wiki/Pae_Ora_(Healthy_Futures)_Act_2022",
+    "https://www.tewhatuora.govt.nz/assets/Publications/Annual-Reports/Annual-Report-2024-25-Health-New-Zealand-Te-Whatu-Ora.pdf",
+    "https://www.beehive.govt.nz/release/commissioner-replaces-health-nz-board"
+   ],
+   "contested": true,
+   "contestedNote": "Supporters point out the promised structure was delivered on time and in law. Critics, including the incoming government, argue the reform delivered a centralised organisation that lost financial control. Health NZ reported deficits of $722m (2023/24) and $947m (2024/25) and was placed under a commissioner in July 2024. Whether that is a failure of the promise, or of its execution after the handover, is disputed."
+  },
+  {
+   "id": "health-labour-maori-health-authority",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 term commitment, following the Health and Disability System Review, to establish an independent Māori health authority",
+   "sourceUrl": "https://ao.parliament.nz/data/health-reforms/about-health-reform",
+   "promise": "Establish an independent Māori Health Authority with commissioning powers to address Māori health inequities.",
+   "whatHappened": "The Pae Ora (Healthy Futures) Act 2022 created Te Aka Whai Ora | Māori Health Authority. It began operating on 1 July 2022 as an independent statutory entity, able to commission kaupapa Māori services and co-commission with Health NZ. Budget 2022 allocated $188 million for its commissioning and iwi partnership work. It operated for two years before the incoming government disestablished it on 30 June 2024.",
+   "status": "delivered",
+   "statusReason": "The authority was established by legislation and operating before the end of the term, as promised.",
+   "keyNumber": "Te Aka Whai Ora established 1 July 2022; $188m allocated in Budget 2022",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Te_Aka_Whai_Ora",
+    "https://en.wikipedia.org/wiki/Pae_Ora_(Healthy_Futures)_Act_2022"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-labour-dunedin-hospital",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 election campaign commitment on the new Dunedin Hospital",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Dunedin_Hospital",
+   "promise": "Rebuild Dunedin Hospital, starting construction before 2020 and completing it before 2027.",
+   "whatHappened": "In May 2018 Health Minister David Clark announced a new hospital on the former Cadbury factory site, estimated at about $1.4 billion with completion by 2026. Site acquisition, demolition and enabling works ran through the term, and the outpatient building was separated out. But the main inpatient build had not started by the 2020 deadline, and the completion date slipped to 2029. By May 2024 the estimated cost had risen above $2 billion.",
+   "status": "partly",
+   "statusReason": "There was real progress: the site was secured, the business case approved, and enabling works and the outpatient building were underway. But neither the promised construction start date nor the completion date was met.",
+   "keyNumber": "Construction start before 2020 and completion before 2027 promised -> main build not started by 2020, completion pushed to 2029",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Dunedin_Hospital",
+    "https://www.1news.co.nz/2025/07/03/work-restarts-on-new-18b-dunedin-hospital/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-labour-smokefree-generation",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour's Smokefree Aotearoa 2025 Action Plan (December 2021) and resulting legislation",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Smokefree_Environments_and_Regulated_Products_(Smoked_Tobacco)_Amendment_Act_2022",
+   "promise": "Legislate a smokefree generation, ban tobacco sales to anyone born on or after 1 January 2009, cut nicotine levels in smoked tobacco, and sharply reduce the number of tobacco retailers.",
+   "whatHappened": "The Smokefree Environments and Regulated Products (Smoked Tobacco) Amendment Act 2022 passed its third reading 76-43 on 13 December 2022 and received royal assent on 16 December 2022. It contained all three measures, with provisions taking effect from 1 January 2023 and 1 October 2023. The incoming National-led government repealed it. A repeal bill was introduced on 27 February 2024, passed on 28 February 2024 and took effect on 6 March 2024. That was before the denicotinisation and generation-ban provisions had taken effect.",
+   "status": "delivered",
+   "statusReason": "The law promised was passed within the term. Its later repeal was the act of a different government and is recorded separately.",
+   "keyNumber": "3 measures legislated Dec 2022 -> repealed 6 March 2024",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Smokefree_Environments_and_Regulated_Products_(Smoked_Tobacco)_Amendment_Act_2022",
+    "https://www.legislation.govt.nz/bill/government/2024/0022/latest/whole.html"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-labour-mental-health-access-choice",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour's mental health commitment delivered through the Budget 2019 Wellbeing Budget $1.9 billion mental health package",
+   "sourceUrl": "https://www.treasury.govt.nz/publications/wellbeing-budget/wellbeing-budget-2019",
+   "promise": "Invest $1.9 billion in mental health and build a new frontline mental health and addiction service reaching 325,000 people a year (6.5% of the population) by 2023/24.",
+   "whatHappened": "Budget 2019 allocated about $1.96 billion across 29 initiatives in 12 portfolios, with health receiving 57% ($1.12b over four years). By 30 June 2023, 92% of the money had been spent or committed, leaving $163.8m unspent. The Access and Choice primary mental health programme, funded $664m over five years, reached just over 207,000 people in 2023/24. That is 3.9% of the population and 64% of the 325,000 target. Services were available to 68% of the enrolled population as at 30 June 2024. The Mental Health and Wellbeing Commission projected the target would be met in 2025/26.",
+   "status": "partly",
+   "statusReason": "Nearly all the money was spent and a large new service was built. But the headline access target was missed by more than a third at the end of the term.",
+   "keyNumber": "325,000 people a year by 2023/24 promised -> 207,000 reached in 2023/24",
+   "evidenceUrls": [
+    "https://www.mhwc.govt.nz/assets/Reports/Access-and-Choice-programme/2025/Access-and-Choice-Summary-April-2025.pdf",
+    "https://www.mhwc.govt.nz/news-and-resources/budget-investment-report/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-greens-free-counselling-under25",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Confidence and Supply Agreement 2017",
+   "sourceUrl": "https://thestandard.org.nz/labour-green-confidence-and-supply-agreement-released/",
+   "promise": "Ensure everyone has access to timely and high quality mental health services, including free counselling for those under 25 years.",
+   "whatHappened": "A free youth mental health pilot, Piki, began in Porirua in February 2019. In May 2019 it was expanded across the Wellington, Hutt Valley and Kapiti region for 18 to 25 year olds. It was never rolled out nationally as a universal entitlement. Instead the Government built the wider Access and Choice programme, which by 2023/24 was reaching 207,000 people of all ages against a 325,000 target. The Mental Health and Wellbeing Commission reported in 2024 that young people in particular were missing out on services.",
+   "status": "partly",
+   "statusReason": "Free counselling for under-25s was delivered only as a regional pilot. The universal entitlement described in the agreement did not eventuate by the end of the term.",
+   "keyNumber": "Free counselling for all under-25s promised -> regional pilot (Wellington region) plus general expansion of primary mental health services",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/free-youth-mental-health-pilot-expands-coverage",
+    "https://www.mhwc.govt.nz/news-and-resources/young-people-missing-out-on-access-to-mental-health-services/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-greens-child-youth-mental-health-2020",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Cooperation Agreement 2020",
+   "sourceUrl": "https://www.scoop.co.nz/stories/PA2010/S00117/cooperation-agreement-between-the-nz-labour-party-and-the-green-party-of-aotearoa-nz.htm",
+   "promise": "Cooperate on improving child and youth wellbeing, including child and youth mental health support.",
+   "whatHappened": "Child and youth mental health support kept expanding through the Access and Choice programme and school-based services funded from the 2019 package. But the Mental Health and Wellbeing Commission reported in 2024 that young people were still missing out on access to mental health services. Access and Choice coverage overall reached 207,000 people in 2023/24 against the 325,000 target.",
+   "status": "partly",
+   "statusReason": "Services expanded. But the agreement set no specific measurable commitment, and independent monitoring found young people's access remained a gap at the end of the term.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://www.mhwc.govt.nz/news-and-resources/young-people-missing-out-on-access-to-mental-health-services/",
+    "https://www.mhwc.govt.nz/assets/Reports/Access-and-Choice-programme/2025/Access-and-Choice-Summary-April-2025.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-nzfirst-breast-screening-74-2017",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017",
+   "sourceUrl": "https://www.nursingreview.co.nz/new-governments-health-policy-details-revealed/",
+   "promise": "Progressively increase the age for free breast screening to 74.",
+   "whatHappened": "The age range for free breast screening stayed at 45 to 69 throughout the 2017-2023 period. No extension was funded or started before the October 2023 handover. The extension only began under the next government, with a Nelson and Marlborough pilot from 1 October 2024 and a national phased rollout from 1 October 2025.",
+   "status": "not-delivered",
+   "statusReason": "The screening age range was unchanged across both Labour-led terms, despite the commitment being in the signed coalition agreement.",
+   "keyNumber": "Free breast screening to age 74 promised -> age range unchanged at 45-69 at Oct 2023 handover",
+   "evidenceUrls": [
+    "https://www.tewhatuora.govt.nz/news-and-updates/extending-the-age-for-free-breast-screening-to-save-lives"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-nzfirst-mental-health-commission-2017",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017",
+   "sourceUrl": "https://www.nursingreview.co.nz/new-governments-health-policy-details-revealed/",
+   "promise": "Re-establish the Mental Health Commission.",
+   "whatHappened": "The Government held the He Ara Oranga inquiry into mental health and addiction in 2018, then legislated to create a permanent independent commission. Te Hiringa Mahara | Mental Health and Wellbeing Commission was established as a permanent independent Crown entity. It has since published regular monitoring of the mental health system, including reports on the $1.9 billion Budget 2019 package and the Access and Choice programme.",
+   "status": "delivered",
+   "statusReason": "A standing independent mental health commission was re-created by statute and is operating.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://www.mhwc.govt.nz/our-work/mental-health-and-addiction-system/",
+    "https://www.mhwc.govt.nz/news-and-resources/budget-investment-report/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-national-cancer-drugs-13",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 campaign announcement, 21 August 2023",
+   "sourceUrl": "https://thespinoff.co.nz/politics/05-06-2024/the-full-timeline-of-nationals-broken-cancer-drugs-promise",
+   "promise": "Fund 13 new cancer treatments, at $280 million over four years ($70m a year), starting 1 July 2024, paid for by reinstating the $5 prescription co-payment.",
+   "whatHappened": "Budget 2024, delivered 30 May 2024, contained no money for the 13 treatments. Finance Minister Nicola Willis said it had not been possible. After sustained criticism, on 24 June 2024 the Government announced a $604 million pre-commitment to Pharmac over four years. It covered up to 26 cancer treatments and up to 28 other medicines (around 54 in total), expected to benefit about 175,000 people in the first year. Health Minister Shane Reti said that of the 13 treatments listed in 2023, up to seven would be included. The rest would be replaced by alternatives judged as good or better. Pembrolizumab became available from 1 October 2024 and nivolumab from 1 November 2024, with the rest phased in over the following year.",
+   "status": "largely",
+   "statusReason": "More money and more medicines were funded in the end than promised. But it came a year late, not on the promised start date, and only about half the specific named treatments were funded.",
+   "keyNumber": "13 named treatments and $280m over 4 years promised -> $604m over 4 years announced June 2024, up to 7 of the 13 funded plus substitutes",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/transformative-investment-cancer-treatments-and-more-new-medicines",
+    "https://www.pharmac.govt.nz/news-and-resources/news/update-on-new-medicines-funding-after-the-budget-uplift"
+   ],
+   "contested": true,
+   "contestedNote": "The Government's reading is that the promise was over-delivered: more medicines, more money, and every cancer type in the manifesto covered by an equivalent or better treatment. Critics read it the other way. The specific promise was those 13 treatments from 1 July 2024. Budget 2024 funded none of them, and only up to seven of the 13 named drugs were funded at all."
+  },
+  {
+   "id": "health-national-pharmac-funding",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 health policy",
+   "sourceUrl": "https://policy.nz/2023/party-vote/policies/health",
+   "promise": "Increase Pharmac funding by $724 million over four years.",
+   "whatHappened": "Pharmac's baseline was lifted at Budget 2024. In June 2024 the Government made a further $604 million four-year pre-commitment specifically for new medicines. Pharmac reported the combined pharmaceutical budget on a steadily rising trajectory, with a large increase in 2024. The June 2024 tranche alone funded or widened access to up to 54 medicines. The National-NZ First coalition agreement separately committed to increasing Pharmac funding every year.",
+   "status": "delivered",
+   "statusReason": "Pharmac's funding rose by more than the promised amount across the term, counting the Budget 2024 baseline uplift and the June 2024 $604m new-medicines pre-commitment.",
+   "keyNumber": "$724m over 4 years promised -> $604m for new medicines alone (June 2024) on top of Budget 2024 baseline increases",
+   "evidenceUrls": [
+    "https://www.pharmac.govt.nz/news-and-resources/publications/corporate-publications/year-in-review/year-in-review/budget-increase-for-more-medicines",
+    "https://www.beehive.govt.nz/release/transformative-investment-cancer-treatments-and-more-new-medicines"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-act-disestablish-maori-health-authority",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023 (the same commitment appears in the National-NZ First agreement and the coalition 100-day plan)",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Disestablish the Māori Health Authority.",
+   "whatHappened": "The Pae Ora (Disestablishment of Māori Health Authority) Amendment Bill was introduced on 27 February 2024. It passed all stages by 28 February 2024 under urgency, without select committee consideration. Te Aka Whai Ora ceased to exist on 30 June 2024, and its functions and staff moved into the Ministry of Health and Health NZ. Iwi-Māori partnership boards were retained. In November 2024 the Waitangi Tribunal released its Hautupua report. It found the Crown had breached Treaty principles by not consulting Māori, and recommended the Crown reconsider a standalone Māori health authority.",
+   "status": "delivered",
+   "statusReason": "The authority was disestablished by legislation within four months of the government taking office, as the agreement required.",
+   "keyNumber": "Te Aka Whai Ora disestablished 30 June 2024, after 2 years of operation",
+   "evidenceUrls": [
+    "https://www.buddlefindlay.com/insights/legislation-passed-to-disestablish-the-maori-health-authority-te-aka-whai-ora/",
+    "https://www.waitangitribunal.govt.nz/en/news/tribunal-releases-report-on-disestablishment-of-te-aka-whai-ora",
+    "https://en.wikipedia.org/wiki/Te_Aka_Whai_Ora"
+   ],
+   "contested": true,
+   "contestedNote": "The Government's position is that a separate commissioning agency duplicated Health NZ. It says responsibility for Māori health outcomes now sits with the whole system, and that iwi-Māori partnership boards were kept. The Waitangi Tribunal found the Crown did not act in good faith, did not consult Māori, and acted on political rather than evidential grounds. It also found the authority was integral to equitable delivery. Both readings agree on the facts of what was repealed and when. They differ on the significance."
+  },
+  {
+   "id": "health-national-smokefree-repeal",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023 (also in the National-NZ First agreement and the coalition 100-day plan)",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Repeal the Smokefree Environments and Regulated Products (Smoked Tobacco) Amendment Act 2022 to remove the requirements for denicotinisation and the reduction in retail outlets.",
+   "whatHappened": "The Smokefree Environments and Regulated Products Amendment Bill was introduced on 27 February 2024, passed under urgency on 28 February 2024 and took effect on 6 March 2024. It removed the three measures of the 2022 Act before they had come into force. Those were the denicotinisation requirement, the reduction in the number of tobacco retailers, and the prohibition on sales to anyone born on or after 1 January 2009. The coalition also legislated separately on vaping, including a ban on disposable vapes and higher penalties for sales to under-18s.",
+   "status": "delivered",
+   "statusReason": "The repeal was passed within the 100-day plan window, and in the terms set out in the coalition agreements.",
+   "keyNumber": "3 smokefree measures repealed, in force 6 March 2024",
+   "evidenceUrls": [
+    "https://www.legislation.govt.nz/bill/government/2024/0022/latest/whole.html",
+    "https://en.wikipedia.org/wiki/Smokefree_Environments_and_Regulated_Products_(Smoked_Tobacco)_Amendment_Act_2022"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-national-five-health-targets",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition 100-day plan and National-NZ First Coalition Agreement 2023",
+   "sourceUrl": "https://www.national.org.nz/policies/targeting-better-health-outcomes",
+   "promise": "Set five major health targets for the health system, including for wait times and cancer treatment, and publish performance against them.",
+   "whatHappened": "Five health targets were set in March 2024. They are shorter emergency department stays, shorter waits for elective treatment, shorter waits for first specialist assessment, faster cancer treatment, and childhood immunisation. Results have been published quarterly since. Two of the five (ED stays and elective waits) also sit in the nine whole-of-government targets. In the January to March 2026 quarter, 74.4% of ED patients were seen within six hours and 64.9% were treated within four months for elective care. In the same quarter, 61.2% were seen within four months for a first specialist assessment, 86.2% started cancer treatment within 31 days, and 83.5% of two year olds were fully immunised.",
+   "status": "delivered",
+   "statusReason": "The targets were set and are reported publicly each quarter, which is what the commitment required. Whether the targets themselves are met is tracked separately.",
+   "keyNumber": "5 health targets promised -> 5 set March 2024 and reported quarterly since",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/progress-continues-across-all-five-health-targets",
+    "https://www.beehive.govt.nz/release/health-targets-delivering-new-zealanders",
+    "https://www.dpmc.govt.nz/our-programmes/government-targets"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-national-ed-six-hour-target",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Government Targets (Target 1), set March 2024",
+   "sourceUrl": "https://www.dpmc.govt.nz/our-programmes/government-targets",
+   "promise": "95% of patients to be admitted, discharged or transferred from an emergency department within six hours.",
+   "whatHappened": "The baseline was 68.0% in September 2023. Performance reached 72.1% in December 2024, 74.2% in December 2025 and 74.4% in the January-March 2026 quarter. That is an improvement of about 6 percentage points over the baseline, but still more than 20 points short of the target. The Department of the Prime Minister and Cabinet rates the target 'feasible', while noting that whole-of-system improvements are needed to reduce what it calls unacceptable emergency department waits.",
+   "status": "in-progress",
+   "statusReason": "Term unfinished. There is measurable improvement on the baseline, but the target remains a long way off as at March 2026.",
+   "keyNumber": "95% within 6 hours promised -> 68.0% (Sep 2023 baseline) to 74.4% (Mar 2026 quarter)",
+   "evidenceUrls": [
+    "https://www.dpmc.govt.nz/sites/default/files/2026-06/gt-factsheet-target-1-mar26.pdf",
+    "https://www.beehive.govt.nz/release/progress-continues-across-all-five-health-targets"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-national-elective-wait-target",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Government Targets (Target 2), set March 2024",
+   "sourceUrl": "https://www.dpmc.govt.nz/our-programmes/government-targets",
+   "promise": "95% of people to wait less than four months for elective treatment.",
+   "whatHappened": "The baseline was 62.0% in September 2023. Performance fell to 59.2% in December 2024, then rose to 65.9% in September 2025, 64.5% in December 2025 and 64.9% in the January-March 2026 quarter. Treatment volumes rose from 46,841 to 51,513 elective treatments in the December quarter year on year. Health NZ outsourced work to private hospitals to lift throughput. The target remains about 30 percentage points away.",
+   "status": "in-progress",
+   "statusReason": "Term unfinished. Volumes and the share treated within four months have risen from the baseline, but the target is far from being met.",
+   "keyNumber": "95% within 4 months promised -> 62.0% (Sep 2023 baseline) to 64.9% (Mar 2026 quarter)",
+   "evidenceUrls": [
+    "https://www.dpmc.govt.nz/sites/default/files/2026-06/gt-factsheet-target-2-mar26.pdf",
+    "https://www.beehive.govt.nz/release/progress-continues-across-all-five-health-targets"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-national-dunedin-hospital",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 election campaign commitment on the new Dunedin Hospital",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Dunedin_Hospital",
+   "promise": "Build the new Dunedin Hospital, including $30 million to restore beds, operating theatres and a PET scanner that had been cut from the design.",
+   "whatHappened": "By May 2024 costs had risen above $2 billion and the project was paused. On 26 September 2024 ministers said it could not proceed within budget and proposed scaling it back sharply. About 35,000 people marched in protest in Dunedin on 28 September 2024. On 31 January 2025 Health Minister Simeon Brown confirmed a new inpatient building at about $1.88 billion. It will have 351 beds and 24 theatres, compared with 396 beds in the old hospital. Construction restarted in July 2025, with completion scheduled for 2031. Tower cranes went up in June 2026 and steelwork began in August 2026. The Otago Daily Times reported in May 2026 that the project budget had been lifted to about $2.1 billion.",
+   "status": "partly",
+   "statusReason": "The hospital is being built and construction is well advanced. But the scope was reduced rather than restored, and the promised restoration of beds and theatres did not occur.",
+   "keyNumber": "351 beds in the new build vs 396 in the old hospital; cost about $1.88b, opening 2031",
+   "evidenceUrls": [
+    "https://www.1news.co.nz/2025/07/03/work-restarts-on-new-18b-dunedin-hospital/",
+    "https://en.wikipedia.org/wiki/Dunedin_Hospital",
+    "https://www.beehive.govt.nz/release/new-dunedin-hospital-takes-shape-steel-goes",
+    "https://www.odt.co.nz/news/dunedin/health/hospital-build-kitty-boosted-21b"
+   ],
+   "contested": true,
+   "contestedNote": "The Government's reading is that it inherited an unaffordable design heading for a $3 billion blowout, made it deliverable and got construction underway. Local campaigners read it as the coalition cutting a hospital it had promised to enhance, delivering fewer beds than the building it replaces. Both agree on the final numbers: 351 beds, about $1.88b, opening 2031."
+  },
+  {
+   "id": "health-national-waikato-medical-school",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition 100-day plan and National-ACT Coalition Agreement 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/h1whr1gg/national-act-nz-first-coalition-government-policies-public-services.pdf",
+   "promise": "Sign a memorandum of understanding with Waikato University and progress a third medical school, subject to a full cost-benefit analysis presented to Cabinet.",
+   "whatHappened": "A cost-benefit analysis was presented to Cabinet, as the National-ACT agreement required. On 21 July 2025 the Government approved the new Waikato medical school. It has $82.85 million of Crown funding, alongside more than $150 million from the University of Waikato plus philanthropic support. It will be a graduate-entry programme, adding 120 doctor training places a year from 2028, with an emphasis on primary care and rural health. Ground was broken during 2026. The Government separately added 100 more medical training places at Auckland and Otago.",
+   "status": "delivered",
+   "statusReason": "The commitment was to progress the school subject to a cost-benefit analysis. That analysis was done, and the school was approved and funded within the term.",
+   "keyNumber": "$82.85m Crown funding; 120 extra doctor training places a year from 2028",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/new-waikato-medical-school-gets-green-light",
+    "https://www.beehive.govt.nz/release/ground-broken-waikato-medical-school"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-nzfirst-breast-screening-74-2023",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "NZ First 2023 health policy; also in the National-ACT coalition agreement and the coalition 100-day plan",
+   "sourceUrl": "https://policy.nz/2023/party-vote/policies/health",
+   "promise": "Extend free breast cancer screening to those aged up to 74.",
+   "whatHappened": "Legislation and funding were put in place, and a pilot ran in Nelson and Marlborough from 1 October 2024. The national extension began on 1 October 2025. It is being phased in one year of age at a time each October, through to the end of 2029, when the full 70-74 range will be covered. Health NZ estimates up to 54,000 additional women screened a year once fully implemented, with around 60 invasive cancers a year detected earlier.",
+   "status": "in-progress",
+   "statusReason": "The extension has begun and is funded, but full coverage to age 74 is not due until the end of 2029. This is the same commitment NZ First made in 2017 and did not deliver in the previous era.",
+   "keyNumber": "Screening to age 74 promised -> phased rollout started 1 Oct 2025, full coverage due end of 2029",
+   "evidenceUrls": [
+    "https://www.tewhatuora.govt.nz/news-and-updates/extending-the-age-for-free-breast-screening-to-save-lives"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-nzfirst-three-day-postnatal-stay",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Fund birthing units and maternity care properly, including providing for a three day stay for new mothers.",
+   "whatHappened": "The Government adopted a member's bill from National MP Catherine Wedd in September 2025, creating an entitlement to a three-day postnatal stay. Budget 2026 allocated $34.4 million over four years to expand maternity capacity, infrastructure and workforce so longer stays can be delivered. As at August 2026 the Three Day Postnatal Stay Amendment Bill was still going through Parliament, so the legal entitlement was funded but not yet in force. The New Zealand College of Midwives argued the funding should be usable flexibly rather than tied to inpatient stays.",
+   "status": "largely",
+   "statusReason": "Funding is committed and the legislation adopted, but the entitlement was not yet law at the end of the period assessed.",
+   "keyNumber": "3-day postnatal stay promised -> $34.4m over 4 years in Budget 2026, bill still before Parliament in Aug 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/increased-support-mothers-and-babies",
+    "https://www.midwife.org.nz/news/34m-in-funding-for-3-day-postnatal-stay-must-be-used-flexibly/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "health-national-nursing-midwifery-bonding",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition 100-day plan 2023",
+   "sourceUrl": "https://www.russellmcveagh.com/media/h1whr1gg/national-act-nz-first-coalition-government-policies-public-services.pdf",
+   "promise": "Encourage more people to study nursing and midwifery, and to stay here, with a bonding scheme.",
+   "whatHappened": "On 3 March 2025 the Government announced about $30 million over five years in recruitment incentives. These would place up to 400 graduate registered nurses a year into primary and community care, at $20,000 per nurse in rural areas and $15,000 in cities. The package also included 100 clinical placements for overseas-trained doctors and a $285 million performance-based uplift for general practice from 1 July 2025. By July 2026 Health NZ was offering around 1,800 graduate nurse roles a year, up from 1,716 offers the previous year. Over the preceding 12 months, 1,845 graduate registered nurses were employed across the wider health sector.",
+   "status": "partly",
+   "statusReason": "Financial incentives for graduate nurses were introduced and graduate placements grew. But this was a targeted recruitment payment rather than the general study-and-stay bonding scheme described in the 100-day plan.",
+   "keyNumber": "Bonding scheme promised -> up to 400 graduate nurses a year given $15,000-$20,000 incentives; about 1,800 graduate nurse roles offered in 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/healthcare-boost-means-seeing-gp-faster",
+    "https://www.beehive.govt.nz/release/homegrown-nursing-workforce-continues-grow"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-nzf-covid-vaccine-mandates",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National. NZ First Coalition Agreement, 24 November 2023 (Strengthening Democracy and Freedoms)",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "End all Covid-19 vaccine mandates still in operation.",
+   "whatHappened": "All government-imposed Covid-19 vaccination requirements, including those for health, disability and corrections workers, had already been revoked in late 2022 under the previous government. That was more than a year before the coalition agreement was signed on 24 November 2023. What remained were vaccination requirements imposed by individual employers under their own health and safety assessments. In May 2024 Health Minister Shane Reti said the Government was still working out what the commitment covered, asking 'what was exactly meant by that? Was it also meant to cover the workplace mandates as well?' NZ First said it was 'still working through the details'. No order, regulation or Act removing or prohibiting employer-imposed vaccination requirements had been made by August 2026.",
+   "status": "largely",
+   "statusReason": "The promised end state, no government Covid-19 vaccine mandates in operation, holds. But it was already true when the promise was made, and no action was taken on the employer-imposed requirements that remained.",
+   "keyNumber": "All remaining mandates to end -> government mandates already revoked in 2022; no action on employer mandates by Aug 2026",
+   "evidenceUrls": [
+    "https://www.hcamag.com/nz/specialisation/employment-law/will-new-zealand-end-covid-19-vaccine-mandates-in-workplaces/489945",
+    "https://www.stuff.co.nz/politics/350459889/confusion-surrounds-coalition-s-covid-19-vaccine-mandate-pledge-nz-first-still-working-through-the-details"
+   ],
+   "contested": true,
+   "contestedNote": "Read narrowly, the commitment was satisfied on day one: no government mandates were in operation, so nothing needed to be ended. Read as supporters of the policy understood it, it covered workplace vaccination requirements still being applied by employers, and on that reading nothing was delivered. The Government itself said publicly that it was unsure which reading applied."
+  },
+  {
+   "id": "gapfill-national-nzf-medsafe-30-day-approval",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National. NZ First Coalition Agreement, 24 November 2023 (Health)",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Require Medsafe to approve new pharmaceuticals within 30 days of them being approved by at least two overseas regulatory agencies.",
+   "whatHappened": "The Medicines Amendment Bill passed its third reading on 12 November 2025. It allows medicines already approved by two or more recognised overseas regulators to receive ministerial approval in New Zealand within 30 days. The recognised regulators are those of Australia, the United States, Canada, the United Kingdom, the European Union, Singapore and Switzerland. Health Minister Simeon Brown and Associate Health Minister David Seymour said the change would shave months off the approval process at no cost. The change came almost two years into the term.",
+   "status": "delivered",
+   "statusReason": "The 30-day rule and the two-overseas-regulator test were legislated in the terms set out in the agreement.",
+   "keyNumber": "30-day approval after 2 overseas regulators -> legislated 12 November 2025",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/political/578629/law-ensuring-approval-of-new-medicines-allowed-in-other-countries-passes-in-parliament",
+    "https://www.health.govt.nz/regulation-legislation/medicines-legislation/regulating-medicines-medical-devices-and-natural-health-products/documents-on-the-medical-products-bill"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-nzf-repeal-therapeutic-products-act",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National. NZ First Coalition Agreement, 24 November 2023 (Health)",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Repeal the Therapeutic Products Act 2023.",
+   "whatHappened": "Repeal of the Act appeared in the Government's 100-day plan announced in December 2023. The Therapeutic Products Act Repeal Bill was introduced in 2024 and passed on 13 December 2024, becoming the Therapeutic Products Act Repeal Act 2024 (2024 No 55). Associate Health Minister Casey Costello said the Medicines Act 1981 and the Dietary Supplements Regulations 1985 would keep applying while replacement regulation was developed. Cabinet had agreed in September 2024 to develop separate legislation for medicines and medical devices, and standalone legislation for natural health products. That replacement legislation had not been enacted as at August 2026.",
+   "status": "delivered",
+   "statusReason": "The Act was repealed as promised. The promise was to repeal, not to replace.",
+   "keyNumber": "Repeal promised -> Therapeutic Products Act 2023 repealed 13 December 2024",
+   "evidenceUrls": [
+    "https://www.legislation.govt.nz/act/public/2024/0055/latest/whole.html",
+    "https://www.scoop.co.nz/stories/PA2412/S00157/therapeutic-products-act-repeal-bill-passed.htm",
+    "https://www.bellgully.com/insights/therapeutic-products-business-as-usual-for-the-moment-but-the-rationale-for-reform-remains/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  }
+ ]
+}

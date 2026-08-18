@@ -1,0 +1,419 @@
+{
+ "areaKey": "transport",
+ "areaLabel": "Transport & Infrastructure",
+ "areaBlurb": "Between 2017 and 2026 New Zealand's two governments pulled land transport policy in opposite directions (one towards rail, light rail and mode shift, the other back towards state highways and road pricing) while both struggled to convert announced megaprojects into built infrastructure.",
+ "promises": [
+  {
+   "id": "transport-labour-auckland-light-rail-2017",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 campaign transport policy (Auckland light rail)",
+   "sourceUrl": "https://www.greaterauckland.org.nz/2024/01/15/light-rail-officially-dies/",
+   "promise": "Build light rail in Auckland from the city centre down Dominion Road to Mt Roskill within four years, then extend the line to Auckland Airport.",
+   "whatHappened": "No construction started in the first term. A NZ Super Fund consortium proposal was run against a Waka Kotahi bid in a twin-track procurement, and the Super Fund proposal was blocked before the 2020 election. The project was reset in 2021 under a new establishment unit. Work stopped in November 2023 and the project was formally cancelled on 14 January 2024. Auckland Light Rail Ltd spent about $228 million on planning over six years, without a metre of track being laid.",
+   "status": "not-delivered",
+   "statusReason": "Six years and about $228m of planning produced no construction and no track.",
+   "keyNumber": "Light rail to Mt Roskill within 4 years (by 2021) -> 0 metres of track and approx $228m spent by Oct 2023",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/politics/506674/national-led-government-officially-cancels-auckland-light-rail-plans",
+    "https://www.nzherald.co.nz/nz/auckland-light-rail-disestablishment-to-likely-cost-millions-over-six-months-cabinet-paper-release/DURFAAKNQ5GOHCDYIK2QBHTSZA/",
+    "https://www.greaterauckland.org.nz/2024/01/15/light-rail-officially-dies/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-labour-auckland-light-rail-2020",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 campaign re-commitment to Auckland light rail (city centre to Mangere/airport)",
+   "sourceUrl": "https://www.greaterauckland.org.nz/2020/03/11/light-rail-key-decisions/",
+   "promise": "Re-commit to light rail from Auckland's city centre to Mangere and the airport, and settle the route and mode in the 2020-23 term.",
+   "whatHappened": "In January 2022 Cabinet chose a partly tunnelled light rail line to Mangere, estimated at about $14.6 billion. Later official advice put the possible cost at up to $29.2 billion. The detailed business case was still incomplete when the Government changed. Work was halted in November 2023 and the project was cancelled on 14 January 2024, with no construction ever begun.",
+   "status": "not-delivered",
+   "statusReason": "A route and mode were chosen, but nothing was built and no funded delivery plan existed at the end of the term.",
+   "keyNumber": "$14.6b tunnelled line chosen in 2022 -> advice of up to $29.2b, cancelled Jan 2024 with no construction",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/politics/506674/national-led-government-officially-cancels-auckland-light-rail-plans",
+    "https://www.greaterauckland.org.nz/2024/01/15/light-rail-officially-dies/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-labour-nz-upgrade-programme",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand Upgrade Programme, announced 29 January 2020 (major government/campaign fiscal announcement)",
+   "sourceUrl": "https://www.greaterauckland.org.nz/2020/01/30/the-nz-upgrade-transport-package/",
+   "promise": "Deliver $6.8 billion of transport projects under the $12b New Zealand Upgrade Programme, including Penlink (open late 2025), Mill Road (complete 2027/28), Papakura to Drury South (complete late 2025), Drury rail stations (complete late 2024) and the Northern Pathway (complete 2023/24).",
+   "whatHappened": "The transport component was $6.8b: about $5.3b for roads, $1.1b for rail and $360m for walking and cycling. Costs rose and the programme was rescoped. Several projects were deferred or dropped, and others slipped years behind their announced dates. The Drury and Paerata stations, announced for completion in late 2024, did not open until 1 August 2026. Otaki to north of Levin, announced to start in 2025, was still under construction in 2026.",
+   "status": "partly",
+   "statusReason": "A large programme was funded and parts were built, but the published completion dates were widely missed and the package was rescoped.",
+   "keyNumber": "$6.8b transport package with completion dates 2023-2029 -> Drury/Paerata stations promised late 2024 opened Aug 2026",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/New_Zealand_Upgrade_Programme",
+    "https://www.beehive.govt.nz/release/new-drury-and-paer%C4%81t%C4%81-stations-open-south-auckland",
+    "https://www.beehive.govt.nz/release/transport-pipeline-provides-certainty"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-labour-gps-rebalance",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First coalition agreement 2017 and Labour-Greens confidence & supply agreement 2017 (transport clauses)",
+   "sourceUrl": "https://thestandard.org.nz/labour-green-confidence-and-supply-agreement-released/",
+   "promise": "Reprioritise National Land Transport Fund spending away from new state highways and towards rail infrastructure in cities and regions, public transport, and walking and cycling.",
+   "whatHappened": "The Government Policy Statement on land transport 2018 and GPS 2021 shifted the funding ranges towards public transport, rail, safety and road maintenance, and away from new state highway capacity. The Land Transport (Rail) Legislation Act 2020 brought rail network funding into the National Land Transport Fund and created the Rail Network Investment Programme, first published in 2021. Walking and cycling remained a small activity class throughout. The incoming Government's GPS 2024 reversed the rebalancing.",
+   "status": "largely",
+   "statusReason": "The funding rebalance and the new rail funding architecture happened. But walking and cycling stayed a minor share, and it was reversed within months of the handover.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://nzta.govt.nz/planning-and-investment/national-land-transport-programme/what-guides-the-nltp/government-policy-statement-on-land-transport",
+    "https://www.kiwirail.co.nz/our-network/funding-our-network/rail-network-investment-programme/",
+    "https://www.transport.govt.nz/assets/Uploads/Government-Policy-Statement-on-land-transport-2024-FINAL.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-labour-lgwm",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Let's Get Wellington Moving Recommended Programme of Investment agreed by the Labour-led Government (Oct 2018; package announced May 2019)",
+   "sourceUrl": "https://www.transport.govt.nz/area-of-interest/infrastructure-and-investment/lets-get-wellington-moving",
+   "promise": "Deliver the Let's Get Wellington Moving programme (mass rapid transit, a second Mt Victoria tunnel, Basin Reserve improvements and the Golden Mile), jointly funded by the Crown (60 per cent) and Wellington councils (40 per cent).",
+   "whatHappened": "LGWM stayed in the detailed investigation and development stage from May 2019 until it was wound up, and delivered no major infrastructure. Its mass rapid transit business case was still incomplete in 2023. On 17 December 2023 the incoming Government, the Wellington Mayor and the Greater Wellington Regional Council chair agreed to end LGWM. The Crown took the Mt Victoria tunnel and Basin Reserve projects, and the city council took the Golden Mile.",
+   "status": "not-delivered",
+   "statusReason": "Four and a half years of programme work produced no major built project before the programme was disestablished.",
+   "keyNumber": "Multi-billion-dollar Wellington package agreed 2019 -> no major project built; programme ended 17 Dec 2023",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/ministers-mayor-and-chair-agree-end-let%E2%80%99s-get-wellington-moving",
+    "https://www.transport.govt.nz/area-of-interest/infrastructure-and-investment/lets-get-wellington-moving"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-labour-greens-light-rail-airport",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Greens confidence & supply agreement 2017",
+   "sourceUrl": "https://thestandard.org.nz/labour-green-confidence-and-supply-agreement-released/",
+   "promise": "Work will begin on light rail from the city to the airport in Auckland.",
+   "whatHappened": "Planning work did begin. A procurement process ran from 2018 to 2020, an establishment unit reported in 2021, and Cabinet selected a partly tunnelled route to Mangere in January 2022. No construction was ever started. Work was halted in November 2023 and the project was cancelled on 14 January 2024, after about $228 million of planning spend over six years.",
+   "status": "partly",
+   "statusReason": "Planning work did begin, as the clause required, but no line was built and the project was cancelled.",
+   "keyNumber": "Work to begin on city-to-airport light rail -> planning only, approx $228m spent, cancelled Jan 2024",
+   "evidenceUrls": [
+    "https://www.greaterauckland.org.nz/2024/01/15/light-rail-officially-dies/",
+    "https://www.rnz.co.nz/news/politics/506674/national-led-government-officially-cancels-auckland-light-rail-plans"
+   ],
+   "contested": true,
+   "contestedNote": "Read literally, the commitment was that work 'will begin', and design, procurement and route selection all happened, so it was met. Read against the outcome the Greens were seeking, a light rail line to the airport, nothing was delivered and the project was cancelled."
+  },
+  {
+   "id": "transport-labour-greens-east-west-link",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Greens confidence & supply agreement 2017",
+   "sourceUrl": "https://thestandard.org.nz/labour-green-confidence-and-supply-agreement-released/",
+   "promise": "Auckland's East-West motorway link will not proceed as currently proposed.",
+   "whatHappened": "The consented East-West Link was shelved in 2018 and did not proceed during either Labour-led term. The incoming Government revived it as one of the 15 Roads of National Significance in GPS 2024. By July 2026 NZTA had placed the East-West Link in the slowest delivery phase, with route protection work only and no construction timeline.",
+   "status": "delivered",
+   "statusReason": "The project as proposed did not proceed at any point in the 2017-2023 period, which is what the clause committed to.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://www.transport.govt.nz/assets/Uploads/Government-Policy-Statement-on-land-transport-2024-FINAL.pdf",
+    "https://www.1news.co.nz/2026/07/09/govt-pulls-flagship-roading-projects-into-the-slow-lane/",
+    "https://www.beehive.govt.nz/release/transport-pipeline-provides-certainty"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-labour-greens-cycle-highways",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "manifesto",
+   "sourceDoc": "Green Party 2020 transport policy",
+   "sourceUrl": "https://www.greaterauckland.org.nz/2020/09/30/greens-transport-policy-for-2020/",
+   "promise": "Create a $1.5 billion Cycle Super Highway fund for protected cycleways in major cities, plus more than $400 million for local walking and cycling improvements, within a $13.6 billion decade-long transport plan.",
+   "whatHappened": "No dedicated Cycle Super Highway fund was established in the 2020-23 term. Walking and cycling remained a small activity class inside the National Land Transport Fund, rather than a separate multi-billion-dollar programme. The incoming Government's GPS 2024 then reduced the walking and cycling activity class to a range of $70-110 million a year from 2025/26. It directed that 25 per cent of new improvement spending go to footpaths.",
+   "status": "not-delivered",
+   "statusReason": "The specific $1.5b fund was never created, and cycling funding stayed an order of magnitude smaller.",
+   "keyNumber": "$1.5b cycle super highway fund promised -> no such fund created; walking and cycling class set at $70m-$110m a year in GPS 2024",
+   "evidenceUrls": [
+    "https://www.transport.govt.nz/assets/Uploads/Government-Policy-Statement-on-land-transport-2024-FINAL.pdf",
+    "https://nzta.govt.nz/planning-and-investment/national-land-transport-programme/what-guides-the-nltp/government-policy-statement-on-land-transport"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-labour-nzfirst-ports-auckland",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First coalition agreement 2017",
+   "sourceUrl": "https://www.newsroom.co.nz/2017/10/24/55424/nz-first-labour-agree-1b-regional-fund",
+   "promise": "Commission a feasibility study on the options for moving the Ports of Auckland, with Northport at Whangarei given serious consideration.",
+   "whatHappened": "The Upper North Island Supply Chain Strategy working group was established in 2018. Its 2019 report recommended closing Auckland's freight port and shifting capacity to Northport, with an EY analysis putting the cost at about $10.3 billion. On 9 December 2019 Cabinet agreed the Ports of Auckland was not viable as the upper North Island's key import port in the long term. It did not decide where or when freight would move. No relocation decision was taken and nothing moved before the October 2023 handover.",
+   "status": "partly",
+   "statusReason": "The study NZ First bargained for was delivered, but the relocation it was meant to enable never got a decision.",
+   "keyNumber": "Feasibility study on moving Ports of Auckland -> study delivered, relocation costed at $10.3b, no decision by Oct 2023",
+   "evidenceUrls": [
+    "https://www.interest.co.nz/news/102934/jacinda-ardern-says-cabinet-agrees-its-unsustainable-ports-auckland-be-countrys-key",
+    "https://www.greaterauckland.org.nz/2019/11/13/moving-the-port/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-national-cancel-light-rail",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition Government 100-day plan (2023)",
+   "sourceUrl": "https://www.rnz.co.nz/news/politics/506674/national-led-government-officially-cancels-auckland-light-rail-plans",
+   "promise": "Cancel the Auckland Light Rail project as part of the Government's 100-day plan.",
+   "whatHappened": "Stop-work notices were issued in November 2023, and the project was formally cancelled on 14 January 2024, with Auckland Light Rail Ltd instructed to cease work and wind down. The Transport Minister said the project would have cost $15 billion, with advice showing up to $29.2 billion. The Minister also said about $228 million had been spent in six years without a metre of track. Cabinet papers later released showed the disestablishment itself would cost millions more over about six months.",
+   "status": "delivered",
+   "statusReason": "The cancellation was completed inside the 100-day window.",
+   "keyNumber": "Cancel Auckland light rail -> cancelled 14 Jan 2024; approx $228m already spent",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/politics/506674/national-led-government-officially-cancels-auckland-light-rail-plans",
+    "https://www.nzherald.co.nz/nz/auckland-light-rail-disestablishment-to-likely-cost-millions-over-six-months-cabinet-paper-release/DURFAAKNQ5GOHCDYIK2QBHTSZA/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-national-regional-fuel-tax",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition Government 100-day plan (2023)",
+   "sourceUrl": "https://www.beehive.govt.nz/release/government-axe-auckland-regional-fuel-tax",
+   "promise": "Introduce legislation in the first 100 days to repeal the Auckland Regional Fuel Tax.",
+   "whatHappened": "Legislation was introduced within the 100 days and passed, and the Auckland Regional Fuel Tax ended on 30 June 2024. The tax was 10 cents a litre plus GST, and the previous Government had introduced it on 1 July 2018. Remaining collected funds were redirected by agreement with Auckland Council to the Eastern Busway, electric trains and stabling for the City Rail Link, and road corridor improvements.",
+   "status": "delivered",
+   "statusReason": "The tax was repealed on the announced date.",
+   "keyNumber": "Repeal Auckland regional fuel tax -> tax ended 30 June 2024, six years after it began",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/auckland-regional-fuel-tax-abolished",
+    "https://www.rnz.co.nz/news/national/508653/auckland-regional-fuel-tax-to-end-in-june-pm-announces"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-national-rons",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 policy: Transport for the Future",
+   "sourceUrl": "https://www.national.org.nz/policies/transport-for-the-future",
+   "promise": "Build 13 new Roads of National Significance, including four-laning State Highway 1 from Whangarei to Tauranga, Mill Road, a second Mt Victoria Tunnel, the Hope Bypass, the Woodend Bypass, Hamilton Southern Links and Petone to Grenada, as part of a transport plan costed at about $24 billion.",
+   "whatHappened": "GPS 2024, issued in March 2024, reinstated the programme with 15 Roads of National Significance. NZTA's Major Transport Projects Pipeline of 9 July 2026 showed four under construction: Otaki to north of Levin, Hawke's Bay Expressway, Takitimu North Link Stage 1 and SH29 Tauriko West. Northland Expressway Stage 1 and Cambridge to Piarere were moving into construction, giving six under construction by early 2027. Five were placed on a slower track with no construction timeline: Hope Bypass Stage 2, Northland Expressway Stages 2 and 3, the Auckland East-West Link, Mill Road Alfriston to Drury, and Petone to Grenada. The Transport Minister said fuel excise duty had fallen 21 per cent in real terms since 2020, while construction costs had risen sharply. The Government acknowledged the 2023 promises had been very ambitious. The next Government Policy Statement, due before the 2026 election, was delayed until after it.",
+   "status": "partly",
+   "statusReason": "The programme was reinstated and construction started on several roads. But a third of the projects have no construction timeline, and delivery of most is well beyond this term.",
+   "keyNumber": "13-15 Roads of National Significance -> 4 under construction and 6 expected by early 2027; 5 shifted to no construction timeline (July 2026)",
+   "evidenceUrls": [
+    "https://www.scoop.co.nz/stories/PA2403/S00012/gps-2024-15-new-roads-of-national-significance.htm",
+    "https://www.beehive.govt.nz/release/transport-pipeline-provides-certainty",
+    "https://www.1news.co.nz/2026/07/09/govt-pulls-flagship-roading-projects-into-the-slow-lane/",
+    "https://www.stuff.co.nz/politics/361004178/rons-nowhere-government-slows-work-promised-major-highways"
+   ],
+   "contested": true,
+   "contestedNote": "The Government argues these are 10-year projects, and that route protection, design and property acquisition must come before construction, so phasing is normal delivery rather than retreat. Critics point out that specific roads promised in 2023 now have no construction date at all, and that the funding gap in the National Land Transport Fund is the binding constraint."
+  },
+  {
+   "id": "transport-national-gps-2024",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National 2023 policy commitment to rewrite the Government Policy Statement within six months; GPS on land transport 2024 (issued March 2024)",
+   "sourceUrl": "https://www.national.org.nz/news/national-releases-bold-transport-plan",
+   "promise": "Rewrite the Government Policy Statement on land transport within the first six months to prioritise roads and maintenance, including dedicated pothole prevention funding, and move to a ten-year investment horizon.",
+   "whatHappened": "GPS 2024 was issued in March 2024, about four months after the election. It set National Land Transport Fund expenditure of over $22 billion for 2024/25-2026/27 ($6.4b, $6.85b and $6.85b a year). It created two new activity classes: State Highway Pothole Prevention ($420-700m a year) and Local Road Pothole Prevention ($570-780m a year). It added $640 million to maintenance relative to the draft, reinstated 15 Roads of National Significance, and cut the walking and cycling range to $70-110m a year from 2025/26. It also relied on a $3.1 billion Crown loan facility for NZTA across the 2024-27 period, plus a further $1.795b of smaller facilities. The following GPS, covering 2027 onwards, was delayed until after the 2026 election, breaking a near two-decade pattern.",
+   "status": "delivered",
+   "statusReason": "The GPS was rewritten within the promised timeframe, with the promised reprioritisation.",
+   "keyNumber": "New GPS within 6 months -> issued March 2024 with over $22b for 2024/25-2026/27 and new pothole prevention classes",
+   "evidenceUrls": [
+    "https://www.transport.govt.nz/assets/Uploads/Government-Policy-Statement-on-land-transport-2024-FINAL.pdf",
+    "https://www.scoop.co.nz/stories/PA2403/S00012/gps-2024-15-new-roads-of-national-significance.htm",
+    "https://www.rnz.co.nz/news/politics/988376/government-policy-statement-on-land-transport-delayed-until-after-election"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-national-lgwm-mt-victoria",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 campaign commitment to scrap Let's Get Wellington Moving and build a second Mt Victoria tunnel",
+   "sourceUrl": "https://thespinoff.co.nz/the-bulletin/31-07-2023/lets-get-wellington-moving-lets-can-it-says-national",
+   "promise": "Scrap Let's Get Wellington Moving, and have central government fully fund and build a second Mt Victoria tunnel and the Basin Reserve upgrade.",
+   "whatHappened": "LGWM was ended by agreement on 17 December 2023, between the Transport and Infrastructure Ministers, the Wellington Mayor and the Greater Wellington Regional Council chair. The Crown took full funding responsibility for the second Mt Victoria Tunnel and the Basin Reserve upgrade, removing the 40 per cent council share. Wellington City Council took over the Golden Mile. By NZTA's July 2026 pipeline the SH1 Wellington improvements, which include the second tunnel, were still only at route protection stage with no construction date. Petone to Grenada had been moved to the slowest delivery phase.",
+   "status": "partly",
+   "statusReason": "The disestablishment happened immediately, but nearly three years later the tunnel it was meant to unblock still has no construction date.",
+   "keyNumber": "Scrap LGWM and build second Mt Vic tunnel -> LGWM ended 17 Dec 2023; tunnel at route protection only as at Aug 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/ministers-mayor-and-chair-agree-end-let%E2%80%99s-get-wellington-moving",
+    "https://www.beehive.govt.nz/release/transport-pipeline-provides-certainty",
+    "https://www.1news.co.nz/2026/07/09/govt-pulls-flagship-roading-projects-into-the-slow-lane/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-national-infrastructure-agency-and-plan",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First coalition agreement 2023 and the Government's Q4 2024 Action Plan",
+   "sourceUrl": "https://www.beehive.govt.nz/release/new-infrastructure-agency-and-running",
+   "promise": "Establish a National Infrastructure Agency as the shopfront for investors in public infrastructure and to build public-private partnership capability, and publish a 30-year National Infrastructure Plan.",
+   "whatHappened": "National Infrastructure Funding and Financing Ltd began operating on 1 December 2024, replacing Crown Infrastructure Partners, with a board chaired by Mark Binns. Te Waihanga published the final 30-year National Infrastructure Plan on 17 February 2026. It contains 16 system recommendations and 10 priorities for the next decade, against annual infrastructure investment of over $20 billion. The PPP pipeline produced a result on 30 July 2026, when the Crown reached financial close with the Northway consortium on the Warkworth to Te Hana expressway. That 26km four-lane road has a net present value of $3.649 billion, against a $3.9b public sector comparator. It is supported by a $1.6b ten-year Crown loan, and was described as the largest PPP in New Zealand's history. The road is due to open in 2033.",
+   "status": "delivered",
+   "statusReason": "Both institutions were created on time, and the first major PPP under the new arrangements reached financial close.",
+   "keyNumber": "National Infrastructure Agency and 30-year plan -> agency operating 1 Dec 2024, plan published 17 Feb 2026",
+   "evidenceUrls": [
+    "https://tewaihanga.govt.nz/news-events/national-infrastructure-plan-sets-path-for-next-30-years",
+    "https://www.beehive.govt.nz/release/warkworth-te-hana-ppp-signed",
+    "https://www.treasury.govt.nz/information-and-services/commercial-portfolio-and-advice/commercial-portfolio/national-infrastructure-funding-and-financing-limited"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-national-road-user-charges",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition Government 100-day plan (EV road user charges) and the Government's road pricing programme announced 6 August 2025",
+   "sourceUrl": "https://www.beehive.govt.nz/release/next-steps-replacing-petrol-tax-electronic-road-user-charges",
+   "promise": "End the road user charge exemption for light electric vehicles from 1 April 2024, and over time move all 3.5 million light vehicles off fuel excise duty and onto distance and weight-based electronic road user charges.",
+   "whatHappened": "The exemption ended on 1 April 2024 under the Road User Charges (Light Electric RUC Vehicles) Amendment Act 2024. On 6 August 2025 the Transport Minister set out the wider transition, described as the biggest change to road funding in 50 years. Legislation is to pass in 2026, and the RUC system is to be 'open for business' to third-party providers in 2027. There is no fixed date for shifting petrol vehicles off the roughly 70 cents a litre fuel excise. A bill expanding road user charges was introduced in 2025. Separately, the Land Transport Management (Time of Use Charging) Amendment Bill passed its first reading in March 2025 to enable congestion charging. As at 2026 Auckland Transport had no approved scheme and no start date.",
+   "status": "partly",
+   "statusReason": "The EV element was delivered on time, but the full transition of light vehicles is still undated and no congestion charging scheme is running.",
+   "keyNumber": "EV RUC exemption ended 1 April 2024 -> full transition of 3.5m light vehicles still undated at Aug 2026",
+   "evidenceUrls": [
+    "https://www.legislation.govt.nz/bill/government/2024/0025/latest/whole.html",
+    "https://www.rnz.co.nz/news/political/569149/road-user-charges-for-all-vehicles-move-a-step-closer",
+    "https://at.govt.nz/projects-and-initiatives/time-of-use-charging",
+    "https://www.beehive.govt.nz/release/time-use-charging-bill-passes-first-reading"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-national-act-speed-limits",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT coalition agreement 2023",
+   "sourceUrl": "https://www.scoop.co.nz/stories/PA2501/S00083/speed-limit-reduction-reversals-begin.htm",
+   "promise": "Reverse the blanket speed limit reductions made under the previous government, where it is safe to do so.",
+   "whatHappened": "The Setting of Speed Limits Rule 2024 required reversals. From 29 January 2025, 38 sections of state highway automatically reverted to their previous limits, starting with SH2 between Featherston and Masterton. A further 49 sections went to public consultation. Councils had to advise on local road changes by 1 May 2025, and state highway reversals had to be complete by 1 July 2025. NZTA reported more than 65 per cent of consultation submitters supported the reversals.",
+   "status": "delivered",
+   "statusReason": "The rule was made and the reversals were completed on the stated deadline.",
+   "keyNumber": "Reverse blanket speed limit reductions -> 38 state highway sections reverted automatically, 49 more consulted; completed by 1 July 2025",
+   "evidenceUrls": [
+    "https://www.nzta.govt.nz/safety/driving-safely/speed/state-highway-speed-management/speed-reversals-and-consultation-transitional-changes-in-2024-25",
+    "https://www.nzta.govt.nz/assets/Safety/docs/state-highway-speed-management/State-highways-affected-by-speed-reversals-in-the-2024-Speed-Rule.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-national-act-road-cones",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Government action plan commitment delivered by the ACT Minister for Workplace Relations and Safety. WorkSafe road cone tipline, announced June 2025",
+   "sourceUrl": "https://www.1news.co.nz/2025/06/10/hundreds-report-excessive-road-cones-in-first-week-of-new-hotline/",
+   "promise": "Run a public tipline so people can report excessive road cone use, and cut over-the-top temporary traffic management.",
+   "whatHappened": "WorkSafe's digital road cone tipline opened on 3 June 2025 and received over 1,100 valid notifications to 31 October 2025, falling to about 15 a week by late October. Inspections found 77 per cent of sites complied with their approved traffic management plans, and excessive cone use at 6 per cent of sites visited, which were addressed. The pilot cost $148,545 excluding GST to 30 September 2025, against a $395,000 twelve-month budget. WorkSafe recommended discontinuing it by 19 December 2025, and it was ended early. Separately, NZTA moved to risk-based temporary traffic management, and its spend on it fell by about $46 million between 2023/24 and 2024/25. Nine councils had adopted the approach by July 2026.",
+   "status": "largely",
+   "statusReason": "The tipline ran and the wider traffic management reform produced measurable savings, but the tipline itself was wound up early after finding limited over-coning.",
+   "keyNumber": "Road cone tipline -> 1,100+ reports in 5 months, excessive cones at 6 per cent of sites, pilot ended early; NZTA traffic management spend down approx $46m",
+   "evidenceUrls": [
+    "https://www.worksafe.govt.nz/dmsdocument/72325-review-of-the-road-cones-digital-hotline-pilot-briefing-paper/latest/",
+    "https://www.beehive.govt.nz/release/road-cone-crackdown-gathers-pace"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-national-nzfirst-northland",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First coalition agreement 2023 (Northland roading, four-lane alternative to the Brynderwyns)",
+   "sourceUrl": "https://www.nzherald.co.nz/northern-advocate/news/northland-leaders-praise-new-coalition-governments-commitment-to-a-four-lane-alternative-brynderwyns-route/7HLMC63APNDIHNYXIXBOOSZ75E/",
+   "promise": "Deliver a four-lane expressway from Auckland to Whangarei, including a four-lane alternative route over or around the Brynderwyn Hills.",
+   "whatHappened": "On 23 April 2025 NZTA announced an emerging preferred corridor from Te Hana to Whangarei in three stages. It selected a 'near east' alignment close to SH1 over the Brynderwyns, after reassessing western options. Stage 1, Warkworth to Te Hana, is the 26km section that includes Dome Valley. It reached financial close as a PPP on 30 July 2026, with a net present value of $3.649 billion. Early works began in August 2026, main construction starts in November 2027, and the road is due to open in 2033. Stages 2 and 3, Te Hana to Port Marsden and Port Marsden to Whangarei, were placed in the slowest delivery phase in July 2026 with no construction timeline.",
+   "status": "partly",
+   "statusReason": "One of three stages is contracted and starting; the two stages that reach Whangarei have no construction date.",
+   "keyNumber": "Four-lane Auckland to Whangarei -> Stage 1 (26km) contracted July 2026 opening 2033; Stages 2 and 3 have no construction timeline",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/northland-expressway-emerging-preferred-corridor-te-hana-whang%C4%81rei-announced",
+    "https://www.beehive.govt.nz/release/warkworth-te-hana-ppp-signed",
+    "https://www.1news.co.nz/2026/07/09/govt-pulls-flagship-roading-projects-into-the-slow-lane/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "transport-national-nzfirst-cook-strait-ferries",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Cabinet decision on Cook Strait ferry replacement announced by Rail Minister Winston Peters, 31 March 2025",
+   "sourceUrl": "https://www.beehive.govt.nz/speech/rail-ferries-and-straightforward-infrastructure",
+   "promise": "After cancelling iReX, deliver two new rail-enabled Cook Strait ferries in service by Christmas 2029. Each would be about 200m long and carry 1,500 passengers and 40 rail wagons. This would reuse Wellington's existing marine infrastructure and build a new dual-level wharf at Picton, at a cost far below the cancelled programme.",
+   "whatHappened": "The Finance Minister cancelled the iReX programme in December 2023. KiwiRail later disclosed about $500 million had already been spent, and the wind-down and settlement cost roughly $671 million in total. Ferry Holdings was established to procure the replacements. In July 2026 the two ships were named Kupe and Cook, and KiwiRail was confirmed as operator on a 30-year contract from 2029 with a 2039 review point. Construction was set to begin in 2027 at Guangzhou Shipyard International for 2029 delivery, about three years later than iReX would have delivered. The Crown contribution is capped at $1.7 billion with total project cost under $2 billion. That includes $373m of marine infrastructure via Ferry Holdings, $100m at CentrePort and $110m at Port Marlborough.",
+   "status": "in-progress",
+   "statusReason": "Ships, operator and port contracts are settled and the 2029 date still stands, but no vessel has been built and the term is not finished.",
+   "keyNumber": "Two rail-enabled ferries by Christmas 2029 -> contracts let and ships named in 2026, delivery still scheduled 2029; iReX wind-down cost approx $671m",
+   "evidenceUrls": [
+    "https://www.1news.co.nz/2025/03/31/two-new-cook-strait-rail-ferries-to-enter-service-in-2029-peters/",
+    "https://newswire.co.nz/2026/07/cook-strait-ferries-named-kupe-cook-kiwirail-operator-2029/",
+    "https://www.rnz.co.nz/news/political/560273/kiwirail-reveals-500-million-spent-on-axed-cook-strait-ferry-project"
+   ],
+   "contested": true,
+   "contestedNote": "The Government says the revised package saves about $2.3 billion against iReX and avoids a gold-plated port rebuild. Critics note the ferries arrive around three years later than iReX would have, and that roughly $671 million was spent on a cancelled programme. They also say the full cost was not disclosed at the time of the 2025 announcement."
+  },
+  {
+   "id": "gapfill-greens-bus-decarbonisation",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Greens Cooperation Agreement 2020, achieving the purpose and goals of the Zero Carbon Act through decarbonising public transport",
+   "sourceUrl": "https://www.scoop.co.nz/stories/PA2010/S00117/cooperation-agreement-between-the-nz-labour-party-and-the-green-party-of-aotearoa-nz.htm",
+   "promise": "Decarbonise public transport. The government target is that only zero-emission public transport buses be purchased from 2025, and that the entire public transport bus fleet be decarbonised by 2035.",
+   "whatHappened": "The targets were adopted as government policy and carried into the Emissions Reduction Plan: no new fossil-fuel buses purchased from 2025, and a fully decarbonised bus fleet by 2035. Waka Kotahi opened a public transport decarbonisation co-investment fund in 2023 to help councils buy zero-emission buses and build depot charging, with first-round results due September 2023. Uptake was concentrated in Auckland, Wellington and Christchurch. At the October 2023 handover, zero-emission buses were a small minority of the national fleet. Both target dates fall after the end of the term, so neither had come due.",
+   "status": "partly",
+   "statusReason": "Targets were set and a funding mechanism established, but only a small share of the fleet had been converted by the handover.",
+   "keyNumber": "Only zero-emission buses purchased from 2025 and fleet decarbonised by 2035 -> targets set and co-investment fund opened 2023; both dates fall after the term",
+   "evidenceUrls": [
+    "https://www.nzta.govt.nz/media-releases/decarbonisation-of-bus-fleets-for-a-healthier-aotearoa/",
+    "https://at.govt.nz/about-us/news-events/media-centre/2023-media-releases/auckland-has-most-zero-emission-buses-on-the-road-in-new-zealand"
+   ],
+   "contested": true,
+   "contestedNote": "One reading is that this cannot be scored against Labour's term, because the target dates are 2025 and 2035. The other is that the commitment was to decarbonise public transport during the term of the agreement. On the fleet conversion rate achieved by 2023, the 2035 date would require a step change no government had funded."
+  }
+ ]
+}

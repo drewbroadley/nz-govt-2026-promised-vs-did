@@ -1,0 +1,368 @@
+{
+ "areaKey": "climate",
+ "areaLabel": "Climate & Emissions",
+ "areaBlurb": "Between 2017 and 2026 New Zealand legislated a net-zero-by-2050 framework and an independent Climate Change Commission, then saw successive governments argue over how fast and by what means to meet it. Labour framing climate as its generation's \"nuclear-free moment\" while the National-led coalition removed agriculture from carbon pricing, lowered the methane target and reopened offshore petroleum exploration.",
+ "promises": [
+  {
+   "id": "climate-labour-zero-carbon-act",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, item 40 (also a Labour-Greens confidence and supply commitment)",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Pass a Zero Carbon Act and establish an independent Climate Commission.",
+   "whatHappened": "The Climate Change Response (Zero Carbon) Amendment Act 2019 received royal assent on 13 November 2019 with cross-party support. It set a target of net zero for all greenhouse gases other than biogenic methane by 2050. It also set a separate biogenic methane target of 10 percent below 2017 levels by 2030 and 24-47 percent by 2050. It established He Pou a Rangi / the Climate Change Commission as an independent Crown entity. The first three emissions budgets, covering 2022-2035, were set in 2022, and the first emissions reduction plan followed the same year.",
+   "status": "delivered",
+   "statusReason": "The Act passed within the term. It created both the 2050 target and the independent Commission exactly as promised.",
+   "keyNumber": "Zero Carbon Act promised -> passed 13 Nov 2019, net zero (excl. biogenic methane) by 2050",
+   "evidenceUrls": [
+    "https://www.legislation.govt.nz/act/public/2019/0061/latest/LMS183848.html",
+    "https://climateactiontracker.org/countries/new-zealand/policies-action/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "climate-greens-zero-carbon-commission",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Greens Confidence and Supply Agreement 2017 (climate commitments)",
+   "sourceUrl": "https://www.greens.org.nz/greens_welcome_labour_s_climate_commitments_will_push_for_more_action_to_match_the_scale_of_the_crisis",
+   "promise": "Deliver a Zero Carbon Act, set up an independent Climate Change Commission and establish a Green Investment Fund. These were the Greens' price for confidence and supply.",
+   "whatHappened": "Green co-leader James Shaw held the Climate Change portfolio outside Cabinet from 2017 and inside it from 2020. The Zero Carbon Act passed on 13 November 2019 and the Climate Change Commission was established under it. New Zealand Green Investment Finance was capitalised as a Crown-owned green investment bank. The Greens describe all three as fulfilling the confidence and supply agreement.",
+   "status": "delivered",
+   "statusReason": "All three named institutions were created within the 2017-2020 term.",
+   "keyNumber": "3 institutions promised -> Zero Carbon Act, Climate Change Commission and Green Investment Fund all established",
+   "evidenceUrls": [
+    "https://www.legislation.govt.nz/act/public/2019/0061/latest/LMS183848.html",
+    "https://www.greens.org.nz/greens_welcome_labour_s_climate_commitments_will_push_for_more_action_to_match_the_scale_of_the_crisis"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "climate-greens-climate-impact-assessments",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Greens Confidence and Supply Agreement 2017 (climate lens on government decisions)",
+   "sourceUrl": "https://www.greens.org.nz/climate_change_lens_on_major_government_decisions",
+   "promise": "Require a climate change lens (a climate impact assessment) on major government decisions and legislation.",
+   "whatHappened": "The Government issued new Cabinet guidance requiring a climate implications of policy assessment (CIPA) for policy proposals with significant emissions implications. The Greens state this fulfilled the confidence and supply commitment. It built on a Green member's bill that would have required climate change impact statements on all legislation. The requirement is administrative Cabinet guidance rather than a statutory duty on all bills, which is narrower than the member's bill sought.",
+   "status": "largely",
+   "statusReason": "The climate lens was implemented. It came as Cabinet-office guidance on qualifying proposals, not the statutory across-the-board requirement the Greens originally sought.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://www.greens.org.nz/climate_change_lens_on_major_government_decisions"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "climate-nzf-agriculture-ets-95-percent",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, item 41",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "If the Climate Commission decides agriculture should be included in the Emissions Trading Scheme (ETS), free allocation to agriculture on entry will be 95 percent. All revenue will be recycled back into agriculture for innovation, mitigation and additional forestry planting.",
+   "whatHappened": "On 24 October 2019 the Government decided agriculture would not enter the reformed ETS. Instead it set up a sector partnership, He Waka Eke Noa, to design a farm-level pricing system. A legislated backstop would bring agricultural processors into the ETS from 2025 if no alternative was agreed. He Waka Eke Noa reported in 2022 and the Government proposed a farm-level system in October 2022. No pricing system was in force when Labour left office in October 2023. The incoming coalition disbanded He Waka Eke Noa and removed agriculture from the ETS entirely in 2024.",
+   "status": "not-delivered",
+   "statusReason": "Agriculture never entered the ETS during the term. The 95 percent free allocation and revenue recycling arrangement never took effect.",
+   "keyNumber": "95 percent free allocation on ETS entry promised -> agriculture never entered the ETS",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/country/476451/he-waka-eke-noa-government-proposes-farm-level-system-by-2025",
+    "https://www.rnz.co.nz/news/political/519248/coalition-exempts-farmers-from-ets-sets-up-fresh-working-group"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "climate-nzf-billion-trees",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, item 1b: \"Planting 100 million trees per year in a Billion Trees Planting Programme\"",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Plant 100 million trees a year under a One Billion Trees programme, reaching one billion trees by 2028.",
+   "whatHappened": "The One Billion Trees Programme was launched in 2018 with a grants fund, and a new forestry agency, Te Uru Rākau, was established on 11 May 2018. About 149.4 million trees had been recorded as planted by May 2020, well behind the 100 million per year run rate needed. The grant fund closed to new applications in 2021 and the programme wound down. Forestry planting still became a large part of New Zealand's projected emissions reductions, with the Climate Change Commission noting in 2025 that 46 percent of planned third-budget reductions rely on forest removals.",
+   "status": "partly",
+   "statusReason": "A programme was established and large-scale planting occurred, but the run rate was roughly half what a billion trees by 2028 required.",
+   "keyNumber": "1,000,000,000 trees by 2028 (100m/yr) -> approx 149.4 million recorded planted by May 2020",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+    "https://www.climatecommission.govt.nz/our-work/monitoring/emissions-reduction-monitoring/erm-2025"
+   ],
+   "contested": true,
+   "contestedNote": "Supporters point out the target date is 2028, and that seedling supply rather than policy constrained early planting. Critics note the programme was wound down years before 2028 with no plausible path to a billion trees, and that the Ministry counted trees planted commercially anyway."
+  },
+  {
+   "id": "climate-nzf-government-fleet-emissions-free",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, item 39",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Make the Government's vehicle fleet, where practicable, emissions-free by 2025/26.",
+   "whatHappened": "By October 2019 only 78 of 15,473 government vehicles were electric. The Government then restated the commitment as a requirement that all new vehicles entering the fleet be emissions-free after mid-2025, rather than the whole fleet being emissions-free by 2025/26. The Carbon Neutral Government Programme, announced in 2020, carried the fleet work forward. The original whole-of-fleet date was not met by the end of Labour's term.",
+   "status": "partly",
+   "statusReason": "Some electrification occurred and a programme was created, but the target was redefined from an emissions-free fleet to emissions-free new purchases.",
+   "keyNumber": "Emissions-free fleet by 2025/26 -> 78 of 15,473 government vehicles electric at Oct 2019, target later redefined",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "climate-labour-100-percent-renewable-2030",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 election energy policy announcement (10 September 2020)",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/425709/labour-promises-100-percent-renewable-electricity-generation-by-2030",
+   "promise": "Achieve 100 percent renewable electricity generation by 2030, five years earlier than the previous 2035 goal. Support this with pumped hydro at Lake Onslow and a ban on new thermal baseload generation.",
+   "whatHappened": "Renewables supplied 87 percent of electricity generated in 2022, up from about 82 percent in 2021. The rise came mainly from favourable hydro conditions rather than new policy. The NZ Battery Project, set up in 2020 to investigate the Lake Onslow pumped-hydro scheme as the enabler of a 100 percent renewable grid, was still in feasibility stage at the 2023 election, and investigations were stopped in late 2023. No ban on new thermal baseload generation was legislated. By the time Labour left office, official documents had recast the 100 percent figure as an aspiration rather than a firm target.",
+   "status": "partly",
+   "statusReason": "Renewable share rose, but the key enabling project was unfinished and the firm 2030 target was softened. The target date itself falls outside the term.",
+   "keyNumber": "100 percent renewable electricity by 2030 -> 87 percent of generation renewable in 2022",
+   "evidenceUrls": [
+    "https://www.mbie.govt.nz/about/news/energy-in-new-zealand-2023-shows-renewable-electricity-generation-increased-to-87-percent",
+    "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/low-emissions-economy/nz-battery"
+   ],
+   "contested": true,
+   "contestedNote": "Labour argues the target was always for 2030 and cannot be judged at a 2023 handover. Critics note the flagship enabling project was never committed to, the thermal ban never happened, and the increase that did occur was largely weather-driven."
+  },
+  {
+   "id": "climate-labour-ets-settings-emissions-budgets",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Greens Cooperation Agreement 2020: \"achieving the purpose and goals of the Zero Carbon Act\"",
+   "sourceUrl": "https://www.interest.co.nz/news/107748/proposed-cooperation-agreement-between-labour-and-greens-released-greens-delegates",
+   "promise": "Run the Emissions Trading Scheme in line with the Zero Carbon Act's emissions budgets, including setting auction volumes and price controls in line with Climate Change Commission advice.",
+   "whatHappened": "In December 2022 Cabinet rejected the Commission's advice. It released about 35 million more units over five years than recommended and held the cost containment trigger price well below the recommended level, reportedly because of cost-of-living concerns. The secondary carbon price fell sharply and all four 2023 ETS auctions failed to clear. Lawyers for Climate Action NZ sought judicial review. In 2023 the High Court required the Minister to reconsider the settings by 30 September 2023, and the Government remade the regulations adopting the Commission's recommendations before the election.",
+   "status": "partly",
+   "statusReason": "The settings were eventually aligned with Commission advice. That came only after a Cabinet decision that a court required to be remade, and a year of failed auctions.",
+   "keyNumber": "ETS settings aligned with budgets -> approx 35 million extra units released Dec 2022, all 4 auctions in 2023 failed, settings remade by Sept 2023",
+   "evidenceUrls": [
+    "https://www.lawyersforclimateaction.nz/news-events/ets-jr-win",
+    "https://www.rnz.co.nz/news/country/580730/emissions-trading-scheme-year-s-final-auction-fails-to-sell-a-single-carbon-unit"
+   ],
+   "contested": true,
+   "contestedNote": "The Government's position was that Ministers are entitled to weigh household cost impacts alongside Commission advice, and that it corrected the settings within the same year. The successful judicial review found the December 2022 decision was not lawfully made."
+  },
+  {
+   "id": "climate-greens-transport-decarbonisation",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Greens Cooperation Agreement 2020, decarbonising public transport, increasing uptake of zero-emission vehicles, introducing clean car standards",
+   "sourceUrl": "https://www.interest.co.nz/news/107748/proposed-cooperation-agreement-between-labour-and-greens-released-greens-delegates",
+   "promise": "Increase uptake of zero-emission vehicles and introduce clean car standards as part of achieving the goals of the Zero Carbon Act.",
+   "whatHappened": "The Clean Car Discount (a feebate) began paying rebates from 1 July 2021 and charging fees on high-emitting vehicles from 1 April 2022. Rebates ran to about $7,500 for zero-emission vehicles and $5,000 for hybrids. The Clean Car Standard, a CO2 standard on vehicle importers, was legislated in the Land Transport (Clean Vehicles) Amendment Act 2022 and took effect from 2023. EV registrations rose sharply over 2021-2023. Both policies were reversed or weakened after the change of government: the discount ended on 31 December 2023 and the standard's 2025-2029 CO2 targets were eased in July 2024.",
+   "status": "delivered",
+   "statusReason": "Both a feebate and a clean car standard were legislated and in force before the end of the term. That is what the agreement committed to.",
+   "keyNumber": "Clean car standard + ZEV uptake promised -> feebate live 1 Jul 2021, Clean Car Standard in force 2023",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Land_Transport_(Clean_Vehicle_Discount_Scheme_Repeal)_Amendment_Act_2023",
+    "https://www.rnz.co.nz/news/politics/521675/government-eases-too-stringent-clean-car-standard-rules"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "climate-greens-industrial-process-heat",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Greens Cooperation Agreement 2020, supporting the use of renewable energy for industrial heat",
+   "sourceUrl": "https://www.interest.co.nz/news/107748/proposed-cooperation-agreement-between-labour-and-greens-released-greens-delegates",
+   "promise": "Support the switch of industrial process heat from coal and gas to renewable energy.",
+   "whatHappened": "The Government Investment in Decarbonising Industry (GIDI) fund began in 2020 and was expanded from the Climate Emergency Response Fund in Budget 2022. It co-funded boiler conversions across dairy, meat, timber and steel. EECA's GIDI Partnerships stream alone involved $230 million of EECA co-investment alongside $860 million of private capital, with lifetime abatement of about 9.3 million tonnes of CO2 from the NZ Steel and Fonterra projects. In June 2023 the Government banned new low-to-medium temperature coal boilers from 27 July 2023 and required existing ones to be phased out by 2037. GIDI later closed to new applications. In June 2026 the National-led government scrapped the 2037 coal boiler phase-out without replacing it.",
+   "status": "delivered",
+   "statusReason": "Both a large co-funding scheme and a regulatory phase-out were in place before the end of the term. The later reversal is outside the promising party's term.",
+   "keyNumber": "Renewable process heat support promised -> GIDI Partnerships $230m public + $860m private, approx 9.3 Mt lifetime abatement; coal boiler phase-out set for 2037",
+   "evidenceUrls": [
+    "https://www.eeca.govt.nz/co-funding-and-support/previously-funded-projects/approved-gidi-projects/",
+    "https://www.beehive.govt.nz/release/government-ban-new-coal-boilers-place",
+    "https://b2bnews.co.nz/news/coal-boiler-ban-scrapped-what-it-means-for-nz-industry/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "climate-national-net-zero-double-renewables",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023: \"Deliver Net Zero by 2050 including by doubling New Zealand's renewable electricity\"",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Deliver net zero by 2050, including by doubling New Zealand's renewable electricity generation.",
+   "whatHappened": "The 2050 target in the Zero Carbon Act was retained. The second emissions reduction plan, published in December 2024 and amended in January 2026, projects the first emissions budget (290 Mt) will be met at 284.1 Mt and the second (305 Mt) narrowly met at 303.1 Mt. It claims net zero could be reached as early as 2044. The Climate Change Commission's 2025 monitoring report agrees budgets one and two are achievable, but finds the third budget (2031-2035) is projected to be exceeded by about 9.2 Mt, with 46 percent of planned reductions relying on forest removals. Consenting was streamlined for renewables through the fast-track regime and RMA changes. The Commission still singled out electricity generation in 2025 as an area of increased risk, and the total renewable share of primary energy was 45.4 percent in 2024.",
+   "status": "in-progress",
+   "statusReason": "The 2050 target is intact and the first two budgets are on track. The third budget is projected to be missed, and the term is not finished.",
+   "keyNumber": "Net zero 2050 + double renewables -> EB1 284.1/290 Mt and EB2 303.1/305 Mt projected met, EB3 projected 249.2 Mt vs 240 Mt budget",
+   "evidenceUrls": [
+    "https://www.climatecommission.govt.nz/our-work/monitoring/emissions-reduction-monitoring/erm-2025",
+    "https://environment.govt.nz/assets/publications/climate-change/ERP2/New-Zealands-second-emissions-reduction-plan-Amended-January-2026.pdf"
+   ],
+   "contested": true,
+   "contestedNote": "The Government points to official projections showing the first two budgets met and net zero reachable by 2044. The Climate Change Commission and critics point to a 9.2 Mt shortfall against the third budget, heavy reliance on forestry, and the November 2025 decision to de-couple ETS settings from the Paris target."
+  },
+  {
+   "id": "climate-national-end-clean-car-discount",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 campaign commitment to scrap the Clean Car Discount / \"ute tax\"",
+   "sourceUrl": "https://www.beehive.govt.nz/release/government-ends-%E2%80%98ute-tax%E2%80%99",
+   "promise": "Scrap the Clean Car Discount, including the fee on higher-emitting vehicles that National labelled the \"ute tax\".",
+   "whatHappened": "The Land Transport (Clean Vehicle Discount Scheme Repeal) Amendment Act 2023 passed on 14 December 2023 and received royal assent on 19 December 2023. Both the rebates and the fees ended for vehicles registered after 31 December 2023. Over its life the scheme paid out about $579 million in rebates and $13.5 million in administration, against about $290 million collected in fees. EV registrations fell steeply in early 2024 after the rebates ended.",
+   "status": "delivered",
+   "statusReason": "Repealed by legislation within the first month of government, exactly as promised.",
+   "keyNumber": "Clean Car Discount scrapped -> ended 31 Dec 2023 after approx $579m rebates paid vs approx $290m fees collected",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Land_Transport_(Clean_Vehicle_Discount_Scheme_Repeal)_Amendment_Act_2023",
+    "https://www.nzta.govt.nz/vehicles/clean-car-programme/clean-car-discount-ended-on-31-december-2023"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "climate-national-10000-ev-chargers",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 policy. Supercharging EV Infrastructure",
+   "sourceUrl": "https://www.national.org.nz/policies/supercharging-ev-infrastructure",
+   "promise": "Deliver 10,000 public EV chargers by 2030, backed by $257 million over four years using a co-investment model modelled on Ultra-Fast Broadband.",
+   "whatHappened": "The programme was restructured from grants to concessionary loans. A request for proposals closed in July 2025 and attracted only six compliant submissions. As at March 2026 the Minister for Climate Change and Energy said the Government was in the final stages of contracting, but no contracts had been signed and no chargers had been delivered under the programme, 30 months after the commitment. Industry analysis put the required pace at about 174 new charging points a month to reach 10,000 by 2030, more than were built in all of 2025. The second emissions reduction plan attributes only about 0.01 Mt of emissions budget 2 reductions to EV charging.",
+   "status": "not-delivered",
+   "statusReason": "No chargers had been delivered and no contracts signed at 30 months. The required build rate is now far above the current national rate.",
+   "keyNumber": "10,000 public chargers by 2030 ($257m) -> 0 delivered under the programme and 0 contracts signed as at March 2026",
+   "evidenceUrls": [
+    "https://b2bnews.co.nz/news/nz-ev-charger-rollout-stalls-30-months-zero-contracts-signed/",
+    "https://environment.govt.nz/assets/publications/climate-change/ERP2/New-Zealands-second-emissions-reduction-plan-Amended-January-2026.pdf"
+   ],
+   "contested": true,
+   "contestedNote": "The Government argues the 2030 deadline is still four years away and that contracts are imminent, so the promise remains live. On the evidence to date nothing has been built under the programme, and the required monthly build rate now exceeds anything achieved."
+  },
+  {
+   "id": "climate-national-agriculture-out-of-ets",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 election commitment to keep agriculture out of the ETS",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/519248/coalition-exempts-farmers-from-ets-sets-up-fresh-working-group",
+   "promise": "Keep agriculture out of the Emissions Trading Scheme and remove the legislated 2025 backstop that would have brought farm emissions into it.",
+   "whatHappened": "On 11 June 2024 Ministers announced agriculture would be permanently removed from the ETS before 1 January 2025. The Climate Change Response Act was amended to strip out the processor-level backstop for farmers, meat and dairy processors and fertiliser companies. He Waka Eke Noa was disbanded and replaced with a Pastoral Sector Group, alongside $400 million over four years for emissions-reduction technology and $50.5 million over five years for the Agricultural Greenhouse Gas Research Centre. The January 2026 amendment to the second emissions reduction plan then confirmed the Government would not proceed with an on-farm agricultural emissions pricing system by 2030 at all.",
+   "status": "delivered",
+   "statusReason": "Agriculture was legislated out of the ETS within the promised timeframe and the backstop removed.",
+   "keyNumber": "Agriculture out of the ETS -> legislated before 1 Jan 2025; $400m over 4 years for mitigation technology",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/agriculture-come-out-ets",
+    "https://environment.govt.nz/assets/publications/climate-change/ERP2/New-Zealands-second-emissions-reduction-plan-Amended-January-2026.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "climate-nzf-stop-ets-review",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023: \"Stop the current review of the ETS system to restore confidence and certainty\"",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Stop the previous government's review of the Emissions Trading Scheme, to restore confidence and certainty to the carbon market.",
+   "whatHappened": "The ETS review begun under Labour was halted early in the term, and the Government stated the ETS would remain its main emissions-reduction tool. Market confidence did not follow. All four quarterly auctions failed to attract a single bid in 2025, the second calendar year of complete auction failure after 2023, with secondary-market units trading around $40 against a $68 auction reserve. Brokers attributed the collapse in participation to policy signals. These included the November 2025 decision to de-couple ETS settings from New Zealand's Paris commitments, the lowered methane target and weakened reporting requirements.",
+   "status": "partly",
+   "statusReason": "The review was stopped as promised. On the auction evidence, the stated purpose of restoring carbon-market confidence and certainty has not been achieved.",
+   "keyNumber": "Stop ETS review to restore certainty -> review stopped; all 4 auctions in 2025 failed to sell a single unit",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/country/580730/emissions-trading-scheme-year-s-final-auction-fails-to-sell-a-single-carbon-unit",
+    "https://www.climatecommission.govt.nz/our-work/monitoring/emissions-reduction-monitoring/erm-2025"
+   ],
+   "contested": true,
+   "contestedNote": "The Government's reading is that the commitment was simply to end the review, which it did. Critics measure it against the agreement's own stated purpose of restoring market confidence, which the failed auctions suggest has not happened."
+  },
+  {
+   "id": "climate-nzf-methane-mitigation-incentives",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023, incentivise uptake of emissions reduction mitigations such as low methane genetics and low methane feed",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Encourage the uptake of on-farm emissions reduction mitigations, such as low-methane genetics and low-methane animal feed, rather than pricing farm emissions.",
+   "whatHappened": "Alongside removing agriculture from the ETS in June 2024, the Government committed $400 million over four years to speed up commercialisation of emissions-reduction tools, including methane inhibitors, vaccines and low-methane breeding. It added $50.5 million over five years for the Agricultural Greenhouse Gas Research Centre. In October 2025 it confirmed there would be no methane tax and a technology-and-partnership approach instead. As at 2026 no methane inhibitor or vaccine is in widespread commercial on-farm use in New Zealand pasture systems, and the Climate Change Commission's 2025 monitoring report lists agriculture among the areas needing additional policy.",
+   "status": "partly",
+   "statusReason": "Substantial research and commercialisation funding was delivered, but uptake incentives have not yet produced measurable on-farm methane reductions.",
+   "keyNumber": "Incentivise low-methane technology -> $400m over 4 years plus $50.5m over 5 years committed",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/agriculture-come-out-ets",
+    "https://www.climatecommission.govt.nz/our-work/monitoring/emissions-reduction-monitoring/erm-2025"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "climate-act-methane-target-review",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023, maintain a split-gas approach and review the methane science and targets in 2024 for consistency with no additional warming",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Keep a split-gas approach to methane and carbon dioxide through to 2050. Review the methane science and targets in 2024 for consistency with no additional warming from agricultural methane emissions.",
+   "whatHappened": "An independent methane science and target review panel was appointed in 2024. It reported that a 14-24 percent reduction below 2017 levels by 2050 would be consistent with no additional warming from agricultural methane. On 13 October 2025 the Government announced it would adopt that range. That lowered the Zero Carbon Act target from 24-47 percent to 14-24 percent by 2050, left the 2030 target unchanged and ruled out a methane tax. The Climate Change Commission's own 2024 review of the 2050 target had recommended a different basis, advising that New Zealand should aim to be carbon negative by 2050 to be consistent with the Paris 1.5C goal. The split-gas structure was retained throughout.",
+   "status": "delivered",
+   "statusReason": "The split-gas approach was maintained, and the review was carried out and acted on. The decision came in October 2025 rather than in 2024.",
+   "keyNumber": "Methane target reviewed for no additional warming -> target cut from 24-47% to 14-24% below 2017 levels by 2050",
+   "evidenceUrls": [
+    "https://thespinoff.co.nz/politics/14-10-2025/the-new-lowered-methane-targets-explained",
+    "https://www.sciencemediacentre.co.nz/2025/10/13/nzs-new-targets-to-manage-its-methane-emissions-expert-reaction/",
+    "https://www.climatecommission.govt.nz/our-work/advice-to-government-topic/review-of-the-2050-emissions-target/2024-review-of-the-2050-emissions-target/final-report/executive-summary-2050-target-and-isa"
+   ],
+   "contested": true,
+   "contestedNote": "The Government and farm sector groups say the new range implements the agreement's \"no additional warming\" test using independent science. The Climate Change Commission and climate scientists argue \"no additional warming\" locks in existing warming and is not aligned with the Paris temperature goal, making the change a weakening of the 2050 target."
+  },
+  {
+   "id": "climate-act-repeal-offshore-oil-gas-ban",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023: \"Repeal the ban on offshore oil and gas exploration\"",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Repeal the ban on offshore oil and gas exploration.",
+   "whatHappened": "The Labour Government announced on 12 April 2018 that it would grant no new offshore oil and gas exploration permits, leaving 30 existing permits untouched. The Crown Minerals Amendment Bill was introduced on 24 September 2024 and passed its third reading on 31 July 2025, receiving royal assent on 5 August 2025. The Act removed the offshore exploration ban and changed the purpose of the Crown Minerals Act 1991 from managing to promoting the use of Crown minerals. It also created a Tier 3 permit regime for small-scale gold mining and replaced the trailing decommissioning liability model with ministerial discretion. Of 5,524 select committee submissions, 94.5 percent opposed the bill. A first offshore exploration permit off Taranaki followed the repeal.",
+   "status": "delivered",
+   "statusReason": "The ban was repealed by Act of Parliament within the term.",
+   "keyNumber": "Repeal 2018 offshore exploration ban -> repealed by Crown Minerals Amendment Act 2025, royal assent 5 Aug 2025",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Crown_Minerals_Amendment_Act_2025",
+    "https://www.nzpam.govt.nz/nz-industry/crown-minerals-act-law-changes"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "climate-act-on-farm-sequestration-offsets",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023: \"Enable farmers and landowners to offset sequestration against their on-farm emissions\"",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Let farmers and landowners offset on-farm sequestration (such as riparian planting, shelter belts and scattered vegetation) against their on-farm emissions.",
+   "whatHappened": "Agriculture was removed from the ETS in 2024 and no farm-level pricing system was created, so there is no compliance obligation for on-farm sequestration to be offset against. The January 2026 amendment to the second emissions reduction plan confirmed the Government would not implement an on-farm agricultural emissions pricing system by 2030. That ended the pathway that would have required recognising on-farm sequestration. Work continued on recognising additional sequestration categories such as blue carbon under the separate NZ First commitment, but no offsetting mechanism for farm emissions exists.",
+   "status": "not-delivered",
+   "statusReason": "No on-farm offsetting mechanism was created. The decision not to price farm emissions removed the framework it would have operated in.",
+   "keyNumber": "On-farm sequestration offsetting -> no mechanism in place; on-farm pricing abandoned in Jan 2026",
+   "evidenceUrls": [
+    "https://environment.govt.nz/assets/publications/climate-change/ERP2/New-Zealands-second-emissions-reduction-plan-Amended-January-2026.pdf",
+    "https://www.beehive.govt.nz/release/agriculture-come-out-ets"
+   ],
+   "contested": true,
+   "contestedNote": "The Government's view is that the commitment is moot and satisfied in practice, because farmers now face no pricing obligation at all. On a literal reading, the specific mechanism ACT negotiated, recognising on-farm sequestration against on-farm emissions, was never built."
+  }
+ ]
+}

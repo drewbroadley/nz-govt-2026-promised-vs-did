@@ -1,0 +1,319 @@
+{
+ "areaKey": "foreign",
+ "areaLabel": "Foreign Affairs & Defence",
+ "areaBlurb": "Across both eras New Zealand governments promised more trade agreements and better-equipped armed forces: Labour concluded deals with the UK, EU and China and re-equipped the air force, while the National-led coalition signed an FTA with India, committed to lifting defence spending above 2 percent of GDP and stopped short of joining AUKUS Pillar Two.",
+ "promises": [
+  {
+   "id": "foreign-nzfirst-defence-procurement-review",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, item 27, re-examine the Defence procurement programme within the context of the 2016 Defence Capability Plan budget",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Re-examine the Defence procurement programme within the context of the 2016 Defence Capability Plan budget.",
+   "whatHappened": "Defence Minister Ron Mark ran a full policy and capability review in the 2017-2020 term. It produced the Strategic Defence Policy Statement 2018 and the Defence Capability Plan 2019, a roughly $20 billion programme of investment to 2030. Two major replacements were locked in. Four Boeing P-8A Poseidon maritime patrol aircraft were announced in July 2018 and formally ordered in March 2019 for about US$1.46 billion. Five Lockheed Martin C-130J-30 Hercules were selected in June 2019, with the sale confirmed in June 2020 for about US$1.4 billion. The P-8As were delivered between December 2022 and July 2023. The C-130J-30s arrived from 8 August 2024, with all five in service by 19 December 2024.",
+   "status": "delivered",
+   "statusReason": "The procurement programme was reviewed and rebuilt into a published capability plan, and the two largest replacement purchases were committed inside the term.",
+   "keyNumber": "2016 plan re-examined -> $20b Defence Capability Plan 2019, 4 P-8As and 5 C-130Js ordered",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+    "https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon",
+    "https://en.wikipedia.org/wiki/Lockheed_Martin_C-130J_Super_Hercules"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "foreign-nzfirst-russia-customs-union-fta",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, item 60, work towards a Free Trade Agreement with the Russia-Belarus-Kazakhstan Customs Union",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Work towards a free trade agreement with the Russia-Belarus-Kazakhstan Customs Union.",
+   "whatHappened": "Negotiations with the Customs Union had been suspended since 2014 over Russia's annexation of Crimea, and were never resumed during the 2017-2020 term. No round of talks was held and no agreement was concluded. The commitment did not carry into the 2020-2023 term after NZ First left Parliament. After Russia's full-scale invasion of Ukraine in February 2022, New Zealand instead legislated sanctions against Russia. No such agreement appears among New Zealand's free trade agreements.",
+   "status": "not-delivered",
+   "statusReason": "Talks were never restarted, and no agreement or negotiating round resulted from the commitment.",
+   "keyNumber": "FTA with Russia-Belarus-Kazakhstan promised -> 0 negotiating rounds, no agreement",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Free_trade_agreements_of_New_Zealand",
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "foreign-labour-uk-fta",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour-led Government trade agenda, conclude a comprehensive free trade agreement with the United Kingdom after Brexit",
+   "sourceUrl": "https://en.wikipedia.org/wiki/New_Zealand%E2%80%93United_Kingdom_Free_Trade_Agreement",
+   "promise": "Negotiate and bring into force a comprehensive free trade agreement with the United Kingdom.",
+   "whatHappened": "Negotiations opened with a first virtual round on 13-24 July 2020. Terms were concluded on 20 October 2021, the agreement was signed on 28 February 2022, and New Zealand ratified it in March 2022. It entered into force on 31 May 2023, eliminating tariffs on 99.5 percent of New Zealand exports to the UK, including meat, butter and cheese. The estimated economic benefit was in the order of $970 million. In the first twelve months of operation the UK was New Zealand's fastest growing export market.",
+   "status": "delivered",
+   "statusReason": "The agreement was negotiated, signed, ratified and in force before the end of the term.",
+   "keyNumber": "UK FTA -> in force 31 May 2023, tariffs removed on 99.5 percent of NZ exports",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/New_Zealand%E2%80%93United_Kingdom_Free_Trade_Agreement",
+    "https://en.wikipedia.org/wiki/Free_trade_agreements_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "foreign-labour-eu-fta",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour-led Government trade agenda, conclude a high-quality free trade agreement with the European Union",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Foreign_relations_of_New_Zealand",
+   "promise": "Conclude a comprehensive free trade agreement with the European Union.",
+   "whatHappened": "Negotiations ran through the term and concluded in mid-2022. The agreement was signed in July 2023, shortly before the general election. It had not been ratified by the European Parliament or entered into force at the October 2023 handover. It took effect on 1 May 2024, under the successor government, giving New Zealand exporters duty-free or preferential access across most product lines. Dairy and beef access was limited to quotas that New Zealand negotiators had sought to expand.",
+   "status": "largely",
+   "statusReason": "The agreement was negotiated and signed within the term. But entry into force and the resulting benefits fell after the handover, and agricultural access was narrower than sought.",
+   "keyNumber": "EU FTA -> signed July 2023, in force 1 May 2024",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Foreign_relations_of_New_Zealand",
+    "https://en.wikipedia.org/wiki/Free_trade_agreements_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "foreign-labour-cptpp-renegotiation",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 manifesto and campaign commitments on the Trans-Pacific Partnership, preserve the right to ban foreign purchases of existing homes and curb investor-state dispute settlement",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Comprehensive_and_Progressive_Agreement_for_Trans-Pacific_Partnership",
+   "promise": "Sign the Trans-Pacific Partnership only on terms that keep New Zealand's ability to ban overseas buyers from buying existing homes, and that limit investor-state dispute settlement.",
+   "whatHappened": "The renamed CPTPP was signed in Santiago on 8 March 2018. A set of the original TPP's investor-state dispute settlement provisions was suspended, and New Zealand negotiated side letters with several parties that further limited ISDS. New Zealand ratified on 25 October 2018 and the agreement entered into force for New Zealand on 30 December 2018. The Overseas Investment Amendment Act 2018 took effect on 22 October 2018, before entry into force. It classified existing residential land as sensitive and barred most non-resident overseas buyers, with Australian and Singaporean buyers exempt under earlier agreements. The United Kingdom later acceded, signing on 16 July 2023 at the CPTPP Commission meeting in Auckland. Its accession entered into force on 15 December 2024.",
+   "status": "largely",
+   "statusReason": "The housing ban was kept and put in place before entry into force, and ISDS was suspended and further limited by side letters. But ISDS was suspended rather than removed, and the rest of the agreement carried over largely unchanged.",
+   "keyNumber": "CPTPP -> signed 8 Mar 2018, in force for NZ 30 Dec 2018, ISDS provisions suspended",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Comprehensive_and_Progressive_Agreement_for_Trans-Pacific_Partnership",
+    "https://en.wikipedia.org/wiki/Overseas_Investment_Amendment_Act_2018"
+   ],
+   "contested": true,
+   "contestedNote": "The Government argued it had materially changed the deal by suspending ISDS, securing side letters, and legislating the foreign buyer ban in time. Critics, including the Green Party and trade campaigners, argued the suspensions could be revived and that side letters covered only some partners. On their reading, the agreement was in substance the deal Labour had opposed in opposition."
+  },
+  {
+   "id": "foreign-labour-china-fta-upgrade",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour-led Government trade agenda, complete the upgrade of the 2008 New Zealand-China free trade agreement",
+   "sourceUrl": "https://en.wikipedia.org/wiki/China%E2%80%93New_Zealand_relations",
+   "promise": "Complete and sign an upgrade of the 2008 New Zealand-China free trade agreement to improve access for New Zealand exporters.",
+   "whatHappened": "An initial upgrade was concluded in November 2019, easing Chinese restrictions on New Zealand wood and paper products. New Zealand and China signed the full upgrade protocol on 26 January 2021. It removed or reduced tariffs on dairy, timber and seafood lines, and modernised rules of origin and services commitments. China removed its remaining dairy safeguard tariffs on 1 January 2024, worth an estimated $330 million a year. Two-way trade reached NZ$37.9 billion in 2023, making China New Zealand's largest trading partner. The same period also saw public friction over Huawei's exclusion from 5G, Hong Kong, Xinjiang and cyber attribution statements.",
+   "status": "delivered",
+   "statusReason": "The upgrade was negotiated and signed within the term, and delivered the tariff outcomes sought.",
+   "keyNumber": "China FTA upgrade -> signed 26 Jan 2021; all dairy tariffs gone 1 Jan 2024",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/China%E2%80%93New_Zealand_relations",
+    "https://en.wikipedia.org/wiki/Free_trade_agreements_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "foreign-nzfirst-defence-2-percent-gdp",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto, progressively increase real Defence spending to reach 2% of GDP by 2030",
+   "sourceUrl": "https://www.nzfirst.nz/2023_policies",
+   "promise": "Progressively increase real defence spending to reach 2 percent of GDP by 2030.",
+   "whatHappened": "On 7 April 2025 Defence Minister Judith Collins released the Defence Capability Plan 2025. It committed NZ$12 billion over four years and set a path to lift defence spending above 2 percent of GDP, from a base of roughly 1 percent. Budget 2025 funded NZ$2.7 billion of capability uplift, including NZ$2 billion for new maritime helicopters. Budget 2026, delivered on 28 May 2026, added NZ$2.3 billion of capital and NZ$1.2 billion of operating funding for defence and intelligence. That included NZ$158 million for military drones and naval fleet maintenance. Purchases confirmed under the plan include five MH-60R Seahawk helicopters and two Airbus A321XLR transports. These were announced on 21 August 2025 under a six-year lease-to-buy arrangement worth about NZ$700 million, with delivery in 2028. The published trajectory reaches 2 percent over about eight years rather than by 2030.",
+   "status": "in-progress",
+   "statusReason": "Large funding increases and a formal path above 2 percent are in place. But spending had not reached 2 percent as at August 2026, and the official timetable runs past 2030.",
+   "keyNumber": "2 percent of GDP by 2030 promised -> about 1 percent at the start of the term, $12b four-year plan announced April 2025",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/New_Zealand_Defence_Force",
+    "https://en.wikipedia.org/wiki/Judith_Collins",
+    "https://en.wikipedia.org/wiki/2026_New_Zealand_budget"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "foreign-nzfirst-defence-capital-fund",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto, establish a permanent, ring-fenced Defence Capital Fund as part of the Budget",
+   "sourceUrl": "https://www.nzfirst.nz/2023_policies",
+   "promise": "Establish a permanent, ring-fenced Defence Capital Fund within the Budget to fund defence capability and estate procurement.",
+   "whatHappened": "Defence capital has instead been funded through the ordinary Budget process and the four-year Defence Capability Plan 2025. Budget 2025 and Budget 2026 each carried large defence capital allocations. That was NZ$2.7 billion of capability funding in 2025, and NZ$2.3 billion of capital funding for defence and intelligence in 2026. These came as separate budget appropriations rather than a standing ring-fenced fund. No permanent Defence Capital Fund appears in the Budget documents for either year.",
+   "status": "not-delivered",
+   "statusReason": "Defence capital was funded generously, but through normal appropriations. The specific permanent ring-fenced fund promised was not established.",
+   "keyNumber": "Permanent ring-fenced Defence Capital Fund promised -> not established; funding via four-year plan and annual Budgets",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/2026_New_Zealand_budget",
+    "https://en.wikipedia.org/wiki/New_Zealand_Defence_Force"
+   ],
+   "contested": true,
+   "contestedNote": "NZ First can argue the substance was achieved. A multi-year, publicly committed capital programme now exists in the Defence Capability Plan 2025, with $12 billion of funding over four years. The counter-reading is that the promise was specifically institutional: a permanent fund ring-fenced from Budget-by-Budget decisions. No such vehicle has been created, leaving defence capital exposed to future fiscal rounds."
+  },
+  {
+   "id": "foreign-nzfirst-defence-command-paper",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto, instruct NZDF uniformed staff to deliver a tri-service Defence Command Paper setting long-term size, structure and equipment needs",
+   "sourceUrl": "https://www.nzfirst.nz/2023_policies",
+   "promise": "Instruct NZDF uniformed staff to deliver a tri-service Defence Command Paper setting out the long-term size, structure and equipment needs of the Defence Force.",
+   "whatHappened": "The Government produced the Defence Capability Plan 2025, released on 7 April 2025. It sets out a four-year, NZ$12 billion investment programme and longer-term capability intentions across the three services, including maritime helicopters, air transport, strike capability, uncrewed systems and estate. It was published as a ministerial capability plan rather than as a separately branded tri-service command paper written by uniformed staff. The period also exposed the pressures the paper was meant to address. HMNZS Manawanui grounded and sank off Samoa on 5 October 2024, the first Royal New Zealand Navy vessel lost in peacetime. An inquiry found human error. Budget 2025 wrote off NZ$77 million, including NZ$32 million for salvage and clean-up. Three officers were confirmed for court martial on 2 March 2026. The ship was not replaced, and HMNZS Otago absorbed its duties. Retention measures included two rounds of NZ$10,000 payments for critical trades, NZ$490 million of housing investment at Waiouru, and relaxed entry standards to lift recruitment.",
+   "status": "largely",
+   "statusReason": "A long-term capability document covering all three services was delivered early in the term, though not in the specific form the manifesto described.",
+   "keyNumber": "Tri-service command paper promised -> Defence Capability Plan 2025 released 7 April 2025, $12b over four years",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/New_Zealand_Defence_Force",
+    "https://en.wikipedia.org/wiki/Royal_New_Zealand_Navy",
+    "https://en.wikipedia.org/wiki/2026_in_New_Zealand"
+   ],
+   "contested": true,
+   "contestedNote": "One reading is that the Defence Capability Plan 2025 is the promised document in substance: a tri-service statement of size, structure and equipment with funding attached. The other is that the promise was about process as much as content. It required uniformed leadership, rather than ministers and officials, to set out what New Zealand needs, and no document of that description was published."
+  },
+  {
+   "id": "foreign-nzfirst-us-fta",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto, continue work towards a full free trade agreement with the United States",
+   "sourceUrl": "https://www.nzfirst.nz/2023_policies",
+   "promise": "Continue work towards a full free trade agreement with the United States.",
+   "whatHappened": "No negotiations were launched. On trade, the relationship moved the other way. In April 2025 the United States imposed a 10 percent tariff on New Zealand exports as part of its Liberation Day tariff package. On 1 August 2025 an executive order raised the rate to 15 percent. Trade Minister Todd McClay said New Zealand would engage with Washington to seek changes. On 14 November 2025 the United States lifted tariffs on more than 200 food products, including beef, offal and kiwifruit. Those products are worth about NZ$2.21 billion a year to New Zealand exporters. No free trade agreement or negotiating mandate existed as at August 2026.",
+   "status": "not-delivered",
+   "statusReason": "No FTA negotiations with the United States were begun. New US tariffs on New Zealand goods dominated the period instead.",
+   "keyNumber": "US FTA sought -> no negotiations; 10 percent US tariff Apr 2025 rising to 15 percent Aug 2025",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/New_Zealand%E2%80%93United_States_relations",
+    "https://en.wikipedia.org/wiki/Free_trade_agreements_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "foreign-nzfirst-commonwealth-economic-relations",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto, launch Closer Commonwealth Economic Relations with the UK, Australia, Canada, Singapore, Malaysia and Brunei",
+   "sourceUrl": "https://www.nzfirst.nz/2023_policies",
+   "promise": "Launch a Closer Commonwealth Economic Relations agreement with the United Kingdom, Australia, Canada, Singapore, Malaysia and Brunei, with India and other Commonwealth states invited as associates.",
+   "whatHappened": "No Commonwealth economic agreement was launched or negotiated. Trade integration with those partners went through existing structures instead. The United Kingdom acceded to the CPTPP, with its accession in force from 15 December 2024. New Zealand hosted the CPTPP Commission in Auckland on 20-21 November 2025. New agreements concluded in the term were bilateral or regional rather than Commonwealth-wide. They were the Gulf Cooperation Council FTA in October 2024, the UAE comprehensive economic partnership signed on 13 January 2025, and the India FTA signed in April 2026. No CCER framework appears among New Zealand's agreements or negotiations as at August 2026.",
+   "status": "not-delivered",
+   "statusReason": "The proposed Commonwealth grouping was never launched. Trade liberalisation with those countries went through existing agreements instead.",
+   "keyNumber": "6-country Commonwealth agreement promised -> not launched",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Free_trade_agreements_of_New_Zealand",
+    "https://en.wikipedia.org/wiki/Comprehensive_and_Progressive_Agreement_for_Trans-Pacific_Partnership",
+    "https://en.wikipedia.org/wiki/Todd_McClay"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "foreign-nzfirst-pacific-reset-indo-pacific",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto, deepen the Pacific Reset to the greater Indo-Pacific region",
+   "sourceUrl": "https://www.nzfirst.nz/2023_policies",
+   "promise": "Deepen the Pacific Reset into engagement with the wider Indo-Pacific, in recognition of the region's importance to New Zealand's security and wellbeing.",
+   "whatHappened": "Foreign Minister Winston Peters ran an intensive programme of Pacific travel between May and August 2024, and continued into 2026. He signed an aid renewal statement with Kiribati in Tarawa on 19 January 2026. Funding announcements included NZ$6.2 million in climate and disaster support for the Marshall Islands in August 2024, and resumed NZ$1 million annual UNRWA funding in June 2024. Budget 2026 allocated NZ$110 million for international development assistance with an emphasis on the Pacific, plus NZ$145 million to protect diplomatic and trade missions. Indo-Pacific security engagement widened. New Zealand signed a visiting forces agreement with the Philippines on 30 April 2025. It also continued exploratory talks on AUKUS Pillar Two, after the partners said in September 2024 they were consulting New Zealand on maritime autonomous systems. New Zealand did not join. The reset also met resistance. New Zealand publicly objected to the Cook Islands' strategic partnership with China, signed on 14 February 2025 without consultation. It also objected to Chinese naval exercises in the Tasman Sea in February 2025.",
+   "status": "largely",
+   "statusReason": "Pacific and Indo-Pacific engagement clearly deepened in diplomacy, defence agreements and aid. But New Zealand's influence in the Pacific was visibly contested, and aid funding remained modest.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Winston_Peters",
+    "https://en.wikipedia.org/wiki/2026_New_Zealand_budget",
+    "https://en.wikipedia.org/wiki/2026_in_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "foreign-national-india-trade-agreements",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023, as an export dependent nation, prioritise free and fair trade agreements, including with India",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Prioritise free and fair trade agreements, including a free trade agreement with India.",
+   "whatHappened": "Prime Minister Christopher Luxon and Trade Minister Todd McClay led a delegation to India from 15 to 19 March 2025. The two governments agreed to open negotiations in April 2025. On 22 December 2025 they announced they would sign in 2026. They signed the New Zealand-India Free Trade Agreement in New Delhi in late April 2026 (27 April India time, 28 April New Zealand time). It eliminates tariffs on 95 percent of New Zealand exports, including kiwifruit, apples, meat, wool, coal and forestry, and gives duty-free access for Indian exports. It also includes an investment commitment of NZ$20 billion over two decades. Most dairy products are excluded from tariff elimination. Other agreements concluded in the term were the Gulf Cooperation Council FTA in October 2024 and the UAE comprehensive economic partnership signed on 13 January 2025. The UAE agreement cuts tariffs on 98.5 percent of New Zealand exports to the UAE.",
+   "status": "delivered",
+   "statusReason": "An India FTA was launched and signed within the term, alongside two other new agreements, matching the commitment.",
+   "keyNumber": "India FTA -> negotiations opened April 2025, signed April 2026, tariffs removed on 95 percent of NZ exports",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/India%E2%80%93New_Zealand_relations",
+    "https://en.wikipedia.org/wiki/Todd_McClay",
+    "https://en.wikipedia.org/wiki/2026_in_New_Zealand"
+   ],
+   "contested": true,
+   "contestedNote": "The Government presents the agreement as delivering the commitment in full. Dairy exporters and some trade analysts note that dairy, New Zealand's largest export category, is largely carved out of tariff elimination. On that reading the deal delivers the promised agreement but not the market access the sector had sought. The agreement was also signed rather than in force as at August 2026."
+  },
+  {
+   "id": "foreign-national-aukus-pillar-two",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National's stated position on AUKUS Pillar Two entering government, set out by Prime Minister Christopher Luxon during his December 2023 visit to Sydney",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Christopher_Luxon",
+   "promise": "Keep New Zealand's nuclear-free policy while exploring participation in the non-nuclear second pillar of AUKUS, covering advanced technology co-operation.",
+   "whatHappened": "Luxon affirmed the nuclear-free policy and said New Zealand was open to joining the non-nuclear pillar during his December 2023 visit to Sydney. Australia's Defence Minister Richard Marles confirmed in February 2024 that Australian officials would brief New Zealand counterparts on Pillar Two. In September 2024 the AUKUS partners said they were consulting New Zealand, Canada and South Korea about collaboration on advanced capabilities, naming maritime autonomous systems as an initial area. As at August 2026 New Zealand had not joined Pillar Two, and no decision to do so had been announced. Domestic support narrowed over the period. Labour had opened the exploration in 2023 under Defence Minister Andrew Little. It reversed position in February 2024, and its associate foreign affairs spokesperson described AUKUS as an offensive warfighting alliance.",
+   "status": "in-progress",
+   "statusReason": "Exploration and consultation continued through the term exactly as described. But no participation decision had been made as at August 2026, and the promise was to explore rather than to join.",
+   "keyNumber": "AUKUS Pillar Two -> exploratory consultations only, no participation decision by Aug 2026",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/AUKUS",
+    "https://en.wikipedia.org/wiki/Christopher_Luxon",
+    "https://en.wikipedia.org/wiki/Winston_Peters"
+   ],
+   "contested": true,
+   "contestedNote": "Supporters of the Government say the commitment was only ever to explore Pillar Two. They say consultations with the AUKUS partners show it has been honoured without compromising the nuclear-free policy. Critics argue that nearly three years of exploration with no decision either way amounts to drift. Opponents of AUKUS say any participation would erode New Zealand's independent foreign policy. On their reading, the absence of a decision is the outcome they sought rather than delivery of a promise."
+  },
+  {
+   "id": "foreign-act-defence-spending-boost",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "manifesto",
+   "sourceDoc": "ACT 2023 election fiscal plan, proposed defence spending boosts, revised on 21 September 2023 to delay tax cuts and the defence increase after the pre-election fiscal update",
+   "sourceUrl": "https://en.wikipedia.org/wiki/2023_New_Zealand_general_election",
+   "promise": "Increase defence spending as part of ACT's alternative budget, after deferring the planned increase in its revised fiscal plan of 21 September 2023.",
+   "whatHappened": "The coalition government ACT joined committed NZ$12 billion over four years in the Defence Capability Plan 2025, released on 7 April 2025. The plan states a path to lift defence spending above 2 percent of GDP. Budget 2025 provided NZ$2.7 billion of capability funding, including NZ$2 billion for maritime helicopters. Budget 2026 added NZ$2.3 billion of capital and NZ$1.2 billion of operating funding for defence and intelligence. The increases came in the second half of the term rather than at its start, consistent with the deferral ACT itself signalled before the election.",
+   "status": "in-progress",
+   "statusReason": "Defence funding has risen sharply under the government ACT is part of. But the build-up runs beyond the current term, and the party's original commitment carried no firm target date.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Judith_Collins",
+    "https://en.wikipedia.org/wiki/2026_New_Zealand_budget"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-nzf-un-national-interest-test",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National. NZ First Coalition Agreement, 24 November 2023 (Strengthening Democracy and Freedoms)",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Run a 'National Interest Test' before New Zealand accepts any agreement from the UN or its agencies that limits national decision-making. By 1 December 2023, reserve against the proposed amendments to the World Health Organization's International Health Regulations.",
+   "whatHappened": "New Zealand lodged a reservation against the proposed WHO International Health Regulations amendments in late 2023, while a national interest assessment was carried out. The World Health Assembly adopted a further package of IHR amendments on 1 June 2024. New Zealand did not accept them, and formally told the WHO Director-General of its rejection on 16 March 2026, invoking Article 61. That made it one of a small number of countries to reject the package outright. On 16 May 2025 Foreign Minister Winston Peters and Health Minister Simeon Brown announced a full national interest test on the draft WHO Pandemic Agreement. It would be run before New Zealand made any commitment. Peters said 'decisions about how New Zealand responds to any health emergency are made in Wellington, not Geneva'. Newsroom reported in 2026 that officials had advised in favour of the IHR amendments before ministers rejected them.",
+   "status": "delivered",
+   "statusReason": "The national interest test was created and applied to the WHO instruments named in the agreement. Both the reservation and the later rejection were lodged.",
+   "keyNumber": "Reservation due by 1 Dec 2023 -> lodged; 2024 IHR amendments formally rejected 16 March 2026",
+   "evidenceUrls": [
+    "https://www.health.govt.nz/strategies-initiatives/programmes-and-initiatives/emergency-management/pandemics/strengthening-global-pandemic-prevention-preparedness-and-response/international-health-regulations",
+    "https://www.rnz.co.nz/news/political/561236/government-to-run-full-national-interest-test-on-world-health-pandemic-treaty",
+    "https://www.nzfirst.nz/nz_rejects_ihr_amendments"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  }
+ ]
+}

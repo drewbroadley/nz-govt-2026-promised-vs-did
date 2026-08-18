@@ -1,0 +1,393 @@
+{
+ "areaKey": "primary",
+ "areaLabel": "Primary Industries",
+ "areaBlurb": "The 2017-2023 government layered new freshwater, emissions and animal welfare rules onto farming while trying to design a farm-level emissions price, and the 2023 coalition campaigned on unwinding much of that regulation, protecting farmland from carbon forestry and doubling export earnings.",
+ "promises": [
+  {
+   "id": "primary-labour-on-farm-freshwater-rules",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, priority 47, higher water quality standards for urban and rural",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Set higher water quality standards for rural as well as urban waterways, using measurements that take account of seasonal differences.",
+   "whatHappened": "The Essential Freshwater package was gazetted and came into force on 3 September 2020. It included the National Policy Statement for Freshwater Management 2020, the National Environmental Standards for Freshwater, stock exclusion regulations and amended water measurement and reporting rules. On-farm, this brought stock exclusion from waterways on a staged timetable, consent or permitted-activity rules for intensive winter grazing, and freshwater farm plans under a new Part 9A of the Resource Management Act. Farmers were given 18 months to get a certified plan once regulations started in their region. Rollout was slower than the design. Plans had started in only five regions (Waikato, Southland, West Coast, Otago and Manawatu-Whanganui) by the change of government, and independent tracking of the coalition agreement records the water quality commitment as only partially implemented.",
+   "status": "partly",
+   "statusReason": "The rules were made and came into force. The on-farm instruments were still being phased in region by region when the term ended.",
+   "keyNumber": "Higher rural water standards -> NPS-FM 2020, NES-Freshwater and stock exclusion rules in force 3 Sept 2020; farm plans started in 5 regions by 2023",
+   "evidenceUrls": [
+    "https://environment.govt.nz/assets/publications/npsfm-2020-amended-december-2025.pdf",
+    "https://www.russellmcveagh.com/insights-news/fresh-updates-in-the-freshwater-space/",
+    "https://www.beehive.govt.nz/release/freshwater-farm-plan-systems-be-improved"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-labour-biosecurity-funding",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, priority 4, increase MPI Biosecurity New Zealand resourcing",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Increase the resourcing of Biosecurity New Zealand within the Ministry for Primary Industries.",
+   "whatHappened": "Biosecurity New Zealand's resourcing was increased across the term, and independent tracking of the 2017 coalition agreement records this priority as fully implemented. The system was tested heavily during the period by the Mycoplasma bovis eradication programme and border restrictions. The following government continued to fund biosecurity responses, including foot and mouth disease preparedness exercises and the H5 bird flu response in 2026.",
+   "status": "delivered",
+   "statusReason": "Recorded as fully implemented in independent tracking of the coalition agreement.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+    "https://www.beehive.govt.nz/release/big-step-forward-mbovis-programme"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-nzf-biosecurity-inquiry",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, priority 4a. Select Committee inquiry into biosecurity",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Hold a Select Committee inquiry into biosecurity.",
+   "whatHappened": "No Select Committee inquiry into biosecurity was held. Independent tracking of the 2017 coalition agreement records this priority as not implemented. The associated commitment to increase Biosecurity New Zealand's resourcing was implemented.",
+   "status": "not-delivered",
+   "statusReason": "Recorded as not implemented. The inquiry never took place.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-nzf-forestry-service",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, priority 3, re-establish the New Zealand Forestry Service",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Re-establish a New Zealand Forestry Service, located in regional New Zealand.",
+   "whatHappened": "Te Uru Rākau (Forestry New Zealand) was established as a business unit within the Ministry for Primary Industries, with its head office in Rotorua. Independent tracking of the coalition agreement records the priority as fully implemented. It administered the associated One Billion Trees programme, which had 149,399,000 trees planted by May 2020.",
+   "status": "delivered",
+   "statusReason": "The agency was created and located in a regional centre as promised.",
+   "keyNumber": "Re-establish a Forestry Service -> Te Uru Rākau established, based in Rotorua",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-nzf-aquaculture-growth",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, priority 6, recognise the potential for aquaculture",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Recognise and promote the potential of aquaculture as a driver of regional economic growth.",
+   "whatHappened": "The Government released an aquaculture strategy setting a goal of a $3 billion aquaculture industry by 2035, and independent tracking of the coalition agreement records the priority as fully implemented. The sector continued to be supported by later governments, including fast-tracked open ocean salmon farming approval in August 2026 and longer marine farming permit durations.",
+   "status": "delivered",
+   "statusReason": "The strategy the commitment called for was published within the term. The $3 billion figure is a 2035 goal, not a term commitment.",
+   "keyNumber": "Aquaculture strategy -> published, targeting a $3 billion industry by 2035",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+    "https://www.beehive.govt.nz/release/open-ocean-salmon-farm-fast-tracked"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-nzf-farm-debt-mediation",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, priority 7, examination of agricultural debt mediation",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Examine agricultural debt mediation, along with receivership fees and charges.",
+   "whatHappened": "The Farm Debt Mediation Bill was passed and received Royal assent in December 2019. It created a compulsory mediation scheme before a secured creditor can take enforcement action against a farm business. Independent tracking of the coalition agreement records the priority as fully implemented.",
+   "status": "delivered",
+   "statusReason": "The commitment was to examine the issue and it produced legislation within the term.",
+   "keyNumber": "Examine farm debt mediation -> Farm Debt Mediation Act passed, Royal assent December 2019",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-nzf-crown-irrigation",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, priority 5, honour existing Crown Irrigation investment commitments",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Honour the Crown's existing irrigation investment commitments.",
+   "whatHappened": "Existing Crown Irrigation Investments commitments were honoured, while no new government funding for large irrigation schemes was provided. Independent tracking of the coalition agreement records the priority as fully implemented. This sat directly against the Labour-Green confidence and supply agreement, which committed to 'winding down Government support for irrigation'.",
+   "status": "delivered",
+   "statusReason": "Existing commitments were honoured, which is what the agreement required.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+    "https://www.interest.co.nz/sites/default/files/embedded_images/Labour%20and%20Green%20Party%20Confidence%20and%20Supply%20Agreement.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-greens-agriculture-emissions-assistance",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Confidence and Supply Agreement 2017",
+   "sourceUrl": "https://www.interest.co.nz/sites/default/files/embedded_images/Labour%20and%20Green%20Party%20Confidence%20and%20Supply%20Agreement.pdf",
+   "promise": "Provide assistance to the agricultural sector to reduce biological emissions and improve water quality, and to shift to more diverse and sustainable land use including more forestry.",
+   "whatHappened": "Agriculture was kept out of the reformed Emissions Trading Scheme in October 2019 in favour of the He Waka Eke Noa primary sector partnership. A legislated backstop would have brought processors into the ETS from 2025 if no alternative was agreed. He Waka Eke Noa reported in 2022 and the Government proposed a farm-level split-gas levy in October 2022. But no farm emissions pricing system was in force when Labour left office in October 2023. Support did flow through research and mitigation programmes and through the One Billion Trees planting programme. The incoming coalition then disbanded He Waka Eke Noa in 2024 and removed agriculture from the ETS entirely. In the January 2026 amendment to the second emissions reduction plan, it confirmed it would not introduce on-farm emissions pricing by 2030.",
+   "status": "partly",
+   "statusReason": "Research, planting and partnership assistance were delivered, but the pricing and land-use transition the commitment pointed to never took effect.",
+   "keyNumber": "Farm-level emissions pricing designed under He Waka Eke Noa -> no pricing system in force by Oct 2023; scheme disbanded in 2024",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/country/476451/he-waka-eke-noa-government-proposes-farm-level-system-by-2025",
+    "https://www.rnz.co.nz/news/political/519248/coalition-exempts-farmers-from-ets-sets-up-fresh-working-group",
+    "https://www.beehive.govt.nz/release/agriculture-come-out-ets"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-greens-wind-down-irrigation-support",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Confidence and Supply Agreement 2017",
+   "sourceUrl": "https://www.interest.co.nz/sites/default/files/embedded_images/Labour%20and%20Green%20Party%20Confidence%20and%20Supply%20Agreement.pdf",
+   "promise": "Improve water quality and prioritise achieving healthy rivers, lakes and aquifers, with stronger regulatory instruments, funding for freshwater enhancement and a wind-down of Government support for irrigation.",
+   "whatHappened": "The regulatory side was delivered through the Essential Freshwater package, in force from 3 September 2020. It introduced Te Mana o te Wai and a hierarchy putting the health of water bodies first, together with stock exclusion rules and freshwater farm plans. Government support for irrigation was not wound down in the way the agreement implied. The parallel Labour-NZ First coalition agreement committed to honouring existing Crown Irrigation investment commitments, and that commitment was recorded as fully implemented. Freshwater enhancement funding was provided through Jobs for Nature and catchment programmes.",
+   "status": "partly",
+   "statusReason": "Stronger freshwater regulation and enhancement funding arrived. The irrigation wind-down was constrained by a competing commitment in the other coalition agreement.",
+   "keyNumber": "Wind down support for irrigation -> existing Crown Irrigation commitments honoured in full",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+    "https://environment.govt.nz/assets/publications/npsfm-2020-amended-december-2025.pdf",
+    "https://www.russellmcveagh.com/insights-news/fresh-updates-in-the-freshwater-space/"
+   ],
+   "contested": true,
+   "contestedNote": "The Greens can point to the 2020 freshwater rules as the strongest regulatory instruments ever applied to farming. Critics of the claim note that the commitment to wind down irrigation support was cut across by the NZ First commitment to honour existing Crown irrigation investments, which was implemented in full."
+  },
+  {
+   "id": "primary-national-reverse-live-export-ban",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023 (the same commitment appears in the National-ACT agreement)",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Reverse the recent ban on live animal exports while ensuring the highest standards of animal welfare.",
+   "whatHappened": "On 27 June 2024 the Government said it would consult before September 2024, take Cabinet decisions by the end of 2024 and introduce legislation amending the Animal Welfare Act 1999 in early 2025. By 20 November 2024 the timetable had shifted. Officials would engage with industry and animal welfare groups over November and December 2024, a discussion document would be released for public comment in 2025, and legislative proposals would go to a select committee during 2025. Ministers said exports would only restart once strengthened welfare standards were in effect, and that exports for slaughter, stopped in 2007, would not resume. The trade was valued at $374 million in 2022. No announcement that livestock exports by sea had resumed had been made as at August 2026.",
+   "status": "partly",
+   "statusReason": "Consultation and policy work proceeded. But the ban had not been lifted and the trade had not resumed nearly three years into the term.",
+   "keyNumber": "Reverse the live export ban -> legislation timetable slipped from early 2025; exports had not resumed by Aug 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/government-progressing-commitment-reinstate-livestock-exports-sea",
+    "https://www.beehive.govt.nz/release/government-continues-work-reinstate-livestock-exports-sea"
+   ],
+   "contested": true,
+   "contestedNote": "The Government's position is that the reversal is on track and deliberately sequenced behind new welfare standards, which would make this in-progress. Read against the promise itself, the ban is still in force close to three years after the commitment was signed. That reads as well short of delivery."
+  },
+  {
+   "id": "primary-nzf-luc-forestry-ets-ban",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto: 'Right tree, right place'",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4158/attachments/original/1696631089/2023-New-Zealand-First-Policy-Manifesto-1.pdf",
+   "promise": "Stop exotic planting on Land Use Capability class 1, 2, 3, 4 and 5 land from entering the Emissions Trading Scheme for carbon sequestration. The aim is to protect productive farmland from carbon farming.",
+   "whatHappened": "The policy was announced on 4 December 2024. The Climate Change Response (Emissions Trading Scheme. Forestry Conversions) Amendment Bill was introduced on 10 June 2025 and passed its first reading on 25 June 2025, with effect intended from October 2025. Exotic forestry on actively farmed LUC 1-5 land is restricted from entering the ETS. LUC 6 land is capped at 15,000 hectares of new ETS registrations a year, allocated by ballot from mid-2026 with a reserved share for small block holders. Landowners may still put up to 25 per cent of LUC 1-6 land into ETS forestry. There are transitional exemptions for investments made between 1 January 2021 and 4 December 2024, and specific protections for Māori-owned land.",
+   "status": "delivered",
+   "statusReason": "The LUC 1-5 restriction the manifesto specified was legislated, with an added annual cap on LUC 6 and a 25 per cent on-farm allowance.",
+   "keyNumber": "No exotic ETS forestry on LUC 1-5 -> legislated 2025, with LUC 6 capped at 15,000 hectares a year",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/legislation-introduced-restrict-farm-forest-conversions",
+    "https://www.beehive.govt.nz/release/protecting-nz-food-production-and-ets-credibility",
+    "https://www.beehive.govt.nz/release/farm-forest-ban-passes-first-reading"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-nzf-wool-in-government-buildings",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Direct government agencies, where practical and appropriate, to prefer woollen fibres rather than artificial fibres in government buildings.",
+   "whatHappened": "In January 2025 Kāinga Ora reopened its carpet tender to include wool suppliers, after ministers objected to woollen carpets being ruled out. The Housing Minister said at the time the Government was still 'working through the finer details' of the wool preference commitment. Separate support for the sector followed, rather than a published procurement rule. It included a government woolshed roadshow in April 2024, the reopening of a wool scouring facility in April 2024, and an export deal for wool particle technology in December 2025. On 11 June 2026 the Government announced an $8 million contribution to a $20 million Wool Source manufacturing plant in Christchurch, with capacity of one million kilograms a year.",
+   "status": "partly",
+   "statusReason": "The one clear procurement outcome was a single agency reopening a tender. Sector investment has been large, but a whole-of-government wool preference direction has not been published.",
+   "keyNumber": "Prefer wool in government buildings -> Kāinga Ora carpet tender reopened to wool Jan 2025; detailed direction still being worked through",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/ministers-welcome-k%C4%81inga-ora%E2%80%99s-revised-approach-wool-carpets",
+    "https://www.beehive.govt.nz/release/boosting-returns-kiwi-wool-growers"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-act-significant-natural-areas",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Cease the implementation of new Significant Natural Areas and seek advice on the operation of existing Significant Natural Areas.",
+   "whatHappened": "On 14 March 2024 the Government announced a three-year suspension of councils' obligation to identify new Significant Natural Areas under the National Policy Statement for Indigenous Biodiversity. It told councils they no longer needed to comply with the SNA provisions. The scope of a review of existing SNAs was announced on 28 August 2024. The suspension passed its third reading on 24 October 2024 as part of the first Resource Management Act amendment bill.",
+   "status": "delivered",
+   "statusReason": "Both limbs of the commitment (stopping new SNAs and reviewing existing ones) were actioned and legislated within the first year.",
+   "keyNumber": "Cease new SNAs -> three-year suspension announced 14 March 2024, legislated 24 October 2024",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/significant-natural-areas-requirement-be-suspended",
+    "https://www.beehive.govt.nz/release/suspension-new-snas-passes-its-third-reading",
+    "https://www.rnz.co.nz/news/politics/511689/government-drops-need-for-councils-to-comply-with-significant-natural-areas-provisions"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-national-freshwater-farm-plans",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023, improve Farm Environment Plans so they are more cost-effective and pragmatic for farmers",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Improve farm plans so they are more cost-effective and pragmatic for farmers, tailored to the risks on the property and catchment rather than applied broadly.",
+   "whatHappened": "On 10 April 2024 the Government announced the freshwater farm plan system would be reworked because it was 'too costly and complex, and too broadly applied'. The rollout was paused from September 2024, and Southland farmers were given more time in November 2024. The Resource Management (Consenting and Other System Changes) Amendment Act, announced as law on 20 August 2025, allowed approved industry organisations such as Horticulture New Zealand's NZGAP and Fonterra's Tiaki to certify and audit plans. It also refocused plans on actual farm risks and lifted the minimum farm size requiring a plan from 20 hectares to 50 hectares for sheep, beef, arable, orcharding and viticulture. About 8,000 smaller, lower-risk farms no longer need a plan. An improved farm plan system for Southland was announced on 18 May 2026.",
+   "status": "delivered",
+   "statusReason": "The system was legislatively rewritten along the lines promised, with a narrower scope and industry certification.",
+   "keyNumber": "Cheaper, more pragmatic farm plans -> minimum farm size lifted from 20ha to 50ha, about 8,000 farms exempted",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/freshwater-farm-plan-systems-be-improved",
+    "https://www.beehive.govt.nz/release/farming-get-easier-improved-freshwater-farm-plans",
+    "https://www.beehive.govt.nz/release/southland-farmers-benefit-under-improved-farm-plan-system"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-nzf-catchment-farm-plans-reporting",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Support Farm Environment Plans administered by regional councils and targeted at a catchment level, and adopt standardised farm level reporting.",
+   "whatHappened": "Budget 2024 provided $36 million over four years for regionally based MPI staff supporting catchment groups. It was announced on 5 June 2024, with $7 million going directly to 11 catchment groups and collectives. Further catchment group funding was announced in May 2025, and longer-term certainty for rural catchment groups was announced on 11 June 2026. On standardised reporting, the Government announced a standardised on-farm emissions measurement tool on 13 December 2024. Farm plans themselves moved away from purely council administration. The 2025 Resource Management amendment allows approved industry bodies, not only regional councils, to certify and audit freshwater farm plans.",
+   "status": "largely",
+   "statusReason": "Catchment-level support and standardised measurement were delivered, but certification was shifted partly away from regional councils rather than administered by them.",
+   "keyNumber": "Catchment-level farm plans -> $36m over four years for catchment group support announced June 2024",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/36-million-commitment-local-catchment-groups",
+    "https://www.beehive.govt.nz/release/government-delivers-standardised-emissions-measurement-tool",
+    "https://www.beehive.govt.nz/release/creating-certainty-rural-catchment-groups"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-national-double-exports",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 commitment to double the value of New Zealand's exports within a decade, as restated by the Government at Fieldays 2026",
+   "sourceUrl": "https://www.beehive.govt.nz/release/food-and-fibre-exports-set-hit-record-643-billion",
+   "promise": "Double the value of New Zealand's exports within a decade, with food and fibre exports carrying much of the growth.",
+   "whatHappened": "The Ministry for Primary Industries' June 2026 outlook forecast food and fibre export revenue of $64.3 billion for the year to 30 June 2026, up 6 per cent. That was made up of dairy at $28.6 billion (up 5 per cent) and meat and wool at $14.1 billion (up 14 per cent). Horticulture was $9.5 billion (up 7 per cent), and processed foods and other products $3.5 billion (up 5 per cent). The same forecast projects $70.1 billion by June 2030. The December 2025 forecast had been $62 billion. Trade agreements concluded in the period include the NZ-EU FTA entering into force on 1 May 2024, a Gulf Cooperation Council deal in October 2024 and a free trade agreement with India announced on 22 December 2025.",
+   "status": "in-progress",
+   "statusReason": "Export values are rising and hitting records. But the forecast growth path to 2030 is far short of doubling, and the ten-year period runs past the current term.",
+   "keyNumber": "Double exports in a decade -> food and fibre exports forecast at $64.3b for the year to June 2026, projected $70.1b by 2030",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/food-and-fibre-exports-set-hit-record-643-billion",
+    "https://www.beehive.govt.nz/release/food-and-fibre-exports-set-reach-record-62-billion",
+    "https://www.beehive.govt.nz/release/new-zealand-secures-landmark-free-trade-agreement-india"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-nzf-cut-rural-red-tape",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Cut red tape and regulatory blocks on irrigation, water storage, managed aquifer recharge and flood protection schemes.",
+   "whatHappened": "Consultation opened on 29 May 2025 on a sweeping national direction package. It covered amendments to 12 instruments and 4 new ones across infrastructure, primary sector and freshwater, with a target of 16 new or updated national direction instruments in place by the end of 2025. The primary sector package proposed removing restrictions on non-intensive grazing of beef cattle and deer in wetlands, and removing LUC 3 land from the National Policy Statement on Highly Productive Land. It also proposed streamlining aquaculture consent changes, easing forestry rules and creating special agricultural areas around horticulture hubs such as Pukekohe and Horowhenua. Updated national direction for natural hazards and highly productive land was announced on 15 January 2026. The Natural Environment Bill and Planning Bill replacing the Resource Management Act were reported back from select committee in July 2026, with the Agriculture Minister calling it a significant step for the primary sector.",
+   "status": "partly",
+   "statusReason": "A large deregulation programme is well advanced but the central resource management replacement was still before Parliament as at August 2026.",
+   "keyNumber": "Cut rural red tape -> 12 national direction instruments amended and 4 new ones proposed from May 2025; RMA replacement bills still in Parliament in Aug 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/consultation-opens-sweeping-overhaul-primary-sector-regulations",
+    "https://www.beehive.govt.nz/release/updated-national-direction-natural-hazards-and-highly-productive-land",
+    "https://www.beehive.govt.nz/release/select-committee-report-natural-environment-bill-and-planning-bill-welcomed"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-national-rse-cap",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 horticulture policy, as summarised in RNZ's guide to party policy",
+   "sourceUrl": "https://www.rnz.co.nz/programmes/news-extras/story/2018902030/election-2023-rnz-s-guide-to-party-policy",
+   "promise": "Double the cap on Recognised Seasonal Employer workers to give horticulture and viticulture a bigger seasonal workforce.",
+   "whatHappened": "An RSE modernisation package was announced on 28 July 2026. It includes a graduated accreditation system recognising employers with a strong track record, and more flexibility for workers to move between employers with added safeguards. It also sets clearer rules on recoverable transport, insurance and accommodation costs, and adds internet access to accommodation standards. The changes are staged from early 2027 through to 2029. The Government's own statement records about 17,000 RSE workers a year across 207 accredited employers, alongside horticulture export growth from $2.5 billion in 2007 to nearly $9 billion. No doubling of the scheme's cap has been announced.",
+   "status": "partly",
+   "statusReason": "The scheme was reviewed and reworked but the published intake remains at about 17,000 a year, nowhere near double.",
+   "keyNumber": "Double the RSE cap -> about 17,000 RSE workers a year as at July 2026, scheme changes staged 2027-2029",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/simpler-clearer-more-effective-rse-scheme",
+    "https://www.beehive.govt.nz/release/new-zealand-horticulture-sector-set-reach-record-high"
+   ],
+   "contested": true,
+   "contestedNote": "Read strictly, no doubling of the cap has been announced and annual intake remains around 17,000. Read generously, RSE settings have been reworked to expand employer capacity, and the changes do not take effect until 2027-2029, so the outcome is not yet measurable."
+  },
+  {
+   "id": "primary-nzf-bycatch-review",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto, fisheries",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4158/attachments/original/1696631089/2023-New-Zealand-First-Policy-Manifesto-1.pdf",
+   "promise": "Review the suitability of the systems dealing with by-catch within the Quota Management System, while retaining the QMS itself.",
+   "whatHappened": "The Government consulted on a wider package of commercial fishing rule changes, including a proposal to let commercial fishers retain and sell 19 non-quota reef fish species taken as bycatch. The consultation drew more than 22,000 submissions. On 19 March 2026 the Oceans and Fisheries Minister decided to keep the existing ban, in place since 1993, saying he had weighed the costs and benefits along with feedback from recreational fishers and the public. Further decisions from the same consultation were still to be announced, including proposed changes to the deemed value regime consulted on in January 2026.",
+   "status": "largely",
+   "statusReason": "The bycatch review the manifesto promised was carried out with public consultation and produced ministerial decisions. Parts of the package remain undecided.",
+   "keyNumber": "Review bycatch systems -> consultation drew over 22,000 submissions; retention ban on 19 reef fish species kept, 19 March 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/ban-retaining-reef-fish-bycatch-remains",
+    "https://www.beehive.govt.nz/release/changes-proposed-deemed-value-fish"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "primary-nzf-forestry-slash",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Amend the National Environmental Standards for Plantation Forestry to place a duty on harvesters to contain and remove post-harvest slash.",
+   "whatHappened": "Forestry rules were folded into the wider national direction programme consulted on from 29 May 2025, which included reducing inefficiencies in forestry regulation. They were also folded into the Resource Management Act replacement bills reported back from select committee in July 2026. Slash management in the worst-affected region remained an active problem. On 17 August 2026 the Government appointed a facilitator to restore confidence in Tairawhiti forestry. A specific standalone duty on harvesters to contain and remove slash had not been separately announced as in force by August 2026.",
+   "status": "in-progress",
+   "statusReason": "The change is being carried inside a wider resource management rewrite still before Parliament rather than delivered as a standalone amendment.",
+   "keyNumber": "",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/consultation-opens-sweeping-overhaul-primary-sector-regulations",
+    "https://www.beehive.govt.nz/release/government-appoints-facilitator-restore-confidence-tair%C4%81whiti-forestry"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  }
+ ]
+}

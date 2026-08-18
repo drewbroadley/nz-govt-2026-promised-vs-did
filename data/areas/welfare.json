@@ -1,0 +1,373 @@
+{
+ "areaKey": "welfare",
+ "areaLabel": "Child Poverty & Welfare",
+ "areaBlurb": "Labour came to office promising to legislate child poverty targets and lift incomes for families and beneficiaries, while the 2023 coalition campaigned on tightening benefit obligations, indexing benefits to prices instead of wages and moving people off Jobseeker Support into work.",
+ "promises": [
+  {
+   "id": "welfare-labour-families-package-best-start",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 Families Package campaign policy factsheet",
+   "sourceUrl": "https://img.scoop.co.nz/media/pdfs/1707/Families_Package_factsheet.pdf",
+   "promise": "Cancel National's legislated April 2018 tax threshold cuts and replace them with a Families Package. It included a Best Start payment of $60 a week for every child under one, extended to age three for low and middle income families and reaching nearly 60,000 families a year, a higher Family Tax Credit, and Working for Families extended to 30,000 more families.",
+   "whatHappened": "The Families Package (Income Tax and Benefits) Act passed in December 2017. Accommodation Supplement and Accommodation Benefit changes took effect on 1 April 2018. The Winter Energy Payment, Best Start payment and the Working for Families changes started on 1 July 2018. Best Start was paid at $60 a week per child, not income tested in the child's first year and income tested for years two and three. MSD's own material put the package's direct reach at about 1.025 million people from the Winter Energy Payment alone: 275,000 beneficiaries plus 750,000 superannuitants and veterans. Working for Families was simplified to two rates, $101.98 and $91.25 a week.",
+   "status": "delivered",
+   "statusReason": "Legislated within weeks of taking office and paid at the promised rates and dates.",
+   "keyNumber": "Best Start $60 a week per child under three -> legislated Dec 2017, first payments 1 July 2018",
+   "evidenceUrls": [
+    "https://www.msd.govt.nz/about-msd-and-our-work/newsroom/2017/families-package-qas.html",
+    "https://www.interest.co.nz/news/88733/families-young-children-and-pensioners-main-beneficiaries-labours-families-package",
+    "https://www.treasury.govt.nz/publications/information-release/families-package-information-release"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-labour-winter-energy-payment",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 Winter Energy Payment factsheet",
+   "sourceUrl": "https://img.scoop.co.nz/media/pdfs/1707/Winter_Energy_Payment_factsheet.pdf",
+   "promise": "Pay a Winter Energy Payment of $450 a year to single superannuitants and beneficiaries and $700 a year to couples and people with dependent children, automatically and without application, reaching about one million New Zealanders.",
+   "whatHappened": "The payment began on 1 July 2018 for a 13 week winter period, then ran for 22 weeks from 1 May in later years. The rates were as promised: $450 for single people with no dependent children and $700 for couples or single people with dependants. It is paid automatically with New Zealand Superannuation, Veteran's Pension and main benefits, at a budgeted cost of $1.81 billion over four years. It has been paid every winter since, and the next government retained it.",
+   "status": "delivered",
+   "statusReason": "Paid at the promised rates, to the promised group, from the promised date, and still in place.",
+   "keyNumber": "$450 single / $700 couples, about 1 million people -> paid from 1 July 2018, $1.81b over four years",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/winter-energy-payments-keep-million-kiwis-warm-and-healthy",
+    "https://www.msd.govt.nz/about-msd-and-our-work/newsroom/2017/families-package-qas.html",
+    "https://www.motu.nz/our-research/population-and-labour/individual-and-group-outcomes/impact-winter-energy-payment"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-greens-welfare-overhaul",
+   "era": "labour",
+   "party": "Greens",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-Green Confidence and Supply Agreement 2017",
+   "sourceUrl": "https://www.interest.co.nz/sites/default/files/embedded_images/Labour%20and%20Green%20Party%20Confidence%20and%20Supply%20Agreement.pdf",
+   "promise": "Overhaul the welfare system, ensure access to entitlements, remove excessive sanctions and review Working for Families. The aim is that everyone has a standard of living and income that enables them to live in dignity and participate in their communities, and that lifts children and their families out of poverty.",
+   "whatHappened": "Sanction use fell sharply across the two terms. The incoming coalition later cited 60,588 sanctions applied in 2017 against 25,329 in 2023. From 1 April 2020 main benefits were indexed to net average wage growth rather than to prices, a change the next government reversed in February 2024. No comprehensive replacement of the welfare system was legislated. Labour was still offering Working for Families settings as an unfulfilled election promise in 2023. Over the same period the number of people on Jobseeker Support rose by roughly 70,000, on the figures used by the incoming government.",
+   "status": "partly",
+   "statusReason": "Sanctions fell and indexation was made more generous. But the promised system overhaul and Working for Families rewrite did not happen within the two terms.",
+   "keyNumber": "Remove excessive sanctions -> sanctions applied fell from 60,588 in 2017 to 25,329 in 2023",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/government-begins-reset-welfare-system",
+    "https://www.beehive.govt.nz/release/cost-living-support-beneficiary-households"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-nzf-super-age-65-2017",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, superannuation eligibility age",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Keep the age of eligibility for New Zealand Superannuation at 65.",
+   "whatHappened": "The eligibility age was not changed at any point in the 2017-2023 period, and no legislation to raise it was introduced. Independent tracking of the 2017 coalition agreement records the superannuation age commitment as fully implemented as at July 2020. NZ First then secured the identical commitment in writing again from National in 2023. The National-NZ First coalition agreement states 'Keep the superannuation age at 65'.",
+   "status": "delivered",
+   "statusReason": "The age stayed at 65 for the whole term, which is exactly what the commitment required.",
+   "keyNumber": "Superannuation age 65 -> unchanged at 65 across both terms",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+    "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-nzf-supergold-smartcard-2017",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement 2017, SuperGold smartcard",
+   "sourceUrl": "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+   "promise": "Introduce a SuperGold smartcard with expanded discounts and concessions for cardholders.",
+   "whatHappened": "A new SuperGold website and app were launched in October 2019, offering discounts and concessions from about 5,500 businesses. Independent tracking of the coalition agreement records the commitment as fully implemented. The card itself was not converted into a chipped smartcard during the term. That step was announced only in May 2026 under the following government, with rollout expected from October 2028.",
+   "status": "largely",
+   "statusReason": "The discount network and digital platform were delivered, but the smartcard itself did not eventuate within the term.",
+   "keyNumber": "SuperGold smartcard -> website and app launched Oct 2019 covering about 5,500 businesses",
+   "evidenceUrls": [
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf",
+    "https://www.beehive.govt.nz/release/supergold-card-being-upgraded"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-labour-wff-2023",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2023 campaign policy announcement, 13 August 2023",
+   "sourceUrl": "https://www.labour.org.nz/news-release_cost_living_gst",
+   "promise": "Raise the Working for Families in-work tax credit by $25 a week from 1 April 2024, and lift the Working for Families abatement threshold to $50,000 from 1 April 2026.",
+   "whatHappened": "Labour lost the October 2023 election and never introduced the policy. The incoming National government legislated the same $25 a week increase to the in-work tax credit in Budget 2024, lifting it from $72.50 to $97.50 a week from 31 July 2024. The abatement threshold was not raised to $50,000. The next government adjusted Working for Families income thresholds, but not to the level Labour promised.",
+   "status": "not-delivered",
+   "statusReason": "The promising party left office before implementing any part of it, though its successor later legislated the in-work tax credit component.",
+   "keyNumber": "In-work tax credit +$25 a week from 1 April 2024 -> not delivered by Labour; legislated by National from 31 July 2024",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/election-2023/495698/labour-promises-to-remove-gst-from-fruit-and-vegetables-boost-working-for-families",
+    "https://www.beehive.govt.nz/release/responsible-tax-relief-squeezed-middle"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-national-cpi-indexation",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 welfare policy, as summarised in RNZ's guide to party policy",
+   "sourceUrl": "https://www.rnz.co.nz/programmes/news-extras/story/2018902030/election-2023-rnz-s-guide-to-party-policy",
+   "promise": "Index main benefit increases to the consumer price index rather than to net average wage growth.",
+   "whatHappened": "A bill restoring CPI indexation of main benefits was introduced under urgency on 14 February 2024. It reversed the previous government's 2019 decision to index to net average wage growth. The government put the saving at $669.5 million across the forecast period to 2027/28. The first adjustment under the restored basis took effect on 1 April 2024. It lifted New Zealand Superannuation by $71.08 a fortnight for couples and $46.20 for singles, Jobseeker Support for couples with children by $56.48, and sole parent rates by $44.02. It affected about 1.4 million people, including 909,000 superannuitants and veterans and 371,000 working-age beneficiaries.",
+   "status": "delivered",
+   "statusReason": "Legislated under urgency within three months of taking office and applied from the first annual adjustment.",
+   "keyNumber": "CPI indexation restored -> legislated Feb 2024, $669.5m saved across the forecast period to 2027/28",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/cost-living-support-beneficiary-households",
+    "https://www.beehive.govt.nz/release/cost-living-support-over-14-million-kiwis"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-national-traffic-light-sanctions",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 welfare policy (traffic light system for Jobseeker Support), as summarised in RNZ's guide to party policy",
+   "sourceUrl": "https://www.rnz.co.nz/programmes/news-extras/story/2018902030/election-2023-rnz-s-guide-to-party-policy",
+   "promise": "Introduce a traffic light system for Jobseeker Support beneficiaries, with benefit reductions or community work after repeated failures to meet obligations. Add job check-ins and contracted job coaching for under-25s.",
+   "whatHappened": "The welfare reset was announced on 19 February 2024. Mandatory work check-ins for job seekers on benefit six months or more began in June 2024, covering about 2,500 extra people a month at a cost of $1.2 million a year. The traffic light system took effect on 12 August 2024. It brought six-monthly Jobseeker reapplication, jobseeker profiles before benefit approval, the obligation-failure tracking window extended from 12 to 24 months, and new money management and community work experience sanctions from early 2025. Two further non-financial sanctions started on 20 October 2025: reporting three job-search activities a week, and five hours a week of upskilling. Support measures included phone-based case management for 4,000 18-24 year olds and 2,100 extra community job coaching places. By October 2025 the government reported fewer than 2 per cent of job seekers at the orange or red settings.",
+   "status": "delivered",
+   "statusReason": "The system was legislated and operating with the promised sanctions and obligations, on the promised design.",
+   "keyNumber": "Traffic light system -> live 12 Aug 2024; under 2 percent of job seekers at orange or red by Oct 2025",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/green-light-welfare-works",
+    "https://www.beehive.govt.nz/release/government-begins-reset-welfare-system",
+    "https://www.beehive.govt.nz/release/welfare-sanctions-expand-job-searches-upskilling"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-act-money-management-sanctions",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT Coalition Agreement 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/actnz/mailings/6945/attachments/original/National_ACT_Agreement.pdf",
+   "promise": "Implement sanctions, including electronic money management, for beneficiaries who can work but refuse to take agreed steps to find a job.",
+   "whatHappened": "The money management sanction puts half of a person's benefit onto a restricted payment card usable only for essentials. It was announced as part of the Welfare that Works package on 12 August 2024 and took effect in early 2025, alongside a community work experience sanction. The number of sanctions applied rose. About 3,700 were applied in June 2024, roughly 97 per cent of them to Jobseeker Support recipients, mostly for missed appointments and inadequate job-search preparation. Two further non-financial sanctions were added on 20 October 2025.",
+   "status": "delivered",
+   "statusReason": "Electronic money management was legislated and is operating as a sanction, as the agreement specified.",
+   "keyNumber": "Electronic money management sanction -> in force from early 2025; about 3,700 sanctions applied in June 2024",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/green-light-welfare-works",
+    "https://www.beehive.govt.nz/release/welfare-sanctions-expand-job-searches-upskilling"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-national-jobseeker-target",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Government Targets published by DPMC, set April 2024",
+   "sourceUrl": "https://www.dpmc.govt.nz/our-programmes/government-targets",
+   "promise": "Have 50,000 fewer people on the Jobseeker Support benefit, taking the number from a December 2023 baseline of 140,000 down to 90,000 by 2030.",
+   "whatHappened": "DPMC's March 2026 target factsheet records 215,200 people on Jobseeker Support against the December 2023 baseline of 140,000, and rates the target 'At Risk'. It notes that the most recent quarter fell by 8,300, with 1,400 more exits into employment than the year before. Ministers have emphasised benefit exits rather than the stock. In the year to June 2026 there were 86,544 exits from a main benefit into work, 5,772 more than the previous year, and 20,775 exits in the June 2025 quarter alone.",
+   "status": "in-progress",
+   "statusReason": "The target date is 2030, so it remains live. But the measured number has moved away from the target, and DPMC itself rates it At Risk.",
+   "keyNumber": "50,000 fewer on Jobseeker by 2030 -> 215,200 recorded at March 2026, target rated At Risk",
+   "evidenceUrls": [
+    "https://www.dpmc.govt.nz/sites/default/files/2026-06/gt-factsheet-target-5-mar26.pdf",
+    "https://www.beehive.govt.nz/release/latest-figures-continue-year-year-increase-jobseekers-finding-work"
+   ],
+   "contested": true,
+   "contestedNote": "On the government's framing, the target runs to 2030 and the latest quarter moved in the right direction, so it is still live. On the published measure, the Jobseeker population at March 2026 is well above the December 2023 baseline rather than 50,000 below it, and the government's own monitoring rates it At Risk."
+  },
+  {
+   "id": "welfare-nzf-jobseeker-two-year-limit",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4158/attachments/original/1696631089/2023-New-Zealand-First-Policy-Manifesto-1.pdf",
+   "promise": "Make two years the lifetime entitlement for the JobSeeker WorkReady benefit, a change the party said would affect roughly 99,000 people.",
+   "whatHappened": "The lifetime limit did not carry into the National-NZ First coalition agreement. That agreement commits only to 'Strengthen obligations on Jobseeker work ready beneficiaries to find work and make use of sanctions for non-compliance with work obligations, and consider time limits for under 25s'. No lifetime entitlement limit has been legislated. The government instead built the traffic light obligations and sanctions regime, and six-monthly reapplication for Jobseeker Support.",
+   "status": "superseded",
+   "statusReason": "The manifesto's hard two-year lifetime cap was replaced in the coalition agreement by a weaker commitment to consider time limits for under-25s only.",
+   "keyNumber": "Two-year lifetime Jobseeker entitlement -> reduced in the coalition agreement to 'consider time limits for under 25s'",
+   "evidenceUrls": [
+    "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+    "https://www.beehive.govt.nz/release/green-light-welfare-works"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-nzf-jobseeker-obligations",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Strengthen obligations on Jobseeker work ready beneficiaries to find work, make use of sanctions for non-compliance with work obligations, and consider time limits for under 25s.",
+   "whatHappened": "Obligations were tightened in several ways: mandatory work check-ins from June 2024, the traffic light system from 12 August 2024, six-monthly reapplication for Jobseeker Support, a requirement to create a jobseeker profile before a benefit is approved, and the obligation-failure window extended from 12 to 24 months. New money management, community work experience, job-search reporting and upskilling sanctions followed between early 2025 and October 2025. No time limit on Jobseeker Support for under-25s had been introduced as at August 2026. The government instead funded phone-based case management for 4,000 18-24 year olds.",
+   "status": "largely",
+   "statusReason": "The obligations and sanctions half of the commitment was fully delivered. The time-limit element was only ever to be 'considered', and it has not produced a policy change.",
+   "keyNumber": "Stronger obligations and sanctions -> delivered from Aug 2024; no under-25 time limit as at Aug 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/green-light-welfare-works",
+    "https://www.beehive.govt.nz/release/welfare-sanctions-expand-job-searches-upskilling"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-national-familyboost",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 manifesto / 'Back Pocket Boost' tax plan, 30 August 2023",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/496895/national-s-tax-plan-and-costings-what-you-need-to-know",
+   "promise": "Introduce FamilyBoost, a childcare tax rebate of up to $150 a fortnight (25 per cent of early childhood fees). It abates from $140,000 of household income and cuts out at $180,000, reaching about 130,000 households.",
+   "whatHappened": "FamilyBoost began on 1 July 2024, administered by Inland Revenue on a claim-back basis. Take-up was well below the forecast. About 60,000 families had claimed by mid-2025, and only 249 families consistently received the maximum payment. Roughly a quarter of the money spent to May 2025 went on administration. In July 2025 the rebate was lifted from 25 to 40 per cent of fees and the income cap raised from $180,000 to $229,000. Inland Revenue projected about 16,000 extra claimants and about 92,000 in total. Ministers had earlier said the payment would give up to 130,000 families as much as $75 a week extra after tax.",
+   "status": "partly",
+   "statusReason": "The payment exists and was later made more generous. But it reached well under half the households promised, and very few received the advertised maximum.",
+   "keyNumber": "Up to $150 a fortnight for about 130,000 households -> about 60,000 families claiming by mid-2025, 249 on the full amount",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/politics/566156/familyboost-payment-increased-income-limit-raised",
+    "https://www.1news.co.nz/2025/05/14/nearly-a-quarter-of-familyboost-money-spent-on-admin/",
+    "https://www.beehive.govt.nz/release/greater-focus-work-will-reduce-child-poverty"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-national-child-hardship-targets",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Child and Youth Strategy targets announced by the Minister for Child Poverty Reduction, 13 December 2024",
+   "sourceUrl": "https://www.beehive.govt.nz/release/government-sets-target-reduce-persistent-poverty",
+   "promise": "Lift 17,000 more children out of material hardship by 2027 compared with 2023. Cut persistent child poverty from 9.4 per cent (98,900 children in the year to June 2023) to 8 per cent by 2035, lifting about 15,000 children out of persistent poverty.",
+   "whatHappened": "The persistent poverty target was announced on 13 December 2024 and was the first of its kind set by a New Zealand government. On the annual measures, the year to June 2023 showed 12.5 per cent of children (143,700) in material hardship, 17.5 per cent (202,100) in poverty after housing costs and 12.6 per cent (146,000) before housing costs, each worse than the year before. The year to June 2024, reported in February 2025, showed 13.4 per cent (156,600) in material hardship, 17.7 per cent (208,000) after housing costs and 12.7 per cent (149,900) before housing costs. The government stated that none of the three changes was statistically significant against 2022/23.",
+   "status": "in-progress",
+   "statusReason": "The targets run to 2027 and 2035 and remain live. But the latest published data show material hardship higher than the 2023 baseline, rather than 17,000 children lower.",
+   "keyNumber": "17,000 fewer children in material hardship by 2027 -> 156,600 children (13.4%) in material hardship in the year to June 2024, up from 143,700",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/child-poverty-statistics-show-challenges-remain",
+    "https://www.beehive.govt.nz/release/greater-focus-work-will-reduce-child-poverty"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-nzf-supergold-rates-rebate",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "manifesto",
+   "sourceDoc": "New Zealand First 2023 Policy Manifesto",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4158/attachments/original/1696631089/2023-New-Zealand-First-Policy-Manifesto-1.pdf",
+   "promise": "Give SuperGold Card holders who own and live in their only home a 50 per cent local authority rates rebate of up to $1,600 a year. Also give them two free doctor's visits a year, including an annual eye test.",
+   "whatHappened": "Budget 2025 created a separate income abatement threshold in the Rates Rebate Scheme for SuperGold cardholders from 1 July 2025. It lifted the threshold for the maximum rebate from $31,510 to $45,000, and the maximum rebate itself from $790 to $805 a year. It cost $154 million over four years and made about 66,000 more cardholders eligible. That is a targeted expansion of the existing rebate rather than a 50 per cent rebate capped at $1,600. The two free doctor's visits and annual eye test have not been introduced.",
+   "status": "partly",
+   "statusReason": "Rates relief for SuperGold holders was materially expanded, but at roughly half the promised cap and on a different basis, and the free GP visits did not happen.",
+   "keyNumber": "50 percent rates rebate up to $1,600 -> maximum rebate lifted to $805 with a $45,000 threshold from 1 July 2025",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/rates-relief-66000-more-supergold-cardholders",
+    "https://www.beehive.govt.nz/release/rate-rebate-scheme-assist-ratepayers"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-nzf-supergold-upgrade",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Upgrade the SuperGold Card and Veterans Card to maximise their potential benefit for all cardholders.",
+   "whatHappened": "A SuperGold Information Hub went live on 1 October 2024. On 28 May 2026 the government announced the card would be upgraded to work as an official form of identification. It would carry an optional photograph and security features meeting bank standards, in physical and digital form, and be free to holders. It is funded with $36.4 million operating and $6.5 million capital over four years, and covers more than 900,000 people aged 65 and over. Rollout is expected to begin in October 2028, after the current parliamentary term. In the meantime cardholders can have a photo added at AA offices.",
+   "status": "in-progress",
+   "statusReason": "The upgrade has been designed and funded, but does not reach cardholders until October 2028, well beyond the term in which it was promised.",
+   "keyNumber": "Upgrade SuperGold Card -> $42.9m committed May 2026, card rollout scheduled to start Oct 2028",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/supergold-card-being-upgraded",
+    "https://www.beehive.govt.nz/release/supergold-information-hub-live"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "welfare-national-super-age-65",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First Coalition Agreement 2023",
+   "sourceUrl": "https://assets.nationbuilder.com/nzfirst/pages/4462/attachments/original/1700784896/National___NZF_Coalition_Agreement_signed_-_24_Nov_2023.pdf",
+   "promise": "Keep the superannuation age at 65.",
+   "whatHappened": "No legislation to change the age of eligibility for New Zealand Superannuation has been introduced since November 2023. Superannuation continued to be adjusted annually. The 1 April 2024 adjustment lifted payments by $71.08 a fortnight for couples and $46.20 for single superannuitants, across 909,000 superannuitants and veterans. This commitment reversed National's own earlier policy of lifting the age of eligibility, and matched the position NZ First had secured from Labour in 2017.",
+   "status": "delivered",
+   "statusReason": "The commitment was to leave the age unchanged, and it has been left unchanged for the whole term to date.",
+   "keyNumber": "Superannuation age 65 -> unchanged as at August 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/cost-living-support-over-14-million-kiwis",
+    "https://www.mcguinnessinstitute.org/wp-content/uploads/2025/03/WP202007-202009-AnalysisOfThe2017Labour-FINAL.pdf"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-national-benefit-indexation-cpi",
+   "era": "national",
+   "party": "National",
+   "sourceType": "manifesto",
+   "sourceDoc": "National 2023 fiscal plan",
+   "sourceUrl": "https://www.rnz.co.nz/news/political/499024/election-2023-national-party-fiscal-plan-promises-lower-taxes-disciplined-government-spending",
+   "promise": "Save about $2 billion over the forecast period by returning the indexation of main benefits to inflation rather than average wage growth.",
+   "whatHappened": "The Social Security (Benefits Adjustment) and Income Tax (Minimum Family Tax Credit) Amendment Bill was introduced and passed under urgency in February 2024. It amended the Social Security Act 2018 so that main benefits are adjusted by movements in the Consumers Price Index rather than by average wage growth. The change applied from the annual general adjustment on 1 April 2024, when main benefits rose by 4.66 per cent in line with CPI. It reversed a change Labour had made in 2019 to index main benefits to wages.",
+   "status": "delivered",
+   "statusReason": "The indexation change was legislated in the Government's first months and took effect on 1 April 2024, as costed in the fiscal plan.",
+   "keyNumber": "About $2b of forecast savings -> CPI indexation legislated Feb 2024, in force 1 April 2024 (4.66% adjustment)",
+   "evidenceUrls": [
+    "https://www.msd.govt.nz/documents/about-msd-and-our-work/publications-resources/information-releases/cabinet-papers/2024/annual-general-adjustment-2024/paper-annual-general-adjustment-2024.pdf",
+    "https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20240213_20240214_08"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "gapfill-national-labour-income-insurance-scheme",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour manifesto commitment on social unemployment insurance, as cited by Finance Minister Grant Robertson on 20 May 2021",
+   "sourceUrl": "https://www.beehive.govt.nz/release/building-stronger-support-workers-post-covid",
+   "promise": "Develop a social unemployment insurance scheme. Workers who lose their job would keep about 80 per cent of their income for a period while they look for work or retrain.",
+   "whatHappened": "Grant Robertson announced the scheme on 20 May 2021, saying it delivered on a commitment in Labour's manifesto. It was developed through a tripartite forum with BusinessNZ and the Council of Trade Unions. A discussion document was released on 2 February 2022 and consultation closed on 26 April 2022, drawing 255 submissions. Enabling legislation was passed allowing ACC to begin design work. On 8 February 2023 Prime Minister Chris Hipkins put the scheme 'off the table for now' as part of a policy reprioritisation, saying 'we have to recognise that there isn't the public support for this scheme at the moment'. In September 2023 Robertson confirmed it remained on hold. No income insurance scheme was legislated or launched before the October 2023 handover.",
+   "status": "abandoned",
+   "statusReason": "The promising party explicitly shelved the scheme in February 2023, and it was never revived before the end of the term.",
+   "keyNumber": "80 per cent income replacement promised -> scheme shelved 8 February 2023, never established",
+   "evidenceUrls": [
+    "https://www.rnz.co.nz/news/political/483875/watch-tvnz-rnz-merger-scrapped-income-insurance-and-hate-speech-laws-delayed",
+    "https://www.mbie.govt.nz/have-your-say/income-insurance",
+    "https://www.nzherald.co.nz/business/personal-finance/revealed-the-huge-cost-of-the-governments-shelved-income-insurance-scheme/PCCIWVHBDVDSDIKT2VJHBV6ZHI/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  }
+ ]
+}

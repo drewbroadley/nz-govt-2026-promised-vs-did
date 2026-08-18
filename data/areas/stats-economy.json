@@ -1,0 +1,220 @@
+{
+ "indicators": [
+  {
+   "key": "cpi-inflation",
+   "label": "Annual inflation (CPI)",
+   "unit": "%",
+   "format": "percent",
+   "source": "Stats NZ",
+   "sourceUrl": "https://www.stats.govt.nz/information-releases/consumers-price-index-june-2026-quarter/",
+   "note": "Annual percentage change in the all-groups Consumers Price Index, December quarter each year, as published in that quarter's Stats NZ information release. Same point in the year every year except the last: the 2026 value is the 4.1 percent annual change in the June 2026 quarter, the latest CPI release available at August 2026, NOT a December figure. The CPI is periodically reweighted (expenditure weights are updated every three years) but the published annual-change series is treated by Stats NZ as continuous, so no break is spliced here.",
+   "higherIsBetter": false,
+   "series": [
+    {
+     "year": 2017,
+     "value": 1.6
+    },
+    {
+     "year": 2018,
+     "value": 1.9
+    },
+    {
+     "year": 2019,
+     "value": 1.9
+    },
+    {
+     "year": 2020,
+     "value": 1.4
+    },
+    {
+     "year": 2021,
+     "value": 5.9
+    },
+    {
+     "year": 2022,
+     "value": 7.2
+    },
+    {
+     "year": 2023,
+     "value": 4.7
+    },
+    {
+     "year": 2024,
+     "value": 2.2
+    },
+    {
+     "year": 2025,
+     "value": 3.1
+    },
+    {
+     "year": 2026,
+     "value": 4.1
+    }
+   ]
+  },
+  {
+   "key": "unemployment-rate",
+   "label": "Unemployment rate",
+   "unit": "%",
+   "format": "percent",
+   "source": "Stats NZ",
+   "sourceUrl": "https://www.stats.govt.nz/information-releases/labour-market-statistics-december-2025-quarter/",
+   "note": "Seasonally adjusted unemployment rate from the Household Labour Force Survey, December quarter each year, as reported in that quarter's Stats NZ Labour market statistics release. Same point in the year every year except the last: the 2026 value is 5.6 percent for the June 2026 quarter, the latest release available at August 2026, NOT a December figure. Each value is the figure published at the time; Stats NZ revises the HLFS series when population benchmarks are updated (most recently to 2023 Census benchmarks), so today's published back-series may differ from these figures by around a tenth of a percentage point in some quarters.",
+   "higherIsBetter": false,
+   "series": [
+    {
+     "year": 2017,
+     "value": 4.5
+    },
+    {
+     "year": 2018,
+     "value": 4.3
+    },
+    {
+     "year": 2019,
+     "value": 4.0
+    },
+    {
+     "year": 2020,
+     "value": 4.9
+    },
+    {
+     "year": 2021,
+     "value": 3.2
+    },
+    {
+     "year": 2022,
+     "value": 3.4
+    },
+    {
+     "year": 2023,
+     "value": 4.0
+    },
+    {
+     "year": 2024,
+     "value": 5.1
+    },
+    {
+     "year": 2025,
+     "value": 5.4
+    },
+    {
+     "year": 2026,
+     "value": 5.6
+    }
+   ]
+  },
+  {
+   "key": "net-core-crown-debt-gdp",
+   "label": "Net core Crown debt (% of GDP)",
+   "unit": "% of GDP",
+   "format": "percent",
+   "source": "The Treasury",
+   "sourceUrl": "https://www.treasury.govt.nz/publications/year-end/financial-statements-2025",
+   "note": "Net core Crown debt, excluding the New Zealand Superannuation Fund and core Crown advances, as a percentage of nominal GDP, as at 30 June of each fiscal year. Figures are taken from the Financial Statements of the Government: 2017 and 2018 from the 2018 statements, 2019 and 2020 from the 2020 statements, 2021 and 2022 from the 2022 statements, 2023 and 2024 from the 2024 statements, 2025 from the 2025 statements. This is ONE measure throughout; the broader 'net debt' indicator adopted as the primary fiscal anchor in Budget 2022 (which includes NZS Fund assets, advances and Crown entity borrowing, and is roughly 15-20 percentage points lower) is a different measure and is deliberately NOT mixed in here. Ratios are restated when Stats NZ revises nominal GDP: 30 June 2024 was published as 42.5 percent in the 2024 statements and restated to 41.8 percent in the 2025 statements; the as-published figure is used. No 2026 value: the Financial Statements for the year ended 30 June 2026 are not published until later in 2026.",
+   "higherIsBetter": false,
+   "series": [
+    {
+     "year": 2017,
+     "value": 21.7
+    },
+    {
+     "year": 2018,
+     "value": 19.9
+    },
+    {
+     "year": 2019,
+     "value": 19.0
+    },
+    {
+     "year": 2020,
+     "value": 27.0
+    },
+    {
+     "year": 2021,
+     "value": 29.8
+    },
+    {
+     "year": 2022,
+     "value": 35.9
+    },
+    {
+     "year": 2023,
+     "value": 39.3
+    },
+    {
+     "year": 2024,
+     "value": 42.5
+    },
+    {
+     "year": 2025,
+     "value": 41.8
+    }
+   ]
+  },
+  {
+   "key": "median-house-price",
+   "label": "National median house price",
+   "unit": "NZD",
+   "format": "currency",
+   "source": "REINZ",
+   "sourceUrl": "https://www.reinz.co.nz/Web/Web/News/News-Articles/Market-updates/REINZ_December_2025_Data.aspx",
+   "note": "REINZ national median residential sale price for the month of December each year, from the REINZ monthly property report. The series starts in 2022 and NOT 2017 because REINZ's monthly reports and market-update articles for December 2017 to December 2021 are no longer on a publicly readable REINZ page (the earlier releases sit on a blog subdomain that could not be fetched, and the property report PDFs are members-only), so those values could not be read on an official page. This means the series does NOT show the 2021 peak. The 2026 value is the July 2026 national median of $760,000, the latest REINZ monthly report available at August 2026, NOT a December figure. December 2022 is as restated in the December 2023 report.",
+   "higherIsBetter": null,
+   "series": [
+    {
+     "year": 2022,
+     "value": 785300
+    },
+    {
+     "year": 2023,
+     "value": 779830
+    },
+    {
+     "year": 2024,
+     "value": 775000
+    },
+    {
+     "year": 2025,
+     "value": 786977
+    },
+    {
+     "year": 2026,
+     "value": 760000
+    }
+   ]
+  },
+  {
+   "key": "net-migration",
+   "label": "Annual net migration",
+   "unit": "persons",
+   "format": "number",
+   "source": "Stats NZ",
+   "sourceUrl": "https://www.stats.govt.nz/information-releases/international-migration-december-2025/",
+   "note": "Annual net migration (migrant arrivals minus migrant departures) for the December year, on the outcomes-based 12/16-month rule, as FIRST PUBLISHED in the provisional estimate for that December year. Read this series with caution. First, revisions are large: the December 2024 year was first published as a gain of 27,100 and had been revised to 23,800 by the December 2025 release, so the shape of the line is more reliable than any single point. Second, there are gaps: no value for 2017 to 2020 or 2022, because the relevant Stats NZ release pages either did not state a net figure or could not be fetched, and the pre-November 2018 'permanent and long-term' measure based on departure-card intentions is a different definition that has deliberately not been spliced in. The 2026 value is a gain of 17,600 for the June 2026 YEAR, the latest available at August 2026, NOT a December year. Higher is not automatically better or worse, so no direction is set.",
+   "higherIsBetter": null,
+   "series": [
+    {
+     "year": 2021,
+     "value": -3900
+    },
+    {
+     "year": 2023,
+     "value": 126000
+    },
+    {
+     "year": 2024,
+     "value": 27100
+    },
+    {
+     "year": 2025,
+     "value": 14200
+    },
+    {
+     "year": 2026,
+     "value": 17600
+    }
+   ]
+  }
+ ]
+}

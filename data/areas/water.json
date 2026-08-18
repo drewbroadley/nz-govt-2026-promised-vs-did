@@ -1,0 +1,273 @@
+{
+ "areaKey": "water",
+ "areaLabel": "Water & Local Government",
+ "areaBlurb": "After the 2016 Havelock North campylobacter outbreak both governments accepted that New Zealand's council-owned water networks needed tens of billions of dollars of investment, but they disagreed fundamentally on who should own and run them. Labour legislating large centralised entities, the 2023 coalition repealing that model and replacing it with council-controlled organisations, rates restraint and city and regional deals.",
+ "promises": [
+  {
+   "id": "water-labour-drinking-water-regulator",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour commitment to a dedicated drinking water regulator following the 2017 Havelock North Inquiry",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Taumata_Arowai",
+   "promise": "Establish an independent national drinking water regulator with oversight of drinking water, wastewater and stormwater networks.",
+   "whatHappened": "The Taumata Arowai, the Water Services Regulator Bill was introduced in December 2019 and enacted in 2020. Taumata Arowai was established as a Crown entity on 1 March 2021 and became fully operational in November 2021. Its regulatory powers are set out in the Water Services Act 2021. It regulates drinking water safety and has an oversight role for wastewater and stormwater networks, supported by a Māori Advisory Group. The regulator survived the change of government and was renamed the Water Services Authority (Taumata Arowai) in August 2025.",
+   "status": "delivered",
+   "statusReason": "The regulator was legislated, established and operational within the term, and has been retained by the successor government.",
+   "keyNumber": "New water regulator promised -> Taumata Arowai established 1 March 2021",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Taumata_Arowai",
+    "https://en.wikipedia.org/wiki/Three_Waters_reform_programme"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "water-labour-three-waters-entities",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2020 term commitment to the Three Waters reform programme (Cabinet decisions announced October 2021)",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Three_Waters_reform_programme",
+   "promise": "Move drinking water, wastewater and stormwater services from 67 councils into four large publicly owned water services entities, operating from 1 July 2024.",
+   "whatHappened": "The mandatory four-entity model was announced in October 2021. It had council and mana whenua co-governance at the regional representative group level, and a 75 per cent parliamentary supermajority safeguard against privatisation. The Water Services Entities Act passed in December 2022 with only Labour's votes. In April 2023 the programme was rebranded the Water Services Reform Programme, expanded from four entities to ten on regional boundaries, and pushed back to 1 July 2026. That change became law on 16 August 2023. No entity ever took over water services. The legislation was repealed on 14 February 2024, before the new bodies began operating.",
+   "status": "partly",
+   "statusReason": "The legislation was passed, but the promised structural change was rescoped and delayed during the term, and no entity was operating at the October 2023 handover.",
+   "keyNumber": "4 entities operating by 1 July 2024 -> rescoped to 10 entities from 1 July 2026, none ever operational",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Three_Waters_reform_programme",
+    "https://www.beehive.govt.nz/release/labour%E2%80%99s-three-waters-legislation-repealed"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "water-labour-water-royalty",
+   "era": "labour",
+   "party": "Labour",
+   "sourceType": "manifesto",
+   "sourceDoc": "Labour 2017 campaign policy, royalty on commercial water use",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+   "promise": "Introduce a royalty on commercial users of water, including irrigators and water bottlers.",
+   "whatHappened": "Labour dropped its proposed water tax on farmers as part of the coalition arrangement with NZ First after the 2017 election. The only surviving element in the coalition agreement was a narrower tax on exports of bottled water, and that was never introduced either. No royalty or charge on commercial water take was legislated in the 2017-2023 term.",
+   "status": "superseded",
+   "statusReason": "The policy was dropped in the 2017 coalition negotiation with NZ First, before the government took office.",
+   "keyNumber": "Royalty on commercial water use -> dropped in coalition negotiation; no charge legislated by Oct 2023",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand",
+    "https://www.nzherald.co.nz/nz/labour-nz-first-coalition-at-a-glance/OGW5YCYCI4D4AHS6YIS64UKZNA/"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "water-nzfirst-bottled-water-tax",
+   "era": "labour",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Labour-NZ First Coalition Agreement, 24 October 2017 (tax section)",
+   "sourceUrl": "https://www.nzherald.co.nz/nz/labour-nz-first-coalition-at-a-glance/OGW5YCYCI4D4AHS6YIS64UKZNA/",
+   "promise": "Introduce a tax on exports of bottled water.",
+   "whatHappened": "The bottled water export tax was the narrowed remnant of Labour's broader water royalty policy, after NZ First refused to accept a charge on farm irrigation. Neither the wider royalty nor the bottled water export tax was introduced during the 2017-2023 term. No bottled water export tax was in force at the October 2023 handover.",
+   "status": "not-delivered",
+   "statusReason": "This was an explicit coalition agreement commitment with a specific tax base, and it was never legislated over two full terms.",
+   "keyNumber": "Bottled water export tax -> never introduced",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Sixth_Labour_Government_of_New_Zealand"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "water-national-repeal-three-waters",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Coalition Government 100-day plan / 2023 coalition agreements, repeal Three Waters",
+   "sourceUrl": "https://www.beehive.govt.nz/release/government-repeal-three-waters-legislation",
+   "promise": "Repeal Labour's Three Waters legislation in the Government's first 100 days and restore council ownership and control of water assets.",
+   "whatHappened": "Cabinet agreed on 14 December 2023 to introduce and pass repeal legislation early in 2024. The Water Services Acts Repeal Act passed under urgency and became law on 14 February 2024, within the 100-day window. It disestablished the entity model before any entity began operating. Local Government Minister Simeon Brown said two further bills would follow. The first was to be enacted by mid-2024, and the second introduced in December 2024 and enacted by mid-2025.",
+   "status": "delivered",
+   "statusReason": "The repeal was passed inside the promised 100-day window, exactly as committed.",
+   "keyNumber": "Repeal within 100 days -> Water Services Acts Repeal Act passed 14 February 2024",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/labour%E2%80%99s-three-waters-legislation-repealed",
+    "https://en.wikipedia.org/wiki/Local_Water_Done_Well"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "water-nzfirst-council-ownership",
+   "era": "national",
+   "party": "NZ First",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-NZ First coalition agreement 2023 (water commitments, also in the National-ACT agreement)",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Sixth_National_Government_of_New_Zealand",
+   "promise": "Replace the centralised Three Waters entity model with locally owned and controlled water services, allowing councils to voluntarily form water services groupings.",
+   "whatHappened": "Local Water Done Well kept water assets in council ownership and made grouping voluntary. Of 67 mainland councils, 44 chose to transfer services to a council-controlled organisation (CCO) and 23 kept them in-house. In all, 19 water CCOs were established, seven standalone and 12 multi-council. Five were operating by 1 July 2026, including IAWAI, Waikato Waters, Tiaki Wai in Wellington, a Kaikoura-Hurunui joint organisation and Selwyn Water. Another 13 were due within a year. The CCO model will serve about 76 per cent of New Zealanders.",
+   "status": "delivered",
+   "statusReason": "Council ownership was retained, and the voluntary grouping model was legislated and is operating.",
+   "keyNumber": "Voluntary council-owned model -> 44 councils chose CCOs, 23 in-house; 19 water CCOs established",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/local-water-done-well-victory-ratepayers",
+    "https://www.beehive.govt.nz/release/major-milestone-reached-local-water-done-well"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "water-national-local-water-done-well",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Local Water Done Well implementation plan, announced 5 April 2024",
+   "sourceUrl": "https://www.beehive.govt.nz/release/delivering-local-water-done-well",
+   "promise": "Pass transitional legislation by mid-2024 and a second, substantive Local Water Done Well Act by mid-2025. Require every council to produce a Water Services Delivery Plan showing financially sustainable, ring-fenced water services.",
+   "whatHappened": "The Local Government (Water Services Preliminary Arrangements) Act was passed on 28 August 2024, slightly after the mid-2024 target. The substantive Local Government (Water Services) Act 2025 and its companion Repeals and Amendments Act were passed on 19 August 2025, about two months after the mid-2025 target. Councils submitted Water Services Delivery Plans in September 2025. All had been assessed by 11 December 2025, and every mainland council had an approved plan by 1 July 2026, covering 46 councils forming new water organisations. The plans set out $47.9 billion of water investment over ten years, nearly $9 billion more than councils' previous long-term plan estimates. They imply around 9,000 additional water industry jobs.",
+   "status": "largely",
+   "statusReason": "The framework, plans and approvals were all delivered, but both bills passed later than the dates the Government set itself.",
+   "keyNumber": "Second Act by mid-2025 -> passed 19 August 2025; all mainland councils had approved plans by 1 July 2026",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Local_Water_Done_Well",
+    "https://www.beehive.govt.nz/release/local-water-done-well-victory-ratepayers",
+    "https://www.beehive.govt.nz/release/major-milestone-reached-local-water-done-well"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "water-national-watercare-auckland",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Local Water Done Well. Auckland financial arrangement",
+   "sourceUrl": "https://www.beehive.govt.nz/release/agreement-delivers-local-water-done-well-auckland",
+   "promise": "Reach an agreement with Auckland Council that keeps Watercare in local ownership while separating its balance sheet, so Auckland can fund water infrastructure without steep water price rises.",
+   "whatHappened": "On 5 May 2024 the Government and Auckland Council agreed a financial arrangement, which the council's governing body endorsed unanimously. It allows Watercare to borrow more and spread repayment over a longer period. S&P Global Ratings confirmed Watercare's borrowing would be assessed separately from Auckland Council for credit rating purposes. The Government said Aucklanders would avoid the 25.8 per cent water price increases Watercare had previously proposed. The arrangement was legislated through the transitional water services bill. The Government later reported a $899 million saving for Aucklanders over four years from the Watercare financial solution.",
+   "status": "delivered",
+   "statusReason": "The agreement was reached, endorsed by the council, confirmed by the ratings agency and legislated within the first year of the term.",
+   "keyNumber": "Avoid Watercare's proposed price path -> 25.8% increases avoided; approx $899m saving over four years",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/major-milestone-reached-local-water-done-well",
+    "https://www.beehive.govt.nz/release/unlocking-local-water-done-well-new-water-service-delivery-models"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "water-national-economic-regulation",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Local Water Done Well, new water service delivery models, announced 8 August 2024",
+   "sourceUrl": "https://www.beehive.govt.nz/release/unlocking-local-water-done-well-new-water-service-delivery-models",
+   "promise": "Establish economic regulation of water services by the Commerce Commission by late 2025 and ring-fence water revenue. Let the Local Government Funding Agency lend to water CCOs at up to 500 per cent of operating revenue.",
+   "whatHappened": "The LGFA moved immediately to lend to council-supported water CCOs at up to 500 per cent of operating revenues, roughly double normal council limits. Work continued on lending to standalone CCOs and on a 350 per cent limit for high-growth councils. Water revenues must be ring-fenced for water services. The Local Government (Water Services) Act 2025, passed on 19 August 2025, put Commerce Commission oversight in place through an information disclosure regime. The fuller regulatory framework is being phased in.",
+   "status": "largely",
+   "statusReason": "Borrowing capacity and ring-fencing were delivered on time and the Commerce Commission regime is legislated. But economic regulation is being introduced in stages rather than fully operating from late 2025.",
+   "keyNumber": "LGFA lending to water CCOs -> up to 500% of operating revenue, approx double council limits",
+   "evidenceUrls": [
+    "https://en.wikipedia.org/wiki/Local_Water_Done_Well",
+    "https://www.beehive.govt.nz/release/local-water-done-well-victory-ratepayers"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "water-national-wastewater-standards",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "Local Water Done Well, national wastewater environmental performance standards",
+   "sourceUrl": "https://www.beehive.govt.nz/release/new-wastewater-standards-win-ratepayers",
+   "promise": "Set national wastewater environmental performance standards to cut the cost and delay of consenting wastewater treatment plants.",
+   "whatHappened": "The standards were announced on 28 November 2025 and took effect in December 2025, after more than 150 submissions from councils, industry, iwi and hapū and the public. They cover more than 330 publicly owned treatment plants. They set rules for discharges to land and water, biosolids reuse, and monitoring of overflows and bypasses on a risk-based approach. The Government estimated savings of up to $830 million over 35 years, cutting per-plant consenting costs by up to 40 per cent (up to 60 per cent for smaller plants). About 60 per cent of plants need new consents within a decade.",
+   "status": "delivered",
+   "statusReason": "The standards were consulted on, finalised and in force within the term.",
+   "keyNumber": "National wastewater standards -> in force Dec 2025, covering 330+ plants, up to $830m savings over 35 years",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/new-wastewater-standards-win-ratepayers",
+    "https://www.beehive.govt.nz/release/major-milestone-reached-local-water-done-well"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "water-national-back-to-basics",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "'Back to basics for local government' reform programme, announced 21 August 2024",
+   "sourceUrl": "https://www.beehive.govt.nz/release/back-basics-local-government",
+   "promise": "Refocus councils on core services by removing the four wellbeings from the purpose provisions of the Local Government Act. Introduce published performance benchmarks for councils.",
+   "whatHappened": "The reform was announced on 21 August 2024, against a backdrop of average rates rises of about 15 per cent, which the Minister described as more than four times inflation. The changes were put into the Local Government (System Improvements) Bill. As at June 2026 that Bill was still before Parliament. Further amendments were being added to it, including restricting voting rights at council committee meetings to elected members, with councils to be given six months after passage to review delegations. Separately, on 25 November 2025 the Government proposed replacing elected regional councillors with Combined Territories Boards, consulting until 20 February 2026. On 5 May 2026 it invited councils to submit local reorganisation proposals within three months, with final decisions expected in 2027, ahead of the 2028 local elections.",
+   "status": "in-progress",
+   "statusReason": "The policy was announced and legislation introduced, but the Local Government (System Improvements) Bill had not passed as at August 2026 and the term is unfinished.",
+   "keyNumber": "Four wellbeings removed from the Local Government Act -> Bill still before Parliament at Aug 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/council-voting-be-restricted-elected-members",
+    "https://www.beehive.govt.nz/release/simpler-more-cost-effective-local-government",
+    "https://www.beehive.govt.nz/release/councils-invited-fast-track-local-reform"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "water-national-rates-cap",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "'Back to basics for local government', exploring council revenue capping, announced 21 August 2024",
+   "sourceUrl": "https://www.beehive.govt.nz/release/back-basics-local-government",
+   "promise": "Investigate and introduce a cap on council rates increases to stop spending on non-core projects.",
+   "whatHappened": "On 1 December 2025 Local Government Minister Simon Watts announced that the Government had agreed to progress a rates cap. It would limit annual increases to a target range of 2 to 4 per cent per capita, with a maximum of 4 per cent. It would apply to general rates, targeted rates and uniform annual charges, but exclude water charges and non-rates fees. Councils exceeding the upper limit would need regulator approval, granted only in extreme circumstances such as natural disasters. Stakeholder consultation ran to February 2026 and legislation was planned for enactment during 2026. A transition period with financial reporting starts on 1 January 2027, and the full regulatory model is not due to be operating until 1 July 2029.",
+   "status": "in-progress",
+   "statusReason": "Policy settings were announced and consulted on, but no cap was in force as at August 2026, with full operation scheduled for 2029.",
+   "keyNumber": "Rates cap -> proposed 2-4% per capita a year, transition from 1 Jan 2027, full model 1 July 2029",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/getting-rates-under-control-ratepayers"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "water-national-regional-deals",
+   "era": "national",
+   "party": "National",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT coalition agreement 2023. City and Regional Deals; framework announced 22 August 2024",
+   "sourceUrl": "https://www.beehive.govt.nz/release/regional-deals-framework-announced",
+   "promise": "Establish a City and Regional Deals framework, invite up to five regions to submit proposals, and finalise New Zealand's first Regional Deal in 2025.",
+   "whatHappened": "The Regional Deals Strategic Framework was published on 22 August 2024, and up to five regions were invited to propose deals. The deals focused on economic growth, resilient infrastructure and housing supply. No deal was signed in 2025. The first, the Auckland City Deal, was signed on 10 April 2026. It covers a 30-year transport plan, Crown uplift funding and asset recycling, and growth areas at Drury, Maungawhau-Kingsland-Morningside and the city centre. A Western Bay of Plenty deal followed on 14 May 2026, targeting about 12,000 greenfield and 3,000 infill homes over a decade. A third deal was signalled for later in 2026.",
+   "status": "partly",
+   "statusReason": "The framework was delivered on time and two deals were signed. But the first deal came roughly a year after the promised 2025 date, and fewer than five regions had deals by August 2026.",
+   "keyNumber": "First deal in 2025 and up to 5 regions -> first deal signed 10 April 2026; 2 deals signed by Aug 2026",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/landmark-auckland-deal-unlock-city%E2%80%99s-potential",
+    "https://www.beehive.govt.nz/release/western-bay-plenty-deal-signed-unlock-long-term-growth"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  },
+  {
+   "id": "water-act-gst-sharing",
+   "era": "national",
+   "party": "ACT",
+   "sourceType": "coalition-agreement",
+   "sourceDoc": "National-ACT coalition agreement 2023, share a portion of GST on new residential construction with councils",
+   "sourceUrl": "https://www.nzherald.co.nz/nz/new-government-coalition-details-at-a-glance-what-you-need-to-know/FBTX3E6HXREFXDTOA6AA5K7IUQ/",
+   "promise": "Share a portion of the GST collected on new residential construction with local councils, so councils benefit financially from consenting new housing.",
+   "whatHappened": "GST sharing itself was not adopted. Instead, Budget 2026 created an Incentives for Growth Fund of up to $400 million over four years from 2026/27, announced on 28 May 2026 by Deputy Prime Minister David Seymour. Payments to councils begin on 1 April 2027, based on residential building consents issued in the year to 31 January 2027. The scale is tiered: 0.25 per cent of the national average consent value per home for growth up to 1 per cent, 0.5 per cent for 1-2 per cent growth, and 1.25 per cent beyond 2 per cent. Funding can be used for infrastructure capital and operating costs, but not for water infrastructure or developer-chargeable costs.",
+   "status": "partly",
+   "statusReason": "The underlying objective, paying councils for enabling housing growth, was delivered. But it came through a capped appropriation rather than the promised share of GST revenue, and payments start after the term ends.",
+   "keyNumber": "Share of GST on new builds -> $400m Incentives for Growth Fund over 4 years, first payments 1 April 2027",
+   "evidenceUrls": [
+    "https://www.beehive.govt.nz/release/incentivising-councils-go-housing-growth",
+    "https://www.hud.govt.nz/our-work/going-for-housing-growth-programme"
+   ],
+   "contested": false,
+   "contestedNote": ""
+  }
+ ]
+}

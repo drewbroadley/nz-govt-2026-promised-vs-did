@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.bak
+work/
+node_modules/
+
+# scratch: files staged for manual deletion
+_to_delete/
