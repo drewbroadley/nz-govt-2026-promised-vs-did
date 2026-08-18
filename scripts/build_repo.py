@@ -2,7 +2,7 @@
 """Assemble the publishable repository.
 
 Layout:
-  README.md  METHODOLOGY.md  CONTRIBUTING.md  CHANGELOG.md  LICENSE
+  README.md  METHODOLOGY.md  CONTRIBUTING.md  CHANGELOG.md
   data/      canonical dataset (JSON + CSV) and the per-area source files
   sources/   every citation as browsable markdown
   scripts/   the build pipeline
@@ -168,6 +168,9 @@ shutil.copy(f"{ROOT}/template.html", f"{OUT}/scripts/template.html")
 
 # ---------------------------------------------------------------- docs
 shutil.copy(f"{ROOT}/index.html", f"{OUT}/docs/index.html")
+os.makedirs(f"{OUT}/docs/img", exist_ok=True)
+for im in ("og-image.png", "og-square.png"):
+    if os.path.exists(f"{ROOT}/{im}"): shutil.copy(f"{ROOT}/{im}", f"{OUT}/docs/img/{im}")
 open(f"{OUT}/docs/.nojekyll","w").close()      # stop Pages running Jekyll over it
 for sub in ("data","sources"):
     dst = f"{OUT}/docs/{sub}"

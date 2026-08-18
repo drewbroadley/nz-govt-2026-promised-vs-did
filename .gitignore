@@ -4,6 +4,3 @@ __pycache__/
 *.bak
 work/
 node_modules/
-
-# scratch: files staged for manual deletion
-_to_delete/
